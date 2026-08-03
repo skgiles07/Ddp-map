@@ -2,14 +2,15 @@
 // Pure functions exported for the shared test suite; DOM wiring only runs in a browser.
 
 import { pinHtml, tileConfig } from './map-style.mjs';
+import { applySeedEvents, buildBreakEvenSummary, levelFor, migrateLedger } from './ledger-math.mjs';
 
 export const QS_BENCH = 24;
 export const SNACK_BENCH = 7;
 export const CREDIT_CLASS = { combo: 'qs', entree: 'qs', side: 'snack', dessert: 'snack', drink: 'snack', snack: 'snack', kids: 'kids' };
 const GUESTS = ['S', 'M', 'L'];
 const CREDIT_TYPES = ['quick', 'snack'];
-const LEDGER_KEY = 'ddp-ledger-v2';
-const LEGACY_LEDGER_KEY = 'ddp-ledger-v1';
+const LEDGER_KEY = 'ddp-ledger-v3';
+const LEGACY_LEDGER_KEYS = ['ddp-ledger-v2', 'ddp-ledger-v1'];
 
 // ---- tiers / ranking / filters ------------------------------------------------
 export function tierFor(rv) {
@@ -147,7 +148,22 @@ export function ledgerReduce(state, events, ds) {
       const t = st.totals[ev.credit];
       t.count += 1;
       if (value !== null) { t.value += value; t.knownCount += 1; }
-      st.entries[id] = { type: 'redeem', guest: ev.guest, credit: ev.credit, value, undone: false };
+      st.entries[id] = { type: 'redeem', guest: ev.guest, credit: ev.credit, level: levelFor(ev.credit, ev.guest), value, undone: false };
+
+    } else if (ev.type === 'seed') {
+      const credit = ev.level === 'snack' ? 'snack' : ev.level?.startsWith('quick_') ? 'quick' : null;
+      if (!credit) continue;
+      if (ev.guest !== null && ev.guest !== undefined) {
+        const bal = st.balances[ev.guest];
+        if (!bal) continue;
+        bal[credit] = Math.max(0, bal[credit] - 1);
+      }
+      const value = Number.isFinite(ev.value) ? ev.value : 0;
+      const t = st.totals[credit];
+      t.count += 1;
+      t.value += value;
+      if (value > 0) t.knownCount += 1;
+      st.entries[id] = { type: 'seed', guest: ev.guest, credit, level: ev.level, value, undone: false };
 
     } else if (ev.type === 'adjust') {
       const bal = st.balances[ev.guest];
@@ -174,25 +190,8 @@ export function ledgerReduce(state, events, ds) {
   return st;
 }
 
-function parseLedger(raw) {
-  try {
-    const o = JSON.parse(raw);
-    if (o && [1, 2].includes(o.schema) && Array.isArray(o.events)) return o;
-  } catch { /* corrupt */ }
-  return null;
-}
-
-function withoutRemovedTsEvents(events) {
-  const removed = events.filter(e => e && (['ts_used', 'booked_ts_used'].includes(e.type) ||
-    (e.credit && !CREDIT_TYPES.includes(e.credit))));
-  const removedIds = new Set(removed.map(e => e.id).filter(Boolean));
-  return events.filter(e => !removed.includes(e) && !(e.type === 'undo' && removedIds.has(e.target)));
-}
-
 export function loadLedger(raw) {
-  const stored = parseLedger(raw);
-  if (stored) return { events: withoutRemovedTsEvents(stored.events) };
-  return { events: [] };
+  return { events: migrateLedger(raw).events };
 }
 
 // =================================================================================
@@ -215,11 +214,14 @@ function showError(msg) {
 }
 
 async function initApp() {
-  let data;
+  let data, seedData;
   try {
-    const res = await fetch('./data/locations.json');
-    if (!res.ok) throw new Error('HTTP ' + res.status);
-    data = await res.json();
+    const [dataRes, seedRes] = await Promise.all([
+      fetch('./data/locations.json'),
+      fetch('./data/ledger_seed.json'),
+    ]);
+    if (!dataRes.ok || !seedRes.ok) throw new Error('HTTP ' + (!dataRes.ok ? dataRes.status : seedRes.status));
+    [data, seedData] = await Promise.all([dataRes.json(), seedRes.json()]);
     data.locations = data.locations.filter(l => !l.closed);
   } catch (e) {
     showError('Could not load venue data (' + e.message + '). Ledger still works from your last session; reload when you have signal.');
@@ -227,25 +229,26 @@ async function initApp() {
   }
 
   const currentLedgerRaw = localStorage.getItem(LEDGER_KEY);
-  const legacyLedgerRaw = currentLedgerRaw === null ? localStorage.getItem(LEGACY_LEDGER_KEY) : null;
-  const storedLedgerRaw = currentLedgerRaw ?? legacyLedgerRaw;
-  const storedLedger = parseLedger(storedLedgerRaw);
+  const storedLedgerRaw = currentLedgerRaw ?? LEGACY_LEDGER_KEYS.map(k => localStorage.getItem(k)).find(v => v !== null);
+  const migratedLedger = migrateLedger(storedLedgerRaw);
+  const seededLedger = applySeedEvents(migratedLedger, seedData);
   const state = {
     data,
     area: localStorage.getItem('ddp-tab') || 'mk',
     filters: { quick: true, snack: true, bestOnly: false },
     view: 'map',
-    events: loadLedger(storedLedgerRaw).events,
+    events: seededLedger.events,
+    seedIds: seededLedger.seed_ids,
     here: null,
     map: null,
     markers: [],
     seq: Date.now(),
   };
   const ledger = () => ledgerReduce(initialLedger(), state.events, state.data);
-  const persist = () => localStorage.setItem(LEDGER_KEY, JSON.stringify({ schema: 2, events: state.events }));
+  const persist = () => localStorage.setItem(LEDGER_KEY, JSON.stringify({ schema: 3, events: state.events, seed_ids: state.seedIds }));
   const pushEvent = ev => { ev.id = 'e' + (++state.seq); ev.ts = Date.now(); state.events.push(ev); persist(); renderLedger(); return ev.id; };
   persist();
-  if (!storedLedger) showError('Ledger storage was missing or corrupt. Started with fresh balances.');
+  if (storedLedgerRaw != null && !migratedLedger.valid) showError('Ledger storage was corrupt. Started with seeded balances.');
 
   let toastTimer = null;
   function toast(msg, undoId) {
@@ -574,6 +577,36 @@ async function initApp() {
     const drawer = document.getElementById('ledger-body');
     drawer.replaceChildren();
 
+    const tracker = el('section', 'break-even');
+    tracker.appendChild(el('h3', null, 'Break-even tracker'));
+    const labels = {
+      quick_adult: 'Quick service · Scott + Melanie',
+      quick_child: 'Quick service · Liza',
+      snack: 'Snacks · family',
+      ts_adult: 'Table service · adults',
+      ts_child: 'Table service · Liza',
+    };
+    for (const row of buildBreakEvenSummary(st, seedData.targets)) {
+      const item = el('div', `break-even-row level-${row.level.startsWith('ts_') ? 'ts' : row.level.startsWith('quick_') ? 'quick' : 'snack'}${row.level.endsWith('_child') ? ' child' : ''}${row.static ? ' static' : ''}`);
+      const heading = el('div', 'break-even-heading');
+      heading.append(el('strong', null, labels[row.level]), el('span', null, `${row.credits_used}/${row.credits_total}`));
+      item.appendChild(heading);
+      item.appendChild(el('div', 'break-even-value', `$${row.spent.toFixed(2)} of $${row.goal.toFixed(2)} · ${row.percent.toFixed(1)}%`));
+      const bar = el('div', 'break-even-bar');
+      bar.setAttribute('role', 'progressbar');
+      bar.setAttribute('aria-label', labels[row.level]);
+      bar.setAttribute('aria-valuenow', row.bar_percent.toFixed(1));
+      bar.setAttribute('aria-valuemin', '0');
+      bar.setAttribute('aria-valuemax', '100');
+      const fill = el('i');
+      fill.style.width = `${row.bar_percent}%`;
+      bar.appendChild(fill);
+      item.appendChild(bar);
+      if (row.static) item.appendChild(el('div', 'break-even-hint', 'tracked in Airtable'));
+      tracker.appendChild(item);
+    }
+    drawer.appendChild(tracker);
+
     const totals = el('div', 'totals');
     for (const [k, bench, label] of [['quick', QS_BENCH, 'QS'], ['snack', SNACK_BENCH, 'Snack']]) {
       const t = st.totals[k];
@@ -601,13 +634,13 @@ async function initApp() {
     const actions = el('div', 'btn-row');
     const undo = el('button', 'btn', 'Undo last');
     undo.addEventListener('click', () => {
-      const last = [...state.events].reverse().find(e => e.type !== 'undo' && !state.events.some(u => u.type === 'undo' && u.target === e.id));
+      const last = [...state.events].reverse().find(e => ['redeem', 'adjust'].includes(e.type) && !state.events.some(u => u.type === 'undo' && u.target === e.id));
       if (last) pushEvent({ type: 'undo', target: last.id });
     });
     const reset = el('button', 'btn danger', 'Reset');
     reset.addEventListener('click', () => {
-      if (confirm('Reset the whole ledger? This clears all redemptions.')) {
-        state.events = []; persist(); renderLedger();
+      if (confirm('Reset entries added in this app? Seeded trip history stays.')) {
+        state.events = state.events.filter(e => e.type === 'seed'); persist(); renderLedger();
       }
     });
     actions.append(undo, reset);

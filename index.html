@@ -56,6 +56,17 @@
   #ledger.open { transform: none; }
   #ledger-toggle { width: 100%; border: 0; background: var(--ink); color: #fff; padding: 11px; font-size: 15px; }
   #ledger-body { overflow-y: auto; padding: 10px; }
+  .break-even { margin-bottom: 12px; }
+  .break-even h3 { font-size: 15px; margin-bottom: 6px; }
+  .break-even-row { --track-color:var(--blue); padding: 6px 0; }
+  .break-even-row.level-snack { --track-color:var(--green); }
+  .break-even-row.level-ts { --track-color:var(--amber); }
+  .break-even-row.child { margin-left: 12px; }
+  .break-even-row.static { opacity: .82; }
+  .break-even-heading { display: flex; justify-content: space-between; gap: 8px; font-size: 13px; }
+  .break-even-value, .break-even-hint { color: var(--muted); font-size: 11px; }
+  .break-even-bar { height: 5px; margin-top: 4px; overflow: hidden; border-radius: 3px; background: #e7e7e7; }
+  .break-even-bar i { display: block; height: 100%; border-radius: inherit; background: var(--track-color); }
   .totals div { font-size: 13px; margin-bottom: 3px; }
   .guest-row { display: flex; align-items: center; gap: 7px; padding: 7px 0; border-top: 1px solid #eee; font-size: 14px; }
   .bal { min-width: 46px; }
@@ -104,7 +115,7 @@
     <div id="list" style="display:none"></div>
     <div id="nearby" hidden><div id="nearby-cards" style="display:flex;gap:6px;overflow-x:auto;"></div></div>
   </main>
-  <footer id="captured">Data loading… · Map © Disney · fallback © OpenStreetMap contributors · ledger key ddp-ledger-v2 · migrates ddp-ledger-v1</footer>
+  <footer id="captured">Data loading… · Map © Disney · fallback © OpenStreetMap contributors · ledger key ddp-ledger-v3 · migrates ddp-ledger-v2 and ddp-ledger-v1</footer>
   <div id="ledger">
     <button id="ledger-toggle">Credits ledger</button>
     <div id="ledger-body"></div>

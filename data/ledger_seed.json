@@ -1,0 +1,23 @@
+{
+  "as_of": "2026-08-03",
+  "targets": {
+    "quick_adult": { "credits_total": 12, "bench": 24, "goal": 288 },
+    "quick_child": { "credits_total": 6, "bench": 8.89, "goal": 53.34 },
+    "snack": { "credits_total": 18, "bench": 7, "goal": 126 },
+    "ts_adult": { "credits_total": 12, "goal": 720, "credits_used": 8, "spent": 580.50 },
+    "ts_child": { "credits_total": 6, "goal": 219, "credits_used": 4, "spent": 158 }
+  },
+  "seed_events": [
+    { "seed_id": "seed-qa-1", "level": "quick_adult", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
+    { "seed_id": "seed-qa-2", "level": "quick_adult", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
+    { "seed_id": "seed-qa-3", "level": "quick_adult", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
+    { "seed_id": "seed-qc-1", "level": "quick_child", "guest": "L", "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
+    { "seed_id": "seed-qc-2", "level": "quick_child", "guest": "L", "date": "2026-08-02", "value": 20.98, "venue": "ronto-roasters", "note": "Ronto Wrap + Tatooine Sunset" },
+    { "seed_id": "seed-qc-3", "level": "quick_child", "guest": "L", "date": "2026-08-02", "value": 23.78, "venue": "dockside-diner", "note": "Pretzel Hot Dog + Dirt Cup Shake" },
+    { "seed_id": "seed-sn-1", "level": "snack", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
+    { "seed_id": "seed-sn-2", "level": "snack", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
+    { "seed_id": "seed-sn-3", "level": "snack", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
+    { "seed_id": "seed-sn-4", "level": "snack", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
+    { "seed_id": "seed-sn-5", "level": "snack", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" }
+  ]
+}
