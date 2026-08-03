@@ -1,6 +1,13 @@
 {
  "captured": "2026-08-01",
  "schema_version": 2,
+ "coord_capture": {
+  "date": "2026-08-02",
+  "source": "disneyworld.disney.go.com finder api",
+  "parks_applied": [
+   "hs"
+  ]
+ },
  "areas": [
   {
    "id": "mk",
@@ -141,7 +148,8 @@
    ],
    "mobile_order": false,
    "notes": "Asia soft-serve",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "creature-comforts",
@@ -400,7 +408,8 @@
    ],
    "mobile_order": false,
    "notes": "Starbucks location; pastries = snack credits",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "eight-spoon-cafe",
@@ -496,7 +505,8 @@
    ],
    "mobile_order": false,
    "notes": "Baked mac & cheese \u2014 meal-sized snack credit",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "flame-tree-barbecue",
@@ -743,7 +753,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "harambe-fruit-market",
@@ -920,7 +931,8 @@
    ],
    "mobile_order": false,
    "notes": "Fruit + pretzel stand near Safaris (WDW Prep pick)",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "harambe-market",
@@ -1176,7 +1188,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "kusafiri-coffee-shop-and-bakery",
@@ -1363,7 +1376,8 @@
    ],
    "mobile_order": false,
    "notes": "Harambe bakery",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "pizzafari",
@@ -1682,7 +1696,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "pongu-pongu",
@@ -1761,7 +1776,8 @@
    ],
    "mobile_order": false,
    "notes": "Night Blossom; Pandora staple",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "satuli-canteen",
@@ -2044,7 +2060,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "tamu-tamu-refreshments",
@@ -2140,7 +2157,8 @@
    ],
    "mobile_order": false,
    "notes": "Dole Whip (AK)",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "yak-and-yeti-local-foods-cafe",
@@ -2365,7 +2383,8 @@
    ],
    "mobile_order": false,
    "notes": "Mini mango pie snack pick (WDW Prep)",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "avalunch",
@@ -2495,7 +2514,8 @@
    ],
    "mobile_order": false,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "blizzard-beach-mini-donuts",
@@ -2565,7 +2585,8 @@
    ],
    "mobile_order": false,
    "notes": "Joffrey's mini donuts",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "cooling-hut",
@@ -2698,7 +2719,8 @@
    ],
    "mobile_order": false,
    "notes": "Badged DDP; snack facet",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "i-c-expeditions",
@@ -2795,7 +2817,8 @@
    ],
    "mobile_order": false,
    "notes": "Sand Pail sundae; ice cream",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "lottawatta-lodge",
@@ -3141,7 +3164,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "warming-hut",
@@ -3298,7 +3322,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "cantina-de-san-angel",
@@ -3563,7 +3588,8 @@
    ],
    "mobile_order": false,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "connections-eatery",
@@ -3819,7 +3845,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "fife-and-drum-tavern",
@@ -3935,7 +3962,8 @@
    ],
    "mobile_order": false,
    "notes": "QS-badged kiosk; turkey legs/soft-serve snack picks",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "funnel-cake",
@@ -4023,7 +4051,8 @@
    ],
    "mobile_order": false,
    "notes": "American Adventure funnel cake",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "joy-of-tea",
@@ -4111,7 +4140,8 @@
    ],
    "mobile_order": false,
    "notes": "China stand; teas/snacks",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "kabuki-cafe",
@@ -4280,7 +4310,8 @@
    ],
    "mobile_order": false,
    "notes": "Japan kakigori stand",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "katsura-grill",
@@ -4347,7 +4378,8 @@
    ],
    "mobile_order": false,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "kringla-bakeri-og-kafe",
@@ -4489,7 +4521,8 @@
    ],
    "mobile_order": false,
    "notes": "Badged DDP; Norway bakery, classic snack-credit stop",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "l-artisan-des-glaces",
@@ -4586,7 +4619,8 @@
    ],
    "mobile_order": false,
    "notes": "France ice cream; snack credit staple",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "les-halles-boulangerie-patisserie",
@@ -5071,7 +5105,8 @@
    ],
    "mobile_order": false,
    "notes": "QS + the premier snack-credit bakery in EPCOT",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "lotus-blossom-cafe",
@@ -5246,7 +5281,8 @@
    ],
    "mobile_order": false,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "regal-eagle-smokehouse",
@@ -5574,7 +5610,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "sommerfest",
@@ -5686,7 +5723,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "sunshine-seasons",
@@ -6235,7 +6273,8 @@
    ],
    "mobile_order": false,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "tangierine-cafe",
@@ -6260,7 +6299,8 @@
    "menu_items": [],
    "mobile_order": false,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "the-land-cart",
@@ -6357,7 +6397,8 @@
    ],
    "mobile_order": false,
    "notes": "The Land snacks",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "yorkshire-county-fish-shop",
@@ -6442,7 +6483,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "abc-commissary",
@@ -6451,8 +6493,8 @@
    "accepted_credits": [
     "quick"
    ],
-   "lat": 28.3561366,
-   "lng": -81.5598601,
+   "lat": 28.356062,
+   "lng": -81.559872,
    "land": null,
    "meal_periods": [
     {
@@ -6770,7 +6812,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "anaheim-produce",
@@ -6779,8 +6822,8 @@
    "accepted_credits": [
     "snack"
    ],
-   "lat": 28.35787,
-   "lng": -81.55981,
+   "lat": 28.358448,
+   "lng": -81.560086,
    "land": null,
    "meal_periods": [],
    "ranking_value": null,
@@ -6911,7 +6954,8 @@
    ],
    "mobile_order": false,
    "notes": "Fruit/veg snack stand",
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "backlot-express",
@@ -6920,8 +6964,8 @@
    "accepted_credits": [
     "quick"
    ],
-   "lat": 28.35566,
-   "lng": -81.55969,
+   "lat": 28.35589,
+   "lng": -81.558388,
    "land": null,
    "meal_periods": [
     {
@@ -7248,7 +7292,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "catalina-eddies",
@@ -7257,8 +7302,8 @@
    "accepted_credits": [
     "quick"
    ],
-   "lat": 28.35768,
-   "lng": -81.55966,
+   "lat": 28.358915,
+   "lng": -81.560278,
    "land": null,
    "meal_periods": [
     {
@@ -7540,7 +7585,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "docking-bay-7-food-and-cargo",
@@ -7550,8 +7596,8 @@
     "quick",
     "snack"
    ],
-   "lat": 28.3540894,
-   "lng": -81.5615367,
+   "lat": 28.354088,
+   "lng": -81.561643,
    "land": null,
    "meal_periods": [
     {
@@ -7733,7 +7779,8 @@
    ],
    "mobile_order": true,
    "notes": "Outpost Puff snack pick (WDW Prep)",
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "dockside-diner",
@@ -7742,8 +7789,8 @@
    "accepted_credits": [
     "quick"
    ],
-   "lat": 28.35664,
-   "lng": -81.55856,
+   "lat": 28.3570985,
+   "lng": -81.559552,
    "land": null,
    "meal_periods": [
     {
@@ -7998,7 +8045,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "fairfax-fare",
@@ -8008,8 +8056,8 @@
     "quick",
     "snack"
    ],
-   "lat": 28.3576,
-   "lng": -81.55958,
+   "lat": 28.3590392579,
+   "lng": -81.5600222899,
    "land": null,
    "meal_periods": [
     {
@@ -8245,7 +8293,8 @@
    ],
    "mobile_order": true,
    "notes": "Specialty NA beverage snack pick (WDW Prep)",
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "hollywood-scoops",
@@ -8254,8 +8303,8 @@
    "accepted_credits": [
     "snack"
    ],
-   "lat": 28.35771,
-   "lng": -81.55969,
+   "lat": 28.359139,
+   "lng": -81.560084,
    "land": null,
    "meal_periods": [],
    "ranking_value": null,
@@ -8332,7 +8381,8 @@
    ],
    "mobile_order": false,
    "notes": "Hand-scooped ice cream",
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "kat-sakas-kettle",
@@ -8341,8 +8391,8 @@
    "accepted_credits": [
     "snack"
    ],
-   "lat": 28.35482,
-   "lng": -81.56123,
+   "lat": 28.35432,
+   "lng": -81.561467,
    "land": null,
    "meal_periods": [],
    "ranking_value": null,
@@ -8428,7 +8478,8 @@
    ],
    "mobile_order": true,
    "notes": "Outpost Mix popcorn",
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "milk-stand",
@@ -8437,8 +8488,8 @@
    "accepted_credits": [
     "snack"
    ],
-   "lat": 28.35434,
-   "lng": -81.56104,
+   "lat": 28.354311,
+   "lng": -81.562296,
    "land": null,
    "meal_periods": [],
    "ranking_value": null,
@@ -8497,7 +8548,8 @@
    ],
    "mobile_order": true,
    "notes": "Blue/Green Milk",
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "ronto-roasters",
@@ -8507,8 +8559,8 @@
     "quick",
     "snack"
    ],
-   "lat": 28.3543672,
-   "lng": -81.5615777,
+   "lat": 28.354341,
+   "lng": -81.561652,
    "land": null,
    "meal_periods": [],
    "ranking_value": null,
@@ -8646,7 +8698,8 @@
    ],
    "mobile_order": true,
    "notes": "Ronto wrap QS; snack-credit items on menu",
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "rosies-all-american-cafe",
@@ -8655,8 +8708,8 @@
    "accepted_credits": [
     "quick"
    ],
-   "lat": 28.35779,
-   "lng": -81.55974,
+   "lat": 28.358821,
+   "lng": -81.560268,
    "land": null,
    "meal_periods": [
     {
@@ -8947,7 +9000,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "trolley-car-cafe",
@@ -8957,8 +9011,8 @@
     "quick",
     "snack"
    ],
-   "lat": 28.3581,
-   "lng": -81.55841,
+   "lat": 28.357767,
+   "lng": -81.559604,
    "land": null,
    "meal_periods": [],
    "ranking_value": null,
@@ -9216,7 +9270,8 @@
    ],
    "mobile_order": false,
    "notes": "Starbucks location; pastries = snack credits",
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "woodys-lunchbox",
@@ -9225,8 +9280,8 @@
    "accepted_credits": [
     "quick"
    ],
-   "lat": 28.3557055,
-   "lng": -81.5622064,
+   "lat": 28.355747,
+   "lng": -81.562185,
    "land": null,
    "meal_periods": [
     {
@@ -9495,7 +9550,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "disney-map"
   },
   {
    "id": "aloha-isle",
@@ -9574,7 +9630,8 @@
    ],
    "mobile_order": false,
    "notes": "Dole Whip \u2014 canonical snack credit",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "caseys-corner",
@@ -9812,7 +9869,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "cheshire-cafe",
@@ -9945,7 +10003,8 @@
    ],
    "mobile_order": false,
    "notes": "Cheshire Cat Tail pastry",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "columbia-harbour-house",
@@ -10255,7 +10314,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "cosmic-ray-starlight-cafe",
@@ -10610,7 +10670,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "friars-nook",
@@ -10844,7 +10905,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "gastons-tavern",
@@ -10905,7 +10967,8 @@
    ],
    "mobile_order": false,
    "notes": "Badged DDP; snack facet; cinnamon rolls/LeFou's Brew",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "golden-oak-outpost",
@@ -11035,7 +11098,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "liberty-square-market",
@@ -11204,7 +11268,8 @@
    ],
    "mobile_order": false,
    "notes": "Badged DDP; fruit/snack market",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "lunching-pad",
@@ -11366,7 +11431,8 @@
    ],
    "mobile_order": true,
    "notes": "Pretzels = strong snack-credit picks (WDW Prep)",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "main-street-bakery",
@@ -11635,7 +11701,8 @@
    ],
    "mobile_order": false,
    "notes": "Starbucks location; pastries = snack credits",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "pecos-bill-tall-tale-inn-and-cafe",
@@ -11954,7 +12021,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "pinocchio-village-haus",
@@ -12327,7 +12395,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "plaza-ice-cream-parlor",
@@ -12504,7 +12573,8 @@
    ],
    "mobile_order": false,
    "notes": "Hand-scooped ice cream; snack credit staple",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "sleepy-hollow",
@@ -12755,7 +12825,8 @@
    ],
    "mobile_order": true,
    "notes": "Waffle sandwiches QS; funnel cakes/waffles = snack picks",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "storybook-treats",
@@ -12860,7 +12931,8 @@
    ],
    "mobile_order": false,
    "notes": "Soft-serve; snack credit staple",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "sunshine-tree-terrace",
@@ -13055,7 +13127,8 @@
    ],
    "mobile_order": true,
    "notes": "Citrus Swirl; snack facet on page",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "tortuga-tavern",
@@ -13158,7 +13231,8 @@
    ],
    "mobile_order": false,
    "notes": "Seasonal \u2014 verify open today",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "everything-pop-dining",
@@ -14535,7 +14609,8 @@
    ],
    "mobile_order": true,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "petals-pool-bar",
@@ -14638,7 +14713,8 @@
    ],
    "mobile_order": false,
    "notes": null,
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "restaurantosaurus",
@@ -14669,7 +14745,8 @@
    "menu_items": [],
    "mobile_order": true,
    "notes": " \u00b7 participation provisional \u2014 verify page in Chrome pass",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "pizzerizzo",
@@ -14700,7 +14777,8 @@
    "menu_items": [],
    "mobile_order": true,
    "notes": " \u00b7 participation provisional \u2014 verify page in Chrome pass",
-   "booked": null
+   "booked": null,
+   "coord_source": "legacy"
   },
   {
    "id": "ohana-dinner",
@@ -14731,7 +14809,8 @@
     "party": 3,
     "name": "'Ohana (Polynesian)",
     "modeled_value_per_credit": 59.0
-   }
+   },
+   "coord_source": "legacy"
   },
   {
    "id": "tusker-house-lunch",
@@ -14762,7 +14841,8 @@
     "party": 3,
     "name": "Tusker House",
     "modeled_value_per_credit": 59.0
-   }
+   },
+   "coord_source": "legacy"
   },
   {
    "id": "1900-park-fare-dinner",
@@ -14793,7 +14873,8 @@
     "party": 3,
     "name": "1900 Park Fare (Grand Floridian)",
     "modeled_value_per_credit": null
-   }
+   },
+   "coord_source": "legacy"
   },
   {
    "id": "roundup-rodeo-lunch",
@@ -14802,8 +14883,8 @@
    "accepted_credits": [
     "table"
    ],
-   "lat": 28.3559,
-   "lng": -81.56289,
+   "lat": 28.356832,
+   "lng": -81.56201,
    "land": null,
    "meal_periods": [],
    "ranking_value": null,
@@ -14824,7 +14905,8 @@
     "party": 3,
     "name": "Roundup Rodeo BBQ",
     "modeled_value_per_credit": 45.0
-   }
+   },
+   "coord_source": "disney-map"
   },
   {
    "id": "la-hacienda-dinner",
@@ -14855,7 +14937,8 @@
     "party": 3,
     "name": "La Hacienda de San Angel",
     "modeled_value_per_credit": 46.29
-   }
+   },
+   "coord_source": "legacy"
   },
   {
    "id": "akershus-breakfast",
@@ -14886,7 +14969,8 @@
     "party": 3,
     "name": "Akershus Princess Storybook Breakfast",
     "modeled_value_per_credit": 53.0
-   }
+   },
+   "coord_source": "legacy"
   }
  ]
 }

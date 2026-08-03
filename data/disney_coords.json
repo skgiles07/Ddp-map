@@ -1,0 +1,92 @@
+{
+  "abc-commissary": {
+    "disney_name": "ABC Commissary",
+    "lat": 28.356062,
+    "lng": -81.559872,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "anaheim-produce": {
+    "disney_name": "Anaheim Produce",
+    "lat": 28.358448,
+    "lng": -81.560086,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "backlot-express": {
+    "disney_name": "Backlot Express",
+    "lat": 28.35589,
+    "lng": -81.558388,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "catalina-eddies": {
+    "disney_name": "Catalina Eddie's",
+    "lat": 28.358915,
+    "lng": -81.560278,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "docking-bay-7-food-and-cargo": {
+    "disney_name": "Docking Bay 7 Food and Cargo",
+    "lat": 28.354088,
+    "lng": -81.561643,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "dockside-diner": {
+    "disney_name": "Dockside Diner",
+    "lat": 28.3570985,
+    "lng": -81.559552,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "fairfax-fare": {
+    "disney_name": "Fairfax Fare",
+    "lat": 28.3590392579,
+    "lng": -81.5600222899,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "hollywood-scoops": {
+    "disney_name": "Hollywood Scoops",
+    "lat": 28.359139,
+    "lng": -81.560084,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "kat-sakas-kettle": {
+    "disney_name": "Kat Saka's Kettle",
+    "lat": 28.35432,
+    "lng": -81.561467,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "milk-stand": {
+    "disney_name": "Milk Stand",
+    "lat": 28.354311,
+    "lng": -81.562296,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "ronto-roasters": {
+    "disney_name": "Ronto Roasters",
+    "lat": 28.354341,
+    "lng": -81.561652,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "rosies-all-american-cafe": {
+    "disney_name": "Rosie's All-American Café",
+    "lat": 28.358821,
+    "lng": -81.560268,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "trolley-car-cafe": {
+    "disney_name": "The Trolley Car Café",
+    "lat": 28.357767,
+    "lng": -81.559604,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "woodys-lunchbox": {
+    "disney_name": "Woody's Lunch Box",
+    "lat": 28.355747,
+    "lng": -81.562185,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "roundup-rodeo-lunch": {
+    "disney_name": "Roundup Rodeo BBQ",
+    "lat": 28.356832,
+    "lng": -81.56201,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  }
+}

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https://tile.openstreetmap.org https://*.tile.openstreetmap.org data:; style-src 'self' 'unsafe-inline'; script-src 'self'; connect-src 'self'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' https://cdn6.parksmedia.wdprapps.disney.com https://tile.openstreetmap.org https://*.tile.openstreetmap.org data:; style-src 'self' 'unsafe-inline'; script-src 'self'; connect-src 'self'">
 <title>DDP Credit Map</title>
 <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
 <style>
@@ -32,11 +32,17 @@
   .tier-3 { opacity: .55; }
   #nearby { position: absolute; left: 8px; right: 8px; bottom: 66px; z-index: 500; display: flex; gap: 6px; overflow-x: auto; }
   .card { flex: 0 0 auto; background: #fff; border: 1px solid #ddd; border-radius: 10px; padding: 8px 10px; box-shadow: 0 1px 4px rgba(0,0,0,.15); font-size: 13px; }
-  .pin { width: 22px; height: 22px; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 1px 3px rgba(0,0,0,.4); position: relative; }
-  .pin-big { width: 30px; height: 30px; }
-  .pin-badge { position: absolute; top: -9px; right: -9px; font-size: 13px; }
-  .pin-dim { opacity: .5; }
-  .pin-cash { position: absolute; top: 100%; left: 50%; transform: translateX(-50%); font-size: 9px; background: #fff; border-radius: 4px; padding: 0 3px; color: var(--muted); }
+  .disney-pin { --pin-color:#68737d; position: relative; width: 30px; height: 30px; display: grid; place-items: center; border: 3px solid var(--pin-color); border-radius: 50%; background: #fff; color: var(--pin-color); box-shadow: 0 3px 8px rgba(28,38,45,.3); transform-origin: 50% 100%; transition: transform .14s ease; }
+  .pin-quick { --pin-color:var(--blue); }
+  .pin-snack { --pin-color:var(--green); }
+  .pin-kids { --pin-color:var(--purple); }
+  .pin-table { --pin-color:var(--amber); }
+  .pin-glyph { position: relative; z-index: 2; font-size: 13px; font-weight: 800; line-height: 1; }
+  .pin-tail { position: absolute; z-index: 1; left: 50%; bottom: -6px; width: 11px; height: 11px; background: #fff; border-right: 3px solid var(--pin-color); border-bottom: 3px solid var(--pin-color); transform: translateX(-50%) rotate(45deg); }
+  .disney-pin.is-selected { transform: scale(1.22); }
+  .disney-pin.pin-dim { opacity: .58; }
+  .pin-value { position: absolute; z-index: 3; top: -11px; right: -10px; font-size: 12px; }
+  .pin-cash { top: 25px; right: auto; left: 50%; transform: translateX(-50%); padding: 0 3px; border-radius: 4px; background: #fff; color: var(--muted); font-size: 9px; white-space: nowrap; }
   .popup h3 { font-size: 15px; margin-bottom: 2px; }
   .popup p { margin: 3px 0; font-size: 13px; }
   .muted { color: var(--muted); }
@@ -98,7 +104,7 @@
     <div id="list" style="display:none"></div>
     <div id="nearby" hidden><div id="nearby-cards" style="display:flex;gap:6px;overflow-x:auto;"></div></div>
   </main>
-  <footer id="captured">Data loading… · Map © OpenStreetMap contributors · ledger key ddp-ledger-v2 · migrates ddp-ledger-v1</footer>
+  <footer id="captured">Data loading… · Map © Disney · fallback © OpenStreetMap contributors · ledger key ddp-ledger-v2 · migrates ddp-ledger-v1</footer>
   <div id="ledger">
     <button id="ledger-toggle">Credits ledger</button>
     <div id="ledger-body"></div>

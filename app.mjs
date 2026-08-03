@@ -1,6 +1,8 @@
 // Disney Dining Plan Credit Map — claude implementation.
 // Pure functions exported for the shared test suite; DOM wiring only runs in a browser.
 
+import { pinHtml, tileConfig } from './map-style.mjs';
+
 export const QS_BENCH = 24;
 export const SNACK_BENCH = 7;
 export const CREDIT_CLASS = { combo: 'qs', entree: 'qs', side: 'snack', dessert: 'snack', drink: 'snack', snack: 'snack', kids: 'kids' };
@@ -297,10 +299,12 @@ async function initApp() {
   const areaById = Object.fromEntries(data.areas.map(a => [a.id, a]));
   state.map = L.map('map', { zoomControl: false, attributionControl: true });
   state.map.attributionControl.setPrefix(false);
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    maxZoom: 19,
-    attribution: '© OpenStreetMap contributors',
-  }).addTo(state.map);
+  const tiles = tileConfig(true);
+  const primaryTiles = L.tileLayer(tiles.primary.url, tiles.primary.options).addTo(state.map);
+  primaryTiles.once('tileerror', () => {
+    state.map.removeLayer(primaryTiles);
+    L.tileLayer(tiles.fallback.url, tiles.fallback.options).addTo(state.map);
+  });
 
   // --- geolocate
   let hereMarker = null;
@@ -514,18 +518,11 @@ async function initApp() {
 
   // --- markers / list / nearby
   function markerFor(l) {
-    const kind = l.accepted_credits.includes('quick') ? 'quick' : 'snack';
-    const color = { quick: '#1d70b8', snack: '#2e8540' }[kind];
-    const big = l.tier === 1;
-    const dim = l.tier === 3;
-    const html = document.createElement('div');
-    html.className = 'pin' + (big ? ' pin-big' : '') + (dim ? ' pin-dim' : '');
-    html.style.background = color;
-    if (big) html.appendChild(el('span', 'pin-badge', '🔥'));
-    if (dim) html.appendChild(el('span', 'pin-cash', 'cash'));
-    const icon = L.divIcon({ className: '', html: html.outerHTML, iconSize: big ? [30, 30] : [22, 22], iconAnchor: big ? [15, 15] : [11, 11] });
-    const m = L.marker([l.lat, l.lng], { icon });
+    const icon = L.divIcon({ className: '', html: pinHtml(l), iconSize: [34, 42], iconAnchor: [17, 40], popupAnchor: [0, -36] });
+    const m = L.marker([l.lat, l.lng], { icon, alt: l.name });
     m.bindPopup(() => popupFor(l), { maxWidth: 290 });
+    m.on('popupopen', () => m.getElement()?.querySelector('.disney-pin')?.classList.add('is-selected'));
+    m.on('popupclose', () => m.getElement()?.querySelector('.disney-pin')?.classList.remove('is-selected'));
     return m;
   }
 
