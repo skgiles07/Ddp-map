@@ -23,6 +23,10 @@
     { "seed_id": "seed-sn-7", "level": "snack", "guest": null, "date": "2026-08-02", "value": 16.50, "venue": "kabuki-cafe", "note": "A5 Wagyu Nigiri Combo (Sushi)" },
     { "seed_id": "seed-sn-8", "level": "snack", "guest": null, "date": "2026-08-02", "value": 16.50, "venue": "kabuki-cafe", "note": "A5 Wagyu Nigiri Combo (Sushi)" },
     { "seed_id": "seed-sn-9", "level": "snack", "guest": null, "date": "2026-08-02", "value": 16.50, "venue": "kabuki-cafe", "note": "A5 Wagyu Nigiri Combo (Sushi)" },
-    { "seed_id": "seed-sn-10", "level": "snack", "guest": null, "date": "2026-08-02", "value": 7.50, "venue": "kabuki-cafe", "note": "Kakigori Rainbow" }
+    { "seed_id": "seed-sn-10", "level": "snack", "guest": null, "date": "2026-08-02", "value": 7.50, "venue": "kabuki-cafe", "note": "Kakigori Rainbow" },
+    { "seed_id": "seed-sn-11", "level": "snack", "guest": null, "date": "2026-08-03", "value": 9.79, "venue": "sleepy-hollow", "note": "Waffle with Chocolate-Hazelnut Spread, Bananas, Berries, and Whipped Cream" },
+    { "seed_id": "seed-sn-12", "level": "snack", "guest": null, "date": "2026-08-03", "value": 10.99, "venue": "caseys-corner", "note": "Mini Corn Dogs" },
+    { "seed_id": "seed-sn-13", "level": "snack", "guest": null, "date": "2026-08-03", "value": 10.99, "venue": "caseys-corner", "note": "Mini Corn Dogs" },
+    { "seed_id": "seed-sn-14", "level": "snack", "guest": null, "date": "2026-08-03", "value": 11.79, "venue": "caseys-corner", "note": "All-Beef Hot Dog (regular hot dog meal)" }
   ]
 }
