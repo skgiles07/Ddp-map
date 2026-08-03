@@ -15673,6 +15673,105 @@
           "eligibility": "listed",
           "source_url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/",
           "source_captured": "2026-08-01"
+        },
+        {
+          "item": "San Angel Inn Margarita",
+          "price": 24,
+          "category": "drink",
+          "specialty": true,
+          "eligibility": "not-ddp",
+          "source_url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/",
+          "source_captured": "2026-08-03"
+        },
+        {
+          "item": "La Cava Avocado",
+          "price": 19,
+          "category": "drink",
+          "specialty": true,
+          "eligibility": "not-ddp",
+          "source_url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/",
+          "source_captured": "2026-08-03"
+        },
+        {
+          "item": "El Diablo",
+          "price": 18.25,
+          "category": "drink",
+          "specialty": true,
+          "eligibility": "not-ddp",
+          "source_url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/",
+          "source_captured": "2026-08-03"
+        },
+        {
+          "item": "It Takes Two to Mango",
+          "price": 19,
+          "category": "drink",
+          "specialty": true,
+          "eligibility": "not-ddp",
+          "source_url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/",
+          "source_captured": "2026-08-03"
+        },
+        {
+          "item": "The Cucumber",
+          "price": 19,
+          "category": "drink",
+          "specialty": true,
+          "eligibility": "not-ddp",
+          "source_url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/",
+          "source_captured": "2026-08-03"
+        },
+        {
+          "item": "Blood Orange",
+          "price": 19,
+          "category": "drink",
+          "specialty": true,
+          "eligibility": "not-ddp",
+          "source_url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/",
+          "source_captured": "2026-08-03"
+        },
+        {
+          "item": "The Wild One",
+          "price": 19,
+          "category": "drink",
+          "specialty": true,
+          "eligibility": "not-ddp",
+          "source_url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/",
+          "source_captured": "2026-08-03"
+        },
+        {
+          "item": "Clásica",
+          "price": 18,
+          "category": "drink",
+          "specialty": true,
+          "eligibility": "not-ddp",
+          "source_url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/",
+          "source_captured": "2026-08-03"
+        },
+        {
+          "item": "La Hacienda Smoked Old Fashioned",
+          "price": 28,
+          "category": "drink",
+          "specialty": true,
+          "eligibility": "not-ddp",
+          "source_url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/",
+          "source_captured": "2026-08-03"
+        },
+        {
+          "item": "La Paloma",
+          "price": 19,
+          "category": "drink",
+          "specialty": true,
+          "eligibility": "not-ddp",
+          "source_url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/",
+          "source_captured": "2026-08-03"
+        },
+        {
+          "item": "La Flaca",
+          "price": 20,
+          "category": "drink",
+          "specialty": true,
+          "eligibility": "not-ddp",
+          "source_url": "https://disneyworld.disney.go.com/dining/epcot/hacienda-de-san-angel/menus/",
+          "source_captured": "2026-08-03"
         }
       ],
       "mobile_order": false,

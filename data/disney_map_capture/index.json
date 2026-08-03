@@ -854,6 +854,13 @@
       "status": 200,
       "mime_type": "application/json",
       "round": "6A"
+    },
+    {
+      "file": "123-la-hacienda-menu-c9f96402b8.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hacienda-de-san-angel&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "La Hacienda drinks"
     }
   ],
   "by_url": {
@@ -978,7 +985,8 @@
     "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hollywood-brown-derby&language=en-us": "119-round6a-menu-hollywood-brown-derby-b73562fe43.json",
     "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=50s-prime-time-cafe&language=en-us": "120-round6a-menu-50s-prime-time-cafe-ef52eb8044.json",
     "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=sci-fi-dine-in-theater&language=en-us": "121-round6a-menu-sci-fi-dine-in-theater-f6a420d07b.json",
-    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hollywood-and-vine&language=en-us": "122-round6a-menu-hollywood-and-vine-7f91b9b369.json"
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hollywood-and-vine&language=en-us": "122-round6a-menu-hollywood-and-vine-7f91b9b369.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hacienda-de-san-angel&language=en-us": "123-la-hacienda-menu-c9f96402b8.json"
   },
   "by_file": {
     "001-disneyworld-disney-go-com-finder-api-v1-explorer-service-list-ancestor-entities-wdw-800077-2e0ddd6da7.json": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/destinations",
@@ -1102,7 +1110,8 @@
     "119-round6a-menu-hollywood-brown-derby-b73562fe43.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hollywood-brown-derby&language=en-us",
     "120-round6a-menu-50s-prime-time-cafe-ef52eb8044.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=50s-prime-time-cafe&language=en-us",
     "121-round6a-menu-sci-fi-dine-in-theater-f6a420d07b.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=sci-fi-dine-in-theater&language=en-us",
-    "122-round6a-menu-hollywood-and-vine-7f91b9b369.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hollywood-and-vine&language=en-us"
+    "122-round6a-menu-hollywood-and-vine-7f91b9b369.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hollywood-and-vine&language=en-us",
+    "123-la-hacienda-menu-c9f96402b8.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hacienda-de-san-angel&language=en-us"
   },
   "network_responses": [
     {
