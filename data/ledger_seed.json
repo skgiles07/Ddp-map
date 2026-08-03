@@ -4,20 +4,25 @@
     "quick_adult": { "credits_total": 12, "bench": 24, "goal": 288 },
     "quick_child": { "credits_total": 6, "bench": 8.89, "goal": 53.34 },
     "snack": { "credits_total": 18, "bench": 7, "goal": 126 },
-    "ts_adult": { "credits_total": 12, "goal": 720, "credits_used": 8, "spent": 580.50 },
+    "ts_adult": { "credits_total": 12, "goal": 720, "credits_used": 8, "spent": 566.08 },
     "ts_child": { "credits_total": 6, "goal": 219, "credits_used": 4, "spent": 158 }
   },
   "seed_events": [
-    { "seed_id": "seed-qa-1", "level": "quick_adult", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
-    { "seed_id": "seed-qa-2", "level": "quick_adult", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
-    { "seed_id": "seed-qa-3", "level": "quick_adult", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
-    { "seed_id": "seed-qc-1", "level": "quick_child", "guest": "L", "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
+    { "seed_id": "seed-qa-1", "level": "quick_adult", "guest": "M", "date": "2026-07-31", "value": 28.77, "venue": "cosmic-ray-starlight-cafe", "note": "Truffle-French Onion Burger + Truffle Fries + Lunar Lemonade" },
+    { "seed_id": "seed-qa-2", "level": "quick_adult", "guest": "S", "date": "2026-08-01", "value": 19.78, "note": "Turkey & Provolone Sandwich + Lava Smoothie - Petals Pool Bar" },
+    { "seed_id": "seed-qa-3", "level": "quick_adult", "guest": "M", "date": "2026-08-01", "value": 19.78, "note": "Italian Sandwich + Lava Smoothie - Petals Pool Bar" },
+    { "seed_id": "seed-qc-1", "level": "quick_child", "guest": "L", "date": "2026-07-31", "value": 8.29, "venue": "cosmic-ray-starlight-cafe", "note": "Turkey Sandwich Kid's Pack" },
     { "seed_id": "seed-qc-2", "level": "quick_child", "guest": "L", "date": "2026-08-02", "value": 20.98, "venue": "ronto-roasters", "note": "Ronto Wrap + Tatooine Sunset" },
     { "seed_id": "seed-qc-3", "level": "quick_child", "guest": "L", "date": "2026-08-02", "value": 23.78, "venue": "dockside-diner", "note": "Pretzel Hot Dog + Dirt Cup Shake" },
-    { "seed_id": "seed-sn-1", "level": "snack", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
-    { "seed_id": "seed-sn-2", "level": "snack", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
-    { "seed_id": "seed-sn-3", "level": "snack", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
-    { "seed_id": "seed-sn-4", "level": "snack", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" },
-    { "seed_id": "seed-sn-5", "level": "snack", "guest": null, "date": "2026-08-01", "value": 0, "note": "MDE backfill - value unknown" }
+    { "seed_id": "seed-sn-1", "level": "snack", "guest": null, "date": "2026-07-30", "value": 6.99, "note": "Street Corn Fries - Everything POP" },
+    { "seed_id": "seed-sn-2", "level": "snack", "guest": null, "date": "2026-07-31", "value": 7.99, "note": "Mickey Cinnamon Roll - Everything POP" },
+    { "seed_id": "seed-sn-3", "level": "snack", "guest": null, "date": "2026-07-31", "value": 5.99, "venue": "friars-nook", "note": "Joffrey's Shakin' Jamaican Cold Brew" },
+    { "seed_id": "seed-sn-4", "level": "snack", "guest": null, "date": "2026-07-31", "value": 7.49, "note": "Space Ranger Float - Auntie Gravity's (venue not in app data)" },
+    { "seed_id": "seed-sn-5", "level": "snack", "guest": null, "date": "2026-07-31", "value": 9.29, "note": "Zurg Overload Shake - Auntie Gravity's (venue not in app data)" },
+    { "seed_id": "seed-sn-6", "level": "snack", "guest": null, "date": "2026-08-02", "value": 7.95, "venue": "joy-of-tea", "note": "Lychee Bubble Tea" },
+    { "seed_id": "seed-sn-7", "level": "snack", "guest": null, "date": "2026-08-02", "value": 16.50, "venue": "kabuki-cafe", "note": "A5 Wagyu Nigiri Combo (Sushi)" },
+    { "seed_id": "seed-sn-8", "level": "snack", "guest": null, "date": "2026-08-02", "value": 16.50, "venue": "kabuki-cafe", "note": "A5 Wagyu Nigiri Combo (Sushi)" },
+    { "seed_id": "seed-sn-9", "level": "snack", "guest": null, "date": "2026-08-02", "value": 16.50, "venue": "kabuki-cafe", "note": "A5 Wagyu Nigiri Combo (Sushi)" },
+    { "seed_id": "seed-sn-10", "level": "snack", "guest": null, "date": "2026-08-02", "value": 7.50, "venue": "kabuki-cafe", "note": "Kakigori Rainbow" }
   ]
 }
