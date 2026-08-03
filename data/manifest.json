@@ -1,0 +1,123 @@
+{
+ "captured": "2026-07-26",
+ "areas": {
+  "mk": {
+   "quick": [
+    "caseys-corner",
+    "columbia-harbour-house",
+    "cosmic-ray-starlight-cafe",
+    "friars-nook",
+    "golden-oak-outpost",
+    "lunching-pad",
+    "main-street-bakery",
+    "pecos-bill-tall-tale-inn-and-cafe",
+    "pinocchio-village-haus",
+    "sleepy-hollow",
+    "tortuga-tavern"
+   ],
+   "snack": [
+    "aloha-isle",
+    "cheshire-cafe",
+    "gastons-tavern",
+    "liberty-square-market",
+    "lunching-pad",
+    "main-street-bakery",
+    "plaza-ice-cream-parlor",
+    "sleepy-hollow",
+    "storybook-treats",
+    "sunshine-tree-terrace"
+   ]
+  },
+  "ep": {
+   "quick": [
+    "cantina-de-san-angel",
+    "connections-eatery",
+    "fife-and-drum-tavern",
+    "katsura-grill",
+    "les-halles-boulangerie-patisserie",
+    "lotus-blossom-cafe",
+    "regal-eagle-smokehouse",
+    "sommerfest",
+    "sunshine-seasons",
+    "tangierine-cafe",
+    "yorkshire-county-fish-shop"
+   ],
+   "snack": [
+    "fife-and-drum-tavern",
+    "funnel-cake",
+    "joy-of-tea",
+    "kabuki-cafe",
+    "kringla-bakeri-og-kafe",
+    "l-artisan-des-glaces",
+    "les-halles-boulangerie-patisserie",
+    "the-land-cart"
+   ]
+  },
+  "hs": {
+   "quick": [
+    "abc-commissary",
+    "backlot-express",
+    "catalina-eddies",
+    "docking-bay-7-food-and-cargo",
+    "dockside-diner",
+    "fairfax-fare",
+    "ronto-roasters",
+    "rosies-all-american-cafe",
+    "trolley-car-cafe",
+    "woodys-lunchbox",
+    "pizzerizzo"
+   ],
+   "snack": [
+    "anaheim-produce",
+    "docking-bay-7-food-and-cargo",
+    "fairfax-fare",
+    "hollywood-scoops",
+    "kat-sakas-kettle",
+    "milk-stand",
+    "ronto-roasters",
+    "trolley-car-cafe"
+   ]
+  },
+  "ak": {
+   "quick": [
+    "creature-comforts",
+    "flame-tree-barbecue",
+    "harambe-market",
+    "pizzafari",
+    "satuli-canteen",
+    "yak-and-yeti-local-foods-cafe",
+    "restaurantosaurus"
+   ],
+   "snack": [
+    "anandapur-ice-cream-truck",
+    "creature-comforts",
+    "eight-spoon-cafe",
+    "harambe-fruit-market",
+    "kusafiri-coffee-shop-and-bakery",
+    "pongu-pongu",
+    "tamu-tamu-refreshments",
+    "yak-and-yeti-local-foods-cafe"
+   ]
+  },
+  "bb": {
+   "quick": [
+    "avalunch",
+    "lottawatta-lodge",
+    "warming-hut"
+   ],
+   "snack": [
+    "blizzard-beach-mini-donuts",
+    "cooling-hut",
+    "i-c-expeditions"
+   ]
+  },
+  "pop": {
+   "quick": [
+    "everything-pop-dining",
+    "petals-pool-bar"
+   ],
+   "snack": []
+  }
+ },
+ "snack_universe_rule": "Named venues carrying Disney's DDP badge with snack facet or bakery profile, plus curated long-standing snack-credit kiosks (each with rationale; Disney badges restaurants, not kiosks). Item-level eligibility rides snack_picks confidence \u2014 only a visible menu symbol earns 'verified'."
+}
