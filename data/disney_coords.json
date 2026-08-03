@@ -88,5 +88,359 @@
     "lat": 28.356832,
     "lng": -81.56201,
     "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "anandapur-ice-cream-truck": {
+    "disney_name": "Anandapur Ice Cream Truck",
+    "lat": 28.358576,
+    "lng": -81.587945,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "creature-comforts": {
+    "disney_name": "Creature Comforts",
+    "lat": 28.35781,
+    "lng": -81.591685,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "eight-spoon-cafe": {
+    "disney_name": "Eight Spoon Café",
+    "lat": 28.3579777019,
+    "lng": -81.5899567581,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "flame-tree-barbecue": {
+    "disney_name": "Flame Tree Barbecue",
+    "lat": 28.35734,
+    "lng": -81.58954,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "harambe-fruit-market": {
+    "disney_name": "Harambe Fruit Market",
+    "lat": 28.359109,
+    "lng": -81.59209,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "harambe-market": {
+    "disney_name": "Harambe Market",
+    "lat": 28.359161,
+    "lng": -81.591369,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "kusafiri-coffee-shop-and-bakery": {
+    "disney_name": "Kusafiri Coffee Shop & Bakery",
+    "lat": 28.35889,
+    "lng": -81.59208,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "pizzafari": {
+    "disney_name": "Pizzafari",
+    "lat": 28.3572167558,
+    "lng": -81.5912854671,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "pongu-pongu": {
+    "disney_name": "Pongu Pongu",
+    "lat": 28.355835,
+    "lng": -81.592506,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "satuli-canteen": {
+    "disney_name": "Satu'li Canteen",
+    "lat": 28.3560347386574,
+    "lng": -81.5924408283262,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "tamu-tamu-refreshments": {
+    "disney_name": "Tamu Tamu Refreshments",
+    "lat": 28.35862,
+    "lng": -81.591761,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "yak-and-yeti-local-foods-cafe": {
+    "disney_name": "Yak & Yeti™ Local Food Cafes",
+    "lat": 28.358594,
+    "lng": -81.589385,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "avalunch": {
+    "disney_name": "Avalunch",
+    "lat": 28.3522776001,
+    "lng": -81.5746162087,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "blizzard-beach-mini-donuts": {
+    "disney_name": "Mini Donuts by Joffrey's Coffee™ at Blizzard Beach",
+    "lat": 28.351516,
+    "lng": -81.573604,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "cooling-hut": {
+    "disney_name": "Cooling Hut",
+    "lat": 28.3522508945,
+    "lng": -81.5738021582,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "i-c-expeditions": {
+    "disney_name": "I.C. Expeditions",
+    "lat": 28.35229513,
+    "lng": -81.57494,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "lottawatta-lodge": {
+    "disney_name": "Lottawatta Lodge",
+    "lat": 28.351487,
+    "lng": -81.573231,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "warming-hut": {
+    "disney_name": "Warming Hut",
+    "lat": 28.3507657218,
+    "lng": -81.5746757006,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "cantina-de-san-angel": {
+    "disney_name": "La Cantina de San Angel",
+    "lat": 28.371364,
+    "lng": -81.547817,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "connections-eatery": {
+    "disney_name": "Connections Eatery",
+    "lat": 28.3743400792775,
+    "lng": -81.5484700507225,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "fife-and-drum-tavern": {
+    "disney_name": "Fife & Drum Tavern",
+    "lat": 28.367929,
+    "lng": -81.549122,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "funnel-cake": {
+    "disney_name": "Funnel Cake",
+    "lat": 28.367975939223648,
+    "lng": -81.55003115823622,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "joy-of-tea": {
+    "disney_name": "Joy of Tea",
+    "lat": 28.369874,
+    "lng": -81.546965,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "kabuki-cafe": {
+    "disney_name": "Kabuki Cafe",
+    "lat": 28.36798,
+    "lng": -81.550149,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "katsura-grill": {
+    "disney_name": "Katsura Grill",
+    "lat": 28.3675578748,
+    "lng": -81.5504374159,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "kringla-bakeri-og-kafe": {
+    "disney_name": "Kringla Bakeri Og Kafé",
+    "lat": 28.370688,
+    "lng": -81.546872,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "l-artisan-des-glaces": {
+    "disney_name": "L'Artisan des Glaces",
+    "lat": 28.368691,
+    "lng": -81.552794,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "les-halles-boulangerie-patisserie": {
+    "disney_name": "Les Halles Boulangerie-Patisserie",
+    "lat": 28.36861,
+    "lng": -81.552905,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "lotus-blossom-cafe": {
+    "disney_name": "Lotus Blossom Café",
+    "lat": 28.370063,
+    "lng": -81.546473,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "regal-eagle-smokehouse": {
+    "disney_name": "Regal Eagle Smokehouse: Craft Drafts & Barbecue",
+    "lat": 28.367579,
+    "lng": -81.549003,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "sommerfest": {
+    "disney_name": "Sommerfest",
+    "lat": 28.368123,
+    "lng": -81.546902,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "sunshine-seasons": {
+    "disney_name": "Sunshine Seasons",
+    "lat": 28.373971,
+    "lng": -81.551963,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "the-land-cart": {
+    "disney_name": "The Land Cart",
+    "lat": 28.373577,
+    "lng": -81.551228,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "yorkshire-county-fish-shop": {
+    "disney_name": "Yorkshire County Fish Shop",
+    "lat": 28.370281,
+    "lng": -81.551772,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "aloha-isle": {
+    "disney_name": "Aloha Isle",
+    "lat": 28.4185791338,
+    "lng": -81.5836598686,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "caseys-corner": {
+    "disney_name": "Casey's Corner",
+    "lat": 28.418112,
+    "lng": -81.581281,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "cheshire-cafe": {
+    "disney_name": "Cheshire Café",
+    "lat": 28.419761,
+    "lng": -81.580053,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "columbia-harbour-house": {
+    "disney_name": "Columbia Harbour House",
+    "lat": 28.4200310807,
+    "lng": -81.5825126124,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "cosmic-ray-starlight-cafe": {
+    "disney_name": "Cosmic Ray's Starlight Café",
+    "lat": 28.419477,
+    "lng": -81.579873,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "friars-nook": {
+    "disney_name": "The Friar's Nook",
+    "lat": 28.42016512,
+    "lng": -81.5807196587,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "gastons-tavern": {
+    "disney_name": "Gaston's Tavern",
+    "lat": 28.4213181479,
+    "lng": -81.5804566992,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "golden-oak-outpost": {
+    "disney_name": "Golden Oak Outpost",
+    "lat": 28.4186023132,
+    "lng": -81.584727253,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "liberty-square-market": {
+    "disney_name": "Liberty Square Market",
+    "lat": 28.4195299,
+    "lng": -81.5825378,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "lunching-pad": {
+    "disney_name": "The Lunching Pad",
+    "lat": 28.4184189875,
+    "lng": -81.5792530775,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "main-street-bakery": {
+    "disney_name": "Main Street Bakery",
+    "lat": 28.4177865948,
+    "lng": -81.5811298822,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "pecos-bill-tall-tale-inn-and-cafe": {
+    "disney_name": "Pecos Bill Tall Tale Inn and Cafe",
+    "lat": 28.4188897676,
+    "lng": -81.5844008876,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "pinocchio-village-haus": {
+    "disney_name": "Pinocchio Village Haus",
+    "lat": 28.42041,
+    "lng": -81.58143,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "plaza-ice-cream-parlor": {
+    "disney_name": "Plaza Ice Cream Parlor",
+    "lat": 28.4180165138,
+    "lng": -81.5810883595,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "sleepy-hollow": {
+    "disney_name": "Sleepy Hollow",
+    "lat": 28.4192798,
+    "lng": -81.5820112,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "storybook-treats": {
+    "disney_name": "Storybook Treats",
+    "lat": 28.4201577253,
+    "lng": -81.5805665054,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "sunshine-tree-terrace": {
+    "disney_name": "Sunshine Tree Terrace",
+    "lat": 28.418434,
+    "lng": -81.582512,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "tortuga-tavern": {
+    "disney_name": "Tortuga Tavern",
+    "lat": 28.418324,
+    "lng": -81.584282,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "everything-pop-dining": {
+    "disney_name": "Everything POP Shopping & Dining",
+    "lat": 28.35009002,
+    "lng": -81.5429145098,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "petals-pool-bar": {
+    "disney_name": "Petals Pool Bar",
+    "lat": 28.3507275,
+    "lng": -81.5434268,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "ohana-dinner": {
+    "disney_name": "'Ohana",
+    "lat": 28.4055982743,
+    "lng": -81.5854543447,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "tusker-house-lunch": {
+    "disney_name": "Tusker House Restaurant",
+    "lat": 28.3585843066,
+    "lng": -81.5921041919,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "1900-park-fare-dinner": {
+    "disney_name": "1900 Park Fare",
+    "lat": 28.4111208,
+    "lng": -81.5877097,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "la-hacienda-dinner": {
+    "disney_name": "La Hacienda de San Angel",
+    "lat": 28.371221,
+    "lng": -81.547532,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+  },
+  "akershus-breakfast": {
+    "disney_name": "Akershus Royal Banquet Hall",
+    "lat": 28.370588,
+    "lng": -81.546728,
+    "source_url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
   }
 }

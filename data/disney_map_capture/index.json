@@ -2563,5 +2563,96 @@
       "bytes": 35359,
       "fetchable": true
     }
+  ],
+  "merged_at": "2026-08-03T03:52:45.367Z",
+  "tile_coverage_probe": [
+    {
+      "zone": "ak",
+      "zoom": 16,
+      "x": 17914,
+      "y": 27381,
+      "url": "https://cdn6.parksmedia.wdprapps.disney.com/media/maps/prod/900014458/16/17914/27381.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 49569,
+      "fetchable": true
+    },
+    {
+      "zone": "ak",
+      "zoom": 17,
+      "x": 35829,
+      "y": 54762,
+      "url": "https://cdn6.parksmedia.wdprapps.disney.com/media/maps/prod/900014458/17/35829/54762.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 69055,
+      "fetchable": true
+    },
+    {
+      "zone": "bb",
+      "zoom": 16,
+      "x": 17917,
+      "y": 27382,
+      "url": "https://cdn6.parksmedia.wdprapps.disney.com/media/maps/prod/900014458/16/17917/27382.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 41945,
+      "fetchable": true
+    },
+    {
+      "zone": "bb",
+      "zoom": 17,
+      "x": 35835,
+      "y": 54764,
+      "url": "https://cdn6.parksmedia.wdprapps.disney.com/media/maps/prod/900014458/17/35835/54764.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 78427,
+      "fetchable": true
+    },
+    {
+      "zone": "pop",
+      "zoom": 16,
+      "x": 17923,
+      "y": 27382,
+      "url": "https://cdn6.parksmedia.wdprapps.disney.com/media/maps/prod/900014458/16/17923/27382.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 27004,
+      "fetchable": true
+    },
+    {
+      "zone": "pop",
+      "zoom": 17,
+      "x": 35846,
+      "y": 54765,
+      "url": "https://cdn6.parksmedia.wdprapps.disney.com/media/maps/prod/900014458/17/35846/54765.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 20277,
+      "fetchable": true
+    },
+    {
+      "zone": "resorts",
+      "zoom": 16,
+      "x": 17916,
+      "y": 27370,
+      "url": "https://cdn6.parksmedia.wdprapps.disney.com/media/maps/prod/900014458/16/17916/27370.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 35387,
+      "fetchable": true
+    },
+    {
+      "zone": "resorts",
+      "zoom": 17,
+      "x": 35832,
+      "y": 54741,
+      "url": "https://cdn6.parksmedia.wdprapps.disney.com/media/maps/prod/900014458/17/35832/54741.jpg",
+      "status": 200,
+      "content_type": "image/jpeg",
+      "bytes": 58492,
+      "fetchable": true
+    }
   ]
 }
