@@ -1,0 +1,3371 @@
+{
+  "name": "The Hollywood Brown Derby",
+  "location": "Disney's Hollywood Studios, Hollywood Boulevard",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Signature Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Beet and Kale Salad",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spinach, Warm Bacon Vinaigrette, Goat Cheese Cream, Beet Purée, Candied Walnut"
+            },
+            {
+              "title": "Cream of Chicken and Asparagus Soup",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken Velouté, White Wine, Asparagus, Crouton"
+            },
+            {
+              "title": "Escargot",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Garlic Béchamel, Crispy Prosciutto, Puff Pastry"
+            },
+            {
+              "title": "House-made Ravioli",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "English Peas, Carrot Purée, Pickled Alba Mushrooms (Plant based)"
+            },
+            {
+              "title": "Prosciutto Croquettes",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pickled Onion, Herbs Gel, Ají Amarillo Aïoli"
+            },
+            {
+              "title": "Shrimp Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Avocado Mousse, Traditional Cocktail Sauce"
+            },
+            {
+              "title": "Char-grilled Octopus",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herb-roasted Potatoes, Chimichurri, Chipotle-Harissa Aïoli"
+            }
+          ]
+        },
+        {
+          "name": "Entrées",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pan-roasted Halibut",
+              "prices": [
+                {
+                  "withoutTax": 54,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Leek Vichyssoise Risotto, Pea, Citrus"
+            },
+            {
+              "title": "Half Roasted Chicken",
+              "prices": [
+                {
+                  "withoutTax": 41,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Bean Purée, Braised Cipollini Onion, Butter-poached Carrot, Roasted Mushroom, Mustard Sauce"
+            },
+            {
+              "title": "Filet Mignon*",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Rhubarb-Red Wine Demi-glace, Yukon Gold Potato, Braised Endive"
+            },
+            {
+              "title": "Our Famous Cobb Salad",
+              "prices": [
+                {
+                  "withoutTax": 30,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spit-roasted Turkey, Bacon, Egg, Tomatoes, Blue Cheese, Avocado, Classic Dressing. With Chicken $37 | With Shrimp $40"
+            },
+            {
+              "title": "Seafood Fregola",
+              "prices": [
+                {
+                  "withoutTax": 51,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Steamed Clam and Mussel, Poached Scallop, Fregola Pasta, Spring Greens, Crab-Saffron Cream"
+            },
+            {
+              "title": "Stuffed Butternut Squash",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Potato-Chickpea-Vegetable Filling, Roasted Spring Vegetable, Mushroom-Lemongrass \"Cream\" Sauce (Plant-based)"
+            },
+            {
+              "title": "Braised Center-cut Short Rib",
+              "prices": [
+                {
+                  "withoutTax": 54,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hominy Purée, Roasted Vegetables, Smoky Adobo Glaze, Beef Jus"
+            },
+            {
+              "title": "Fried Pork Chop",
+              "prices": [
+                {
+                  "withoutTax": 45,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Yuzu Beurre Blanc, Summer Vegetables"
+            }
+          ]
+        },
+        {
+          "name": "Enhancements",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Au Gratin Potato",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Black Diamond Cheddar"
+            },
+            {
+              "title": "Glazed Carrots",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mint Yogurt, Pickled Onion, Dukkah Spice (Plant-based)"
+            },
+            {
+              "title": "Braised Wild Mushrooms",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Shallots, Tarragon, Veal Stock, Truffle Butter"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grapefruit Cake",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Brown Derby Original. Vanilla Sponge Cake, Grapefruit Syrup, Cream Cheese Icing"
+            },
+            {
+              "title": "Orange-Hazelnut Chocolate Cake",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate-Olive Oil Cake, Hazelnut Cream, Coffee Whipped Cream, Praline Cookie Crumble, Orange Panna Cotta, Chocolate Sauce"
+            },
+            {
+              "title": "Decadent Chocolate Cake",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Cake, Raspberry Sauce, Chocolate Ganache, Fresh Raspberries"
+            },
+            {
+              "title": "Honey Pot de Crème",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry Compote, Salted Streusel, Ginger Sponge Cake"
+            },
+            {
+              "title": "Vanilla-Fruit Cheesecake",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Cheesecake, Peach Sponge, Strawberry Panna Cotta, Streusel, Strawberry-Peach Compote, Mango Coulis, Crunchy Tuile"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Appetizers (à la carte)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Noodle Soup",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chopped Salad",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Entrées (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grilled Chicken Breast",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice"
+            },
+            {
+              "title": "Grilled Seasonal Fish",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice"
+            },
+            {
+              "title": "Grilled Beef Steak",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice"
+            },
+            {
+              "title": "Macaroni & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seasonal Vegetables",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit Cup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Apple Slices",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Strawberry and Yogurt Parfait",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vanilla Cake Bar",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Chocolate Sauce and Mickey Sprinkles"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peru Alto Mayo Protected Forest Coffee Roasted by Joffrey’s Coffee™",
+              "prices": [
+                {
+                  "withoutTax": 10.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Disney supports Conservation International's Alto Mayo Protected forest project in Peru, which promotes sustainable coffee growing and economic growth. French Press Pot. Serves Two."
+            }
+          ]
+        },
+        {
+          "name": "Featured Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Domaine Serene Evenstad Reserve Chardonnay, Dundee Hills",
+              "prices": [
+                {
+                  "withoutTax": 140,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Castello Banfi Brunello di Montalcino, Tuscany",
+              "prices": [
+                {
+                  "withoutTax": 140,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 35,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Jarvis Finch Hollow Chardonnay, Napa Valley ",
+              "prices": [
+                {
+                  "withoutTax": 480,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 65,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caymus Cabernet Sauvignon, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 230,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 48,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "After Dinner Drink Flights",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Dessert Wine Flight",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Inniskillin Vidal Icewine, Niagara Estate; Royal Tokaji Red Label 5 Puttonyos, Hungary; Vietti Moscato d’Asti, Piedmont"
+            },
+            {
+              "title": "Tawny Port Flight",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dow’s 10 year, Porto; Dow’s 20 year, Porto; Dow’s 30 year, Porto"
+            }
+          ]
+        },
+        {
+          "name": "After Dinner Drinks",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Nutty Irishman",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Baileys Irish Cream Liqueur and Frangelico Liqueur topped with Whipped Cream"
+            },
+            {
+              "title": "Reposado Espresso Martini",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flecha Azul Reposado Tequila, Tia Maria Liqueur, and Joffrey's™ Cold Brew Coffee"
+            },
+            {
+              "title": "Grapefruit Cake Martini",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Celebrate the taste of the Grapefruit Cake created at the original Hollywood Brown Derby in the 1940s! Our concoction will delight you with Deep Eddy Ruby Red Grapefruit Vodka, Stoli Vanil Vodka, and a splash of Cream with a Graham Cracker Rim."
+            }
+          ]
+        },
+        {
+          "name": "Dessert Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Inniskillin Vidal Icewine, Niagara Estate",
+              "prices": [
+                {
+                  "withoutTax": 147,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 32,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Royal Tokaji Red Label 5 Puttonyos, Hungary",
+              "prices": [
+                {
+                  "withoutTax": 115,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Banfi Rosa Regale Sparkling Red, Piedmont",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vietti Moscato d'Asti, Piedmont",
+              "prices": [
+                {
+                  "withoutTax": 62,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Ports (3-oz pour)",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fonesca Bin 27 Reserve Port",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dow's 10 year Tawny Port",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dow's 20 year Tawny Port",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dow's 30 year Tawny Port",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Cognacs/Armagnacs (2-oz pour) ",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Louis XIII de Rémy Martin",
+              "prices": [
+                {
+                  "withoutTax": 400,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rémy Martin VSOP",
+              "prices": [
+                {
+                  "withoutTax": 20.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rémy Martin XO",
+              "prices": [
+                {
+                  "withoutTax": 35,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beet and Kale Salad",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spinach, Warm Bacon Vinaigrette, Goat Cheese Cream, Beet Purée, Candied Walnut (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Cream of Chicken and Asparagus Soup",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken Velouté, White Wine, Asparagus, Crouton (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Escargot",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Garlic Béchamel, Crispy Prosciutto, Puff Pastry (For Fish, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "House-made Ravioli",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "English Peas, Carrot Purée, Pickled Alba Mushrooms (For Egg, Fish/Shellfish, Milk, Peanut, Sesame Allergies)"
+            },
+            {
+              "title": "Prosciutto Croquettes",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pickled Onions, Herbs Gel, Ají Amarillo Aïoli (For Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            },
+            {
+              "title": "Shrimp Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Avocado Mousse, Traditional Cocktail Sauce (For Gluten/Wheat, Egg, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Char-grilled Octopus",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herb-roasted Potatoes, Chimichurri, Chipotle-Harissa Aïoli (For Gluten/Wheat, Fish, Milk, Peanut/Tree Nut, Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Entrées",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pan-roasted Halibut",
+              "prices": [
+                {
+                  "withoutTax": 54,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Leek Vichyssoise Risotto, Pea, Citrus (For Gluten/Wheat, Egg, Peanut/Tree Nut, Sesame, Shellfish, Soy Allergies)"
+            },
+            {
+              "title": "Half Roasted Chicken",
+              "prices": [
+                {
+                  "withoutTax": 41,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Bean Purée, Braised Cipollini Onion, Butter-poached Carrot, Roasted Mushroom, Mustard Sauce (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Filet Mignon*",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Rhubarb-Red Wine Demi-glace, Yukon Gold Potato, Braised Endive (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Our Famous Cobb Salad",
+              "prices": [
+                {
+                  "withoutTax": 30,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spit-roasted Turkey, Bacon, Egg, Tomatoes, Blue Cheese, Avocado, Classic Dressing. With Chicken $37 | With Shrimp $40 (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Seafood Fregola",
+              "prices": [
+                {
+                  "withoutTax": 51,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Steamed Clam and Mussel, Poached Scallop, Fregola Pasta, Spring Greens, Crab-Saffron Cream (For Egg, Fish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Stuffed Butternut Squash",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Potato-Chickpea-Vegetable Filling, Roasted Spring Vegetable, Mushroom-Lemongrass \"Cream\" Sauce (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut, Sesame Allergies)"
+            },
+            {
+              "title": "Braised Center-cut Short Rib",
+              "prices": [
+                {
+                  "withoutTax": 54,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hominy Purée, Roasted Vegetables, Smoky Adobo Glaze, Beef Jus (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            },
+            {
+              "title": "Fried Pork Chop",
+              "prices": [
+                {
+                  "withoutTax": 45,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Yuzu Beurre Blanc, Summer Vegetables (For Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Enhancements",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Au Gratin Potato",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Black Diamond Cheddar (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Glazed Carrots",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mint Yogurt, Pickled Onion, Dukkah Spice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Braised Wild Mushrooms",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Shallots, Tarragon, Veal Stock, Truffle Butter (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Brown Derby Original Grapefruit Cake",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Sponge Cake with Grapefruit Syrup, Grapefruit Cheesecake, and Grapefruit Jam (For Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Orange-Hazelnut Chocolate Cake",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate-Olive Oil Cake, Hazelnut Cream, Coffee Whipped Cream, Praline Cookie Crumble, Orange Panna Cotta, Chocolate Sauce (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut, Sesame Allergies)"
+            },
+            {
+              "title": "Decadent Chocolate Cake",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Cake, Raspberry Sauce, Chocolate Ganache, Fresh Raspberries (For Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            },
+            {
+              "title": "Honey Pot de Crème",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry Compote, Salted Streusel, Ginger Sponge Cake (For Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Vanilla-Fruit Cheesecake",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Cheesecake, Peach Sponge, Strawberry Panna Cotta, Streusel, Strawberry-Peach Compote, Mango Coulis, Crunchy Tuile (For Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Appetizers (à la carte)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Noodle Soup",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(For Egg, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Chopped Salad",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Create-Your-Own Entrées (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Grilled Chicken Breast",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Grilled Seasonal Fish",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Grilled Beef Steak",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Macaroni & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Egg, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Vegetables",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Apple Slices",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Fresh Fruit Cup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Strawberry and Yogurt Parfait",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Vanilla Cake Bar",
+              "prices": [],
+              "pricesRange": false,
+              "description": "<p>with Chocolate Sauce and Mickey Sprinkles (For Fish/Shellfish, Peanut, and Sesame Allergies)</p>"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Desserts",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit Cup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Signature Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Beet and Kale Salad",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spinach, Warm Bacon Vinaigrette, Goat Cheese Cream, Beet Purée, Candied Walnut"
+            },
+            {
+              "title": "Cream of Chicken and Asparagus Soup",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken Velouté, White Wine, Asparagus, Crouton"
+            },
+            {
+              "title": "Escargot",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Garlic Béchamel, Crispy Prosciutto, Puff Pastry"
+            },
+            {
+              "title": "House-made Ravioli",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "English Peas, Carrot Purée, Pickled Alba Mushrooms (Plant based)"
+            },
+            {
+              "title": "Prosciutto Croquettes",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pickled Onion, Herbs Gel, Ají Amarillo Aïoli"
+            },
+            {
+              "title": "Shrimp Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Avocado Mousse, Traditional Cocktail Sauce"
+            },
+            {
+              "title": "Char-grilled Octopus",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herb-roasted Potatoes, Chimichurri, Chipotle-Harissa Aïoli"
+            }
+          ]
+        },
+        {
+          "name": "Entrées",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pan-roasted Halibut",
+              "prices": [
+                {
+                  "withoutTax": 54,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Leek Vichyssoise Risotto, Pea, Citrus"
+            },
+            {
+              "title": "Half Roasted Chicken",
+              "prices": [
+                {
+                  "withoutTax": 41,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Bean Purée, Braised Cipollini Onion, Butter-poached Carrot, Roasted Mushroom, Mustard Sauce"
+            },
+            {
+              "title": "Filet Mignon*",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Rhubarb-Red Wine Demi-glace, Yukon Gold Potato, Braised Endive"
+            },
+            {
+              "title": "Our Famous Cobb Salad",
+              "prices": [
+                {
+                  "withoutTax": 30,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spit-roasted Turkey, Bacon, Egg, Tomatoes, Blue Cheese, Avocado, Classic Dressing. With Chicken $37 | With Shrimp $40"
+            },
+            {
+              "title": "Seafood Fregola",
+              "prices": [
+                {
+                  "withoutTax": 51,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Steamed Clam and Mussel, Poached Scallop, Fregola Pasta, Spring Greens, Crab-Saffron Cream"
+            },
+            {
+              "title": "Stuffed Butternut Squash",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Potato-Chickpea-Vegetable Filling, Roasted Spring Vegetable, Mushroom-Lemongrass \"Cream\" Sauce (Plant-based)"
+            },
+            {
+              "title": "Braised Center-cut Short Rib",
+              "prices": [
+                {
+                  "withoutTax": 54,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hominy Purée, Roasted Vegetables, Smoky Adobo Glaze, Beef Jus"
+            },
+            {
+              "title": "Fried Pork Chop",
+              "prices": [
+                {
+                  "withoutTax": 45,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Yuzu Beurre Blanc, Summer Vegetables"
+            }
+          ]
+        },
+        {
+          "name": "Enhancements",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Au Gratin Potato",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Black Diamond Cheddar"
+            },
+            {
+              "title": "Glazed Carrots",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mint Yogurt, Pickled Onion, Dukkah Spice (Plant-based)"
+            },
+            {
+              "title": "Braised Wild Mushrooms",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Shallots, Tarragon, Veal Stock, Truffle Butter"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grapefruit Cake",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Brown Derby Original. Vanilla Sponge Cake, Grapefruit Syrup, Cream Cheese Icing"
+            },
+            {
+              "title": "Orange-Hazelnut Chocolate Cake",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate-Olive Oil Cake, Hazelnut Cream, Coffee Whipped Cream, Praline Cookie Crumble, Orange Panna Cotta, Chocolate Sauce"
+            },
+            {
+              "title": "Decadent Chocolate Cake",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Cake, Raspberry Sauce, Chocolate Ganache, Fresh Raspberries"
+            },
+            {
+              "title": "Honey Pot de Crème",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry Compote, Salted Streusel, Ginger Sponge Cake"
+            },
+            {
+              "title": "Vanilla-Fruit Cheesecake",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Cheesecake, Peach Sponge, Strawberry Panna Cotta, Streusel, Strawberry-Peach Compote, Mango Coulis, Crunchy Tuile"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Appetizers (à la carte)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chicken Noodle Soup",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chopped Salad",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Entrées (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grilled Chicken Breast",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice"
+            },
+            {
+              "title": "Grilled Seasonal Fish",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice"
+            },
+            {
+              "title": "Grilled Beef Steak",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice"
+            },
+            {
+              "title": "Macaroni & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Seasonal Vegetables",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit Cup",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Apple Slices",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Strawberry and Yogurt Parfait",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vanilla Cake Bar",
+              "prices": [],
+              "pricesRange": false,
+              "description": "with Chocolate Sauce and Mickey Sprinkles"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peru Alto Mayo Protected Forest Coffee Roasted by Joffrey’s Coffee™",
+              "prices": [
+                {
+                  "withoutTax": 10.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Disney supports Conservation International's Alto Mayo Protected forest project in Peru, which promotes sustainable coffee growing and economic growth. French Press Pot. Serves Two."
+            }
+          ]
+        },
+        {
+          "name": "Featured Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Domaine Serene Evenstad Reserve Chardonnay, Dundee Hills",
+              "prices": [
+                {
+                  "withoutTax": 140,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Castello Banfi Brunello di Montalcino, Tuscany",
+              "prices": [
+                {
+                  "withoutTax": 140,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 35,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Jarvis Finch Hollow Chardonnay, Napa Valley ",
+              "prices": [
+                {
+                  "withoutTax": 480,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 65,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caymus Cabernet Sauvignon, Napa Valley",
+              "prices": [
+                {
+                  "withoutTax": 230,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 48,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "After Dinner Drink Flights",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Dessert Wine Flight",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Inniskillin Vidal Icewine, Niagara Estate; Royal Tokaji Red Label 5 Puttonyos, Hungary; Vietti Moscato d’Asti, Piedmont"
+            },
+            {
+              "title": "Tawny Port Flight",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dow’s 10 year, Porto; Dow’s 20 year, Porto; Dow’s 30 year, Porto"
+            }
+          ]
+        },
+        {
+          "name": "After Dinner Drinks",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Nutty Irishman",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Baileys Irish Cream Liqueur and Frangelico Liqueur topped with Whipped Cream"
+            },
+            {
+              "title": "Reposado Espresso Martini",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flecha Azul Reposado Tequila, Tia Maria Liqueur, and Joffrey's™ Cold Brew Coffee"
+            },
+            {
+              "title": "Grapefruit Cake Martini",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Celebrate the taste of the Grapefruit Cake created at the original Hollywood Brown Derby in the 1940s! Our concoction will delight you with Deep Eddy Ruby Red Grapefruit Vodka, Stoli Vanil Vodka, and a splash of Cream with a Graham Cracker Rim."
+            }
+          ]
+        },
+        {
+          "name": "Dessert Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Inniskillin Vidal Icewine, Niagara Estate",
+              "prices": [
+                {
+                  "withoutTax": 147,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 32,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Royal Tokaji Red Label 5 Puttonyos, Hungary",
+              "prices": [
+                {
+                  "withoutTax": 115,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Banfi Rosa Regale Sparkling Red, Piedmont",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vietti Moscato d'Asti, Piedmont",
+              "prices": [
+                {
+                  "withoutTax": 62,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Ports (3-oz pour)",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fonesca Bin 27 Reserve Port",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dow's 10 year Tawny Port",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dow's 20 year Tawny Port",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dow's 30 year Tawny Port",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Cognacs/Armagnacs (2-oz pour) ",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Louis XIII de Rémy Martin",
+              "prices": [
+                {
+                  "withoutTax": 400,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rémy Martin VSOP",
+              "prices": [
+                {
+                  "withoutTax": 20.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rémy Martin XO",
+              "prices": [
+                {
+                  "withoutTax": 35,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beet and Kale Salad",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spinach, Warm Bacon Vinaigrette, Goat Cheese Cream, Beet Purée, Candied Walnut (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Cream of Chicken and Asparagus Soup",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chicken Velouté, White Wine, Asparagus, Crouton (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Escargot",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Garlic Béchamel, Crispy Prosciutto, Puff Pastry (For Fish, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "House-made Ravioli",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "English Peas, Carrot Purée, Pickled Alba Mushrooms (For Egg, Fish/Shellfish, Milk, Peanut, Sesame Allergies)"
+            },
+            {
+              "title": "Prosciutto Croquettes",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pickled Onions, Herbs Gel, Ají Amarillo Aïoli (For Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            },
+            {
+              "title": "Shrimp Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Avocado Mousse, Traditional Cocktail Sauce (For Gluten/Wheat, Egg, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Char-grilled Octopus",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Herb-roasted Potatoes, Chimichurri, Chipotle-Harissa Aïoli (For Gluten/Wheat, Fish, Milk, Peanut/Tree Nut, Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Entrées",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pan-roasted Halibut",
+              "prices": [
+                {
+                  "withoutTax": 54,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Leek Vichyssoise Risotto, Pea, Citrus (For Gluten/Wheat, Egg, Peanut/Tree Nut, Sesame, Shellfish, Soy Allergies)"
+            },
+            {
+              "title": "Half Roasted Chicken",
+              "prices": [
+                {
+                  "withoutTax": 41,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White Bean Purée, Braised Cipollini Onion, Butter-poached Carrot, Roasted Mushroom, Mustard Sauce (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Filet Mignon*",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Rhubarb-Red Wine Demi-glace, Yukon Gold Potato, Braised Endive (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Our Famous Cobb Salad",
+              "prices": [
+                {
+                  "withoutTax": 30,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spit-roasted Turkey, Bacon, Egg, Tomatoes, Blue Cheese, Avocado, Classic Dressing. With Chicken $37 | With Shrimp $40 (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Seafood Fregola",
+              "prices": [
+                {
+                  "withoutTax": 51,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Steamed Clam and Mussel, Poached Scallop, Fregola Pasta, Spring Greens, Crab-Saffron Cream (For Egg, Fish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Stuffed Butternut Squash",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Potato-Chickpea-Vegetable Filling, Roasted Spring Vegetable, Mushroom-Lemongrass \"Cream\" Sauce (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut, Sesame Allergies)"
+            },
+            {
+              "title": "Braised Center-cut Short Rib",
+              "prices": [
+                {
+                  "withoutTax": 54,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hominy Purée, Roasted Vegetables, Smoky Adobo Glaze, Beef Jus (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            },
+            {
+              "title": "Fried Pork Chop",
+              "prices": [
+                {
+                  "withoutTax": 45,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Yuzu Beurre Blanc, Summer Vegetables (For Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Enhancements",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Au Gratin Potato",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Black Diamond Cheddar (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Glazed Carrots",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mint Yogurt, Pickled Onion, Dukkah Spice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Braised Wild Mushrooms",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Shallots, Tarragon, Veal Stock, Truffle Butter (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Brown Derby Original Grapefruit Cake",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Sponge Cake with Grapefruit Syrup, Grapefruit Cheesecake, and Grapefruit Jam (For Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Orange-Hazelnut Chocolate Cake",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate-Olive Oil Cake, Hazelnut Cream, Coffee Whipped Cream, Praline Cookie Crumble, Orange Panna Cotta, Chocolate Sauce (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut, Sesame Allergies)"
+            },
+            {
+              "title": "Decadent Chocolate Cake",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Cake, Raspberry Sauce, Chocolate Ganache, Fresh Raspberries (For Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            },
+            {
+              "title": "Honey Pot de Crème",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry Compote, Salted Streusel, Ginger Sponge Cake (For Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Vanilla-Fruit Cheesecake",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Cheesecake, Peach Sponge, Strawberry Panna Cotta, Streusel, Strawberry-Peach Compote, Mango Coulis, Crunchy Tuile (For Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Appetizers (à la carte)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chicken Noodle Soup",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(For Egg, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Chopped Salad",
+              "prices": [
+                {
+                  "withoutTax": 5.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Create-Your-Own Entrées (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Grilled Chicken Breast",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Grilled Seasonal Fish",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Grilled Beef Steak",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Macaroni & Cheese",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Bottled Water, or Small Minute Maid® Apple Juice (For Egg, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Vegetables",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Apple Slices",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Fresh Fruit Cup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Strawberry and Yogurt Parfait",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Vanilla Cake Bar",
+              "prices": [],
+              "pricesRange": false,
+              "description": "<p>with Chocolate Sauce and Mickey Sprinkles (For Fish/Shellfish, Peanut, and Sesame Allergies)</p>"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Desserts",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fresh Fruit Cup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Appetizers",
+        "desktop": "Appetizers"
+      },
+      {
+        "mobile": "Entrées",
+        "desktop": "Entrées"
+      },
+      {
+        "mobile": "Enhancements",
+        "desktop": "Enhancements"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Kids' Appetizers (à la carte)",
+        "desktop": "Kids' Appetizers (à la carte)"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Entrées (choose one)",
+        "desktop": "Kids' Create-Your-Own Entrées (choose one)"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Selections (choose two)",
+        "desktop": "Kids' Create-Your-Own Selections (choose two)"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      },
+      {
+        "mobile": "Featured Wines",
+        "desktop": "Featured Wines"
+      },
+      {
+        "mobile": "After Dinner Drink Flights",
+        "desktop": "After Dinner Drink Flights"
+      },
+      {
+        "mobile": "After Dinner Drinks",
+        "desktop": "After Dinner Drinks"
+      },
+      {
+        "mobile": "Dessert Wines",
+        "desktop": "Dessert Wines"
+      },
+      {
+        "mobile": "Ports (3-oz pour)",
+        "desktop": "Ports (3-oz pour)"
+      },
+      {
+        "mobile": "Cognacs/Armagnacs (2-oz pour) ",
+        "desktop": "Cognacs/Armagnacs (2-oz pour) "
+      },
+      {
+        "mobile": "Allergy-Friendly Appetizers",
+        "desktop": "Allergy-Friendly Appetizers"
+      },
+      {
+        "mobile": "Allergy-Friendly Entrées",
+        "desktop": "Allergy-Friendly Entrées"
+      },
+      {
+        "mobile": "Allergy-Friendly Enhancements",
+        "desktop": "Allergy-Friendly Enhancements"
+      },
+      {
+        "mobile": "Allergy-Friendly Desserts",
+        "desktop": "Allergy-Friendly Desserts"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Appetizers (à la carte)",
+        "desktop": "Allergy-Friendly Kids' Appetizers (à la carte)"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Create-Your-Own Entrées (choose one)",
+        "desktop": "Allergy-Friendly Kids' Create-Your-Own Entrées (choose one)"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Create-Your-Own Selections (choose two)",
+        "desktop": "Allergy-Friendly Kids' Create-Your-Own Selections (choose two)"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Desserts",
+        "desktop": "Allergy-Friendly Kids' Desserts"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Appetizers",
+        "desktop": "Appetizers"
+      },
+      {
+        "mobile": "Entrées",
+        "desktop": "Entrées"
+      },
+      {
+        "mobile": "Enhancements",
+        "desktop": "Enhancements"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Kids' Appetizers (à la carte)",
+        "desktop": "Kids' Appetizers (à la carte)"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Entrées (choose one)",
+        "desktop": "Kids' Create-Your-Own Entrées (choose one)"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Selections (choose two)",
+        "desktop": "Kids' Create-Your-Own Selections (choose two)"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      },
+      {
+        "mobile": "Featured Wines",
+        "desktop": "Featured Wines"
+      },
+      {
+        "mobile": "After Dinner Drink Flights",
+        "desktop": "After Dinner Drink Flights"
+      },
+      {
+        "mobile": "After Dinner Drinks",
+        "desktop": "After Dinner Drinks"
+      },
+      {
+        "mobile": "Dessert Wines",
+        "desktop": "Dessert Wines"
+      },
+      {
+        "mobile": "Ports (3-oz pour)",
+        "desktop": "Ports (3-oz pour)"
+      },
+      {
+        "mobile": "Cognacs/Armagnacs (2-oz pour) ",
+        "desktop": "Cognacs/Armagnacs (2-oz pour) "
+      },
+      {
+        "mobile": "Allergy-Friendly Appetizers",
+        "desktop": "Allergy-Friendly Appetizers"
+      },
+      {
+        "mobile": "Allergy-Friendly Entrées",
+        "desktop": "Allergy-Friendly Entrées"
+      },
+      {
+        "mobile": "Allergy-Friendly Enhancements",
+        "desktop": "Allergy-Friendly Enhancements"
+      },
+      {
+        "mobile": "Allergy-Friendly Desserts",
+        "desktop": "Allergy-Friendly Desserts"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Appetizers (à la carte)",
+        "desktop": "Allergy-Friendly Kids' Appetizers (à la carte)"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Create-Your-Own Entrées (choose one)",
+        "desktop": "Allergy-Friendly Kids' Create-Your-Own Entrées (choose one)"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Create-Your-Own Selections (choose two)",
+        "desktop": "Allergy-Friendly Kids' Create-Your-Own Selections (choose two)"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Desserts",
+        "desktop": "Allergy-Friendly Kids' Desserts"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "The Hollywood Brown Derby",
+      "id": "90002245"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "412566192"
+        },
+        {
+          "productId": "19597310"
+        },
+        {
+          "productId": "411646522"
+        },
+        {
+          "productId": "412588210"
+        },
+        {
+          "productId": "412270436"
+        },
+        {
+          "productId": "16956444"
+        },
+        {
+          "productId": "412633724"
+        },
+        {
+          "productId": "19597314"
+        },
+        {
+          "productId": "412477008"
+        },
+        {
+          "productId": "411791867"
+        },
+        {
+          "productId": "16956462"
+        },
+        {
+          "productId": "412566356"
+        },
+        {
+          "productId": "412570850"
+        },
+        {
+          "productId": "412477010"
+        },
+        {
+          "productId": "412633726"
+        },
+        {
+          "productId": "411646518"
+        },
+        {
+          "productId": "412570867"
+        },
+        {
+          "productId": "412270439"
+        },
+        {
+          "productId": "17741562"
+        },
+        {
+          "productId": "16956513"
+        },
+        {
+          "productId": "411821551"
+        },
+        {
+          "productId": "412633984"
+        },
+        {
+          "productId": "412633979"
+        },
+        {
+          "productId": "16956604"
+        },
+        {
+          "productId": "16956605"
+        },
+        {
+          "productId": "17235042"
+        },
+        {
+          "productId": "17235040"
+        },
+        {
+          "productId": "16956621"
+        },
+        {
+          "productId": "411807977"
+        },
+        {
+          "productId": "16956577"
+        },
+        {
+          "productId": "18484553"
+        },
+        {
+          "productId": "16956628"
+        },
+        {
+          "productId": "16956468"
+        },
+        {
+          "productId": "16956631"
+        },
+        {
+          "productId": "412476992"
+        },
+        {
+          "productId": "16956564"
+        },
+        {
+          "productId": "17922345"
+        },
+        {
+          "productId": "17922351"
+        },
+        {
+          "productId": "17923103"
+        },
+        {
+          "productId": "17924164"
+        },
+        {
+          "productId": "19577516"
+        },
+        {
+          "productId": "19577514"
+        },
+        {
+          "productId": "19577546"
+        },
+        {
+          "productId": "19577544"
+        },
+        {
+          "productId": "19577553"
+        },
+        {
+          "productId": "17922573"
+        },
+        {
+          "productId": "17922347"
+        },
+        {
+          "productId": "17923216"
+        },
+        {
+          "productId": "411543087"
+        },
+        {
+          "productId": "19577556"
+        },
+        {
+          "productId": "19577555"
+        },
+        {
+          "productId": "19577559"
+        },
+        {
+          "productId": "19577558"
+        },
+        {
+          "productId": "19577575"
+        },
+        {
+          "productId": "19577574"
+        },
+        {
+          "productId": "19577579"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "412566202"
+        },
+        {
+          "productId": "412477034"
+        },
+        {
+          "productId": "411646523"
+        },
+        {
+          "productId": "412353413"
+        },
+        {
+          "productId": "412270438"
+        },
+        {
+          "productId": "19611137"
+        },
+        {
+          "productId": "412633725"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611148"
+        },
+        {
+          "productId": "412477037"
+        },
+        {
+          "productId": "411793126"
+        },
+        {
+          "productId": "19611149"
+        },
+        {
+          "productId": "412566359"
+        },
+        {
+          "productId": "412570866"
+        },
+        {
+          "productId": "412477039"
+        },
+        {
+          "productId": "412633728"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "411646517"
+        },
+        {
+          "productId": "412570868"
+        },
+        {
+          "productId": "412270440"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611312"
+        },
+        {
+          "productId": "19611311"
+        },
+        {
+          "productId": "411821646"
+        },
+        {
+          "productId": "412633986"
+        },
+        {
+          "productId": "412633981"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611119"
+        },
+        {
+          "productId": "19611118"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611120"
+        },
+        {
+          "productId": "19611121"
+        },
+        {
+          "productId": "19611122"
+        },
+        {
+          "productId": "411807979"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611130"
+        },
+        {
+          "productId": "19611131"
+        },
+        {
+          "productId": "411827828"
+        },
+        {
+          "productId": "19611126"
+        },
+        {
+          "productId": "19611125"
+        },
+        {
+          "productId": "412476998"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "411404469"
+        }
+      ],
+      "1": [
+        {
+          "productId": "412566192"
+        },
+        {
+          "productId": "19597310"
+        },
+        {
+          "productId": "411646522"
+        },
+        {
+          "productId": "412588210"
+        },
+        {
+          "productId": "412270436"
+        },
+        {
+          "productId": "16956444"
+        },
+        {
+          "productId": "412633724"
+        },
+        {
+          "productId": "19597314"
+        },
+        {
+          "productId": "412477008"
+        },
+        {
+          "productId": "411791867"
+        },
+        {
+          "productId": "16956462"
+        },
+        {
+          "productId": "412566356"
+        },
+        {
+          "productId": "412570850"
+        },
+        {
+          "productId": "412477010"
+        },
+        {
+          "productId": "412633726"
+        },
+        {
+          "productId": "411646518"
+        },
+        {
+          "productId": "412570867"
+        },
+        {
+          "productId": "412270439"
+        },
+        {
+          "productId": "17741562"
+        },
+        {
+          "productId": "16956513"
+        },
+        {
+          "productId": "411821551"
+        },
+        {
+          "productId": "412633984"
+        },
+        {
+          "productId": "412633979"
+        },
+        {
+          "productId": "16956604"
+        },
+        {
+          "productId": "16956605"
+        },
+        {
+          "productId": "17235042"
+        },
+        {
+          "productId": "17235040"
+        },
+        {
+          "productId": "16956621"
+        },
+        {
+          "productId": "411807977"
+        },
+        {
+          "productId": "16956577"
+        },
+        {
+          "productId": "18484553"
+        },
+        {
+          "productId": "16956628"
+        },
+        {
+          "productId": "16956468"
+        },
+        {
+          "productId": "16956631"
+        },
+        {
+          "productId": "412476992"
+        },
+        {
+          "productId": "16956564"
+        },
+        {
+          "productId": "17922345"
+        },
+        {
+          "productId": "17922351"
+        },
+        {
+          "productId": "17923103"
+        },
+        {
+          "productId": "17924164"
+        },
+        {
+          "productId": "19577516"
+        },
+        {
+          "productId": "19577514"
+        },
+        {
+          "productId": "19577546"
+        },
+        {
+          "productId": "19577544"
+        },
+        {
+          "productId": "19577553"
+        },
+        {
+          "productId": "17922573"
+        },
+        {
+          "productId": "17922347"
+        },
+        {
+          "productId": "17923216"
+        },
+        {
+          "productId": "411543087"
+        },
+        {
+          "productId": "19577556"
+        },
+        {
+          "productId": "19577555"
+        },
+        {
+          "productId": "19577559"
+        },
+        {
+          "productId": "19577558"
+        },
+        {
+          "productId": "19577575"
+        },
+        {
+          "productId": "19577574"
+        },
+        {
+          "productId": "19577579"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "412566202"
+        },
+        {
+          "productId": "412477034"
+        },
+        {
+          "productId": "411646523"
+        },
+        {
+          "productId": "412353413"
+        },
+        {
+          "productId": "412270438"
+        },
+        {
+          "productId": "19611137"
+        },
+        {
+          "productId": "412633725"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611148"
+        },
+        {
+          "productId": "412477037"
+        },
+        {
+          "productId": "411793126"
+        },
+        {
+          "productId": "19611149"
+        },
+        {
+          "productId": "412566359"
+        },
+        {
+          "productId": "412570866"
+        },
+        {
+          "productId": "412477039"
+        },
+        {
+          "productId": "412633728"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "411646517"
+        },
+        {
+          "productId": "412570868"
+        },
+        {
+          "productId": "412270440"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611312"
+        },
+        {
+          "productId": "19611311"
+        },
+        {
+          "productId": "411821646"
+        },
+        {
+          "productId": "412633986"
+        },
+        {
+          "productId": "412633981"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611119"
+        },
+        {
+          "productId": "19611118"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611120"
+        },
+        {
+          "productId": "19611121"
+        },
+        {
+          "productId": "19611122"
+        },
+        {
+          "productId": "411807979"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611130"
+        },
+        {
+          "productId": "19611131"
+        },
+        {
+          "productId": "411827828"
+        },
+        {
+          "productId": "19611126"
+        },
+        {
+          "productId": "19611125"
+        },
+        {
+          "productId": "412476998"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "411404469"
+        }
+      ]
+    }
+  }
+}

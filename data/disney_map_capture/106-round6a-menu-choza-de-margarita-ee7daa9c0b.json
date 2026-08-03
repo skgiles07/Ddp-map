@@ -1,0 +1,424 @@
+{
+  "name": "Choza de Margarita",
+  "location": "EPCOT, World Showcase",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Bar/Lounge",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Signature Margaritas \"On the Rocks\"",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Top Shelf Clásica",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Centinela reposado tequila, Alma Finca orange liqueur, fresh lime juice, agave, dried chile salt rim"
+            },
+            {
+              "title": "The Cucumber",
+              "prices": [
+                {
+                  "withoutTax": 18.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tromba blanco tequila, fresh cucumber and lime juice, Abasolo corn whiskey, agave, Rhubarb bitters, Tajín chile-lime powder rim"
+            },
+            {
+              "title": "Blood Orange",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blanco tequila, blood orange-black currant liqueur, Ilegal reposado mezcal, Tajín chile-lime powder rim"
+            },
+            {
+              "title": "Seasonal Margarita",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ask a Cast Member for details"
+            }
+          ]
+        },
+        {
+          "name": "Frozen Margaritas",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Classic Lime",
+              "prices": [
+                {
+                  "withoutTax": 14.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mango Loco",
+              "prices": [
+                {
+                  "withoutTax": 14.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Strawberry",
+              "prices": [
+                {
+                  "withoutTax": 14.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fiesta",
+              "prices": [
+                {
+                  "withoutTax": 15.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A combination of strawberry, classic lime, and mango loco"
+            },
+            {
+              "title": "El Jefe",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A grand expression of our traditional Fiesta Margarita"
+            }
+          ]
+        },
+        {
+          "name": "Cerveza",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Dos Equis",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden pilsner-style beer"
+            },
+            {
+              "title": "Hercules",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lágermaiz craft beer made with Mexican corn"
+            },
+            {
+              "title": "Michelada",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lágermaiz craft beer, served with mix of Clamato (tomato-clam), lime and orange juice, salsa Valentina, Maggi, soy, and Worcestershire sauce"
+            },
+            {
+              "title": "Dos Hombres Michelada",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dos Hombres mezcal, Lágermaiz beer and housemade michelada"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI® Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Conga",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mexican Fruit Punch made from Orange, Pineapple and Lemon Juice"
+            }
+          ]
+        },
+        {
+          "name": "Food",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tacos de Cochinita",
+              "prices": [
+                {
+                  "withoutTax": 12.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tender Citrus marinated Pulled Pork served on Corn Tortillas with pickled Red Onions and a Mango Habanero Relish with a side of Corn Esquites"
+            },
+            {
+              "title": "Empanada de Barbacoa",
+              "prices": [
+                {
+                  "withoutTax": 13.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Empanadas filled with Barbacoa Beef, topped with Chipotle Sauce, Crema Mexicana and Queso Fresco. Served with a side of Corn Esquites"
+            },
+            {
+              "title": "Pastor Quesadillas",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Flour tortillas filled with pork pastor, Monterey Jack cheese, and pineapple relish with sides of salsa verde and esquites"
+            },
+            {
+              "title": "Tostada de Pollo",
+              "prices": [
+                {
+                  "withoutTax": 11.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Crispy Corn Tortillas with Black Beans and Chipotle Chicken. Garnished with Crema Mexicana, Shredded Romaine Lettuce and Queso Cotija"
+            }
+          ]
+        },
+        {
+          "name": "Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guacamole",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "topped with Mango and Pumpkin Seeds. Served with Tortilla Chips"
+            },
+            {
+              "title": "Elote ",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sweet Corn on the Cob smothered with Chipotle Aioli, Queso Cotija and Tajin Chile-lime Powder"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Signature Margaritas \"On the Rocks\"",
+        "desktop": "Signature Margaritas \"On the Rocks\""
+      },
+      {
+        "mobile": "Frozen Margaritas",
+        "desktop": "Frozen Margaritas"
+      },
+      {
+        "mobile": "Cerveza",
+        "desktop": "Cerveza"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      },
+      {
+        "mobile": "Food",
+        "desktop": "Food"
+      },
+      {
+        "mobile": "Sides",
+        "desktop": "Sides"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Choza de Margarita",
+      "id": "18463740"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "19141150"
+        },
+        {
+          "productId": "19201976"
+        },
+        {
+          "productId": "411803967"
+        },
+        {
+          "productId": "411911428"
+        },
+        {
+          "productId": "18463743"
+        },
+        {
+          "productId": "18464431"
+        },
+        {
+          "productId": "18464430"
+        },
+        {
+          "productId": "18674116"
+        },
+        {
+          "productId": "411803968"
+        },
+        {
+          "productId": "19141241"
+        },
+        {
+          "productId": "411803969"
+        },
+        {
+          "productId": "18464432"
+        },
+        {
+          "productId": "19141240"
+        },
+        {
+          "productId": "18674121"
+        },
+        {
+          "productId": "18464436"
+        },
+        {
+          "productId": "18464437"
+        },
+        {
+          "productId": "18464438"
+        },
+        {
+          "productId": "412176599"
+        },
+        {
+          "productId": "19141247"
+        },
+        {
+          "productId": "18464434"
+        },
+        {
+          "productId": "19141262"
+        }
+      ]
+    }
+  }
+}

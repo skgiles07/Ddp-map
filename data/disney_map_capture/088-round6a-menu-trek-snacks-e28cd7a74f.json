@@ -1,0 +1,417 @@
+{
+  "name": "Trek Snacks",
+  "location": "Disney's Animal Kingdom Theme Park, Asia",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Snack",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Trek Snacks - Snacks",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Popcorn Served in a Souvenir Popcorn Bucket",
+              "prices": [
+                {
+                  "withoutTax": 14.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Popcorn Bucket Refill",
+              "prices": [
+                {
+                  "withoutTax": 2.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Valid for length of stay"
+            },
+            {
+              "title": "Popcorn",
+              "prices": [
+                {
+                  "withoutTax": 5.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Popcorn in a Pumbaa Popcorn Bucket",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mickey-shaped Pretzel",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Cheese Sauce"
+            },
+            {
+              "title": "Assorted Chips",
+              "prices": [
+                {
+                  "withoutTax": 3.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "PB&J Uncrustable",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Trek Snacks - Desserts",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey's Premium Ice Cream Bar",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mickey's Premium Ice Cream Sandwich ",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Outshine® Strawberry Fruit Bar ",
+              "prices": [
+                {
+                  "withoutTax": 5.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frozen Lemonade Cup",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frozen Strawberry-Lemonade Cup",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frozen Banana",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate-covered with Nuts"
+            }
+          ]
+        },
+        {
+          "name": "Trek Snacks - All Day Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Beverages",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI® Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid® Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Simply® Orange",
+              "prices": [
+                {
+                  "withoutTax": 5.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Milk",
+              "prices": [
+                {
+                  "withoutTax": 4.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee™",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "regular or decaf"
+            },
+            {
+              "title": "Hot Cocoa",
+              "prices": [
+                {
+                  "withoutTax": 4.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Thirsty River Bar - Beverages with Alcohol",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kona Longboard Island Lager",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tiger Eye Gold Ale ",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tropical Fruit Malt with spicy Hops"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Trek Snacks - Snacks",
+        "desktop": "Trek Snacks - Snacks"
+      },
+      {
+        "mobile": "Trek Snacks - Desserts",
+        "desktop": "Trek Snacks - Desserts"
+      },
+      {
+        "mobile": "Trek Snacks - All Day Beverages",
+        "desktop": "Trek Snacks - All Day Beverages"
+      },
+      {
+        "mobile": "Thirsty River Bar - Beverages with Alcohol",
+        "desktop": "Thirsty River Bar - Beverages with Alcohol"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Trek Snacks",
+      "id": "19625154"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "411504484"
+        },
+        {
+          "productId": "18639689"
+        },
+        {
+          "productId": "18639690"
+        },
+        {
+          "productId": "18552360"
+        },
+        {
+          "productId": "18507989"
+        },
+        {
+          "productId": "18306585"
+        },
+        {
+          "productId": "18507990"
+        },
+        {
+          "productId": "18306610"
+        },
+        {
+          "productId": "18306611"
+        },
+        {
+          "productId": "18306620"
+        },
+        {
+          "productId": "18306606"
+        },
+        {
+          "productId": "18306607"
+        },
+        {
+          "productId": "18306613"
+        },
+        {
+          "productId": "18306584"
+        },
+        {
+          "productId": "18306599"
+        },
+        {
+          "productId": "17469552"
+        },
+        {
+          "productId": "17469553"
+        },
+        {
+          "productId": "18306622"
+        },
+        {
+          "productId": "18306588"
+        },
+        {
+          "productId": "18306605"
+        },
+        {
+          "productId": "411413911"
+        },
+        {
+          "productId": "412470523"
+        }
+      ]
+    }
+  }
+}

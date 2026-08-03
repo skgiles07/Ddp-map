@@ -1,0 +1,379 @@
+{
+  "name": "Thirsty River Bar",
+  "location": "Disney's Animal Kingdom Theme Park, Asia",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "experience": "Bar/Lounge",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Thirsty River Bar - All Day - Draft Beer and Hard Tea",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tampa Bay Old Elephant Foot IPA",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Safari Amber",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "3 Daughters Blood Orange Hard Cider",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Thirsty River Bar - Bottled and Canned Beer and Hard Seltzer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kona Longboard Island Lager",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tiger Eye Gold Ale ",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tropical Fruit Malt with spicy Hops"
+            },
+            {
+              "title": "Funky Buddha Floridian Hefeweizen",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Surfside Iced Tea & Lemonade + Vodka Hard Tea",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "High Noon Pineapple Vodka Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Thirsty River Bar - Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Beyond Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kara Tara Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Thirsty River Bar - Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pink Lotus",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Premium Lemonade, Strawberry, and Lychee"
+            },
+            {
+              "title": "DASANI® Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Thirsty River Bar - Snacks",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey-shaped Pretzel",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Cheese Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Thirsty River Bar - Specialty Cocktails",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Malawi Mango Margarita ",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sango African Agave Spirit and Cointreau Liqueur blended with Mango and Lime"
+            },
+            {
+              "title": "Khumbu Frozen Icefall",
+              "prices": [
+                {
+                  "withoutTax": 15.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi Silver with Coconut and Raspberry Purée"
+            },
+            {
+              "title": "Yeti Sunset",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jack Daniel's Tennessee Whiskey, Strawberry, Lychee, and Minute Maid® Premium Lemonade"
+            },
+            {
+              "title": "Himalayan Ghost",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito's Handmade Vodka, Guava, and Minute Maid® Premium Lemonade"
+            },
+            {
+              "title": "Shimmering Green Margarita",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Casamigos Reposado Tequila, Ancho Reyes Chile Liqueur, DOLE® Pineapple Juice, and Lime Juice"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Thirsty River Bar - All Day - Draft Beer and Hard Tea",
+        "desktop": "Thirsty River Bar - All Day - Draft Beer and Hard Tea"
+      },
+      {
+        "mobile": "Thirsty River Bar - Bottled and Canned Beer and Hard Seltzer",
+        "desktop": "Thirsty River Bar - Bottled and Canned Beer and Hard Seltzer"
+      },
+      {
+        "mobile": "Thirsty River Bar - Wine",
+        "desktop": "Thirsty River Bar - Wine"
+      },
+      {
+        "mobile": "Thirsty River Bar - Beverages",
+        "desktop": "Thirsty River Bar - Beverages"
+      },
+      {
+        "mobile": "Thirsty River Bar - Snacks",
+        "desktop": "Thirsty River Bar - Snacks"
+      },
+      {
+        "mobile": "Thirsty River Bar - Specialty Cocktails",
+        "desktop": "Thirsty River Bar - Specialty Cocktails"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Thirsty River Bar",
+      "id": "18076996"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "411334445"
+        },
+        {
+          "productId": "411334439"
+        },
+        {
+          "productId": "412694568"
+        },
+        {
+          "productId": "411413911"
+        },
+        {
+          "productId": "412470523"
+        },
+        {
+          "productId": "18306645"
+        },
+        {
+          "productId": "412470521"
+        },
+        {
+          "productId": "411334455"
+        },
+        {
+          "productId": "412470489"
+        },
+        {
+          "productId": "412470490"
+        },
+        {
+          "productId": "18306633"
+        },
+        {
+          "productId": "18306599"
+        },
+        {
+          "productId": "18507989"
+        },
+        {
+          "productId": "412470470"
+        },
+        {
+          "productId": "18306603"
+        },
+        {
+          "productId": "411580889"
+        },
+        {
+          "productId": "18306628"
+        },
+        {
+          "productId": "412470471"
+        }
+      ]
+    }
+  }
+}

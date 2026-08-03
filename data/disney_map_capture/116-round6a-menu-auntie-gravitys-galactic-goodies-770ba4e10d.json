@@ -1,0 +1,312 @@
+{
+  "name": "Auntie Gravity's Galactic Goodies",
+  "location": "Magic Kingdom Park, Tomorrowland",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Snack",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Floats",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Soft Serve with your choice of Assorted Coca-Cola® Fountain Beverages"
+            },
+            {
+              "title": "Chocolate-Salted Caramel Cold Brew Float",
+              "prices": [
+                {
+                  "withoutTax": 7.19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Joffrey's™ Cold Brew Coffee with Chocolate Soft-serve and Salted Caramel Sauce"
+            },
+            {
+              "title": "Soft-serve Cup",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, Salted Caramel, or Swirl. Large Soft-serve Cup 6.99"
+            },
+            {
+              "title": "Churro",
+              "prices": [
+                {
+                  "withoutTax": 5.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Churro with Chocolate Dipping Sauce ",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hand-dipped Mickey's Premium Ice Cream Bar",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with M&M’S® Milk Chocolate Minis"
+            }
+          ]
+        },
+        {
+          "name": "Featured Shakes",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Space Ranger Float",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "DOLE Whip® Lime and Vanilla Soft-serve Swirl, Sprite®, Green Apple Pearls, Sprinkles, and a Chocolate Piece"
+            },
+            {
+              "title": "Zurg Overload Shake",
+              "prices": [
+                {
+                  "withoutTax": 9.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Shake with Cherry Coating, Marshmallow Whipped Cream, Sprinkles, and a Chocolate Piece"
+            },
+            {
+              "title": "Cherry Limeade Float",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "DOLE Whip® Lime with Sprite®, Grenadine, and a Cherry"
+            },
+            {
+              "title": "Churro Shake",
+              "prices": [
+                {
+                  "withoutTax": 9.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Shake topped with Whipped Cream, Salted Caramel Sauce, and Churro Pieces"
+            }
+          ]
+        },
+        {
+          "name": "Smoothies and Shakes",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Vanilla Shake",
+              "prices": [
+                {
+                  "withoutTax": 8.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chocolate Shake",
+              "prices": [
+                {
+                  "withoutTax": 8.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverages",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI® Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Joffrey’s™ Cold Brew Coffee ",
+              "prices": [
+                {
+                  "withoutTax": 5.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Sweet Cream. Large Joffrey’s™ Cold Brew Coffee 6.49"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Featured Shakes",
+        "desktop": "Featured Shakes"
+      },
+      {
+        "mobile": "Smoothies and Shakes",
+        "desktop": "Smoothies and Shakes"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Auntie Gravity's Galactic Goodies",
+      "id": "90002444"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "16992382"
+        },
+        {
+          "productId": "412644112"
+        },
+        {
+          "productId": "16992380"
+        },
+        {
+          "productId": "411916071"
+        },
+        {
+          "productId": "411916072"
+        },
+        {
+          "productId": "412471195"
+        },
+        {
+          "productId": "412644113"
+        },
+        {
+          "productId": "412644114"
+        },
+        {
+          "productId": "412644111"
+        },
+        {
+          "productId": "412644109"
+        },
+        {
+          "productId": "412168271"
+        },
+        {
+          "productId": "17940786"
+        },
+        {
+          "productId": "16992408"
+        },
+        {
+          "productId": "16992412"
+        },
+        {
+          "productId": "411916073"
+        }
+      ]
+    }
+  }
+}

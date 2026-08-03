@@ -1,0 +1,1689 @@
+{
+  "name": "Hollywood & Vine",
+  "location": "Disney's Hollywood Studios, Echo Lake",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "isActive": true
+    },
+    {
+      "name": "Lunch",
+      "label": "Lunch"
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Breakfast",
+      "label": "Breakfast",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Hollywood & Vine Breakfast Pricing",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$49 per adult, plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "$33 per child (Ages 3-9), plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Breakfast Offerings (Partial Listing)",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Pastries",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Waffles",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bananas Fosters French Toast",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Potato Casserole",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bacon and Sausage",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Bread Pudding",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pancakes topped with Seasonal Fruit",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Plant-based Frittata with Tomato Jam (plant-based)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Eggs Benedict",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Oatmeal",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Salmon and Bagel Casserole",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Omelets",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cinnamon Buns",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Spicy Chicken and Doughnut",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Yogurt Parfait",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Specialty Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Enchanted Grove Lime Splash",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint"
+            },
+            {
+              "title": "Enchanting Ember Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Premium Lemonade, Strawberry, and Hot Honey"
+            },
+            {
+              "title": "So Many Wishes",
+              "prices": [
+                {
+                  "withoutTax": 6.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pomegranate Green Tea, Hibiscus, Lemon, and a dash of Star Dust"
+            },
+            {
+              "title": "Joffrey’s™ Cold Brew Coffee",
+              "prices": [
+                {
+                  "withoutTax": 5.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Additional Flavors Available"
+            }
+          ]
+        },
+        {
+          "name": "Breakfast Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Legacy Mimosa",
+              "prices": [
+                {
+                  "withoutTax": 20.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Uncle Nearest 1884 Small Batch Tennessee Whiskey, Grand Marnier Liqueur, Chateau Ste. Michelle Sparkling Wine, and Minute Maid® Orange Juice"
+            },
+            {
+              "title": "Bloody Mary",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tito’s Handmade Vodka, House-made Bloody Mary Mix"
+            },
+            {
+              "title": "Cold Brew Martini",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kōloa Kauaʻi Cacao Rum, Tia Maria Liqueur, Joffrey’s™ Cold Brew Coffee"
+            },
+            {
+              "title": "Marsuret Prosecco, Valdobbiadene Superior Brut NV",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dry and fresh, elegant and complex, golden apple and hints of wild flowers aroma"
+            }
+          ]
+        },
+        {
+          "name": "Breakfast - Allergy-Friendly Offerings",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Allergen Guide available upon arrival to the location",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Hollywood & Vine Lunch and Dinner Buffet Pricing",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$64 per adult, plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "$44 per child (Ages 3-9), plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Hollywood & Vine Buffet Offerings (Partial Listing)",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Breads",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beet Salad (Plant-based)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pasta Salad (Plant-based)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peel-n-Eat Shrimp",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sour Cream and Chive Whipped Potato",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caramelized Brussels Sprouts",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Chili Aïoli Salmon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Meatballs with Mushroom Sauce and Ribbon Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Oven-roasted Herbed Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Roasted Mushroom Farro Risotto (Plant-based)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Crispy Tofu with Asian Glaze (Plant-based)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Shepherd’s Pie with Ground Beef",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sauteed Green Beans",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Olive Oil Herbed-crushed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Smoked Ham",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Flank Steak with Chimichurri",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seafood Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Offerings",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Allergen Guide available upon arrival to the location",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Featured Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Ultimate Long Island Iced Tea",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardí Superior Rum, Tito’s Handmade Vodka, Hendrick’s Gin, Corazón Blanco Tequila, Cointreau Liqueur, and Sweet-and-Sour"
+            },
+            {
+              "title": "Celebrity Margarita",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jose Cuervo Tradicional Tequila, Cointreau Liqueur, Lime Juice, and Sweet-and-Sour"
+            },
+            {
+              "title": "Enchanted Grove Lime Splash",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint"
+            },
+            {
+              "title": "Enchanting Ember Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Premium Lemonade, Strawberry, and Hot Honey"
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coconut Gimlet",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick’s Gin, Coconut, Lime, Cardamon Bitters"
+            },
+            {
+              "title": "Island Fusion Punch",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mount Gay Eclipse Rum, Minute Maid® Passion Fruit Orange Guava Juice, DOLE® Pineapple Juice, Lime Juice"
+            },
+            {
+              "title": "Patrón Platinum Margarita",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Patrón Silver Tequila, Cointreu Liqueur, Lime Juice, Sweet-and-Sour"
+            },
+            {
+              "title": "Ultimate Long Island Iced Tea",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardí Superior Rum, Tito’s Handmade Vodka, Hendrick’s Gin, Corazón Blanco Tequila, Cointreau Liqueur, and Sweet-and-Sour"
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Marsuret Prosecco, Valdobbiadene Superior Brut NV",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dry and fresh, elegant and complex, golden apple and hints of wild flowers aroma"
+            },
+            {
+              "title": "King Estate Pinot Gris, Willamette Valley ",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kim Crawford Sauvignon Blanc, Marlborough",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fess Parker Chardonnay, Santa Barbara County",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "MacMurray Estate Vineyards Pinot Noir, Central Coast",
+              "prices": [
+                {
+                  "withoutTax": 74,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Decoy by Duckhorn Merlot, Sonoma County",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Louis M. Martini Cabernet Sauvignon, Sonoma County",
+              "prices": [
+                {
+                  "withoutTax": 98,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beer, Hard Cider, & Hard Seltzer ($9.25 - $11.75)",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bud Light Pale Lager - St. Louis, MO",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Miller Lite Lager - Milwaukee, WI",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Michelob Ultra Lager - St. Louis, MO - Draft",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stella Artois Lager - Belgium",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corona Extra Lager - Mexico ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Yuengling Traditional Lager - Pottsville, PA - Draft",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Schöfferhofer Grapefruit Hefeweizen - Germany ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blue Moon Belgian White Ale - Golden, CO",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cigar City Jai Alai IPA - Tampa, FL - Draft",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Samuel Adams Seasonal - Boston, MA - Draft",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "White Claw Black Cherry Hard Seltzer - Chicago, IL",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Character Dining",
+      "serviceStyle": "Buffet",
+      "groups": [
+        {
+          "name": "Hollywood & Vine Lunch and Dinner Buffet Pricing",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$64 per adult, plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "$44 per child (Ages 3-9), plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Hollywood & Vine Buffet Offerings (Partial Listing)",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Breads",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Beet Salad (Plant-based)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pasta Salad (Plant-based)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peel-n-Eat Shrimp",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sour Cream and Chive Whipped Potato",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caramelized Brussels Sprouts",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Chili Aïoli Salmon",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Meatballs with Mushroom Sauce and Ribbon Pasta",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Oven-roasted Herbed Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Roasted Mushroom Farro Risotto (Plant-based)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Crispy Tofu with Asian Glaze (Plant-based)",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Shepherd’s Pie with Ground Beef",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sauteed Green Beans",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Olive Oil Herbed-crushed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Smoked Ham",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Flank Steak with Chimichurri",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seafood Rice",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Offerings",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Allergen Guide available upon arrival to the location",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Featured Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Ultimate Long Island Iced Tea",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardí Superior Rum, Tito’s Handmade Vodka, Hendrick’s Gin, Corazón Blanco Tequila, Cointreau Liqueur, and Sweet-and-Sour"
+            },
+            {
+              "title": "Celebrity Margarita",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jose Cuervo Tradicional Tequila, Cointreau Liqueur, Lime Juice, and Sweet-and-Sour"
+            },
+            {
+              "title": "Enchanted Grove Lime Splash",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint"
+            },
+            {
+              "title": "Enchanting Ember Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Premium Lemonade, Strawberry, and Hot Honey"
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coconut Gimlet",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick’s Gin, Coconut, Lime, Cardamon Bitters"
+            },
+            {
+              "title": "Island Fusion Punch",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mount Gay Eclipse Rum, Minute Maid® Passion Fruit Orange Guava Juice, DOLE® Pineapple Juice, Lime Juice"
+            },
+            {
+              "title": "Patrón Platinum Margarita",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Patrón Silver Tequila, Cointreu Liqueur, Lime Juice, Sweet-and-Sour"
+            },
+            {
+              "title": "Ultimate Long Island Iced Tea",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardí Superior Rum, Tito’s Handmade Vodka, Hendrick’s Gin, Corazón Blanco Tequila, Cointreau Liqueur, and Sweet-and-Sour"
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Marsuret Prosecco, Valdobbiadene Superior Brut NV",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dry and fresh, elegant and complex, golden apple and hints of wild flowers aroma"
+            },
+            {
+              "title": "King Estate Pinot Gris, Willamette Valley ",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kim Crawford Sauvignon Blanc, Marlborough",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fess Parker Chardonnay, Santa Barbara County",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "MacMurray Estate Vineyards Pinot Noir, Central Coast",
+              "prices": [
+                {
+                  "withoutTax": 74,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Decoy by Duckhorn Merlot, Sonoma County",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Louis M. Martini Cabernet Sauvignon, Sonoma County",
+              "prices": [
+                {
+                  "withoutTax": 98,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beer, Hard Cider, & Hard Seltzer ($9.25 - $11.75)",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bud Light Pale Lager - St. Louis, MO",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Miller Lite Lager - Milwaukee, WI",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Michelob Ultra Lager - St. Louis, MO - Draft",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stella Artois Lager - Belgium",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corona Extra Lager - Mexico ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Yuengling Traditional Lager - Pottsville, PA - Draft",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Schöfferhofer Grapefruit Hefeweizen - Germany ",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blue Moon Belgian White Ale - Golden, CO",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cigar City Jai Alai IPA - Tampa, FL - Draft",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Samuel Adams Seasonal - Boston, MA - Draft",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Angry Orchard Crisp Apple Hard Cider - Cincinnati, OH",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "White Claw Black Cherry Hard Seltzer - Chicago, IL",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Hollywood & Vine Breakfast Pricing",
+        "desktop": "Hollywood & Vine Breakfast Pricing"
+      },
+      {
+        "mobile": "Breakfast Offerings (Partial Listing)",
+        "desktop": "Breakfast Offerings (Partial Listing)"
+      },
+      {
+        "mobile": "Non-Alcoholic Specialty Beverages",
+        "desktop": "Non-Alcoholic Specialty Beverages"
+      },
+      {
+        "mobile": "Breakfast Cocktails",
+        "desktop": "Breakfast Cocktails"
+      },
+      {
+        "mobile": "Breakfast - Allergy-Friendly Offerings",
+        "desktop": "Breakfast - Allergy-Friendly Offerings"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Hollywood & Vine Lunch and Dinner Buffet Pricing",
+        "desktop": "Hollywood & Vine Lunch and Dinner Buffet Pricing"
+      },
+      {
+        "mobile": "Hollywood & Vine Buffet Offerings (Partial Listing)",
+        "desktop": "Hollywood & Vine Buffet Offerings (Partial Listing)"
+      },
+      {
+        "mobile": "Allergy-Friendly Offerings",
+        "desktop": "Allergy-Friendly Offerings"
+      },
+      {
+        "mobile": "Featured Beverages",
+        "desktop": "Featured Beverages"
+      },
+      {
+        "mobile": "Cocktails",
+        "desktop": "Cocktails"
+      },
+      {
+        "mobile": "White Wine",
+        "desktop": "White Wine"
+      },
+      {
+        "mobile": "Red Wine",
+        "desktop": "Red Wine"
+      },
+      {
+        "mobile": "Beer, Hard Cider, & Hard Seltzer ($9.25 - $11.75)",
+        "desktop": "Beer, Hard Cider, & Hard Seltzer ($9.25 - $11.75)"
+      }
+    ],
+    "2": [
+      {
+        "mobile": "Hollywood & Vine Lunch and Dinner Buffet Pricing",
+        "desktop": "Hollywood & Vine Lunch and Dinner Buffet Pricing"
+      },
+      {
+        "mobile": "Hollywood & Vine Buffet Offerings (Partial Listing)",
+        "desktop": "Hollywood & Vine Buffet Offerings (Partial Listing)"
+      },
+      {
+        "mobile": "Allergy-Friendly Offerings",
+        "desktop": "Allergy-Friendly Offerings"
+      },
+      {
+        "mobile": "Featured Beverages",
+        "desktop": "Featured Beverages"
+      },
+      {
+        "mobile": "Cocktails",
+        "desktop": "Cocktails"
+      },
+      {
+        "mobile": "White Wine",
+        "desktop": "White Wine"
+      },
+      {
+        "mobile": "Red Wine",
+        "desktop": "Red Wine"
+      },
+      {
+        "mobile": "Beer, Hard Cider, & Hard Seltzer ($9.25 - $11.75)",
+        "desktop": "Beer, Hard Cider, & Hard Seltzer ($9.25 - $11.75)"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Hollywood & Vine",
+      "id": "90001744"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "411327769"
+        },
+        {
+          "productId": "411327768"
+        },
+        {
+          "productId": "411788001"
+        },
+        {
+          "productId": "411788000"
+        },
+        {
+          "productId": "411787999"
+        },
+        {
+          "productId": "411787998"
+        },
+        {
+          "productId": "411787997"
+        },
+        {
+          "productId": "411787995"
+        },
+        {
+          "productId": "412345173"
+        },
+        {
+          "productId": "411787996"
+        },
+        {
+          "productId": "411787994"
+        },
+        {
+          "productId": "411787993"
+        },
+        {
+          "productId": "411787992"
+        },
+        {
+          "productId": "411787990"
+        },
+        {
+          "productId": "411787989"
+        },
+        {
+          "productId": "411787988"
+        },
+        {
+          "productId": "411787987"
+        },
+        {
+          "productId": "412615800"
+        },
+        {
+          "productId": "412615802"
+        },
+        {
+          "productId": "412250130"
+        },
+        {
+          "productId": "412473531"
+        },
+        {
+          "productId": "412250131"
+        },
+        {
+          "productId": "412250132"
+        },
+        {
+          "productId": "412250133"
+        },
+        {
+          "productId": "412240241"
+        },
+        {
+          "productId": "411788027"
+        }
+      ],
+      "1": [
+        {
+          "productId": "19615625"
+        },
+        {
+          "productId": "19615626"
+        },
+        {
+          "productId": "411788075"
+        },
+        {
+          "productId": "411788073"
+        },
+        {
+          "productId": "411975792"
+        },
+        {
+          "productId": "18038600"
+        },
+        {
+          "productId": "411788071"
+        },
+        {
+          "productId": "411788072"
+        },
+        {
+          "productId": "412345160"
+        },
+        {
+          "productId": "412345158"
+        },
+        {
+          "productId": "411788069"
+        },
+        {
+          "productId": "411788068"
+        },
+        {
+          "productId": "411788067"
+        },
+        {
+          "productId": "412345161"
+        },
+        {
+          "productId": "412345169"
+        },
+        {
+          "productId": "411788066"
+        },
+        {
+          "productId": "412345170"
+        },
+        {
+          "productId": "412345171"
+        },
+        {
+          "productId": "412345172"
+        },
+        {
+          "productId": "411788027"
+        },
+        {
+          "productId": "19464892"
+        },
+        {
+          "productId": "19464366"
+        },
+        {
+          "productId": "412615800"
+        },
+        {
+          "productId": "412615802"
+        },
+        {
+          "productId": "412473546"
+        },
+        {
+          "productId": "412473548"
+        },
+        {
+          "productId": "412473552"
+        },
+        {
+          "productId": "19464892"
+        },
+        {
+          "productId": "412240241"
+        },
+        {
+          "productId": "412473553"
+        },
+        {
+          "productId": "412473554"
+        },
+        {
+          "productId": "19464897"
+        },
+        {
+          "productId": "19464899"
+        },
+        {
+          "productId": "412473559"
+        },
+        {
+          "productId": "19464901"
+        },
+        {
+          "productId": "19464903"
+        },
+        {
+          "productId": "412473576"
+        },
+        {
+          "productId": "19612194"
+        },
+        {
+          "productId": "19588549"
+        },
+        {
+          "productId": "19588665"
+        },
+        {
+          "productId": "19464904"
+        },
+        {
+          "productId": "411791128"
+        },
+        {
+          "productId": "19464905"
+        },
+        {
+          "productId": "19464906"
+        },
+        {
+          "productId": "19464908"
+        },
+        {
+          "productId": "19464907"
+        },
+        {
+          "productId": "412473577"
+        }
+      ],
+      "2": [
+        {
+          "productId": "19615625"
+        },
+        {
+          "productId": "19615626"
+        },
+        {
+          "productId": "411788075"
+        },
+        {
+          "productId": "411788073"
+        },
+        {
+          "productId": "411975792"
+        },
+        {
+          "productId": "18038600"
+        },
+        {
+          "productId": "411788071"
+        },
+        {
+          "productId": "411788072"
+        },
+        {
+          "productId": "412345160"
+        },
+        {
+          "productId": "412345158"
+        },
+        {
+          "productId": "411788069"
+        },
+        {
+          "productId": "411788068"
+        },
+        {
+          "productId": "411788067"
+        },
+        {
+          "productId": "412345161"
+        },
+        {
+          "productId": "412345169"
+        },
+        {
+          "productId": "411788066"
+        },
+        {
+          "productId": "412345170"
+        },
+        {
+          "productId": "412345171"
+        },
+        {
+          "productId": "412345172"
+        },
+        {
+          "productId": "411788027"
+        },
+        {
+          "productId": "19464892"
+        },
+        {
+          "productId": "19464366"
+        },
+        {
+          "productId": "412615800"
+        },
+        {
+          "productId": "412615802"
+        },
+        {
+          "productId": "412473546"
+        },
+        {
+          "productId": "412473548"
+        },
+        {
+          "productId": "412473552"
+        },
+        {
+          "productId": "19464892"
+        },
+        {
+          "productId": "412240241"
+        },
+        {
+          "productId": "412473553"
+        },
+        {
+          "productId": "412473554"
+        },
+        {
+          "productId": "19464897"
+        },
+        {
+          "productId": "19464899"
+        },
+        {
+          "productId": "412473559"
+        },
+        {
+          "productId": "19464901"
+        },
+        {
+          "productId": "19464903"
+        },
+        {
+          "productId": "412473576"
+        },
+        {
+          "productId": "19612194"
+        },
+        {
+          "productId": "19588549"
+        },
+        {
+          "productId": "19588665"
+        },
+        {
+          "productId": "19464904"
+        },
+        {
+          "productId": "411791128"
+        },
+        {
+          "productId": "19464905"
+        },
+        {
+          "productId": "19464906"
+        },
+        {
+          "productId": "19464908"
+        },
+        {
+          "productId": "19464907"
+        },
+        {
+          "productId": "412473577"
+        }
+      ]
+    }
+  }
+}

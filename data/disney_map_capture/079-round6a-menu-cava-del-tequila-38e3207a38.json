@@ -1,0 +1,174 @@
+{
+  "name": "La Cava del Tequila",
+  "location": "EPCOT, World Showcase",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "experience": "Bar/Lounge",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Specialty Drinks",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "The Wild One",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pasote blanco tequila, ilegal reposado mezcal, orange passion fruit cordial, black ant salt rim"
+            },
+            {
+              "title": "La Cava Top Shelf",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Centinela añejo tequila, Alma Finca orange liqueur, Abasolo corn whiskey, fresh lime juice, black ant salt rim"
+            },
+            {
+              "title": "The Cucumber",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tromba blanco tequila, fresh cucumber and lime juice, Abasolo corn whiskey, Tajín chile-lime powder rim. Make it Spicy $2.00"
+            },
+            {
+              "title": "The Vaquero's Falsetto",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bardstown bourbon, Pasote reposado tequila, mole bitters, bourbon infused Luxardo Marachino cherry"
+            },
+            {
+              "title": "La Paloma",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mijenta blanco tequila, Dos Hombres mezcal, grapefruit soda, fresh lime, Tajín chile-lime powder rim"
+            },
+            {
+              "title": "Malumita",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Contraluz reposado cristalino mezcal, pineapple juice, Ancho Reyes chile Poblano liqueur, ginger-peach cordial, Italicus, tortilla ash rim"
+            },
+            {
+              "title": "Blood Orange",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pasote blanco tequila, blood orange, LeJay black currant liqueur, ilegal reposado mezcal, Tajín chile-lime powder rim"
+            },
+            {
+              "title": "Avocado",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "World famous avocado margarita made with Dos Hombres mezcal or Flecha Azul tequila, melon-orange liqueur, fresh avocado, lime juice, hibiscus salt rim Dos Hombres mezcal. Add Flecha Azul tequila $19.50."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Specialty Drinks",
+        "desktop": "Specialty Drinks"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "La Cava del Tequila",
+      "id": "348023"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "16994462"
+        },
+        {
+          "productId": "412152812"
+        },
+        {
+          "productId": "412152813"
+        },
+        {
+          "productId": "412152814"
+        },
+        {
+          "productId": "412152815"
+        },
+        {
+          "productId": "412152816"
+        },
+        {
+          "productId": "412152817"
+        },
+        {
+          "productId": "16994466"
+        }
+      ]
+    }
+  }
+}

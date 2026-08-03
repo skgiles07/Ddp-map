@@ -1,0 +1,353 @@
+{
+  "name": "Market",
+  "location": "Disney's Hollywood Studios, Pixar Plaza ",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "All Day",
+      "label": "All Day",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "All Day",
+      "label": "All Day",
+      "experience": "Cart/Kiosk",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Snacks",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Jack-Jack's Num Num Cookie",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nacho Chips with Cheese",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sweet Cream Cheese Pretzel",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cheddar-Jalapeño Pretzel",
+              "prices": [
+                {
+                  "withoutTax": 8.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Churro with Chocolate Sauce",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hot Dog with Chips ",
+              "prices": [
+                {
+                  "withoutTax": 11.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Banana",
+              "prices": [
+                {
+                  "withoutTax": 2.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverages",
+              "prices": [
+                {
+                  "withoutTax": 5.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "assorted Coca-Cola® Offerings"
+            },
+            {
+              "title": "DASANI® Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Specialty Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pineapple-Coconut Slushy",
+              "prices": [
+                {
+                  "withoutTax": 6.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Strawberry Lemonade Slushy",
+              "prices": [
+                {
+                  "withoutTax": 6.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beverages with Alcohol",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bud Light Lager",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Yuengling Traditional Lager",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cigar City Jai Alai IPA",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Copa Di Vino",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cabernet Sauvignon, Chardonnay, Pinot Grigio, or Moscato"
+            }
+          ]
+        },
+        {
+          "name": "Specialty Beverages with Alcohol",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sunshine Margarita",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Classic Piña Colada",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Snacks",
+        "desktop": "Snacks"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Specialty Non-Alcoholic Beverages",
+        "desktop": "Specialty Non-Alcoholic Beverages"
+      },
+      {
+        "mobile": "Beverages with Alcohol",
+        "desktop": "Beverages with Alcohol"
+      },
+      {
+        "mobile": "Specialty Beverages with Alcohol",
+        "desktop": "Specialty Beverages with Alcohol"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Market",
+      "id": "19249017"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "19602783"
+        },
+        {
+          "productId": "19602785"
+        },
+        {
+          "productId": "412471064"
+        },
+        {
+          "productId": "412471065"
+        },
+        {
+          "productId": "412471066"
+        },
+        {
+          "productId": "19602784"
+        },
+        {
+          "productId": "19602786"
+        },
+        {
+          "productId": "19249050"
+        },
+        {
+          "productId": "19249051"
+        },
+        {
+          "productId": "19253218"
+        },
+        {
+          "productId": "412471073"
+        },
+        {
+          "productId": "19253206"
+        },
+        {
+          "productId": "19253207"
+        },
+        {
+          "productId": "19602782"
+        },
+        {
+          "productId": "411334317"
+        },
+        {
+          "productId": "19253213"
+        },
+        {
+          "productId": "19253212"
+        }
+      ]
+    }
+  }
+}

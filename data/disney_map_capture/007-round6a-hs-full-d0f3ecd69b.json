@@ -1,0 +1,4138 @@
+{
+  "captured_at": "2026-08-03T00:00:00-05:00",
+  "park": "hs",
+  "park_name": "Hollywood Studios",
+  "mode": "full",
+  "page_url": "https://disneyworld.disney.go.com/dining/hollywood-studios/",
+  "selected_facets": [],
+  "source_payload_file": "002-disneyworld-disney-go-com-finder-api-v1-explorer-service-list-ancestor-entities-wdw-800077-6019ba8a04.json",
+  "count": 31,
+  "results": [
+    {
+      "id": "412051034;entityType=Dining-Event",
+      "urlFriendlyId": "brown-derby-jazzy-holidays",
+      "url": "/dining/hollywood-studios/brown-derby-jazzy-holidays/",
+      "name": "Jazzy Holidays at The Hollywood Brown Derby",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008024;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Treat your senses to smooth tunes and tasty dishes during Jazzy Holidays at The Hollywood Brown Derby.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/jollywood-nights/entertainment/1218ZN_4054SD_DZ_r1-1x1.jpg?2024-05-30T19:50:16+00:00",
+          "alt": "A man dressed in a suit, playing a piano in The Hollywood Brown Derby restaurant",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/jollywood-nights/entertainment/1218ZN_4054SD_DZ_r1-1x1.jpg?2024-05-30T19:50:16+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "Treat your senses to smooth tunes and tasty dishes during Jazzy Holidays at The Hollywood Brown Derby.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/jollywood-nights/entertainment/1218ZN_4054SD_DZ_r1-16x9.jpg?2024-05-30T19:50:16+00:00",
+          "alt": "A man dressed in a suit, playing a piano in The Hollywood Brown Derby restaurant",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/jollywood-nights/entertainment/1218ZN_4054SD_DZ_r1-16x9.jpg?2024-05-30T19:50:16+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Treat your senses to smooth tunes and tasty dishes during Jazzy Holidays at The Hollywood Brown Derby.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/jollywood-nights/entertainment/1218ZN_4054SD_DZ_r1-1x1.jpg?2024-05-30T19:50:16+00:00",
+          "alt": "A man dressed in a suit, playing a piano in The Hollywood Brown Derby restaurant",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/jollywood-nights/entertainment/1218ZN_4054SD_DZ_r1-1x1.jpg?2024-05-30T19:50:16+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "theme-park-dining",
+          "table-service-type",
+          "dhs-dine-area"
+        ],
+        "priceRangeDining": [
+          "$$"
+        ],
+        "tableService": [
+          "dine-events",
+          "a-la-carte"
+        ],
+        "wdproInternal": [
+          "is-dining-event",
+          "dine-event-dine-flow"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "disneyOwned": "false",
+      "generalPurposeStrings": {
+        "advancedFinderTheme": "jollywood"
+      },
+      "webLinks": {
+        "wdwDetail": {
+          "href": "https://disneyworld.disney.go.com/dining/hollywood-studios/brown-derby-jazzy-holidays/",
+          "title": "/dining/hollywood-studios/brown-derby-jazzy-holidays/"
+        }
+      },
+      "quickServiceAvailable": false,
+      "productUrls": [
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412050970?locale=en-US"
+      ],
+      "restaurants": [
+        {
+          "coordinates": {
+            "Guest Entrance": {
+              "gps": {
+                "latitude": "28.357648",
+                "longitude": "-81.560297"
+              }
+            }
+          },
+          "id": "90002245;entityType=restaurant",
+          "name": "The Hollywood Brown Derby"
+        }
+      ],
+      "maximumPartySize": "10",
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "412051034",
+      "restaurantsIds": [
+        "90002245"
+      ],
+      "entityType": "Dining-Event",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$$ ($15 to $34.99 per adult), American",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "a la Carte, American"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "412051034;entityType=Dining-Event",
+          "name": "Jazzy Holidays at The Hollywood Brown Derby",
+          "urlFriendlyId": "brown-derby-jazzy-holidays",
+          "url": "/dining/hollywood-studios/brown-derby-jazzy-holidays/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/events/jollywood-nights/entertainment/1218ZN_4054SD_DZ_r1-1x1.jpg?2024-05-30T19:50:16+00:00",
+            "alt": "A man dressed in a suit, playing a piano in The Hollywood Brown Derby restaurant"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.357648,
+        "lng": -81.560297,
+        "name": "The Hollywood Brown Derby",
+        "id": "90002245;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "17736028;entityType=Dining-Event",
+      "urlFriendlyId": "fantasmic-dining-package",
+      "url": "/dining/hollywood-studios/fantasmic-dining-package/",
+      "name": "Fantasmic! Dining Packages",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "m",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Fantasmic! Dining Package",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/fantasmic-dining-package/fantasmic-dining-package-07-sq.jpg?1781714319785",
+          "alt": "Sparks fly from Mickey Mouses hands during Fantasmic",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/fantasmic-dining-package/fantasmic-dining-package-07-sq.jpg?1781714319785"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/fantasmic-dining-package/fantasmic-dining-package-07.jpg?1781714319784",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/fantasmic-dining-package/fantasmic-dining-package-07.jpg?1781714319784"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Fantasmic! Dining Package",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/fantasmic-dining-package/fantasmic-dining-package-07-sq.jpg?1781714319785",
+          "alt": "Sparks fly from Mickey Mouses hands during Fantasmic",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/fantasmic-dining-package/fantasmic-dining-package-07-sq.jpg?1781714319785"
+        }
+      },
+      "facets": {
+        "checkAvailability": [
+          "checkavailmodulewdw"
+        ],
+        "dining": [
+          "dinner",
+          "table-service-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "dining-events-rec"
+        ],
+        "diningPlan": [
+          "2026-table-service-meal",
+          "2027-table-service-meal"
+        ],
+        "eec-price": [
+          "fifty-to-one-hundred-dollars"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "parkInterests": [
+          "fireworks-rec"
+        ],
+        "tableService": [
+          "dine-events",
+          "reservations-accepted"
+        ],
+        "wdproInternal": [
+          "is-dining-event",
+          "hide-from-ratings-and-reviews",
+          "dine-event-dine-flow"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "disneyOwned": "false",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/fantasmic-dining-package/",
+          "title": "dining/hollywood-studios/fantasmic-dining-package"
+        }
+      },
+      "quickServiceAvailable": false,
+      "productUrls": [
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/50631?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/428710?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/16259581?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18231839?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18672673?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18679031?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19030807?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19030835?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19030836?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19030837?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411777764?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411777784?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411778163?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/411778182?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412638505?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412638506?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412638517?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/412638518?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/17701?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/428719?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/16259577?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19030831?locale=en-US"
+      ],
+      "restaurants": [
+        {
+          "coordinates": {
+            "Guest Entrance": {
+              "gps": {
+                "latitude": "28.357648",
+                "longitude": "-81.560297"
+              }
+            }
+          },
+          "id": "90002245;entityType=restaurant",
+          "name": "The Hollywood Brown Derby"
+        },
+        {
+          "coordinates": {
+            "Character Appearance": {
+              "gps": {
+                "latitude": "28.3576761685",
+                "longitude": "-81.5591311259"
+              }
+            },
+            "Guest Entrance": {
+              "gps": {
+                "latitude": "28.357611",
+                "longitude": "-81.558975"
+              }
+            }
+          },
+          "id": "90001744;entityType=restaurant",
+          "name": "Hollywood & Vine"
+        },
+        {
+          "coordinates": {
+            "Guest Entrance": {
+              "gps": {
+                "latitude": "28.3559",
+                "longitude": "-81.559495"
+              }
+            }
+          },
+          "id": "90002114;entityType=restaurant",
+          "name": "Sci-Fi Dine-In Theater Restaurant"
+        },
+        {
+          "coordinates": {
+            "Guest Entrance": {
+              "gps": {
+                "latitude": "28.357444",
+                "longitude": "-81.558881"
+              }
+            }
+          },
+          "id": "90001216;entityType=restaurant",
+          "name": "50's Prime Time Café"
+        }
+      ],
+      "maximumPartySize": "20",
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "17736028",
+      "restaurantsIds": [
+        "90002245",
+        "90001744",
+        "90002114",
+        "90001216"
+      ],
+      "entityType": "Dining-Event",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "remyCheckAvailCta": {
+        "icon": "dining-plan",
+        "href": "/dine-res/dining-event/fantasmic-dining-package/",
+        "label": "Check Availability Calendar",
+        "target": "_self"
+      },
+      "facetsLabel": "",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "Dining Events, Reservations Accepted"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "17736028;entityType=Dining-Event",
+          "name": "Fantasmic! Dining Packages",
+          "urlFriendlyId": "fantasmic-dining-package",
+          "url": "/dining/hollywood-studios/fantasmic-dining-package/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/fantasmic-dining-package/fantasmic-dining-package-07-sq.jpg?1781714319785",
+            "alt": "Sparks fly from Mickey Mouses hands during Fantasmic"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.357444,
+        "lng": -81.558881,
+        "name": "50's Prime Time Café",
+        "id": "90001216;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "17928418;entityType=restaurant",
+      "urlFriendlyId": "trolley-car-cafe",
+      "url": "/dining/hollywood-studios/trolley-car-cafe/",
+      "name": "The Trolley Car Café",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008024;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Visit The Trolley Car Café for rejuvenating hot and cold beverages.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/trolley-car-cafe/cafe-with-beans-1x1.jpg?2023-05-26T17:39:47+00:00",
+          "alt": "Coffee beans scattered near a cup of coffee",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/trolley-car-cafe/cafe-with-beans-1x1.jpg?2023-05-26T17:39:47+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "Visit The Trolley Car Café for rejuvenating hot and cold beverages.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/trolley-car-cafe/cafe-with-beans-16x9.jpg?2023-05-26T17:39:47+00:00",
+          "alt": "Coffee beans scattered near a cup of coffee",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/trolley-car-cafe/cafe-with-beans-16x9.jpg?2023-05-26T17:39:47+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Visit The Trolley Car Café for rejuvenating hot and cold beverages.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/trolley-car-cafe/cafe-with-beans-1x1.jpg?2023-05-26T17:39:47+00:00",
+          "alt": "Coffee beans scattered near a cup of coffee",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/trolley-car-cafe/cafe-with-beans-1x1.jpg?2023-05-26T17:39:47+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "quick-service-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2026-quick-service-meal",
+          "2027-quick-service-meal"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "quick-service-coffee"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "08:30:00",
+            "endTime": "22:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/trolley-car-cafe/",
+          "title": "dining/hollywood-studios/trolley-car-cafe/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "17928418",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Quick Service - Coffee"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "17928418;entityType=restaurant",
+          "name": "The Trolley Car Café",
+          "urlFriendlyId": "trolley-car-cafe",
+          "url": "/dining/hollywood-studios/trolley-car-cafe/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/trolley-car-cafe/cafe-with-beans-1x1.jpg?2023-05-26T17:39:47+00:00",
+            "alt": "Coffee beans scattered near a cup of coffee"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.357767,
+        "lng": -81.559604,
+        "name": "The Trolley Car Café",
+        "id": "17928418;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "19267226;entityType=restaurant",
+      "urlFriendlyId": "ogas-cantina",
+      "url": "/dining/hollywood-studios/ogas-cantina/",
+      "name": "Oga's Cantina",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "19025682;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Unusual cups and vessels hold galactic cocktails and garnishes",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/ogas-cantina-1x1.jpg?1775595959942",
+          "alt": "Unusual cups and vessels hold galactic cocktails and garnishes",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/ogas-cantina-1x1.jpg?1775595959942"
+        },
+        "finderStandardThumb": {
+          "title": "Adults enjoy exotic beverages inside a Star Wars cantina with hoses, tubes and unusual machines",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/ogas-cantina-16x9.jpg?1775595959942",
+          "alt": "Adults enjoy exotic beverages inside a Star Wars cantina with hoses, tubes and unusual machines",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/ogas-cantina-16x9.jpg?1775595959942"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Unusual cups and vessels hold galactic cocktails and garnishes",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/ogas-cantina-1x1.jpg?1775595959942",
+          "alt": "Unusual cups and vessels hold galactic cocktails and garnishes",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/ogas-cantina-1x1.jpg?1775595959942"
+        }
+      },
+      "facets": {
+        "checkAvailability": [
+          "checkavailmodulewdw"
+        ],
+        "dining": [
+          "walkupWaitList",
+          "barslounges-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "disneyFavorites": [
+          "star-wars-rec"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$$"
+        ],
+        "resortFeatures": [
+          "lounges-bars"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "reservations-accepted",
+          "lounges"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "09:00:00",
+            "endTime": "22:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/",
+          "title": "/ogas-cantina/"
+        }
+      },
+      "quickServiceAvailable": false,
+      "productUrls": [
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19361126?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19362113?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19362114?locale=en-US"
+      ],
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "19267226",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "remyCheckAvailCta": {
+        "icon": "dining-plan",
+        "href": "/dine-res/restaurant/ogas-cantina/",
+        "label": "Check Availability Calendar",
+        "target": "_self"
+      },
+      "facetsLabel": "$$ ($15 to $34.99 per adult)",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "Bar-Lounge, Reservations Accepted"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "19267226;entityType=restaurant",
+          "name": "Oga's Cantina",
+          "urlFriendlyId": "ogas-cantina",
+          "url": "/dining/hollywood-studios/ogas-cantina/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/ogas-cantina-1x1.jpg?1775595959942",
+            "alt": "Unusual cups and vessels hold galactic cocktails and garnishes"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.354095,
+        "lng": -81.562075,
+        "name": "Oga's Cantina",
+        "id": "19267226;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "18454337;entityType=restaurant",
+      "urlFriendlyId": "sunshine-day-bar",
+      "url": "/dining/hollywood-studios/sunshine-day-bar/",
+      "name": "Sunshine Day Bar",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008013;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Enjoy a refreshing Strawberry Lemonade Moonshine from Sunshine Day Bar.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sunshine-day-cafe/WDW_DHS_ODV_StrawberryLemonadeMoonshine_STYLIZED_040324_2231_CJ-1x1.jpg?2026-01-14T19:49:00+00:00",
+          "alt": "A Strawberry Lemonade Moonshine drink sitting on a table next to a plant",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sunshine-day-cafe/WDW_DHS_ODV_StrawberryLemonadeMoonshine_STYLIZED_040324_2231_CJ-1x1.jpg?2026-01-14T19:49:00+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "Enjoy a refreshing Strawberry Lemonade Moonshine from Sunshine Day Bar.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sunshine-day-cafe/WDW_DHS_ODV_StrawberryLemonadeMoonshine_STYLIZED_040324_2231_CJ-16x9.jpg?2026-01-14T19:49:00+00:00",
+          "alt": "A Strawberry Lemonade Moonshine drink sitting on a table next to a plant",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sunshine-day-cafe/WDW_DHS_ODV_StrawberryLemonadeMoonshine_STYLIZED_040324_2231_CJ-16x9.jpg?2026-01-14T19:49:00+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Enjoy a refreshing Strawberry Lemonade Moonshine from Sunshine Day Bar.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sunshine-day-cafe/WDW_DHS_ODV_StrawberryLemonadeMoonshine_STYLIZED_040324_2231_CJ-1x1.jpg?2026-01-14T19:49:00+00:00",
+          "alt": "A Strawberry Lemonade Moonshine drink sitting on a table next to a plant",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sunshine-day-cafe/WDW_DHS_ODV_StrawberryLemonadeMoonshine_STYLIZED_040324_2231_CJ-1x1.jpg?2026-01-14T19:49:00+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dhs-dine-area",
+          "theme-park-dining"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "counter-service"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "11:00:00",
+            "endTime": "22:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "https://disneyworld.disney.go.com/dining/hollywood-studios/sunshine-day-bar/",
+          "title": "dining/hollywood-studios/sunshine-day-bar/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "18454337",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Quick Service Restaurant"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "18454337;entityType=restaurant",
+          "name": "Sunshine Day Bar",
+          "urlFriendlyId": "sunshine-day-bar",
+          "url": "/dining/hollywood-studios/sunshine-day-bar/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/sunshine-day-cafe/WDW_DHS_ODV_StrawberryLemonadeMoonshine_STYLIZED_040324_2231_CJ-1x1.jpg?2026-01-14T19:49:00+00:00",
+            "alt": "A Strawberry Lemonade Moonshine drink sitting on a table next to a plant"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.3582780543,
+        "lng": -81.5600652052,
+        "name": "Sunshine Day Bar",
+        "id": "18454337;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90001748;entityType=restaurant",
+      "urlFriendlyId": "hollywood-scoops",
+      "url": "/dining/hollywood-studios/hollywood-scoops/",
+      "name": "Hollywood Scoops",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008013;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-scoops/WDW_DHS_HollywoodScoops_MickeyBrownieSundae_STYLIZED_021926_8071_GM-1x1.jpg?2026-05-05T20:27:28+00:00",
+          "alt": "A Mickey Brownie Sundae, which features a brownie shaped like Mickey Mouse in a bowl of ice cream with a cherry, whipped cream and other toppings",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-scoops/WDW_DHS_HollywoodScoops_MickeyBrownieSundae_STYLIZED_021926_8071_GM-1x1.jpg?2026-05-05T20:27:28+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-scoops/WDW_DHS_HollywoodScoops_MickeyBrownieSundae_STYLIZED_021926_8071_GM-16x9.jpg?2026-05-05T20:27:28+00:00",
+          "alt": "A Mickey Brownie Sundae, which features a brownie shaped like Mickey Mouse in a bowl of ice cream with a cherry, whipped cream and other toppings",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-scoops/WDW_DHS_HollywoodScoops_MickeyBrownieSundae_STYLIZED_021926_8071_GM-16x9.jpg?2026-05-05T20:27:28+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-scoops/WDW_DHS_HollywoodScoops_MickeyBrownieSundae_STYLIZED_021926_8071_GM-1x1.jpg?2026-05-05T20:27:28+00:00",
+          "alt": "A Mickey Brownie Sundae, which features a brownie shaped like Mickey Mouse in a bowl of ice cream with a cherry, whipped cream and other toppings",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-scoops/WDW_DHS_HollywoodScoops_MickeyBrownieSundae_STYLIZED_021926_8071_GM-1x1.jpg?2026-05-05T20:27:28+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "snacks-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "snack"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "10:00:00",
+            "endTime": "22:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-scoops/",
+          "title": "dining/hollywood-studios/hollywood-scoops"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "90001748",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Snack"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90001748;entityType=restaurant",
+          "name": "Hollywood Scoops",
+          "urlFriendlyId": "hollywood-scoops",
+          "url": "/dining/hollywood-studios/hollywood-scoops/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-scoops/WDW_DHS_HollywoodScoops_MickeyBrownieSundae_STYLIZED_021926_8071_GM-1x1.jpg?2026-05-05T20:27:28+00:00",
+            "alt": "A Mickey Brownie Sundae, which features a brownie shaped like Mickey Mouse in a bowl of ice cream with a cherry, whipped cream and other toppings"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.359139,
+        "lng": -81.560084,
+        "name": "Hollywood Scoops",
+        "id": "90001748;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "19296379;entityType=restaurant",
+      "urlFriendlyId": "kat-sakas-kettle",
+      "url": "/dining/hollywood-studios/kat-sakas-kettle/",
+      "name": "Kat Saka's Kettle",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "19025682;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/disney-world/dining/hollywood-studios/kat-sakas-kettle/kat-saka-order-1x1.jpg?1781013569003",
+          "alt": "Two Guests place an order for Outpost Mix with two Cast Members inside Kat Saka's Kettle",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disney-world/dining/hollywood-studios/kat-sakas-kettle/kat-saka-order-1x1.jpg?1781013569003"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disney-world/dining/hollywood-studios/kat-sakas-kettle/kat-saka-order-16x9.jpg?1781013569002",
+          "alt": "Two Guests place an order for Outpost Mix with two Cast Members inside Kat Saka's Kettle",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disney-world/dining/hollywood-studios/kat-sakas-kettle/kat-saka-order-16x9.jpg?1781013569002"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disney-world/dining/hollywood-studios/kat-sakas-kettle/kat-saka-order-1x1.jpg?1781013569003",
+          "alt": "Two Guests place an order for Outpost Mix with two Cast Members inside Kat Saka's Kettle",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disney-world/dining/hollywood-studios/kat-sakas-kettle/kat-saka-order-1x1.jpg?1781013569003"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "snacks-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "disneyFavorites": [
+          "star-wars-rec"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "snack"
+        ],
+        "resortFeatures": [
+          "restaurants"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "09:00:00",
+            "endTime": "22:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "https://disneyworld.disney.go.com/dining/hollywood-studios/kat-sakas-kettle/",
+          "title": "/kat-sakas-kettle/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "19296379",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Mobile Orders"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "19296379;entityType=restaurant",
+          "name": "Kat Saka's Kettle",
+          "urlFriendlyId": "kat-sakas-kettle",
+          "url": "/dining/hollywood-studios/kat-sakas-kettle/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disney-world/dining/hollywood-studios/kat-sakas-kettle/kat-saka-order-1x1.jpg?1781013569003",
+            "alt": "Two Guests place an order for Outpost Mix with two Cast Members inside Kat Saka's Kettle"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.35432,
+        "lng": -81.561467,
+        "name": "Kat Saka's Kettle",
+        "id": "19296379;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "17571157;entityType=restaurant",
+      "urlFriendlyId": "hollywood-brown-derby-lounge",
+      "url": "/dining/hollywood-studios/hollywood-brown-derby-lounge/",
+      "name": "The Hollywood Brown Derby Lounge",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008024;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Escape to this prime people-watching spot to treat yourself to savory small plates and more.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/gallery/dining/hollywood-studios/hollywood-brown-derby-lounge/hollywood-brown-derby-lounge-gallery01-sq.jpg?1734079886435",
+          "alt": "People pass by the railing of an outdoor bar",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/hollywood-studios/hollywood-brown-derby-lounge/hollywood-brown-derby-lounge-gallery01-sq.jpg?1734079886435"
+        },
+        "finderStandardThumb": {
+          "title": "Escape to this prime people-watching spot to treat yourself to savory small plates and more.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/gallery/dining/hollywood-studios/hollywood-brown-derby-lounge/hollywood-brown-derby-lounge-gallery01.jpg?1734079886434",
+          "alt": "People pass by the railing of an outdoor bar",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/hollywood-studios/hollywood-brown-derby-lounge/hollywood-brown-derby-lounge-gallery01.jpg?1734079886434"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Escape to this prime people-watching spot to treat yourself to savory small plates and more.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/gallery/dining/hollywood-studios/hollywood-brown-derby-lounge/hollywood-brown-derby-lounge-gallery01-sq.jpg?1734079886436",
+          "alt": "People pass by the railing of an outdoor bar",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/hollywood-studios/hollywood-brown-derby-lounge/hollywood-brown-derby-lounge-gallery01-sq.jpg?1734079886436"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "walkupWaitList",
+          "barslounges-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "table-service-rec"
+        ],
+        "diningPlan": [
+          "2027-table-service-meal",
+          "2026-table-service-meal"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$$"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "lounges"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "11:00:00",
+            "endTime": "20:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby-lounge/",
+          "title": "dining/hollywood-studios/hollywood-brown-derby-lounge"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "17571157",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$$ ($15 to $34.99 per adult), American",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "American, Bar-Lounge"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "17571157;entityType=restaurant",
+          "name": "The Hollywood Brown Derby Lounge",
+          "urlFriendlyId": "hollywood-brown-derby-lounge",
+          "url": "/dining/hollywood-studios/hollywood-brown-derby-lounge/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/gallery/dining/hollywood-studios/hollywood-brown-derby-lounge/hollywood-brown-derby-lounge-gallery01-sq.jpg?1734079886436",
+            "alt": "People pass by the railing of an outdoor bar"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.3576436192,
+        "lng": -81.5601785481,
+        "name": "The Hollywood Brown Derby Lounge",
+        "id": "17571157;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90002300;entityType=restaurant",
+      "urlFriendlyId": "tune-in-lounge",
+      "url": "/dining/hollywood-studios/tune-in-lounge/",
+      "name": "Tune-In Lounge",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008028;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Tucked between 50's Prime Time Café and Hollywood & Vine restaurants, the bar offers classic cocktails, from cosmopolitans and martinis to grand margaritas and Singapore slings. It also boasts a large selection of wines and beers.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/gallery/dining/hollywood-studios/tune-in-lounge/tune-in-lounge-gallery02-sq.jpg?1704796252849",
+          "alt": "Three specialty cocktails, each a different color",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/hollywood-studios/tune-in-lounge/tune-in-lounge-gallery02-sq.jpg?1704796252849"
+        },
+        "finderStandardThumb": {
+          "title": "Tucked between 50's Prime Time Café and Hollywood & Vine restaurants, the bar offers classic cocktails, from cosmopolitans and martinis to grand margaritas and Singapore slings. It also boasts a large selection of wines and beers.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/gallery/dining/hollywood-studios/tune-in-lounge/tune-in-lounge-gallery02.jpg?1704796252848",
+          "alt": "Three specialty cocktails, each a different color",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/hollywood-studios/tune-in-lounge/tune-in-lounge-gallery02.jpg?1704796252848"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Tucked between 50's Prime Time Café and Hollywood & Vine restaurants, the bar offers classic cocktails, from cosmopolitans and martinis to grand margaritas and Singapore slings. It also boasts a large selection of wines and beers.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/gallery/dining/hollywood-studios/tune-in-lounge/tune-in-lounge-gallery02-sq.jpg?1704796252848",
+          "alt": "Three specialty cocktails, each a different color",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/hollywood-studios/tune-in-lounge/tune-in-lounge-gallery02-sq.jpg?1704796252848"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "barslounges-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "lounges"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "10:45:00",
+            "endTime": "21:30:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/tune-in-lounge/",
+          "title": "dining/hollywood-studios/tune-in-lounge"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "90002300",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "American, Bar-Lounge"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90002300;entityType=restaurant",
+          "name": "Tune-In Lounge",
+          "urlFriendlyId": "tune-in-lounge",
+          "url": "/dining/hollywood-studios/tune-in-lounge/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/gallery/dining/hollywood-studios/tune-in-lounge/tune-in-lounge-gallery02-sq.jpg?1704796252848",
+            "alt": "Three specialty cocktails, each a different color"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.357482,
+        "lng": -81.558808,
+        "name": "Tune-In Lounge",
+        "id": "90002300;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90001744;entityType=restaurant",
+      "urlFriendlyId": "hollywood-and-vine",
+      "url": "/dining/hollywood-studios/hollywood-and-vine/",
+      "name": "Hollywood & Vine",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008028;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Beat the summer heat with Minnie Mouse and other Disney Characters at Hollywood & Vine.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-and-vine/image-2024-07-15-12-13-59-824-1x1.jpg?2026-03-04T23:25:10+00:00",
+          "alt": "Minnie Mouse wearing a floral dress and a bow in front of Hollywood & Vine restaurant",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-and-vine/image-2024-07-15-12-13-59-824-1x1.jpg?2026-03-04T23:25:10+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "Beat the summer heat with Minnie Mouse and other Disney Characters at Hollywood & Vine.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-and-vine/image-2024-07-15-12-13-59-824-16x9.jpg?2026-03-04T23:25:10+00:00",
+          "alt": "Minnie Mouse wearing a floral dress and a bow in front of Hollywood & Vine restaurant",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-and-vine/image-2024-07-15-12-13-59-824-16x9.jpg?2026-03-04T23:25:10+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Beat the summer heat with Minnie Mouse and other Disney Characters at Hollywood & Vine.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-and-vine/image-2024-07-15-12-13-59-824-1x1.jpg?2026-03-04T23:25:10+00:00",
+          "alt": "Minnie Mouse wearing a floral dress and a bow in front of Hollywood & Vine restaurant",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-and-vine/image-2024-07-15-12-13-59-824-1x1.jpg?2026-03-04T23:25:10+00:00"
+        }
+      },
+      "facets": {
+        "additionalInfo": [
+          "10-discount-non-discounted-price-food-with-exclusions"
+        ],
+        "annualPass": [
+          "platinum-plus-annual-pass",
+          "platinum-annual-pass",
+          "wdw-water-parks-annual-pass",
+          "silver-annual-pass",
+          "gold-annual-pass",
+          "weekday-select-pass",
+          "epcot-after4-pass"
+        ],
+        "checkAvailability": [
+          "checkavailmodulewdw"
+        ],
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "breakfast",
+          "walkupWaitList",
+          "table-service-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "character-dining-rec",
+          "table-service-rec"
+        ],
+        "diningPlan": [
+          "2026-table-service-meal",
+          "2027-table-service-meal"
+        ],
+        "disneyFavorites": [
+          "mickey-friends-rec"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$$$$"
+        ],
+        "reservationOfferings": [
+          "add-ons-available"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "reservations-accepted",
+          "character-dining",
+          "buffet"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "08:30:00",
+            "endTime": "20:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/",
+          "title": "dining/hollywood-studios/hollywood-and-vine"
+        }
+      },
+      "quickServiceAvailable": false,
+      "productUrls": [
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/122171?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18231840?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18679028?locale=en-US"
+      ],
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "90001744",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "remyCheckAvailCta": {
+        "icon": "dining-plan",
+        "href": "/dine-res/restaurant/hollywood-and-vine/",
+        "label": "Check Availability Calendar",
+        "target": "_self"
+      },
+      "facetsLabel": "$$$$ (over $60 per adult), American",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "American, Buffet"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90001744;entityType=restaurant",
+          "name": "Hollywood & Vine",
+          "urlFriendlyId": "hollywood-and-vine",
+          "url": "/dining/hollywood-studios/hollywood-and-vine/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/hollywood-and-vine/image-2024-07-15-12-13-59-824-1x1.jpg?2026-03-04T23:25:10+00:00",
+            "alt": "Minnie Mouse wearing a floral dress and a bow in front of Hollywood & Vine restaurant"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.357611,
+        "lng": -81.558975,
+        "name": "Hollywood & Vine",
+        "id": "17825579;entityType=point-of-interest",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "19267228;entityType=restaurant",
+      "urlFriendlyId": "milk-stand",
+      "url": "/dining/hollywood-studios/milk-stand/",
+      "name": "Milk Stand",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "19025682;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "A crowd of galactic visitors to Black Spire Outpost gather to indulge in beverages at the Milk Stand",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/milk-stand-1x1.jpg?1708570888454",
+          "alt": "A crowd of galactic visitors to Black Spire Outpost gather to indulge in beverages at the Milk Stand",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/milk-stand-1x1.jpg?1708570888454"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/milk-stand-16x9.jpg?1708570888453",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/milk-stand-16x9.jpg?1708570888453"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "A crowd of galactic visitors to Black Spire Outpost gather to indulge in beverages at the Milk Stand",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/milk-stand-1x1.jpg?1708570888454",
+          "alt": "A crowd of galactic visitors to Black Spire Outpost gather to indulge in beverages at the Milk Stand",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/milk-stand-1x1.jpg?1708570888454"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "snacks-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "disneyFavorites": [
+          "star-wars-rec"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "snack"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "09:00:00",
+            "endTime": "22:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/milk-stand/",
+          "title": "/dining/hollywood-studios/milk-stand/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "19267228",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Mobile Orders"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "19267228;entityType=restaurant",
+          "name": "Milk Stand",
+          "urlFriendlyId": "milk-stand",
+          "url": "/dining/hollywood-studios/milk-stand/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disneyland/destinations/disneyland/star-wars-galaxys-edge/photography/milk-stand-1x1.jpg?1708570888454",
+            "alt": "A crowd of galactic visitors to Black Spire Outpost gather to indulge in beverages at the Milk Stand"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.354311,
+        "lng": -81.562296,
+        "name": "Milk Stand",
+        "id": "19267228;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90001220;entityType=restaurant",
+      "urlFriendlyId": "abc-commissary",
+      "url": "/dining/hollywood-studios/abc-commissary/",
+      "name": "ABC Commissary",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "42007;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "A palm tree-lined promenade welcomes and ushers you to a quick service counter at ABC Commissary. The restaurant's art deco-inspired design flows throughout the restaurant, from the floors and the walls to the menu boards.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/gallery/dining/hollywood-studios/abc-commissary/abc-commissary-gallery00-sq.jpg?1780057556195",
+          "alt": "Two rows of palm trees adorn the interior entryway to ABC Commissary at Disney's Hollywood Studios",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/hollywood-studios/abc-commissary/abc-commissary-gallery00-sq.jpg?1780057556195"
+        },
+        "finderStandardThumb": {
+          "title": "A palm tree-lined promenade welcomes and ushers you to a quick service counter at ABC Commissary. The restaurant's art deco-inspired design flows throughout the restaurant, from the floors and the walls to the menu boards.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/gallery/dining/hollywood-studios/abc-commissary/abc-commissary-gallery00.jpg?1780057556195",
+          "alt": "Two rows of palm trees adorn the interior entryway to ABC Commissary at Disney's Hollywood Studios",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/hollywood-studios/abc-commissary/abc-commissary-gallery00.jpg?1780057556195"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "A palm tree-lined promenade welcomes and ushers you to a quick service counter at ABC Commissary. The restaurant's art deco-inspired design flows throughout the restaurant, from the floors and the walls to the menu boards.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/gallery/dining/hollywood-studios/abc-commissary/abc-commissary-gallery00-sq.jpg?1780057556195",
+          "alt": "Two rows of palm trees adorn the interior entryway to ABC Commissary at Disney's Hollywood Studios",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/hollywood-studios/abc-commissary/abc-commissary-gallery00-sq.jpg?1780057556195"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "quick-service-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2027-quick-service-meal",
+          "2026-quick-service-meal"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "counter-service"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "10:00:00",
+            "endTime": "21:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/abc-commissary/",
+          "title": "dining/hollywood-studios/abc-commissary"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "90001220",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Quick Service Restaurant"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90001220;entityType=restaurant",
+          "name": "ABC Commissary",
+          "urlFriendlyId": "abc-commissary",
+          "url": "/dining/hollywood-studios/abc-commissary/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/gallery/dining/hollywood-studios/abc-commissary/abc-commissary-gallery00-sq.jpg?1780057556195",
+            "alt": "Two rows of palm trees adorn the interior entryway to ABC Commissary at Disney's Hollywood Studios"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.356062,
+        "lng": -81.559872,
+        "name": "ABC Commissary",
+        "id": "90001220;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "412126426;entityType=restaurant",
+      "urlFriendlyId": "ice-cold-hydraulics",
+      "url": "/dining/hollywood-studios/ice-cold-hydraulics/",
+      "name": "Ice Cold Hydraulics",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "18782428;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Stop by Ice Cold Hydraulics at Disney’s Hollywood Studios for the savory Bouncin’ Mini Churros topped with Coca-Cola®, bourbon candied bacon, Sriracha aioli and scallions.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/blue-ribbon/WDW_DHS_Coca-ColaIceColdHydraulics_ChurroBites_STYLIZED_010424_4695_CJ-2-1x1.jpg?2024-05-10T16:30:04+00:00",
+          "alt": "A plate of Bouncin’ Mini Churros from the Ice Cold Hydraulics menu at Disney’s Hollywood Studios in Walt Disney World Resort",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/blue-ribbon/WDW_DHS_Coca-ColaIceColdHydraulics_ChurroBites_STYLIZED_010424_4695_CJ-2-1x1.jpg?2024-05-10T16:30:04+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "Stop by Ice Cold Hydraulics at Disney’s Hollywood Studios for the savory Bouncin’ Mini Churros topped with Coca-Cola®, bourbon candied bacon, Sriracha aioli and scallions.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/blue-ribbon/WDW_DHS_Coca-ColaIceColdHydraulics_ChurroBites_STYLIZED_010424_4695_CJ-2-16x9.jpg?2024-05-10T16:30:04+00:00",
+          "alt": "A plate of Bouncin’ Mini Churros from the Ice Cold Hydraulics menu at Disney’s Hollywood Studios in Walt Disney World Resort",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/blue-ribbon/WDW_DHS_Coca-ColaIceColdHydraulics_ChurroBites_STYLIZED_010424_4695_CJ-2-16x9.jpg?2024-05-10T16:30:04+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Stop by Ice Cold Hydraulics at Disney’s Hollywood Studios for the savory Bouncin’ Mini Churros topped with Coca-Cola®, bourbon candied bacon, Sriracha aioli and scallions.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/blue-ribbon/WDW_DHS_Coca-ColaIceColdHydraulics_ChurroBites_STYLIZED_010424_4695_CJ-2-1x1.jpg?2024-05-10T16:30:04+00:00",
+          "alt": "A plate of Bouncin’ Mini Churros from the Ice Cold Hydraulics menu at Disney’s Hollywood Studios in Walt Disney World Resort",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/blue-ribbon/WDW_DHS_Coca-ColaIceColdHydraulics_ChurroBites_STYLIZED_010424_4695_CJ-2-1x1.jpg?2024-05-10T16:30:04+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "theme-park-dining",
+          "dhs-dine-area",
+          "snacks-type"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "snack"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Early Entry",
+            "startTime": "08:00:00",
+            "endTime": "09:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          },
+          {
+            "type": "Operating",
+            "startTime": "09:00:00",
+            "endTime": "22:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "https://disneyworld.disney.go.com/dining/hollywood-studios/ice-cold-hydraulics/",
+          "title": "dining/hollywood-studios/ice-cold-hydraulics/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "412126426",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Snack"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "412126426;entityType=restaurant",
+          "name": "Ice Cold Hydraulics",
+          "urlFriendlyId": "ice-cold-hydraulics",
+          "url": "/dining/hollywood-studios/ice-cold-hydraulics/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/blue-ribbon/WDW_DHS_Coca-ColaIceColdHydraulics_ChurroBites_STYLIZED_010424_4695_CJ-2-1x1.jpg?2024-05-10T16:30:04+00:00",
+            "alt": "A plate of Bouncin’ Mini Churros from the Ice Cold Hydraulics menu at Disney’s Hollywood Studios in Walt Disney World Resort"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.355389,
+        "lng": -81.559527,
+        "name": "Ice Cold Hydraulics",
+        "id": "412126426;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90001216;entityType=restaurant",
+      "urlFriendlyId": "50s-prime-time-cafe",
+      "url": "/dining/hollywood-studios/50s-prime-time-cafe/",
+      "name": "50's Prime Time Café",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008028;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/50s-prime-time/WDW_DHS_PrimeTime_FriedChicken_FULL_DH-1x1.jpg?2023-01-05T22:17:31+00:00",
+          "alt": "Fried chicken, corn and mashed potatoes with gravy",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/50s-prime-time/WDW_DHS_PrimeTime_FriedChicken_FULL_DH-1x1.jpg?2023-01-05T22:17:31+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/50s-prime-time/WDW_DHS_PrimeTime_FriedChicken_FULL_DH-16x9.jpg?2023-01-05T22:17:31+00:00",
+          "alt": "Fried chicken, corn and mashed potatoes with gravy",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/50s-prime-time/WDW_DHS_PrimeTime_FriedChicken_FULL_DH-16x9.jpg?2023-01-05T22:17:31+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/50s-prime-time/WDW_DHS_PrimeTime_FriedChicken_FULL_DH-1x1.jpg?2023-01-05T22:17:31+00:00",
+          "alt": "Fried chicken, corn and mashed potatoes with gravy",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/50s-prime-time/WDW_DHS_PrimeTime_FriedChicken_FULL_DH-1x1.jpg?2023-01-05T22:17:31+00:00"
+        }
+      },
+      "facets": {
+        "additionalInfo": [
+          "10-discount-non-discounted-price-food-with-exclusions"
+        ],
+        "annualPass": [
+          "platinum-plus-annual-pass",
+          "platinum-annual-pass",
+          "wdw-water-parks-annual-pass",
+          "silver-annual-pass",
+          "gold-annual-pass",
+          "weekday-select-pass",
+          "epcot-after4-pass"
+        ],
+        "checkAvailability": [
+          "checkavailmodulewdw"
+        ],
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "walkupWaitList",
+          "table-service-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "table-service-rec"
+        ],
+        "diningPlan": [
+          "2026-table-service-meal",
+          "2027-table-service-meal"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$$"
+        ],
+        "reservationOfferings": [
+          "add-ons-available"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "reservations-accepted",
+          "casual-dining",
+          "a-la-carte"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "10:45:00",
+            "endTime": "21:30:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/",
+          "title": "dining/hollywood-studios/50s-prime-time-cafe"
+        }
+      },
+      "quickServiceAvailable": false,
+      "productUrls": [
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/90006541?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/90006542?locale=en-US"
+      ],
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "90001216",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "remyCheckAvailCta": {
+        "icon": "dining-plan",
+        "href": "/dine-res/restaurant/50s-prime-time-cafe/",
+        "label": "Check Availability Calendar",
+        "target": "_self"
+      },
+      "facetsLabel": "$$ ($15 to $34.99 per adult), American",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "a la Carte, American"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90001216;entityType=restaurant",
+          "name": "50's Prime Time Café",
+          "urlFriendlyId": "50s-prime-time-cafe",
+          "url": "/dining/hollywood-studios/50s-prime-time-cafe/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/50s-prime-time/WDW_DHS_PrimeTime_FriedChicken_FULL_DH-1x1.jpg?2023-01-05T22:17:31+00:00",
+            "alt": "Fried chicken, corn and mashed potatoes with gravy"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.357444,
+        "lng": -81.558881,
+        "name": "50's Prime Time Café",
+        "id": "90001216;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90002245;entityType=restaurant",
+      "urlFriendlyId": "hollywood-brown-derby",
+      "url": "/dining/hollywood-studios/hollywood-brown-derby/",
+      "name": "The Hollywood Brown Derby",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008024;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/disney-world/dining/hollywood-studios/hollywood-brown-derby/WDW_DHS_30th_HollywoodBrownDerby_CobbSalad_1x1.jpg?1753784323729",
+          "alt": "A cobb salad with avocado, bacon, lettuce, tomatoes, and more with a dressing being poured on from a hand above the plate",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disney-world/dining/hollywood-studios/hollywood-brown-derby/WDW_DHS_30th_HollywoodBrownDerby_CobbSalad_1x1.jpg?1753784323729"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disney-world/dining/hollywood-studios/hollywood-brown-derby/WDW_DHS_30th_HollywoodBrownDerby_CobbSalad_16x9.jpg?1753784323729",
+          "alt": "A cobb salad with avocado, bacon, lettuce, tomatoes, and more with a dressing being poured on from a hand above the plate",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disney-world/dining/hollywood-studios/hollywood-brown-derby/WDW_DHS_30th_HollywoodBrownDerby_CobbSalad_16x9.jpg?1753784323729"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disney-world/dining/hollywood-studios/hollywood-brown-derby/WDW_DHS_30th_HollywoodBrownDerby_CobbSalad_1x1.jpg?1753784323729",
+          "alt": "A cobb salad with avocado, bacon, lettuce, tomatoes, and more with a dressing being poured on from a hand above the plate",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disney-world/dining/hollywood-studios/hollywood-brown-derby/WDW_DHS_30th_HollywoodBrownDerby_CobbSalad_1x1.jpg?1753784323729"
+        }
+      },
+      "facets": {
+        "additionalInfo": [
+          "10-discount-non-discounted-price-food-with-exclusions"
+        ],
+        "annualPass": [
+          "platinum-plus-annual-pass",
+          "platinum-annual-pass",
+          "wdw-water-parks-annual-pass",
+          "silver-annual-pass",
+          "gold-annual-pass",
+          "weekday-select-pass",
+          "epcot-after4-pass"
+        ],
+        "checkAvailability": [
+          "checkavailmodulewdw"
+        ],
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "walkupWaitList",
+          "table-service-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "fine-signature-dining-rec",
+          "table-service-rec"
+        ],
+        "diningPlan": [
+          "2027-table-service-meal",
+          "2026-table-service-meal"
+        ],
+        "discounts": [
+          "disney-visa-cardholder"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$$$"
+        ],
+        "reservationOfferings": [
+          "add-ons-available"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "fine-signature-dining",
+          "reservations-accepted",
+          "a-la-carte"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "11:00:00",
+            "endTime": "20:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/",
+          "title": "dining/hollywood-studios/hollywood-brown-derby"
+        }
+      },
+      "quickServiceAvailable": false,
+      "productUrls": [
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/90007281?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/90007282?locale=en-US"
+      ],
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "90002245",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "remyCheckAvailCta": {
+        "icon": "dining-plan",
+        "href": "/dine-res/restaurant/hollywood-brown-derby/",
+        "label": "Check Availability Calendar",
+        "target": "_self"
+      },
+      "facetsLabel": "$$$ ($35 to $59.99 per adult), American",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "a la Carte, American"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90002245;entityType=restaurant",
+          "name": "The Hollywood Brown Derby",
+          "urlFriendlyId": "hollywood-brown-derby",
+          "url": "/dining/hollywood-studios/hollywood-brown-derby/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disney-world/dining/hollywood-studios/hollywood-brown-derby/WDW_DHS_30th_HollywoodBrownDerby_CobbSalad_1x1.jpg?1753784323729",
+            "alt": "A cobb salad with avocado, bacon, lettuce, tomatoes, and more with a dressing being poured on from a hand above the plate"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.357648,
+        "lng": -81.560297,
+        "name": "The Hollywood Brown Derby",
+        "id": "90002245;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90001365;entityType=restaurant",
+      "urlFriendlyId": "catalina-eddies",
+      "url": "/dining/hollywood-studios/catalina-eddies/",
+      "name": "Catalina Eddie's",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008013;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "PizzeRizzo",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/pizzerizzo/pizzerizzo-00-sq.jpg?1704795610832",
+          "alt": "An individual size pepperoni pizza",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/pizzerizzo/pizzerizzo-00-sq.jpg?1704795610832"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/catalina-eddies/catalina-eddies-00.jpg?1704795610832",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/catalina-eddies/catalina-eddies-00.jpg?1704795610832"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "PizzeRizzo",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/pizzerizzo/pizzerizzo-00-sq.jpg?1704795610832",
+          "alt": "An individual size pepperoni pizza",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/pizzerizzo/pizzerizzo-00-sq.jpg?1704795610832"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "quick-service-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2027-quick-service-meal",
+          "2026-quick-service-meal"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "quick-service-kiosk"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "11:00:00",
+            "endTime": "22:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/catalina-eddies/",
+          "title": "na"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "90001365",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Mobile Orders"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90001365;entityType=restaurant",
+          "name": "Catalina Eddie's",
+          "urlFriendlyId": "catalina-eddies",
+          "url": "/dining/hollywood-studios/catalina-eddies/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/pizzerizzo/pizzerizzo-00-sq.jpg?1704795610832",
+            "alt": "An individual size pepperoni pizza"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.358915,
+        "lng": -81.560278,
+        "name": "Catalina Eddie's",
+        "id": "90001365;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90001531;entityType=restaurant",
+      "urlFriendlyId": "fairfax-fare",
+      "url": "/dining/hollywood-studios/fairfax-fare/",
+      "name": "Fairfax Fare",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008013;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Take your pick from 4 scrumptious bowls, including delicious plant-based options.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/fairfax-fare/DHS_FairfaxFare_BOWLS_10132022_0657RC-1x1.jpg?2022-12-07T17:19:45+00:00",
+          "alt": "Four protein bowls on plates arranged near the Fairfax Fare stand",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/fairfax-fare/DHS_FairfaxFare_BOWLS_10132022_0657RC-1x1.jpg?2022-12-07T17:19:45+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "Take your pick from 4 scrumptious bowls, including delicious plant-based options.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/fairfax-fare/DHS_FairfaxFare_BOWLS_10132022_0657RC-16x9.jpg?2022-12-07T17:19:45+00:00",
+          "alt": "Four protein bowls on plates arranged near the Fairfax Fare stand",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/fairfax-fare/DHS_FairfaxFare_BOWLS_10132022_0657RC-16x9.jpg?2022-12-07T17:19:45+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Take your pick from 4 scrumptious bowls, including delicious plant-based options.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/fairfax-fare/DHS_FairfaxFare_BOWLS_10132022_0657RC-1x1.jpg?2022-12-07T17:19:45+00:00",
+          "alt": "Four protein bowls on plates arranged near the Fairfax Fare stand",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/fairfax-fare/DHS_FairfaxFare_BOWLS_10132022_0657RC-1x1.jpg?2022-12-07T17:19:45+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "breakfast",
+          "dhs-dine-area",
+          "theme-park-dining",
+          "quick-service-type"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2027-quick-service-meal",
+          "2026-quick-service-meal"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "quick-service-kiosk"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Early Entry",
+            "startTime": "08:30:00",
+            "endTime": "09:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          },
+          {
+            "type": "Operating",
+            "startTime": "09:00:00",
+            "endTime": "21:30:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/fairfax-fare/",
+          "title": "dining/hollywood-studios/fairfax-fare"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "90001531",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Mobile Orders"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90001531;entityType=restaurant",
+          "name": "Fairfax Fare",
+          "urlFriendlyId": "fairfax-fare",
+          "url": "/dining/hollywood-studios/fairfax-fare/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/fairfax-fare/DHS_FairfaxFare_BOWLS_10132022_0657RC-1x1.jpg?2022-12-07T17:19:45+00:00",
+            "alt": "Four protein bowls on plates arranged near the Fairfax Fare stand"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.3590392579,
+        "lng": -81.5600222899,
+        "name": "Fairfax Fare",
+        "id": "90001531;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90002090;entityType=restaurant",
+      "urlFriendlyId": "rosies-all-american-cafe",
+      "url": "/dining/hollywood-studios/rosies-all-american-cafe/",
+      "name": "Rosie's All-American Café",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008013;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Savor American classics—like juicy bacon cheeseburgers, savory chili-cheese dogs and more!",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/rosies-all-american-cafe/rosies-all-america-cafe-1x1.jpg?2023-11-16T18:41:07+00:00",
+          "alt": "A cheeseburger with tomato and lettuce",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/rosies-all-american-cafe/rosies-all-america-cafe-1x1.jpg?2023-11-16T18:41:07+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "Savor American classics—like juicy bacon cheeseburgers, savory chili-cheese dogs and more!",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/rosies-all-american-cafe/rosies-all-america-cafe-16x9.jpg?2023-11-16T18:41:07+00:00",
+          "alt": "A cheeseburger with tomato and lettuce",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/rosies-all-american-cafe/rosies-all-america-cafe-16x9.jpg?2023-11-16T18:41:07+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Savor American classics—like juicy bacon cheeseburgers, savory chili-cheese dogs and more!",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/rosies-all-american-cafe/rosies-all-america-cafe-1x1.jpg?2023-11-16T18:41:07+00:00",
+          "alt": "A cheeseburger with tomato and lettuce",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/rosies-all-american-cafe/rosies-all-america-cafe-1x1.jpg?2023-11-16T18:41:07+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "quick-service-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2027-quick-service-meal",
+          "2026-quick-service-meal"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "quick-service-kiosk"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "10:00:00",
+            "endTime": "22:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/rosies-all-american-cafe/",
+          "title": "dining/hollywood-studios/rosies-all-american-cafe/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "90002090",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Mobile Orders"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90002090;entityType=restaurant",
+          "name": "Rosie's All-American Café",
+          "urlFriendlyId": "rosies-all-american-cafe",
+          "url": "/dining/hollywood-studios/rosies-all-american-cafe/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/rosies-all-american-cafe/rosies-all-america-cafe-1x1.jpg?2023-11-16T18:41:07+00:00",
+            "alt": "A cheeseburger with tomato and lettuce"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.358821,
+        "lng": -81.560268,
+        "name": "Rosie's All-American Café",
+        "id": "90002090;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90002114;entityType=restaurant",
+      "urlFriendlyId": "sci-fi-dine-in-theater",
+      "url": "/dining/hollywood-studios/sci-fi-dine-in-theater/",
+      "name": "Sci-Fi Dine-In Theater Restaurant",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "42007;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Let's all go to the lobby and check out the galaxy of kitschy memorabilia. You'll find an out-of-this-world collection of sci-fi movie props and posters and an old-fashioned snack bar.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/gallery/dining/hollywood-studios/sci-fi-dine-in-theater/sci-fi-dine-in-theater-gallery02-sq.jpg?1753784320269",
+          "alt": "Front view of rows of 1950s car dining booths with snack bar in the background",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/hollywood-studios/sci-fi-dine-in-theater/sci-fi-dine-in-theater-gallery02-sq.jpg?1753784320269"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/gallery/dining/hollywood-studios/sci-fi-dine-in-theater/sci-fi-dine-in-theater-gallery02.jpg?1753784320269",
+          "alt": "A fifties style drive in at dusk with rows of vintage cars at the Sci-Fi Dine-In Theater Restaurant ",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/hollywood-studios/sci-fi-dine-in-theater/sci-fi-dine-in-theater-gallery02.jpg?1753784320269"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Let's all go to the lobby and check out the galaxy of kitschy memorabilia. You'll find an out-of-this-world collection of sci-fi movie props and posters and an old-fashioned snack bar.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/gallery/dining/hollywood-studios/sci-fi-dine-in-theater/sci-fi-dine-in-theater-gallery02-sq.jpg?1753784320269",
+          "alt": "Front view of rows of 1950s car dining booths with snack bar in the background",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/hollywood-studios/sci-fi-dine-in-theater/sci-fi-dine-in-theater-gallery02-sq.jpg?1753784320269"
+        }
+      },
+      "facets": {
+        "additionalInfo": [
+          "10-discount-non-discounted-price-food-with-exclusions"
+        ],
+        "annualPass": [
+          "platinum-plus-annual-pass",
+          "platinum-annual-pass",
+          "wdw-water-parks-annual-pass",
+          "silver-annual-pass",
+          "gold-annual-pass",
+          "weekday-select-pass",
+          "epcot-after4-pass"
+        ],
+        "checkAvailability": [
+          "checkavailmodulewdw"
+        ],
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "walkupWaitList",
+          "table-service-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "table-service-rec"
+        ],
+        "diningPlan": [
+          "2026-table-service-meal",
+          "2027-table-service-meal"
+        ],
+        "discounts": [
+          "disney-visa-cardholder"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$$"
+        ],
+        "reservationOfferings": [
+          "add-ons-available"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "reservations-accepted",
+          "a-la-carte",
+          "casual-dining"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "10:30:00",
+            "endTime": "21:30:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/",
+          "title": "dining/hollywood-studios/sci-fi-dine-in-theater"
+        }
+      },
+      "quickServiceAvailable": false,
+      "productUrls": [
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/90007162?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/90007163?locale=en-US"
+      ],
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "90002114",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "remyCheckAvailCta": {
+        "icon": "dining-plan",
+        "href": "/dine-res/restaurant/sci-fi-dine-in-theater/",
+        "label": "Check Availability Calendar",
+        "target": "_self"
+      },
+      "facetsLabel": "$$ ($15 to $34.99 per adult), American",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "a la Carte, American"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90002114;entityType=restaurant",
+          "name": "Sci-Fi Dine-In Theater Restaurant",
+          "urlFriendlyId": "sci-fi-dine-in-theater",
+          "url": "/dining/hollywood-studios/sci-fi-dine-in-theater/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/gallery/dining/hollywood-studios/sci-fi-dine-in-theater/sci-fi-dine-in-theater-gallery02-sq.jpg?1753784320269",
+            "alt": "Front view of rows of 1950s car dining booths with snack bar in the background"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.3559,
+        "lng": -81.559495,
+        "name": "Sci-Fi Dine-In Theater Restaurant",
+        "id": "90002114;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90001231;entityType=restaurant",
+      "urlFriendlyId": "anaheim-produce",
+      "url": "/dining/hollywood-studios/anaheim-produce/",
+      "name": "Anaheim Produce",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008013;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Fresh and vibrant selections of apples, bananas and oranges for sale alongside packages of trail mix",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/anaheim-produce/anaheim-produce-00-sq.jpg?1704795429867",
+          "alt": "Fresh and vibrant selections of apples, bananas and oranges for sale alongside packages of trail mix",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/anaheim-produce/anaheim-produce-00-sq.jpg?1704795429867"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/anaheim-produce/anaheim-produce-00.jpg?1704795429866",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/anaheim-produce/anaheim-produce-00.jpg?1704795429866"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Fresh and vibrant selections of apples, bananas and oranges for sale alongside packages of trail mix",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/anaheim-produce/anaheim-produce-00-sq.jpg?1704795429866",
+          "alt": "Fresh and vibrant selections of apples, bananas and oranges for sale alongside packages of trail mix",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/anaheim-produce/anaheim-produce-00-sq.jpg?1704795429866"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "snacks-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "snack"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Early Entry",
+            "startTime": "08:00:00",
+            "endTime": "09:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          },
+          {
+            "type": "Operating",
+            "startTime": "09:00:00",
+            "endTime": "21:30:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/anaheim-produce/",
+          "title": "na"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "90001231",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Snack"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90001231;entityType=restaurant",
+          "name": "Anaheim Produce",
+          "urlFriendlyId": "anaheim-produce",
+          "url": "/dining/hollywood-studios/anaheim-produce/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/anaheim-produce/anaheim-produce-00-sq.jpg?1704795429866",
+            "alt": "Fresh and vibrant selections of apples, bananas and oranges for sale alongside packages of trail mix"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.358448,
+        "lng": -81.560086,
+        "name": "Anaheim Produce",
+        "id": "90001231;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90001260;entityType=restaurant",
+      "urlFriendlyId": "backlot-express",
+      "url": "/dining/hollywood-studios/backlot-express/",
+      "name": "Backlot Express",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008028;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Sink your teeth into the delicious BBQ Burger at Backlot Express in Disney’s Hollywood Studios!",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/backlot-express/DHS_BacklotExpress_SmokedBBQPulledPorkBurger-1x1.jpg?2022-04-11T13:13:41+00:00",
+          "alt": "A barbecue burger topped with cheese, served with fries",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/backlot-express/DHS_BacklotExpress_SmokedBBQPulledPorkBurger-1x1.jpg?2022-04-11T13:13:41+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "Sink your teeth into the delicious BBQ Burger at Backlot Express in Disney’s Hollywood Studios!",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/backlot-express/DHS_BacklotExpress_SmokedBBQPulledPorkBurger-16x9.jpg?2022-04-11T13:13:41+00:00",
+          "alt": "A barbecue burger topped with cheese, served with fries",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/backlot-express/DHS_BacklotExpress_SmokedBBQPulledPorkBurger-16x9.jpg?2022-04-11T13:13:41+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Sink your teeth into the delicious BBQ Burger at Backlot Express in Disney’s Hollywood Studios!",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/backlot-express/DHS_BacklotExpress_SmokedBBQPulledPorkBurger-1x1.jpg?2022-04-11T13:13:41+00:00",
+          "alt": "A barbecue burger topped with cheese, served with fries",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/backlot-express/DHS_BacklotExpress_SmokedBBQPulledPorkBurger-1x1.jpg?2022-04-11T13:13:41+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "quick-service-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2027-quick-service-meal",
+          "2026-quick-service-meal"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "counter-service"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "11:00:00",
+            "endTime": "21:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/backlot-express/",
+          "title": "dining/hollywood-studios/backlot-express"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "90001260",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Quick Service Restaurant"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90001260;entityType=restaurant",
+          "name": "Backlot Express",
+          "urlFriendlyId": "backlot-express",
+          "url": "/dining/hollywood-studios/backlot-express/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/backlot-express/DHS_BacklotExpress_SmokedBBQPulledPorkBurger-1x1.jpg?2022-04-11T13:13:41+00:00",
+            "alt": "A barbecue burger topped with cheese, served with fries"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.35589,
+        "lng": -81.558388,
+        "name": "Backlot Express",
+        "id": "90001260;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "18904173;entityType=restaurant",
+      "urlFriendlyId": "woodys-lunchbox",
+      "url": "/dining/hollywood-studios/woodys-lunchbox/",
+      "name": "Woody's Lunch Box",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "18904139;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/woodys-lunch-box/WDW_DHS_Woodys_BBQBrisketMelt_FULL_040926_2959_CJ-1x1.jpg?2026-07-09T18:48:47+00:00",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/woodys-lunch-box/WDW_DHS_Woodys_BBQBrisketMelt_FULL_040926_2959_CJ-1x1.jpg?2026-07-09T18:48:47+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/woodys-lunch-box/WDW_DHS_Woodys_BBQBrisketMelt_FULL_040926_2959_CJ-16x9.jpg?2026-07-09T18:48:47+00:00",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/woodys-lunch-box/WDW_DHS_Woodys_BBQBrisketMelt_FULL_040926_2959_CJ-16x9.jpg?2026-07-09T18:48:47+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/woodys-lunch-box/WDW_DHS_Woodys_BBQBrisketMelt_FULL_040926_2959_CJ-1x1.jpg?2026-07-09T18:48:47+00:00",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/woodys-lunch-box/WDW_DHS_Woodys_BBQBrisketMelt_FULL_040926_2959_CJ-1x1.jpg?2026-07-09T18:48:47+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "breakfast",
+          "dhs-dine-area",
+          "theme-park-dining",
+          "quick-service-type"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2027-quick-service-meal",
+          "2026-quick-service-meal"
+        ],
+        "disneyFavorites": [
+          "pixar-rec"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "interests": [
+          "new"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "quick-service-kiosk"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "type": [
+          "admission-required"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "09:00:00",
+            "endTime": "22:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/woodys-lunchbox/",
+          "title": "dining/hollywood-studios/woodys-lunchbox/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "18904173",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Mobile Orders"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "18904173;entityType=restaurant",
+          "name": "Woody's Lunch Box",
+          "urlFriendlyId": "woodys-lunchbox",
+          "url": "/dining/hollywood-studios/woodys-lunchbox/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/woodys-lunch-box/WDW_DHS_Woodys_BBQBrisketMelt_FULL_040926_2959_CJ-1x1.jpg?2026-07-09T18:48:47+00:00",
+            "alt": ""
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.355747,
+        "lng": -81.562185,
+        "name": "Woody's Lunch Box",
+        "id": "18904173;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "19259564;entityType=restaurant",
+      "urlFriendlyId": "neighborhood-bakery",
+      "url": "/dining/hollywood-studios/neighborhood-bakery/",
+      "name": "Neighborhood Bakery",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "397774;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/disney-world/dining/hollywood-studios/neighborhood-bakery/num-num-cookie-1x1.jpg?1704801769630",
+          "alt": "A chocolate chip muffin",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disney-world/dining/hollywood-studios/neighborhood-bakery/num-num-cookie-1x1.jpg?1704801769630"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disney-world/dining/hollywood-studios/neighborhood-bakery/num-num-cookie-v2-16x9.jpg?1704801769630",
+          "alt": "A chocolate chip muffin",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disney-world/dining/hollywood-studios/neighborhood-bakery/num-num-cookie-v2-16x9.jpg?1704801769630"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disney-world/dining/hollywood-studios/neighborhood-bakery/num-num-cookie-1x1.jpg?1704801769630",
+          "alt": "A chocolate chip muffin",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disney-world/dining/hollywood-studios/neighborhood-bakery/num-num-cookie-1x1.jpg?1704801769630"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "snacks-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "disneyFavorites": [
+          "pixar-rec"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "snack"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "09:00:00",
+            "endTime": "17:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/neighborhood-bakery/",
+          "title": "dining/hollywood-studios/neighborhood-bakery/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "19259564",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Snack"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "19259564;entityType=restaurant",
+          "name": "Neighborhood Bakery",
+          "urlFriendlyId": "neighborhood-bakery",
+          "url": "/dining/hollywood-studios/neighborhood-bakery/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disney-world/dining/hollywood-studios/neighborhood-bakery/num-num-cookie-1x1.jpg?1704801769630",
+            "alt": "A chocolate chip muffin"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.356385,
+        "lng": -81.560904,
+        "name": "Neighborhood Bakery",
+        "id": "19259564;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "18744584;entityType=restaurant",
+      "urlFriendlyId": "baseline-tap-house",
+      "url": "/dining/hollywood-studios/baseline-tap-house/",
+      "name": "BaseLine Tap House",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "18782428;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/baseline-tap-house/WDW_DHS_Baseline_PretzelCharcuterieChipsFlight_STYLIZED_030525_0449_CJ-1x1.jpg?2025-04-22T23:21:23+00:00",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/baseline-tap-house/WDW_DHS_Baseline_PretzelCharcuterieChipsFlight_STYLIZED_030525_0449_CJ-1x1.jpg?2025-04-22T23:21:23+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/baseline-tap-house/WDW_DHS_Baseline_PretzelCharcuterieChipsFlight_STYLIZED_030525_0449_CJ-16x9.jpg?2025-04-22T23:21:23+00:00",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/baseline-tap-house/WDW_DHS_Baseline_PretzelCharcuterieChipsFlight_STYLIZED_030525_0449_CJ-16x9.jpg?2025-04-22T23:21:23+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/baseline-tap-house/WDW_DHS_Baseline_PretzelCharcuterieChipsFlight_STYLIZED_030525_0449_CJ-1x1.jpg?2025-04-22T23:21:23+00:00",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/baseline-tap-house/WDW_DHS_Baseline_PretzelCharcuterieChipsFlight_STYLIZED_030525_0449_CJ-1x1.jpg?2025-04-22T23:21:23+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "barslounges-type",
+          "dhs-dine-area",
+          "theme-park-dining"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "interests": [
+          "new"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "resortFeatures": [
+          "lounges-bars"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "lounges"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "10:30:00",
+            "endTime": "21:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "https://disneyworld.disney.go.com/dining/hollywood-studios/baseline-tap-house/",
+          "title": "dining/hollywood-studios/baseline-tap-house/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "18744584",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "American, Bar-Lounge"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "18744584;entityType=restaurant",
+          "name": "BaseLine Tap House",
+          "urlFriendlyId": "baseline-tap-house",
+          "url": "/dining/hollywood-studios/baseline-tap-house/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/baseline-tap-house/WDW_DHS_Baseline_PretzelCharcuterieChipsFlight_STYLIZED_030525_0449_CJ-1x1.jpg?2025-04-22T23:21:23+00:00",
+            "alt": ""
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.355696,
+        "lng": -81.559565,
+        "name": "BaseLine Tap House",
+        "id": "18744584;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90001951;entityType=restaurant",
+      "urlFriendlyId": "dockside-diner",
+      "url": "/dining/hollywood-studios/dockside-diner/",
+      "name": "Dockside Diner",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008028;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/image-5-WDW_DHS_FairfaxFare_HotDogCaliforniaBLTA_FULL_DH-1x1.jpg?2022-03-10T19:41:03+00:00",
+          "alt": "A California BLTA Dog topped with fresh vegetables and crispy bacon\t",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/image-5-WDW_DHS_FairfaxFare_HotDogCaliforniaBLTA_FULL_DH-1x1.jpg?2022-03-10T19:41:03+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/image-5-WDW_DHS_FairfaxFare_HotDogCaliforniaBLTA_FULL_DH-16x9.jpg?2022-03-10T19:41:03+00:00",
+          "alt": "A California BLTA Dog topped with fresh vegetables and crispy bacon\t",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/image-5-WDW_DHS_FairfaxFare_HotDogCaliforniaBLTA_FULL_DH-16x9.jpg?2022-03-10T19:41:03+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/image-5-WDW_DHS_FairfaxFare_HotDogCaliforniaBLTA_FULL_DH-1x1.jpg?2022-03-10T19:41:03+00:00",
+          "alt": "A California BLTA Dog topped with fresh vegetables and crispy bacon\t",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/image-5-WDW_DHS_FairfaxFare_HotDogCaliforniaBLTA_FULL_DH-1x1.jpg?2022-03-10T19:41:03+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "lunch",
+          "quick-service-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2027-quick-service-meal",
+          "2026-quick-service-meal"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "quick-service-kiosk"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "11:00:00",
+            "endTime": "17:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/hollywood-studios/dockside-diner/",
+          "title": "dining/hollywood-studios/dockside-diner/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "90001951",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Mobile Orders"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90001951;entityType=restaurant",
+          "name": "Dockside Diner",
+          "urlFriendlyId": "dockside-diner",
+          "url": "/dining/hollywood-studios/dockside-diner/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/image-5-WDW_DHS_FairfaxFare_HotDogCaliforniaBLTA_FULL_DH-1x1.jpg?2022-03-10T19:41:03+00:00",
+            "alt": "A California BLTA Dog topped with fresh vegetables and crispy bacon\t"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.3570985,
+        "lng": -81.559552,
+        "name": "Dockside Diner",
+        "id": "90001951;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "412628225;entityType=restaurant",
+      "urlFriendlyId": "food-by-swedish-chef",
+      "url": "/dining/hollywood-studios/food-by-swedish-chef/",
+      "name": "FØØD by Swedish Chef",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008013;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Satisfy your sweet tooth with show-stopping desserts.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/krnr-the-rock-station/WDW_DHS_KRNR_ChurroDrumstick_STYLIZED_040226_1638_NT-1x1.jpg?2026-05-18T17:57:29+00:00",
+          "alt": "A Churro Drumstick topped with chocolate sauce and sprinkles from FØØD by Swedish Chef",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/krnr-the-rock-station/WDW_DHS_KRNR_ChurroDrumstick_STYLIZED_040226_1638_NT-1x1.jpg?2026-05-18T17:57:29+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "Satisfy your sweet tooth with show-stopping desserts.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/krnr-the-rock-station/WDW_DHS_KRNR_ChurroDrumstick_STYLIZED_040226_1638_NT-16x9.jpg?2026-05-18T17:57:29+00:00",
+          "alt": "A Churro Drumstick topped with chocolate sauce and sprinkles from FØØD by Swedish Chef",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/krnr-the-rock-station/WDW_DHS_KRNR_ChurroDrumstick_STYLIZED_040226_1638_NT-16x9.jpg?2026-05-18T17:57:29+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Satisfy your sweet tooth with show-stopping desserts.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/krnr-the-rock-station/WDW_DHS_KRNR_ChurroDrumstick_STYLIZED_040226_1638_NT-1x1.jpg?2026-05-18T17:57:29+00:00",
+          "alt": "A Churro Drumstick topped with chocolate sauce and sprinkles from FØØD by Swedish Chef",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/krnr-the-rock-station/WDW_DHS_KRNR_ChurroDrumstick_STYLIZED_040226_1638_NT-1x1.jpg?2026-05-18T17:57:29+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "snacks-type",
+          "theme-park-dining"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "snack"
+        ],
+        "resortLocation": [
+          "disneys-hollywood-area"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "09:00:00",
+            "endTime": "22:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "https://disneyworld.disney.go.com/dining/hollywood-studios/food-by-swedish-chef/",
+          "title": "Food By Swedish Chef"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "412628225",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Snack"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "412628225;entityType=restaurant",
+          "name": "FØØD by Swedish Chef",
+          "urlFriendlyId": "food-by-swedish-chef",
+          "url": "/dining/hollywood-studios/food-by-swedish-chef/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/krnr-the-rock-station/WDW_DHS_KRNR_ChurroDrumstick_STYLIZED_040226_1638_NT-1x1.jpg?2026-05-18T17:57:29+00:00",
+            "alt": "A Churro Drumstick topped with chocolate sauce and sprinkles from FØØD by Swedish Chef"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.359298,
+        "lng": -81.560673,
+        "name": "FØØD by Swedish Chef",
+        "id": "412628225;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "19296378;entityType=restaurant",
+      "urlFriendlyId": "ronto-roasters",
+      "url": "/dining/hollywood-studios/ronto-roasters/",
+      "name": "Ronto Roasters",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "19025682;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/disney-world/dining/hollywood-studios/ronto-roasters/rontos-roasters-1x1.jpg?1781012497137",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disney-world/dining/hollywood-studios/ronto-roasters/rontos-roasters-1x1.jpg?1781012497137"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disney-world/dining/hollywood-studios/ronto-roasters/rontos-roasters-16x9.jpg?1781012497137",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disney-world/dining/hollywood-studios/ronto-roasters/rontos-roasters-16x9.jpg?1781012497137"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disney-world/dining/hollywood-studios/ronto-roasters/rontos-roasters-1x1.jpg?1781012497137",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disney-world/dining/hollywood-studios/ronto-roasters/rontos-roasters-1x1.jpg?1781012497137"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "quick-service-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2027-quick-service-meal",
+          "2026-quick-service-meal"
+        ],
+        "disneyFavorites": [
+          "star-wars-rec"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "quick-service-kiosk"
+        ],
+        "resortFeatures": [
+          "restaurants"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Early Entry",
+            "startTime": "08:30:00",
+            "endTime": "09:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          },
+          {
+            "type": "Operating",
+            "startTime": "09:00:00",
+            "endTime": "15:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "https://disneyworld.disney.go.com/dining/hollywood-studios/ronto-roasters/",
+          "title": "/ronto-roasters/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "19296378",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Mobile Orders"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "19296378;entityType=restaurant",
+          "name": "Ronto Roasters",
+          "urlFriendlyId": "ronto-roasters",
+          "url": "/dining/hollywood-studios/ronto-roasters/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disney-world/dining/hollywood-studios/ronto-roasters/rontos-roasters-1x1.jpg?1781012497137",
+            "alt": ""
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.354341,
+        "lng": -81.561652,
+        "name": "Ronto Roasters",
+        "id": "19296378;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "19249017;entityType=restaurant",
+      "urlFriendlyId": "market",
+      "url": "/dining/hollywood-studios/market/",
+      "name": "Market",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "397774;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Large chocolate chip cookies on a plate",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/disneyland/dining/disney-california-adventure/jack-jack-cookie-num-nums/jack-jack-cookie-num-num-1x1.jpg?1704796056330",
+          "alt": "Large chocolate chip cookies on a plate",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disneyland/dining/disney-california-adventure/jack-jack-cookie-num-nums/jack-jack-cookie-num-num-1x1.jpg?1704796056330"
+        },
+        "finderStandardThumb": {
+          "title": "Large chocolate chip cookies on a plate",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/disney-california-adventure/jack-jack-cookie-num-nums/jack-jack-cookie-num-num-16x9.jpg?1704796056330",
+          "alt": "Large chocolate chip cookies on a plate",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disneyland/dining/disney-california-adventure/jack-jack-cookie-num-nums/jack-jack-cookie-num-num-16x9.jpg?1704796056330"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Large chocolate chip cookies on a plate",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disneyland/dining/disney-california-adventure/jack-jack-cookie-num-nums/jack-jack-cookie-num-num-1x1.jpg?1704796056330",
+          "alt": "Large chocolate chip cookies on a plate",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disneyland/dining/disney-california-adventure/jack-jack-cookie-num-nums/jack-jack-cookie-num-num-1x1.jpg?1704796056330"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "snacks-type",
+          "theme-park-dining",
+          "dhs-dine-area"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "snack"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "09:00:00",
+            "endTime": "22:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "https://disneyworld.disney.go.com/dining/hollywood-studios/market/",
+          "title": "dining/hollywood-studios/market"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "19249017",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Snack"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "19249017;entityType=restaurant",
+          "name": "Market",
+          "urlFriendlyId": "market",
+          "url": "/dining/hollywood-studios/market/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disneyland/dining/disney-california-adventure/jack-jack-cookie-num-nums/jack-jack-cookie-num-num-1x1.jpg?1704796056330",
+            "alt": "Large chocolate chip cookies on a plate"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.356685,
+        "lng": -81.56088,
+        "name": "Market",
+        "id": "19249017;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "15494775;entityType=restaurant",
+      "urlFriendlyId": "epic-eats",
+      "url": "/dining/hollywood-studios/epic-eats/",
+      "name": "Epic Eats",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "80008028;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Oasis Canteen",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/oasis-canteen/oasis-canteen-02-sq.jpg?1749147854139",
+          "alt": "A crispy funnel cake dessert topped with powdered sugar",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/oasis-canteen/oasis-canteen-02-sq.jpg?1749147854139"
+        },
+        "finderStandardThumb": {
+          "title": "Oasis Canteen",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/oasis-canteen/oasis-canteen-02.jpg?1749147854139",
+          "alt": "A crispy funnel cake dessert topped with powdered sugar",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/oasis-canteen/oasis-canteen-02.jpg?1749147854139"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Oasis Canteen",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/oasis-canteen/oasis-canteen-02-sq.jpg?1749147854139",
+          "alt": "A crispy funnel cake dessert topped with powdered sugar",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/oasis-canteen/oasis-canteen-02-sq.jpg?1749147854139"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "snacks-type",
+          "dhs-dine-area",
+          "theme-park-dining"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "snack"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "11:00:00",
+            "endTime": "20:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "https://disneyworld.disney.go.com/dining/hollywood-studios/epic-eats/",
+          "title": "dining/hollywood-studios/epic-eats/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "15494775",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Snack"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "15494775;entityType=restaurant",
+          "name": "Epic Eats",
+          "urlFriendlyId": "epic-eats",
+          "url": "/dining/hollywood-studios/epic-eats/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/hollywood-studios/oasis-canteen/oasis-canteen-02-sq.jpg?1749147854139",
+            "alt": "A crispy funnel cake dessert topped with powdered sugar"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.3565942108,
+        "lng": -81.5588870645,
+        "name": "Epic Eats",
+        "id": "15494775;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "19553134;entityType=restaurant",
+      "urlFriendlyId": "roundup-rodeo-bbq",
+      "url": "/dining/hollywood-studios/roundup-rodeo-bbq/",
+      "name": "Roundup Rodeo BBQ",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "18904139;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/roundup-rodeo-bbq/Recco_1-1x1.jpg?2023-03-09T22:45:50+00:00",
+          "alt": "A server approaches a table where a family is eating a meal",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/roundup-rodeo-bbq/Recco_1-1x1.jpg?2023-03-09T22:45:50+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/roundup-rodeo-bbq/Recco_1-16x9.jpg?2023-03-09T22:45:50+00:00",
+          "alt": "A server approaches a table where a family is eating a meal",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/roundup-rodeo-bbq/Recco_1-16x9.jpg?2023-03-09T22:45:50+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/roundup-rodeo-bbq/Recco_1-1x1.jpg?2023-03-09T22:45:50+00:00",
+          "alt": "A server approaches a table where a family is eating a meal",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/roundup-rodeo-bbq/Recco_1-1x1.jpg?2023-03-09T22:45:50+00:00"
+        }
+      },
+      "facets": {
+        "additionalInfo": [
+          "10-discount-non-discounted-price-food-with-exclusions"
+        ],
+        "annualPass": [
+          "epcot-after4-pass",
+          "weekday-select-pass",
+          "gold-annual-pass",
+          "silver-annual-pass",
+          "wdw-water-parks-annual-pass",
+          "platinum-annual-pass",
+          "platinum-plus-annual-pass"
+        ],
+        "checkAvailability": [
+          "checkavailmodulewdw"
+        ],
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "table-service-type",
+          "theme-park-dining",
+          "dhs-dine-area",
+          "walkupWaitList"
+        ],
+        "diningInterests": [
+          "table-service-rec"
+        ],
+        "diningPlan": [
+          "2026-table-service-meal",
+          "2027-table-service-meal"
+        ],
+        "discounts": [
+          "disney-visa-cardholder"
+        ],
+        "disneyFavorites": [
+          "pixar-rec"
+        ],
+        "interests": [
+          "new"
+        ],
+        "priceRangeDining": [
+          "$$$"
+        ],
+        "reservationOfferings": [
+          "add-ons-available"
+        ],
+        "resortLocation": [
+          "disneys-hollywood-area"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "reservations-accepted",
+          "family-style",
+          "casual-dining"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "10:45:00",
+            "endTime": "21:30:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "https://disneyworld.disney.go.com/dining/hollywood-studios/roundup-rodeo-bbq/",
+          "title": "dining/hollywood-studios/roundup-rodeo-bbq/"
+        }
+      },
+      "quickServiceAvailable": false,
+      "productUrls": [
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19553141?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/19553142?locale=en-US"
+      ],
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "19553134",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "remyCheckAvailCta": {
+        "icon": "dining-plan",
+        "href": "/dine-res/restaurant/roundup-rodeo-bbq/",
+        "label": "Check Availability Calendar",
+        "target": "_self"
+      },
+      "facetsLabel": "$$$ ($35 to $59.99 per adult), American",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "American, Casual Dining"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "19553134;entityType=restaurant",
+          "name": "Roundup Rodeo BBQ",
+          "urlFriendlyId": "roundup-rodeo-bbq",
+          "url": "/dining/hollywood-studios/roundup-rodeo-bbq/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/roundup-rodeo-bbq/Recco_1-1x1.jpg?2023-03-09T22:45:50+00:00",
+            "alt": "A server approaches a table where a family is eating a meal"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.356832,
+        "lng": -81.56201,
+        "name": "Roundup Rodeo BBQ",
+        "id": "19553134;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "19267227;entityType=restaurant",
+      "urlFriendlyId": "docking-bay-7-food-and-cargo",
+      "url": "/dining/hollywood-studios/docking-bay-7-food-and-cargo/",
+      "name": "Docking Bay 7 Food and Cargo",
+      "parkIds": [
+        "80007998;entityType=theme-park"
+      ],
+      "landId": "19025682;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "A woman hands food to her family, seated inside a Star Wars cargo building where large containers of food are lowered from the ceiling",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/disneyland/dining/disneyland/docking-bay-7-food-and-cargo/docking-bay-guests-food-1x1.jpg?1781012441689",
+          "alt": "A woman hands food to her family, seated inside a Star Wars cargo building where large containers of food are lowered from the ceiling",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disneyland/dining/disneyland/docking-bay-7-food-and-cargo/docking-bay-guests-food-1x1.jpg?1781012441689"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/disneyland/dining/disneyland/docking-bay-7-food-and-cargo/docking-bay-guests-food-16x9.jpg?1781012441689",
+          "alt": "A large group eating at the Black Spire Outpost eatery at Star Wars Galaxy's Edge ",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disneyland/dining/disneyland/docking-bay-7-food-and-cargo/docking-bay-guests-food-16x9.jpg?1781012441689"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "A woman hands food to her family, seated inside a Star Wars cargo building where large containers of food are lowered from the ceiling",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disneyland/dining/disneyland/docking-bay-7-food-and-cargo/docking-bay-guests-food-1x1.jpg?1781012441689",
+          "alt": "A woman hands food to her family, seated inside a Star Wars cargo building where large containers of food are lowered from the ceiling",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/disneyland/dining/disneyland/docking-bay-7-food-and-cargo/docking-bay-guests-food-1x1.jpg?1781012441689"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "quick-service-type",
+          "dhs-dine-area",
+          "theme-park-dining"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2027-quick-service-meal",
+          "2026-quick-service-meal"
+        ],
+        "disneyFavorites": [
+          "star-wars-rec"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "interests": [
+          "star-wars-entertainment"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$$"
+        ],
+        "quickService": [
+          "counter-service"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "11:00:00",
+            "endTime": "21:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "https://disneyworld.disney.go.com/dining/hollywood-studios/docking-bay-7-food-and-cargo/",
+          "title": "/docking-bay-7-food-and-cargo/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Hollywood Studios",
+      "facilityId": "19267227",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$$ ($15 to $34.99 per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Quick Service Restaurant"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "19267227;entityType=restaurant",
+          "name": "Docking Bay 7 Food and Cargo",
+          "urlFriendlyId": "docking-bay-7-food-and-cargo",
+          "url": "/dining/hollywood-studios/docking-bay-7-food-and-cargo/",
+          "land": "Disney's Hollywood Studios",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/disneyland/dining/disneyland/docking-bay-7-food-and-cargo/docking-bay-guests-food-1x1.jpg?1781012441689",
+            "alt": "A woman hands food to her family, seated inside a Star Wars cargo building where large containers of food are lowered from the ceiling"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.354088,
+        "lng": -81.561643,
+        "name": "Docking Bay 7 Food and Cargo",
+        "id": "19267227;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    }
+  ]
+}

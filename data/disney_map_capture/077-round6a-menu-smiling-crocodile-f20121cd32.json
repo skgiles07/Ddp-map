@@ -1,0 +1,196 @@
+{
+  "name": "The Smiling Crocodile",
+  "location": "Disney's Animal Kingdom Theme Park, Discovery Island",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch And Dinner",
+      "label": "Lunch And Dinner",
+      "experience": "Quick Service Kiosk",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Entreés",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pulled Pork Cheese Arepa",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Avocado Dressing, Queso Fresco, and Salsa Verde served with Plantain Chips"
+            },
+            {
+              "title": "Pulled Chicken Cheese Arepa",
+              "prices": [
+                {
+                  "withoutTax": 13.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Avocado Dressing, Queso Fresco, and Salsa Verde served with Plantain Chips"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Passion Fruit-Orange-Guava Juice Limeade with Chili-Lime Seasoning",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Passion Fruit-Orange-Guava Juice, Minute Maid® Limeade, and Watermelon with a Chili-Lime Rim"
+            },
+            {
+              "title": "Assorted Fountain Beverages",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI® Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bud Light Lager Draft",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blue Moon Belgian White Ale Draft",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Passion Fruit-Orange-Guava Juice Limeade with Chili-Lime Seasoning and Tequila",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Teremana Blanco Tequila, Passion Fruit-Orange-Guava Juice, Minute Maid® Limeade, and Watermelon with a Chili-Lime Rim"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Entreés",
+        "desktop": "Entreés"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Alcoholic Beverages",
+        "desktop": "Alcoholic Beverages"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "The Smiling Crocodile",
+      "id": "90002646"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "412497968"
+        },
+        {
+          "productId": "412497972"
+        },
+        {
+          "productId": "412565118"
+        },
+        {
+          "productId": "16992692"
+        },
+        {
+          "productId": "16992694"
+        },
+        {
+          "productId": "411453143"
+        },
+        {
+          "productId": "412694559"
+        },
+        {
+          "productId": "412565119"
+        }
+      ]
+    }
+  }
+}

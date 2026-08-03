@@ -1,0 +1,1569 @@
+{
+  "name": "GEO-82",
+  "location": "EPCOT, World Celebration",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Small Bites",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Charcuterie Board",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chef's Selection of Artisanal Cheeses, Cured Meats, and Accompaniments"
+            },
+            {
+              "title": "Cannellini Hummus",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pumpkin Seed Pistou, Radish, Preserved Lemon, Fresno Peppers, Lavash (Plant-based)"
+            },
+            {
+              "title": "Funghi Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Mushrooms, Miso-Mascarpone, Mozzarella, Fontina, Pickled Cippolini Onion, Black Garlic Molasses"
+            },
+            {
+              "title": "Truffled Ahi Tuna*",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Barrel-aged Japanese Whisky-Soy-Truffle Ponzu, Nori, Sushi Rice, Daikon, Black Sesame Seeds"
+            },
+            {
+              "title": "Jamón Ibérico Croquetas",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tomato Gazpacho, Sea Salt, Sorrel Leaves"
+            }
+          ]
+        },
+        {
+          "name": "Zero-Proof Cocktails",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "A Walk Through the Garden",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seedlip Garden 108 Non-Alcoholic Spirit, Basil, Fennel, Lemon, Hella Cocktail Co. Orange Bitters, The Bitter Truth Celery Bitters, Bubbles"
+            },
+            {
+              "title": "Manhattan in the Morning",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "\"Seedlip Spice 94 Non-Alcoholic Spirit, Joffrey’s™ Cold Brew Coffee, Maple, Verjus Blanc, Tart Cherry, Fee Brothers Black Walnut Bitters\""
+            }
+          ]
+        },
+        {
+          "name": "Featured Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tuscan Olive Oil Martini",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "VUSA African Vodka, Dolin Dry Vermouth de Chambéry, Olive Oil, Tomato, Parmesan Crisp"
+            },
+            {
+              "title": "Brown Butter Old-Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Woodford Reserve Double Oaked Bourbon, Brown Butter, Maple, Hella Cocktail Co. Mexican Chocolate Bitters"
+            },
+            {
+              "title": "Aged Rum Boulevardier",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coconut Cartel Añejo Rum, Campari Liqueur, Carpano Antica Formula Sweet Vermouth, Steeped Strawberry"
+            },
+            {
+              "title": "Clarified Bee's Knees",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Barr Hill Reserve Tom Cat Gin, Honey, Lemon, Thyme"
+            },
+            {
+              "title": "High Brow Batanga",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tapatio Reposado Tequila, Ramazzotti Amaro, Kola Nut, Lime Cordial, Salt, Bubbles"
+            },
+            {
+              "title": "Pink Peppercorn Clover Club",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fords Gin, Dolin Blanc Vermouth de Chambéry, Raspberry, Pink Peppercorn, Lemon"
+            },
+            {
+              "title": "Peach Shrub Whisky Smash",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Toki Suntory Whisky, Lustau Amontillado Sherry, Peach and Mint Shrub, Bubbles"
+            },
+            {
+              "title": "Electron",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Siete Misterios Doba-Yej Mezcal, Carrot, Cinnamon, Lime, Hella Cocktail Co. Orange Bitters, Pink Peppercorn"
+            },
+            {
+              "title": "Brûlée Banana Highball",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Toki Suntory Whisky, Lustau ‘Don Nuño’ Oloroso Sherry, Banana, Coffee, Cacao, Bubbles"
+            },
+            {
+              "title": "Exclusive Disney Select Bourbon Flight",
+              "prices": [
+                {
+                  "withoutTax": 55,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Uncle Nearest Single Barrel, Woodford Reserve Private Barrel, Blanton’s Gold Single Barrel, Stagg Private Barrel"
+            }
+          ]
+        },
+        {
+          "name": "Beer Selections ($8.5 - $11.5)",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Miller High Life Lager",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Milwaukee, WI"
+            },
+            {
+              "title": "Bell’s Two Hearted IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Comstock, MI"
+            },
+            {
+              "title": "Lexington Brewing Kentucky Bourbon Barrel Ale",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lexington, KY"
+            },
+            {
+              "title": "Modelo Especial Lager",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mexico"
+            },
+            {
+              "title": "Yuengling Traditional Lager",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pottsville, PA"
+            },
+            {
+              "title": "Athletic Brewing Co Run Wild Non-Alcoholic IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Milford, CT"
+            }
+          ]
+        },
+        {
+          "name": "Wine Selections",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "A. Bergère ‘Origine’ Brut NV",
+              "prices": [
+                {
+                  "withoutTax": 105,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Champagne, France"
+            },
+            {
+              "title": "Schramsberg Brut Rosé",
+              "prices": [
+                {
+                  "withoutTax": 98,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "North Coast, CA"
+            },
+            {
+              "title": "Arnot-Roberts Rosé",
+              "prices": [
+                {
+                  "withoutTax": 62,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Clear Lake, CA"
+            },
+            {
+              "title": "Muxagat Douro Branco",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Douro Valley, Portugal"
+            },
+            {
+              "title": "Domaine Siret-Courtaud ‘Quincy’ Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 62,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Loire Valley, France"
+            },
+            {
+              "title": "Massican Hyde Vineyards Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 98,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley, CA"
+            },
+            {
+              "title": "Domaine Chapel ‘Fleurie’ Charbonnières",
+              "prices": [
+                {
+                  "withoutTax": 85,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 21,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beaujolais, France"
+            },
+            {
+              "title": "Presqu’ile Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 74,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Santa Maria Valley, CA"
+            },
+            {
+              "title": "Fisher Vineyard ‘Unity’ Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 98,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "North Coast, CA"
+            },
+            {
+              "title": "Robert Moncuit 'Vozémieux' Blanc de Blancs Grand Cru",
+              "prices": [
+                {
+                  "withoutTax": 298,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Champagne, France"
+            },
+            {
+              "title": "Chartogne-Taillet 'Sainte Anne' Brut",
+              "prices": [
+                {
+                  "withoutTax": 138,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Champagne, France"
+            },
+            {
+              "title": "Raphaël et Vincent Bérêche ‘Côte’ Millésimé",
+              "prices": [
+                {
+                  "withoutTax": 290,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Champagne, France"
+            },
+            {
+              "title": "Snowden Vineyards 'The Ranch' Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 105,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley, CA"
+            },
+            {
+              "title": "Lingua Franca Estate Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 105,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Willamette Valley, OR"
+            },
+            {
+              "title": "Lingua Franca 'Bunker Hill' Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 115,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Eola Amity Hills, OR"
+            },
+            {
+              "title": "Garagisti Anonimi Friulani Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 62,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Friuli, Italy"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Small Bites",
+          "type": "Allergy Friendly|Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Charcuterie Board",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chef's Selection of Artisanal Cheeses, Cured Meats, and Accompaniments (For Egg, Fish/Shellfish, Peanut, Sesame Allergies)"
+            },
+            {
+              "title": "Cannellini Hummus",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pumpkin Seed Pistou, Radish, Preserved Lemon, Fresno Peppers, Lavash (Plant-based) (For Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Funghi Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Mushrooms, Miso-Mascarpone, Mozzarella, Fontina, Pickled Cippolini Onion, Black Garlic Molasses (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            },
+            {
+              "title": "Truffled Ahi Tuna*",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Japanese Whisky Barrel-aged Soy-Truffle Ponzu, Nori, Koshihikari Rice, Daikon, Shoyu, Black Sesame Seeds (For Egg, Milk, Peanut/Tree Nut, Shellfish Allergies)"
+            },
+            {
+              "title": "Jamón Ibérico Croquetas",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tomato Gazpacho, Sea Salt, Sorrel Leaves (For Fish, Peanut, Sesame, Soy Allergies)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Small Bites",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Charcuterie Board",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chef's Selection of Artisanal Cheeses, Cured Meats, and Accompaniments"
+            },
+            {
+              "title": "Cannellini Hummus",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pumpkin Seed Pistou, Radish, Preserved Lemon, Fresno Peppers, Lavash (Plant-based)"
+            },
+            {
+              "title": "Funghi Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Mushrooms, Miso-Mascarpone, Mozzarella, Fontina, Pickled Cippolini Onion, Black Garlic Molasses"
+            },
+            {
+              "title": "Truffled Ahi Tuna*",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Barrel-aged Japanese Whisky-Soy-Truffle Ponzu, Nori, Sushi Rice, Daikon, Black Sesame Seeds"
+            },
+            {
+              "title": "Jamón Ibérico Croquetas",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tomato Gazpacho, Sea Salt, Sorrel Leaves"
+            }
+          ]
+        },
+        {
+          "name": "Zero-Proof Cocktails",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "A Walk Through the Garden",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Seedlip Garden 108 Non-Alcoholic Spirit, Basil, Fennel, Lemon, Hella Cocktail Co. Orange Bitters, The Bitter Truth Celery Bitters, Bubbles"
+            },
+            {
+              "title": "Manhattan in the Morning",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "\"Seedlip Spice 94 Non-Alcoholic Spirit, Joffrey’s™ Cold Brew Coffee, Maple, Verjus Blanc, Tart Cherry, Fee Brothers Black Walnut Bitters\""
+            }
+          ]
+        },
+        {
+          "name": "Featured Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Tuscan Olive Oil Martini",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "VUSA African Vodka, Dolin Dry Vermouth de Chambéry, Olive Oil, Tomato, Parmesan Crisp"
+            },
+            {
+              "title": "Brown Butter Old-Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Woodford Reserve Double Oaked Bourbon, Brown Butter, Maple, Hella Cocktail Co. Mexican Chocolate Bitters"
+            },
+            {
+              "title": "Aged Rum Boulevardier",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coconut Cartel Añejo Rum, Campari Liqueur, Carpano Antica Formula Sweet Vermouth, Steeped Strawberry"
+            },
+            {
+              "title": "Clarified Bee's Knees",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Barr Hill Reserve Tom Cat Gin, Honey, Lemon, Thyme"
+            },
+            {
+              "title": "High Brow Batanga",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tapatio Reposado Tequila, Ramazzotti Amaro, Kola Nut, Lime Cordial, Salt, Bubbles"
+            },
+            {
+              "title": "Pink Peppercorn Clover Club",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fords Gin, Dolin Blanc Vermouth de Chambéry, Raspberry, Pink Peppercorn, Lemon"
+            },
+            {
+              "title": "Peach Shrub Whisky Smash",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Toki Suntory Whisky, Lustau Amontillado Sherry, Peach and Mint Shrub, Bubbles"
+            },
+            {
+              "title": "Electron",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Siete Misterios Doba-Yej Mezcal, Carrot, Cinnamon, Lime, Hella Cocktail Co. Orange Bitters, Pink Peppercorn"
+            },
+            {
+              "title": "Brûlée Banana Highball",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Toki Suntory Whisky, Lustau ‘Don Nuño’ Oloroso Sherry, Banana, Coffee, Cacao, Bubbles"
+            },
+            {
+              "title": "Exclusive Disney Select Bourbon Flight",
+              "prices": [
+                {
+                  "withoutTax": 55,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Uncle Nearest Single Barrel, Woodford Reserve Private Barrel, Blanton’s Gold Single Barrel, Stagg Private Barrel"
+            }
+          ]
+        },
+        {
+          "name": "Beer Selections ($8.5 - $11.5)",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Miller High Life Lager",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Milwaukee, WI"
+            },
+            {
+              "title": "Bell’s Two Hearted IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Comstock, MI"
+            },
+            {
+              "title": "Lexington Brewing Kentucky Bourbon Barrel Ale",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lexington, KY"
+            },
+            {
+              "title": "Modelo Especial Lager",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mexico"
+            },
+            {
+              "title": "Yuengling Traditional Lager",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pottsville, PA"
+            },
+            {
+              "title": "Athletic Brewing Co Run Wild Non-Alcoholic IPA",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Milford, CT"
+            }
+          ]
+        },
+        {
+          "name": "Wine Selections",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "A. Bergère ‘Origine’ Brut NV",
+              "prices": [
+                {
+                  "withoutTax": 105,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Champagne, France"
+            },
+            {
+              "title": "Schramsberg Brut Rosé",
+              "prices": [
+                {
+                  "withoutTax": 98,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "North Coast, CA"
+            },
+            {
+              "title": "Arnot-Roberts Rosé",
+              "prices": [
+                {
+                  "withoutTax": 62,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Clear Lake, CA"
+            },
+            {
+              "title": "Muxagat Douro Branco",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Douro Valley, Portugal"
+            },
+            {
+              "title": "Domaine Siret-Courtaud ‘Quincy’ Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 62,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Loire Valley, France"
+            },
+            {
+              "title": "Massican Hyde Vineyards Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 98,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley, CA"
+            },
+            {
+              "title": "Domaine Chapel ‘Fleurie’ Charbonnières",
+              "prices": [
+                {
+                  "withoutTax": 85,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 21,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Beaujolais, France"
+            },
+            {
+              "title": "Presqu’ile Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 74,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Santa Maria Valley, CA"
+            },
+            {
+              "title": "Fisher Vineyard ‘Unity’ Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 98,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "North Coast, CA"
+            },
+            {
+              "title": "Robert Moncuit 'Vozémieux' Blanc de Blancs Grand Cru",
+              "prices": [
+                {
+                  "withoutTax": 298,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Champagne, France"
+            },
+            {
+              "title": "Chartogne-Taillet 'Sainte Anne' Brut",
+              "prices": [
+                {
+                  "withoutTax": 138,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Champagne, France"
+            },
+            {
+              "title": "Raphaël et Vincent Bérêche ‘Côte’ Millésimé",
+              "prices": [
+                {
+                  "withoutTax": 290,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Champagne, France"
+            },
+            {
+              "title": "Snowden Vineyards 'The Ranch' Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 105,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Napa Valley, CA"
+            },
+            {
+              "title": "Lingua Franca Estate Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 105,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 26,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Willamette Valley, OR"
+            },
+            {
+              "title": "Lingua Franca 'Bunker Hill' Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 115,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 29,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Eola Amity Hills, OR"
+            },
+            {
+              "title": "Garagisti Anonimi Friulani Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 62,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Friuli, Italy"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Small Bites",
+          "type": "Allergy Friendly|Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Charcuterie Board",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chef's Selection of Artisanal Cheeses, Cured Meats, and Accompaniments (For Egg, Fish/Shellfish, Peanut, Sesame Allergies)"
+            },
+            {
+              "title": "Cannellini Hummus",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pumpkin Seed Pistou, Radish, Preserved Lemon, Fresno Peppers, Lavash (Plant-based) (For Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Funghi Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Mushrooms, Miso-Mascarpone, Mozzarella, Fontina, Pickled Cippolini Onion, Black Garlic Molasses (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            },
+            {
+              "title": "Truffled Ahi Tuna*",
+              "prices": [
+                {
+                  "withoutTax": 21,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Japanese Whisky Barrel-aged Soy-Truffle Ponzu, Nori, Koshihikari Rice, Daikon, Shoyu, Black Sesame Seeds (For Egg, Milk, Peanut/Tree Nut, Shellfish Allergies)"
+            },
+            {
+              "title": "Jamón Ibérico Croquetas",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tomato Gazpacho, Sea Salt, Sorrel Leaves (For Fish, Peanut, Sesame, Soy Allergies)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Small Bites",
+        "desktop": "Small Bites"
+      },
+      {
+        "mobile": "Zero-Proof Cocktails",
+        "desktop": "Zero-Proof Cocktails"
+      },
+      {
+        "mobile": "Featured Cocktails",
+        "desktop": "Featured Cocktails"
+      },
+      {
+        "mobile": "Beer Selections ($8.5 - $11.5)",
+        "desktop": "Beer Selections ($8.5 - $11.5)"
+      },
+      {
+        "mobile": "Wine Selections",
+        "desktop": "Wine Selections"
+      },
+      {
+        "mobile": "Allergy-Friendly Small Bites",
+        "desktop": "Allergy-Friendly Small Bites"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Small Bites",
+        "desktop": "Small Bites"
+      },
+      {
+        "mobile": "Zero-Proof Cocktails",
+        "desktop": "Zero-Proof Cocktails"
+      },
+      {
+        "mobile": "Featured Cocktails",
+        "desktop": "Featured Cocktails"
+      },
+      {
+        "mobile": "Beer Selections ($8.5 - $11.5)",
+        "desktop": "Beer Selections ($8.5 - $11.5)"
+      },
+      {
+        "mobile": "Wine Selections",
+        "desktop": "Wine Selections"
+      },
+      {
+        "mobile": "Allergy-Friendly Small Bites",
+        "desktop": "Allergy-Friendly Small Bites"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "GEO-82",
+      "id": "412297708"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "412382774"
+        },
+        {
+          "productId": "412382775"
+        },
+        {
+          "productId": "412382776"
+        },
+        {
+          "productId": "412382778"
+        },
+        {
+          "productId": "412622143"
+        },
+        {
+          "productId": "412382726"
+        },
+        {
+          "productId": "412382734"
+        },
+        {
+          "productId": "412623437"
+        },
+        {
+          "productId": "412382714"
+        },
+        {
+          "productId": "412382720"
+        },
+        {
+          "productId": "412623487"
+        },
+        {
+          "productId": "412382724"
+        },
+        {
+          "productId": "412623350"
+        },
+        {
+          "productId": "412382718"
+        },
+        {
+          "productId": "412382721"
+        },
+        {
+          "productId": "412382723"
+        },
+        {
+          "productId": "412382725"
+        },
+        {
+          "productId": "412382735"
+        },
+        {
+          "productId": "412382736"
+        },
+        {
+          "productId": "412382737"
+        },
+        {
+          "productId": "412382740"
+        },
+        {
+          "productId": "412382741"
+        },
+        {
+          "productId": "412382744"
+        },
+        {
+          "productId": "412382745"
+        },
+        {
+          "productId": "412382757"
+        },
+        {
+          "productId": "412382761"
+        },
+        {
+          "productId": "412382763"
+        },
+        {
+          "productId": "412382765"
+        },
+        {
+          "productId": "412382767"
+        },
+        {
+          "productId": "412382769"
+        },
+        {
+          "productId": "412382771"
+        },
+        {
+          "productId": "412382773"
+        },
+        {
+          "productId": "412622161"
+        },
+        {
+          "productId": "412622160"
+        },
+        {
+          "productId": "412622154"
+        },
+        {
+          "productId": "412629053"
+        },
+        {
+          "productId": "412629052"
+        },
+        {
+          "productId": "412629048"
+        },
+        {
+          "productId": "412629036"
+        },
+        {
+          "productId": "412382801"
+        },
+        {
+          "productId": "412382800"
+        },
+        {
+          "productId": "412382799"
+        },
+        {
+          "productId": "412382798"
+        },
+        {
+          "productId": "412622144"
+        }
+      ],
+      "1": [
+        {
+          "productId": "412382774"
+        },
+        {
+          "productId": "412382775"
+        },
+        {
+          "productId": "412382776"
+        },
+        {
+          "productId": "412382778"
+        },
+        {
+          "productId": "412622143"
+        },
+        {
+          "productId": "412382726"
+        },
+        {
+          "productId": "412382734"
+        },
+        {
+          "productId": "412623437"
+        },
+        {
+          "productId": "412382714"
+        },
+        {
+          "productId": "412382720"
+        },
+        {
+          "productId": "412623487"
+        },
+        {
+          "productId": "412382724"
+        },
+        {
+          "productId": "412623350"
+        },
+        {
+          "productId": "412382718"
+        },
+        {
+          "productId": "412382721"
+        },
+        {
+          "productId": "412382723"
+        },
+        {
+          "productId": "412382725"
+        },
+        {
+          "productId": "412382735"
+        },
+        {
+          "productId": "412382736"
+        },
+        {
+          "productId": "412382737"
+        },
+        {
+          "productId": "412382740"
+        },
+        {
+          "productId": "412382741"
+        },
+        {
+          "productId": "412382744"
+        },
+        {
+          "productId": "412382745"
+        },
+        {
+          "productId": "412382757"
+        },
+        {
+          "productId": "412382761"
+        },
+        {
+          "productId": "412382763"
+        },
+        {
+          "productId": "412382765"
+        },
+        {
+          "productId": "412382767"
+        },
+        {
+          "productId": "412382769"
+        },
+        {
+          "productId": "412382771"
+        },
+        {
+          "productId": "412382773"
+        },
+        {
+          "productId": "412622161"
+        },
+        {
+          "productId": "412622160"
+        },
+        {
+          "productId": "412622154"
+        },
+        {
+          "productId": "412629053"
+        },
+        {
+          "productId": "412629052"
+        },
+        {
+          "productId": "412629048"
+        },
+        {
+          "productId": "412629036"
+        },
+        {
+          "productId": "412382801"
+        },
+        {
+          "productId": "412382800"
+        },
+        {
+          "productId": "412382799"
+        },
+        {
+          "productId": "412382798"
+        },
+        {
+          "productId": "412622144"
+        }
+      ]
+    }
+  }
+}

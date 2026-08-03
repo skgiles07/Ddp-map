@@ -19,12 +19,17 @@ export function tileConfig(disneyFetchable) {
 }
 
 export function pinHtml(location) {
+  const ddpClass = location?.ddp_class || 'ddp';
   const credits = location?.accepted_credits || [];
-  const kind = ['quick', 'snack', 'kids', 'table'].find(credit => credits.includes(credit)) || 'default';
-  const glyph = { quick: 'Q', snack: 'S', kids: 'K', table: 'T', default: '•' }[kind];
-  const valueClass = location?.tier === 1 ? ' pin-best' : location?.tier === 3 ? ' pin-dim' : '';
-  const valueBadge = location?.tier === 1
+  const kind = ddpClass === 'ts' ? 'ts'
+    : ddpClass === 'no-ddp' ? 'noddp'
+      : ddpClass === 'snack-unconfirmed' ? 'snack-unconfirmed'
+        : ['quick', 'snack', 'kids', 'table'].find(credit => credits.includes(credit)) || 'default';
+  const glyph = { quick: 'Q', snack: 'S', kids: 'K', table: 'T', ts: 'T', noddp: '×', 'snack-unconfirmed': 'S?', default: '•' }[kind];
+  const valueClass = ddpClass === 'ddp' && location?.tier === 1 ? ' pin-best'
+    : ddpClass === 'ddp' && location?.tier === 3 ? ' pin-dim' : '';
+  const valueBadge = ddpClass === 'ddp' && location?.tier === 1
     ? '<span class="pin-value" aria-hidden="true">🔥</span>'
-    : location?.tier === 3 ? '<span class="pin-value pin-cash">cash</span>' : '';
+    : ddpClass === 'ddp' && location?.tier === 3 ? '<span class="pin-value pin-cash">cash</span>' : '';
   return `<span class="disney-pin pin-${kind}${valueClass}" aria-hidden="true"><span class="pin-glyph">${glyph}</span><span class="pin-tail"></span>${valueBadge}</span>`;
 }

@@ -1,0 +1,1105 @@
+{
+  "name": "The Beak and Barrel",
+  "location": "Magic Kingdom Park, Adventureland",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "From the Galley",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Island Provisions",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Plantain Chips, Blue Corn Tortillas, and Toasted Flatbread served with Mango Chutney, Garlic Chimichurri, Spiced Guava, and Zesty Culantro Cream Dips"
+            },
+            {
+              "title": "Cook’s Corn Griddle Cakes with Chipotle-braised Chicken ",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Corn Cakes stuffed with Melted Cheese, Lime Sour Cream, Chili Peppers, and Cotija"
+            },
+            {
+              "title": "Cook’s Corn Griddle Cakes with Roasted Corn and Poblano Peppers",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Corn Cakes stuffed with Melted Cheese, Lime Sour Cream, Chili Peppers, and Cotija"
+            },
+            {
+              "title": "Kraken’s Catch",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Octopus Tentacles marinated in Lemon and Lime Juice with Olives, Bell Peppers, Avocado, and Piquillo Pepper-Almond Foam"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Specialty Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cursed Treasure",
+              "prices": [
+                {
+                  "withoutTax": 7.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "An indulgent blend of Coconut Milk and Cookie Crumbs topped with Vanilla Foam and Pirate’s Gold"
+            },
+            {
+              "title": "Treasure Trove",
+              "prices": [
+                {
+                  "withoutTax": 13.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Your choice of a mysterious Ube, Lemon, and Coconut Concoction or a tropical infusion of Sprite®, Pineapple, Mango, and Guava served with a Vanilla Cake Plank, Chocolate Cannonball, and Golden Caramel Popcorn"
+            }
+          ]
+        },
+        {
+          "name": "Signature Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Siren’s Whisper",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pot & Column Still White Rum Blend, Bols Blue Curaçao Liqueur, Combier Crème de Pêche de Vigne Liqueur, Lime, and Cinnamon"
+            },
+            {
+              "title": "Port of Call",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "London Dry Gin, Ruby Port, Lemon Juice, and Spiced Cranberry"
+            },
+            {
+              "title": "Lit Fuse",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Los Siete Misterios Doba-Yej Mezcal, Tempus Fugit Crème de Banane Liqueur, Coconut Water, Lime Juice, and Hella Cocktail Co. Smoked Chili Bitters"
+            },
+            {
+              "title": "Barrels Ablaze",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jack Daniel's Bonded Tennessee Whiskey, Honey, Lemon, and Chile"
+            },
+            {
+              "title": "Hibiscus Rum Punch Royale",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Don Q Reserva 7 Puerto Rican Rum, Hibiscus, and Lime topped with Prosecco"
+            },
+            {
+              "title": "Salty Seas mARRRgarita",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lalo Blanco Tequila, Cointreau Liqueur, Ube, and Lime"
+            },
+            {
+              "title": "Plunderer’s Punch",
+              "prices": [
+                {
+                  "withoutTax": 46,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "The Kraken Black Spiced Rum, Blackberry, Lime, and Vanilla served in a Souvenir Pirate Skull Mug"
+            }
+          ]
+        },
+        {
+          "name": "Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Viarae Prosecco D.O.C., Veneto, Italy",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Quinta de Santiago Vinho Verde, Vinho Verde, Portugal  ",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Spice Route ‘Chakalaka’ Red Blend, Swartland, South Africa",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Draft Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pirate’s Paradise Blonde Ale (Victory Brewing Co.)",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Berried Treasure Session Sour (Wicked Weed Brewing)",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Bottled & Canned",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Modelo Especial Lager",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Red Stripe Lager",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bell’s Two Hearted IPA",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Athletic Brewing Co Upside Dawn Golden (Non-Alcoholic)",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Reserve Rum Selections (2-oz pour)",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Foursquare Rum Distillery Exceptional Cask Selection Mark XXVIII",
+              "prices": [
+                {
+                  "withoutTax": 45,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Flor de Caña 25 yr Rum",
+              "prices": [
+                {
+                  "withoutTax": 45,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Diplomático Ambassador Selection Rum",
+              "prices": [
+                {
+                  "withoutTax": 55,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "From the Galley - Allergy Friendly",
+          "type": "Allergy Friendly|Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Island Provisions",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Plantain Chips, Blue Corn Tortillas, and Toasted Flatbread served with Mango Chutney, Garlic Chimichurri, Spiced Guava, and Zesty Culantro Cream Dips (For Fish/Shellfish, and Peanut/Tree Nut Allergies)"
+            },
+            {
+              "title": "Cook’s Corn Griddle Cakes with Chipotle-braised Chicken ",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Corn Cakes stuffed with Melted Cheese, Lime Sour Cream, Chili Peppers, and Cotija (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Cook’s Corn Griddle Cakes with Roasted Corn and Poblano Peppers",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Corn Cakes stuffed with Melted Cheese, Lime Sour Cream, Chili Peppers, and Cotija (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Kraken’s Catch",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Octopus Tentacles marinated in Lemon and Lime Juice with Olives, Bell Peppers, Avocado, and Piquillo Pepper-Almond Foam (For Gluten/Wheat, Egg, Fish, Milk, Peanut, Sesame, and Soy Allergies)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "From the Galley",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Island Provisions",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Plantain Chips, Blue Corn Tortillas, and Toasted Flatbread served with Mango Chutney, Garlic Chimichurri, Spiced Guava, and Zesty Culantro Cream Dips"
+            },
+            {
+              "title": "Cook’s Corn Griddle Cakes with Chipotle-braised Chicken ",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Corn Cakes stuffed with Melted Cheese, Lime Sour Cream, Chili Peppers, and Cotija"
+            },
+            {
+              "title": "Cook’s Corn Griddle Cakes with Roasted Corn and Poblano Peppers",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Corn Cakes stuffed with Melted Cheese, Lime Sour Cream, Chili Peppers, and Cotija"
+            },
+            {
+              "title": "Kraken’s Catch",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Octopus Tentacles marinated in Lemon and Lime Juice with Olives, Bell Peppers, Avocado, and Piquillo Pepper-Almond Foam"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Specialty Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cursed Treasure",
+              "prices": [
+                {
+                  "withoutTax": 7.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "An indulgent blend of Coconut Milk and Cookie Crumbs topped with Vanilla Foam and Pirate’s Gold"
+            },
+            {
+              "title": "Treasure Trove",
+              "prices": [
+                {
+                  "withoutTax": 13.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Your choice of a mysterious Ube, Lemon, and Coconut Concoction or a tropical infusion of Sprite®, Pineapple, Mango, and Guava served with a Vanilla Cake Plank, Chocolate Cannonball, and Golden Caramel Popcorn"
+            }
+          ]
+        },
+        {
+          "name": "Signature Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Siren’s Whisper",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Pot & Column Still White Rum Blend, Bols Blue Curaçao Liqueur, Combier Crème de Pêche de Vigne Liqueur, Lime, and Cinnamon"
+            },
+            {
+              "title": "Port of Call",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "London Dry Gin, Ruby Port, Lemon Juice, and Spiced Cranberry"
+            },
+            {
+              "title": "Lit Fuse",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Los Siete Misterios Doba-Yej Mezcal, Tempus Fugit Crème de Banane Liqueur, Coconut Water, Lime Juice, and Hella Cocktail Co. Smoked Chili Bitters"
+            },
+            {
+              "title": "Barrels Ablaze",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Jack Daniel's Bonded Tennessee Whiskey, Honey, Lemon, and Chile"
+            },
+            {
+              "title": "Hibiscus Rum Punch Royale",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Don Q Reserva 7 Puerto Rican Rum, Hibiscus, and Lime topped with Prosecco"
+            },
+            {
+              "title": "Salty Seas mARRRgarita",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lalo Blanco Tequila, Cointreau Liqueur, Ube, and Lime"
+            },
+            {
+              "title": "Plunderer’s Punch",
+              "prices": [
+                {
+                  "withoutTax": 46,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "The Kraken Black Spiced Rum, Blackberry, Lime, and Vanilla served in a Souvenir Pirate Skull Mug"
+            }
+          ]
+        },
+        {
+          "name": "Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Viarae Prosecco D.O.C., Veneto, Italy",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Quinta de Santiago Vinho Verde, Vinho Verde, Portugal  ",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Spice Route ‘Chakalaka’ Red Blend, Swartland, South Africa",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Draft Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pirate’s Paradise Blonde Ale (Victory Brewing Co.)",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Berried Treasure Session Sour (Wicked Weed Brewing)",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Bottled & Canned",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Modelo Especial Lager",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Red Stripe Lager",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bell’s Two Hearted IPA",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Athletic Brewing Co Upside Dawn Golden (Non-Alcoholic)",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Reserve Rum Selections (2-oz pour)",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Foursquare Rum Distillery Exceptional Cask Selection Mark XXVIII",
+              "prices": [
+                {
+                  "withoutTax": 45,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Flor de Caña 25 yr Rum",
+              "prices": [
+                {
+                  "withoutTax": 45,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Diplomático Ambassador Selection Rum",
+              "prices": [
+                {
+                  "withoutTax": 55,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "From the Galley - Allergy Friendly",
+          "type": "Allergy Friendly|Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Island Provisions",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Plantain Chips, Blue Corn Tortillas, and Toasted Flatbread served with Mango Chutney, Garlic Chimichurri, Spiced Guava, and Zesty Culantro Cream Dips (For Fish/Shellfish, and Peanut/Tree Nut Allergies)"
+            },
+            {
+              "title": "Cook’s Corn Griddle Cakes with Chipotle-braised Chicken ",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Corn Cakes stuffed with Melted Cheese, Lime Sour Cream, Chili Peppers, and Cotija (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Cook’s Corn Griddle Cakes with Roasted Corn and Poblano Peppers",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Warm Corn Cakes stuffed with Melted Cheese, Lime Sour Cream, Chili Peppers, and Cotija (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Kraken’s Catch",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Octopus Tentacles marinated in Lemon and Lime Juice with Olives, Bell Peppers, Avocado, and Piquillo Pepper-Almond Foam (For Gluten/Wheat, Egg, Fish, Milk, Peanut, Sesame, and Soy Allergies)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "From the Galley",
+        "desktop": "From the Galley"
+      },
+      {
+        "mobile": "Non-Alcoholic Specialty Beverages",
+        "desktop": "Non-Alcoholic Specialty Beverages"
+      },
+      {
+        "mobile": "Signature Cocktails",
+        "desktop": "Signature Cocktails"
+      },
+      {
+        "mobile": "Wine",
+        "desktop": "Wine"
+      },
+      {
+        "mobile": "Draft Beer",
+        "desktop": "Draft Beer"
+      },
+      {
+        "mobile": "Bottled & Canned",
+        "desktop": "Bottled & Canned"
+      },
+      {
+        "mobile": "Reserve Rum Selections (2-oz pour)",
+        "desktop": "Reserve Rum Selections (2-oz pour)"
+      },
+      {
+        "mobile": "From the Galley - Allergy Friendly",
+        "desktop": "From the Galley - Allergy Friendly"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "From the Galley",
+        "desktop": "From the Galley"
+      },
+      {
+        "mobile": "Non-Alcoholic Specialty Beverages",
+        "desktop": "Non-Alcoholic Specialty Beverages"
+      },
+      {
+        "mobile": "Signature Cocktails",
+        "desktop": "Signature Cocktails"
+      },
+      {
+        "mobile": "Wine",
+        "desktop": "Wine"
+      },
+      {
+        "mobile": "Draft Beer",
+        "desktop": "Draft Beer"
+      },
+      {
+        "mobile": "Bottled & Canned",
+        "desktop": "Bottled & Canned"
+      },
+      {
+        "mobile": "Reserve Rum Selections (2-oz pour)",
+        "desktop": "Reserve Rum Selections (2-oz pour)"
+      },
+      {
+        "mobile": "From the Galley - Allergy Friendly",
+        "desktop": "From the Galley - Allergy Friendly"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "The Beak and Barrel",
+      "id": "412358722"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "412431914"
+        },
+        {
+          "productId": "412431915"
+        },
+        {
+          "productId": "412431934"
+        },
+        {
+          "productId": "412431936"
+        },
+        {
+          "productId": "412431938"
+        },
+        {
+          "productId": "412431942"
+        },
+        {
+          "productId": "412431944"
+        },
+        {
+          "productId": "412431945"
+        },
+        {
+          "productId": "412431946"
+        },
+        {
+          "productId": "412431949"
+        },
+        {
+          "productId": "412431952"
+        },
+        {
+          "productId": "412431955"
+        },
+        {
+          "productId": "412431957"
+        },
+        {
+          "productId": "412431972"
+        },
+        {
+          "productId": "412431971"
+        },
+        {
+          "productId": "412431970"
+        },
+        {
+          "productId": "412431961"
+        },
+        {
+          "productId": "412431962"
+        },
+        {
+          "productId": "412431963"
+        },
+        {
+          "productId": "412431967"
+        },
+        {
+          "productId": "412431965"
+        },
+        {
+          "productId": "412615831"
+        },
+        {
+          "productId": "412431958"
+        },
+        {
+          "productId": "412431959"
+        },
+        {
+          "productId": "412431960"
+        },
+        {
+          "productId": "412442549"
+        },
+        {
+          "productId": "412442555"
+        },
+        {
+          "productId": "412442556"
+        },
+        {
+          "productId": "412442560"
+        }
+      ],
+      "1": [
+        {
+          "productId": "412431914"
+        },
+        {
+          "productId": "412431915"
+        },
+        {
+          "productId": "412431934"
+        },
+        {
+          "productId": "412431936"
+        },
+        {
+          "productId": "412431938"
+        },
+        {
+          "productId": "412431942"
+        },
+        {
+          "productId": "412431944"
+        },
+        {
+          "productId": "412431945"
+        },
+        {
+          "productId": "412431946"
+        },
+        {
+          "productId": "412431949"
+        },
+        {
+          "productId": "412431952"
+        },
+        {
+          "productId": "412431955"
+        },
+        {
+          "productId": "412431957"
+        },
+        {
+          "productId": "412431972"
+        },
+        {
+          "productId": "412431971"
+        },
+        {
+          "productId": "412431970"
+        },
+        {
+          "productId": "412431961"
+        },
+        {
+          "productId": "412431962"
+        },
+        {
+          "productId": "412431963"
+        },
+        {
+          "productId": "412431967"
+        },
+        {
+          "productId": "412431965"
+        },
+        {
+          "productId": "412615831"
+        },
+        {
+          "productId": "412431958"
+        },
+        {
+          "productId": "412431959"
+        },
+        {
+          "productId": "412431960"
+        },
+        {
+          "productId": "412442549"
+        },
+        {
+          "productId": "412442555"
+        },
+        {
+          "productId": "412442556"
+        },
+        {
+          "productId": "412442560"
+        }
+      ]
+    }
+  }
+}

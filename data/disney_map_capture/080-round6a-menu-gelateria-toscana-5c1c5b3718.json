@@ -1,0 +1,752 @@
+{
+  "name": "Gelateria Toscana",
+  "location": "EPCOT, World Showcase",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Snack",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Gelati e Sorbetti",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Gelati or Sorbetti in a Small Cup",
+              "prices": [
+                {
+                  "withoutTax": 8.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gelati or Sorbetti in a Medium Cup",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gelati or Sorbetti in a Waffle Cone",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gelati or Sorbetti in a Waffle Bowl",
+              "prices": [
+                {
+                  "withoutTax": 13.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gelati Flavors",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Choice of Chocolate, Vanilla, Cookies & Cream, Mint Chocolate Chip, Strawberry, Espresso or Flavor of the Month (see cashier)"
+            },
+            {
+              "title": "Sorbetti Falvors",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Lemon or Mango"
+            }
+          ]
+        },
+        {
+          "name": "Gelato Floats & Milkshakes",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Naufrago",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Root Beer, Vanilla Gelato"
+            },
+            {
+              "title": "Monella",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola®, Vanilla Gelato"
+            },
+            {
+              "title": "Milkshakes",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Espresso, Strawberry, Chocolate or Vanilla"
+            }
+          ]
+        },
+        {
+          "name": "Gelato Creations",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coppa Del Nonno",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate, Cookies & Cream, Chocolate Sauce, Whipped Cream, Amaretto Cookies"
+            },
+            {
+              "title": "Affogato Al Cioccolato",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Homemade Hot Chocolate over Vanilla Gelato, Whipped Cream and a Pisselle Cookie"
+            },
+            {
+              "title": "Affogato Espresso Gelato",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Italian Espresso poured over Vanilla Gelato, Amaretto Cookies"
+            },
+            {
+              "title": "Zeppole Sundae",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Zeppole, Vanilla Gelato and Whipped Cream"
+            }
+          ]
+        },
+        {
+          "name": "Pastiggeria",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cookie Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Homemade Cookie with Vanilla Gelato"
+            },
+            {
+              "title": "Cannoli Al Cioccolato",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Crisp Pastry filled with Sweet Ricotta, Chocolate, and Candied Orange"
+            },
+            {
+              "title": "Mocha Tiramisù",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mascarpone Cream, Espresso Coffee, Savoiardi Biscuits, Chocolate"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "San Benedetto",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Still or Sparkling"
+            },
+            {
+              "title": "Aranciata",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Orange Sparkling Italian Soda"
+            },
+            {
+              "title": "Limonata",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemon Sparkling Italian Soda"
+            },
+            {
+              "title": "Lemon Tea",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peach Tea",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Fountain Beverages",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Coffee",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Espresso - Single",
+              "prices": [
+                {
+                  "withoutTax": 3.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso - Double",
+              "prices": [
+                {
+                  "withoutTax": 5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caffe Latte",
+              "prices": [
+                {
+                  "withoutTax": 6.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caffe Americano",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Hot Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Homemade Hot Chocolate",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hot Chocolate, Whipped Cream, Marshmallow"
+            }
+          ]
+        },
+        {
+          "name": "Limoncello Floats",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Amalfi (21+)",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Limoncello Liqueur, Limoncello Gelato and fresh Raspberry"
+            },
+            {
+              "title": "Bronte (21+)",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Creamy Pistachio Liqueur over Pistachio de Bronte Gelato"
+            },
+            {
+              "title": "Martini Mania (21+)",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate Gelato, Vodka, Coffee Liqueur and Crème de Cacao"
+            }
+          ]
+        },
+        {
+          "name": "Granita Smoothies",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Italian Margarita",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Frozen Limoncello, Tequila and Margarita"
+            },
+            {
+              "title": "Frozen Red Sangria",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beer & Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Peroni Draft",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Grigio",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chianti",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Prosecco",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bellini",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Peach purée and Prosecco Sparkling Wine"
+            },
+            {
+              "title": "Rossini",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry purée and Prosecco Sparkling Wine"
+            },
+            {
+              "title": "Blue Lagoon Lemon-Sprits",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Prosecco, limoncello, Italian Lemonade and Blue Curaçao"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Gelati e Sorbetti",
+        "desktop": "Gelati e Sorbetti"
+      },
+      {
+        "mobile": "Gelato Floats & Milkshakes",
+        "desktop": "Gelato Floats & Milkshakes"
+      },
+      {
+        "mobile": "Gelato Creations",
+        "desktop": "Gelato Creations"
+      },
+      {
+        "mobile": "Pastiggeria",
+        "desktop": "Pastiggeria"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Coffee",
+        "desktop": "Coffee"
+      },
+      {
+        "mobile": "Hot Beverages",
+        "desktop": "Hot Beverages"
+      },
+      {
+        "mobile": "Limoncello Floats",
+        "desktop": "Limoncello Floats"
+      },
+      {
+        "mobile": "Granita Smoothies",
+        "desktop": "Granita Smoothies"
+      },
+      {
+        "mobile": "Beer & Wine",
+        "desktop": "Beer & Wine"
+      },
+      {
+        "mobile": "Cocktails",
+        "desktop": "Cocktails"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Gelateria Toscana",
+      "id": "90001704"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "411400239"
+        },
+        {
+          "productId": "411400245"
+        },
+        {
+          "productId": "411400249"
+        },
+        {
+          "productId": "411400247"
+        },
+        {
+          "productId": "412144873"
+        },
+        {
+          "productId": "411904942"
+        },
+        {
+          "productId": "411400235"
+        },
+        {
+          "productId": "411400236"
+        },
+        {
+          "productId": "412144888"
+        },
+        {
+          "productId": "17571668"
+        },
+        {
+          "productId": "411756271"
+        },
+        {
+          "productId": "17571664"
+        },
+        {
+          "productId": "411756242"
+        },
+        {
+          "productId": "411502213"
+        },
+        {
+          "productId": "17571674"
+        },
+        {
+          "productId": "17571667"
+        },
+        {
+          "productId": "411904945"
+        },
+        {
+          "productId": "17571820"
+        },
+        {
+          "productId": "17571821"
+        },
+        {
+          "productId": "17571823"
+        },
+        {
+          "productId": "17571824"
+        },
+        {
+          "productId": "17571822"
+        },
+        {
+          "productId": "17571851"
+        },
+        {
+          "productId": "17571854"
+        },
+        {
+          "productId": "17571853"
+        },
+        {
+          "productId": "17571855"
+        },
+        {
+          "productId": "17571857"
+        },
+        {
+          "productId": "411756297"
+        },
+        {
+          "productId": "412144892"
+        },
+        {
+          "productId": "412144895"
+        },
+        {
+          "productId": "412144896"
+        },
+        {
+          "productId": "17571675"
+        },
+        {
+          "productId": "17571759"
+        },
+        {
+          "productId": "19503862"
+        },
+        {
+          "productId": "17571753"
+        },
+        {
+          "productId": "17571755"
+        },
+        {
+          "productId": "17571752"
+        },
+        {
+          "productId": "17571756"
+        },
+        {
+          "productId": "411400221"
+        },
+        {
+          "productId": "412144885"
+        }
+      ]
+    }
+  }
+}

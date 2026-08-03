@@ -1,0 +1,125 @@
+{
+  "name": "UK Beer Cart",
+  "location": "EPCOT, World Showcase",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "experience": "Bar/Lounge",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Harp Lager Draft",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "BrewDog Punk IPA",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Hard Cider",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI® Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Alcoholic Beverages",
+        "desktop": "Alcoholic Beverages"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "UK Beer Cart",
+      "id": "90002326"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "17515360"
+        },
+        {
+          "productId": "412419202"
+        },
+        {
+          "productId": "412494242"
+        },
+        {
+          "productId": "16994411"
+        }
+      ]
+    }
+  }
+}

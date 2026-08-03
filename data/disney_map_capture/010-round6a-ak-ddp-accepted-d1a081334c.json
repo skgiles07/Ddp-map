@@ -1,0 +1,1531 @@
+{
+  "captured_at": "2026-08-03T00:00:00-05:00",
+  "park": "ak",
+  "park_name": "Animal Kingdom",
+  "mode": "ddp-accepted",
+  "page_url": "https://disneyworld.disney.go.com/dining/animal-kingdom/#/2026-table-service-meal,2026-quick-service-meal/",
+  "selected_facets": [
+    "2026-quick-service-meal",
+    "2026-table-service-meal"
+  ],
+  "source_payload_file": "002-disneyworld-disney-go-com-finder-api-v1-explorer-service-list-ancestor-entities-wdw-800077-6019ba8a04.json",
+  "count": 11,
+  "results": [
+    {
+      "id": "90002440;entityType=restaurant",
+      "urlFriendlyId": "rainforest-cafe-animal-kingdom",
+      "url": "/dining/animal-kingdom/rainforest-cafe-animal-kingdom/",
+      "name": "Rainforest Cafe® at Disney's Animal Kingdom",
+      "parkIds": [
+        "80007823;entityType=theme-park"
+      ],
+      "landId": "80007815;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Rainforest Cafe Animal Kingdom",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/rainforest-cafe-animal-kingdom/rainforest-cafe-animal-kingdom-00-sq.jpg?1753784291025",
+          "alt": "Sign for Rainforest Café declares \"A wild place to shop and eat\"",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/rainforest-cafe-animal-kingdom/rainforest-cafe-animal-kingdom-00-sq.jpg?1753784291025"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/rainforest-cafe-animal-kingdom/rainforest-cafe-animal-kingdom-00.jpg?1753784291025",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/rainforest-cafe-animal-kingdom/rainforest-cafe-animal-kingdom-00.jpg?1753784291025"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Rainforest Cafe Animal Kingdom",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/rainforest-cafe-animal-kingdom/rainforest-cafe-animal-kingdom-00-sq.jpg?1753784291025",
+          "alt": "Sign for Rainforest Café declares \"A wild place to shop and eat\"",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/rainforest-cafe-animal-kingdom/rainforest-cafe-animal-kingdom-00-sq.jpg?1753784291025"
+        }
+      },
+      "facets": {
+        "additionalInfo": [
+          "10-off-food-nonalcoholic-events-excluded"
+        ],
+        "annualPass": [
+          "platinum-annual-pass",
+          "weekday-select-pass",
+          "platinum-plus-annual-pass",
+          "silver-annual-pass",
+          "epcot-after4-pass",
+          "gold-annual-pass"
+        ],
+        "checkAvailability": [
+          "checkavailmodulewdw"
+        ],
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "breakfast",
+          "walkupWaitList",
+          "table-service-type",
+          "theme-park-dining",
+          "dak-area"
+        ],
+        "diningInterests": [
+          "table-service-rec"
+        ],
+        "diningPlan": [
+          "2026-table-service-meal",
+          "2027-table-service-meal"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$$"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "reservations-accepted",
+          "a-la-carte",
+          "casual-dining"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "08:30:00",
+            "endTime": "19:30:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "false",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/animal-kingdom/rainforest-cafe-animal-kingdom/",
+          "title": "dining/animal-kingdom/rainforest-cafe-animal-kingdom/"
+        }
+      },
+      "quickServiceAvailable": false,
+      "productUrls": [
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/25104?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/25107?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/90007104?locale=en-US"
+      ],
+      "locationName": "Disney's Animal Kingdom Theme Park",
+      "facilityId": "90002440",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "remyCheckAvailCta": {
+        "icon": "dining-plan",
+        "href": "/dine-res/restaurant/rainforest-cafe-animal-kingdom/",
+        "label": "Check Availability Calendar",
+        "target": "_self"
+      },
+      "facetsLabel": "$$ ($15 to $34.99 per adult), American",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "a la Carte, American"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90002440;entityType=restaurant",
+          "name": "Rainforest Cafe® at Disney's Animal Kingdom",
+          "urlFriendlyId": "rainforest-cafe-animal-kingdom",
+          "url": "/dining/animal-kingdom/rainforest-cafe-animal-kingdom/",
+          "land": "Disney's Animal Kingdom Theme Park",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/rainforest-cafe-animal-kingdom/rainforest-cafe-animal-kingdom-00-sq.jpg?1753784291025",
+            "alt": "Sign for Rainforest Café declares \"A wild place to shop and eat\""
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.35478,
+        "lng": -81.59039,
+        "name": "Rainforest Cafe® at Disney's Animal Kingdom",
+        "id": "90002440;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90002620;entityType=restaurant",
+      "urlFriendlyId": "pizzafari",
+      "url": "/dining/animal-kingdom/pizzafari/",
+      "name": "Pizzafari",
+      "parkIds": [
+        "80007823;entityType=theme-park"
+      ],
+      "landId": "80007824;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Take a tasty break with a Chicken Caprese Baguette Sandwich and refreshing Caesar Salad at Pizzafari.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/pizzafari/WDW_DAK_Pizzafari_ChickenCapreseBaguetteSandwich_STYLIZED_2387_RC-1x1.jpg?2026-07-09T18:48:56+00:00",
+          "alt": "Chicken Caprese Baguette Sandwich with pesto and balsamic drizzle alongside a Caesar Salad",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/pizzafari/WDW_DAK_Pizzafari_ChickenCapreseBaguetteSandwich_STYLIZED_2387_RC-1x1.jpg?2026-07-09T18:48:56+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "Take a tasty break with a Chicken Caprese Baguette Sandwich and refreshing Caesar Salad at Pizzafari.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/pizzafari/WDW_DAK_Pizzafari_ChickenCapreseBaguetteSandwich_STYLIZED_2387_RC-16x9.jpg?2026-07-09T18:48:56+00:00",
+          "alt": "Chicken Caprese Baguette Sandwich with pesto and balsamic drizzle alongside a Caesar Salad",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/pizzafari/WDW_DAK_Pizzafari_ChickenCapreseBaguetteSandwich_STYLIZED_2387_RC-16x9.jpg?2026-07-09T18:48:56+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Take a tasty break with a Chicken Caprese Baguette Sandwich and refreshing Caesar Salad at Pizzafari.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/pizzafari/WDW_DAK_Pizzafari_ChickenCapreseBaguetteSandwich_STYLIZED_2387_RC-1x1.jpg?2026-07-09T18:48:56+00:00",
+          "alt": "Chicken Caprese Baguette Sandwich with pesto and balsamic drizzle alongside a Caesar Salad",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/pizzafari/WDW_DAK_Pizzafari_ChickenCapreseBaguetteSandwich_STYLIZED_2387_RC-1x1.jpg?2026-07-09T18:48:56+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "quick-service-type",
+          "theme-park-dining",
+          "dak-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2027-quick-service-meal",
+          "2026-quick-service-meal"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "counter-service"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "10:30:00",
+            "endTime": "16:30:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/animal-kingdom/pizzafari/",
+          "title": "dining/animal-kingdom/pizzafari/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Animal Kingdom Theme Park",
+      "facilityId": "90002620",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Quick Service Restaurant"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90002620;entityType=restaurant",
+          "name": "Pizzafari",
+          "urlFriendlyId": "pizzafari",
+          "url": "/dining/animal-kingdom/pizzafari/",
+          "land": "Disney's Animal Kingdom Theme Park",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/pizzafari/WDW_DAK_Pizzafari_ChickenCapreseBaguetteSandwich_STYLIZED_2387_RC-1x1.jpg?2026-07-09T18:48:56+00:00",
+            "alt": "Chicken Caprese Baguette Sandwich with pesto and balsamic drizzle alongside a Caesar Salad"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.3572167558,
+        "lng": -81.5912854671,
+        "name": "Pizzafari",
+        "id": "90002620;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "18088970;entityType=restaurant",
+      "urlFriendlyId": "harambe-market",
+      "url": "/dining/animal-kingdom/harambe-market/",
+      "name": "Harambe Market",
+      "parkIds": [
+        "80007823;entityType=theme-park"
+      ],
+      "landId": "80007800;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Fuel your safari with a Bacon Cheeseburger from Harambe Market.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/harambe-market/WDW_DAK_HarambeMarket_BaconCheeseburger_STYLIZED_121725_0983_GM-1x1.jpg?2026-01-14T19:49:00+00:00",
+          "alt": "A Bacon Cheeseburger with fries from Harambe Market at Disney’s Animal Kingdom theme park",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/harambe-market/WDW_DAK_HarambeMarket_BaconCheeseburger_STYLIZED_121725_0983_GM-1x1.jpg?2026-01-14T19:49:00+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "Fuel your safari with a Bacon Cheeseburger from Harambe Market.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/harambe-market/WDW_DAK_HarambeMarket_BaconCheeseburger_STYLIZED_121725_0983_GM-16x9.jpg?2026-01-14T19:49:00+00:00",
+          "alt": "A Bacon Cheeseburger with fries from Harambe Market at Disney’s Animal Kingdom theme park",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/harambe-market/WDW_DAK_HarambeMarket_BaconCheeseburger_STYLIZED_121725_0983_GM-16x9.jpg?2026-01-14T19:49:00+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Fuel your safari with a Bacon Cheeseburger from Harambe Market.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/harambe-market/WDW_DAK_HarambeMarket_BaconCheeseburger_STYLIZED_121725_0983_GM-1x1.jpg?2026-01-14T19:49:00+00:00",
+          "alt": "A Bacon Cheeseburger with fries from Harambe Market at Disney’s Animal Kingdom theme park",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/harambe-market/WDW_DAK_HarambeMarket_BaconCheeseburger_STYLIZED_121725_0983_GM-1x1.jpg?2026-01-14T19:49:00+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "african-cuisine"
+        ],
+        "dining": [
+          "quick-service-type",
+          "theme-park-dining",
+          "dak-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2027-quick-service-meal",
+          "2026-quick-service-meal"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "counter-service"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "10:30:00",
+            "endTime": "16:30:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/animal-kingdom/harambe-market/",
+          "title": "/dining/animal-kingdom/harambe-market/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Animal Kingdom Theme Park",
+      "facilityId": "18088970",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), African",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "African, Quick Service Restaurant"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "18088970;entityType=restaurant",
+          "name": "Harambe Market",
+          "urlFriendlyId": "harambe-market",
+          "url": "/dining/animal-kingdom/harambe-market/",
+          "land": "Disney's Animal Kingdom Theme Park",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/harambe-market/WDW_DAK_HarambeMarket_BaconCheeseburger_STYLIZED_121725_0983_GM-1x1.jpg?2026-01-14T19:49:00+00:00",
+            "alt": "A Bacon Cheeseburger with fries from Harambe Market at Disney’s Animal Kingdom theme park"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.359161,
+        "lng": -81.591369,
+        "name": "Harambe Market",
+        "id": "18088970;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90002686;entityType=restaurant",
+      "urlFriendlyId": "tusker-house-restaurant",
+      "url": "/dining/animal-kingdom/tusker-house-restaurant/",
+      "name": "Tusker House Restaurant",
+      "parkIds": [
+        "80007823;entityType=theme-park"
+      ],
+      "landId": "80007800;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Find a seat in Tusker House Restaurant, featuring African-inspired furnishings and decorations.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/gallery/dining/animal-kingdom/tusker-house-restaurant/tusker-house-restaurant-gallery05-sq.jpg?1783941659989",
+          "alt": "Curry chicken, rice and zucchini on a plate",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/animal-kingdom/tusker-house-restaurant/tusker-house-restaurant-gallery05-sq.jpg?1783941659989"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/0518ZP_0030MS-16x9.jpg?2024-09-09T12:45:45+00:00",
+          "alt": "Goofy, Donald Duck and Mickey Mouse dressed in safari gear while standing in front of Tusker House Restaurant",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/0518ZP_0030MS-16x9.jpg?2024-09-09T12:45:45+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Find a seat in Tusker House Restaurant, featuring African-inspired furnishings and decorations.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/gallery/dining/animal-kingdom/tusker-house-restaurant/tusker-house-restaurant-gallery05-sq.jpg?1783941659988",
+          "alt": "Curry chicken, rice and zucchini on a plate",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/gallery/dining/animal-kingdom/tusker-house-restaurant/tusker-house-restaurant-gallery05-sq.jpg?1783941659988"
+        }
+      },
+      "facets": {
+        "additionalInfo": [
+          "10-discount-non-discounted-price-food-with-exclusions"
+        ],
+        "annualPass": [
+          "platinum-plus-annual-pass",
+          "platinum-annual-pass",
+          "wdw-water-parks-annual-pass",
+          "silver-annual-pass",
+          "gold-annual-pass",
+          "weekday-select-pass",
+          "epcot-after4-pass"
+        ],
+        "checkAvailability": [
+          "checkavailmodulewdw"
+        ],
+        "cuisine": [
+          "african-cuisine",
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "breakfast",
+          "walkupWaitList",
+          "table-service-type",
+          "theme-park-dining",
+          "dak-area"
+        ],
+        "diningInterests": [
+          "character-dining-rec",
+          "table-service-rec"
+        ],
+        "diningPlan": [
+          "2026-table-service-meal",
+          "2027-table-service-meal"
+        ],
+        "disneyFavorites": [
+          "mickey-friends-rec"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$$$$"
+        ],
+        "reservationOfferings": [
+          "add-ons-available"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "buffet",
+          "reservations-accepted",
+          "character-dining"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "07:30:00",
+            "endTime": "19:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/animal-kingdom/tusker-house-restaurant/",
+          "title": "dining/animal-kingdom/tusker-house-restaurant/"
+        }
+      },
+      "quickServiceAvailable": false,
+      "productUrls": [
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/16128755?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/90007343?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/90007344?locale=en-US"
+      ],
+      "locationName": "Disney's Animal Kingdom Theme Park",
+      "facilityId": "90002686",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "remyCheckAvailCta": {
+        "icon": "dining-plan",
+        "href": "/dine-res/restaurant/tusker-house-restaurant/",
+        "label": "Check Availability Calendar",
+        "target": "_self"
+      },
+      "facetsLabel": "$$$$ (over $60 per adult), African, American",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "African, American"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90002686;entityType=restaurant",
+          "name": "Tusker House Restaurant",
+          "urlFriendlyId": "tusker-house-restaurant",
+          "url": "/dining/animal-kingdom/tusker-house-restaurant/",
+          "land": "Disney's Animal Kingdom Theme Park",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/gallery/dining/animal-kingdom/tusker-house-restaurant/tusker-house-restaurant-gallery05-sq.jpg?1783941659988",
+            "alt": "Curry chicken, rice and zucchini on a plate"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.3585843066,
+        "lng": -81.5921041919,
+        "name": "Tusker House Restaurant",
+        "id": "90002686;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "241676;entityType=restaurant",
+      "urlFriendlyId": "yak-and-yeti-local-foods-cafe",
+      "url": "/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/",
+      "name": "Yak & Yeti™ Local Food Cafes",
+      "parkIds": [
+        "80007823;entityType=theme-park"
+      ],
+      "landId": "80007802;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Yak & Yeti Local Foods Cafe",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/yak-and-yeti-local-foods-cafe-00-sq.jpg?1722891841708",
+          "alt": "Weathered-looking exterior of Yak & Yeti Local Food Cafes counter service",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/yak-and-yeti-local-foods-cafe-00-sq.jpg?1722891841708"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/yak-and-yeti-local-foods-cafe-00.jpg?1722891841708",
+          "alt": "",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/yak-and-yeti-local-foods-cafe-00.jpg?1722891841708"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Yak & Yeti Local Foods Cafe",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/yak-and-yeti-local-foods-cafe-00-sq.jpg?1722891841708",
+          "alt": "Weathered-looking exterior of Yak & Yeti Local Food Cafes counter service",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/yak-and-yeti-local-foods-cafe-00-sq.jpg?1722891841708"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine",
+          "asian-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "quick-service-type",
+          "dak-area",
+          "theme-park-dining"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2026-quick-service-meal"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "counter-service"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "09:00:00",
+            "endTime": "18:30:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "false",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/",
+          "title": "dining/animal-kingdom/yak-and-yeti-local-foods-cafe/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Animal Kingdom Theme Park",
+      "facilityId": "241676",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American, Asian",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Asian"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "241676;entityType=restaurant",
+          "name": "Yak & Yeti™ Local Food Cafes",
+          "urlFriendlyId": "yak-and-yeti-local-foods-cafe",
+          "url": "/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/",
+          "land": "Disney's Animal Kingdom Theme Park",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-local-foods-cafe/yak-and-yeti-local-foods-cafe-00-sq.jpg?1722891841708",
+            "alt": "Weathered-looking exterior of Yak & Yeti Local Food Cafes counter service"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.358594,
+        "lng": -81.589385,
+        "name": "Yak & Yeti™ Local Food Cafes",
+        "id": "241676;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "90002524;entityType=restaurant",
+      "urlFriendlyId": "flame-tree-barbecue",
+      "url": "/dining/animal-kingdom/flame-tree-barbecue/",
+      "name": "Flame Tree Barbecue",
+      "parkIds": [
+        "80007823;entityType=theme-park"
+      ],
+      "landId": "80007824;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Try a bit of everything with the Ribs, Chicken and Pulled Pork Sampler from Flame Tree Barbecue.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/flame-tree-barbecue/WDW_DAK_FlameTreeBarbeque_RibsChickenAndPulledPork_Stylized_230306_FL1_-4210-1-1x1.jpg?2025-07-03T17:22:04+00:00",
+          "alt": "Ribs, Chicken and Pulled Pork Sampler from Flame Tree Barbecue",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/flame-tree-barbecue/WDW_DAK_FlameTreeBarbeque_RibsChickenAndPulledPork_Stylized_230306_FL1_-4210-1-1x1.jpg?2025-07-03T17:22:04+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "Try a bit of everything with the Ribs, Chicken and Pulled Pork Sampler from Flame Tree Barbecue.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/flame-tree-barbecue/WDW_DAK_FlameTreeBarbeque_RibsChickenAndPulledPork_Stylized_230306_FL1_-4210-1-16x9.jpg?2025-07-03T17:22:04+00:00",
+          "alt": "Ribs, Chicken and Pulled Pork Sampler from Flame Tree Barbecue",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/flame-tree-barbecue/WDW_DAK_FlameTreeBarbeque_RibsChickenAndPulledPork_Stylized_230306_FL1_-4210-1-16x9.jpg?2025-07-03T17:22:04+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Try a bit of everything with the Ribs, Chicken and Pulled Pork Sampler from Flame Tree Barbecue.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/flame-tree-barbecue/WDW_DAK_FlameTreeBarbeque_RibsChickenAndPulledPork_Stylized_230306_FL1_-4210-1-1x1.jpg?2025-07-03T17:22:04+00:00",
+          "alt": "Ribs, Chicken and Pulled Pork Sampler from Flame Tree Barbecue",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/flame-tree-barbecue/WDW_DAK_FlameTreeBarbeque_RibsChickenAndPulledPork_Stylized_230306_FL1_-4210-1-1x1.jpg?2025-07-03T17:22:04+00:00"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "theme-park-dining",
+          "dak-area",
+          "quick-service-type"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2027-quick-service-meal",
+          "2026-quick-service-meal"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "counter-service"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "10:30:00",
+            "endTime": "19:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/animal-kingdom/flame-tree-barbecue/",
+          "title": "dining/animal-kingdom/flame-tree-barbecue/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Animal Kingdom Theme Park",
+      "facilityId": "90002524",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Quick Service Restaurant"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "90002524;entityType=restaurant",
+          "name": "Flame Tree Barbecue",
+          "urlFriendlyId": "flame-tree-barbecue",
+          "url": "/dining/animal-kingdom/flame-tree-barbecue/",
+          "land": "Disney's Animal Kingdom Theme Park",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/flame-tree-barbecue/WDW_DAK_FlameTreeBarbeque_RibsChickenAndPulledPork_Stylized_230306_FL1_-4210-1-1x1.jpg?2025-07-03T17:22:04+00:00",
+            "alt": "Ribs, Chicken and Pulled Pork Sampler from Flame Tree Barbecue"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.35734,
+        "lng": -81.58954,
+        "name": "Flame Tree Barbecue",
+        "id": "90002524;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "18377778;entityType=restaurant",
+      "urlFriendlyId": "nomad-lounge",
+      "url": "/dining/animal-kingdom/nomad-lounge/",
+      "name": "Nomad Lounge",
+      "parkIds": [
+        "80007823;entityType=theme-park"
+      ],
+      "landId": "80007824;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Nomad Lounge",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/nomad-lounge/nomad-lounge-03-sq.jpg?1783965900534",
+          "alt": "An elegant martini glass filled with a Night Monkey cocktail on a table beside tubes of watercolor paints and brushes",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/nomad-lounge/nomad-lounge-03-sq.jpg?1783965900534"
+        },
+        "finderStandardThumb": {
+          "title": "Nomad Lounge",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/nomad-lounge/nomad-lounge-03.jpg?1783965900532",
+          "alt": "An elegant martini glass filled with a Night Monkey cocktail on a table beside tubes of watercolor paints and brushes",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/nomad-lounge/nomad-lounge-03.jpg?1783965900532"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Nomad Lounge",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/nomad-lounge/nomad-lounge-03-sq.jpg?1783965900534",
+          "alt": "An elegant martini glass filled with a Night Monkey cocktail on a table beside tubes of watercolor paints and brushes",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/nomad-lounge/nomad-lounge-03-sq.jpg?1783965900534"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "african-cuisine",
+          "asian-cuisine",
+          "latin-cuisine"
+        ],
+        "dining": [
+          "walkupWaitList",
+          "barslounges-type",
+          "theme-park-dining",
+          "dak-area"
+        ],
+        "diningPlan": [
+          "2027-table-service-meal",
+          "2026-table-service-meal"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$$"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "lounges"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "10:30:00",
+            "endTime": "19:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/animal-kingdom/nomad-lounge/",
+          "title": "dining/animal-kingdom/nomad-lounge/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Animal Kingdom Theme Park",
+      "facilityId": "18377778",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$$ ($15 to $34.99 per adult), African, Asian, Latin",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "African, Asian"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "18377778;entityType=restaurant",
+          "name": "Nomad Lounge",
+          "urlFriendlyId": "nomad-lounge",
+          "url": "/dining/animal-kingdom/nomad-lounge/",
+          "land": "Disney's Animal Kingdom Theme Park",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/nomad-lounge/nomad-lounge-03-sq.jpg?1783965900534",
+            "alt": "An elegant martini glass filled with a Night Monkey cocktail on a table beside tubes of watercolor paints and brushes"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.356719,
+        "lng": -81.591487,
+        "name": "Nomad Lounge",
+        "id": "18377778;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "215686;entityType=restaurant",
+      "urlFriendlyId": "yak-and-yeti-restaurant",
+      "url": "/dining/animal-kingdom/yak-and-yeti-restaurant/",
+      "name": "Yak & Yeti™ Restaurant",
+      "parkIds": [
+        "80007823;entityType=theme-park"
+      ],
+      "landId": "80007802;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Yak & Yeti Restaurant",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-restaurant/yak-and-yeti-restaurant-00-sq.jpg?1753784292284",
+          "alt": "Dining room with Southeast Asian décor of wooden tables and carved chairs guarded by fierce statues",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-restaurant/yak-and-yeti-restaurant-00-sq.jpg?1753784292284"
+        },
+        "finderStandardThumb": {
+          "title": "Yak & Yeti Restaurant",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-restaurant/yak-and-yeti-restaurant-00.jpg?1753784292284",
+          "alt": "Dining room with Southeast Asian décor of wooden tables and carved chairs guarded by fierce statues",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-restaurant/yak-and-yeti-restaurant-00.jpg?1753784292284"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Yak & Yeti Restaurant",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-restaurant/yak-and-yeti-restaurant-00-sq.jpg?1753784292284",
+          "alt": "Dining room with Southeast Asian décor of wooden tables and carved chairs guarded by fierce statues",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-restaurant/yak-and-yeti-restaurant-00-sq.jpg?1753784292284"
+        }
+      },
+      "facets": {
+        "additionalInfo": [
+          "Discount-applies-to-regularly-priced-lunch-and-dinner-entr-es-for-the-Passholder-and-up-to-3-Guests-Offer-not-valid-at-Yak-Yeti-Local-Food-Cafes-or-Yak-Yeti-Quality-Beverages-Not-valid-for-special-events"
+        ],
+        "annualPass": [
+          "wdw-water-parks-annual-pass",
+          "platinum-annual-pass",
+          "weekday-select-pass",
+          "platinum-plus-annual-pass",
+          "silver-annual-pass",
+          "epcot-after4-pass",
+          "gold-annual-pass"
+        ],
+        "checkAvailability": [
+          "checkavailmodulewdw"
+        ],
+        "cuisine": [
+          "american-cuisine",
+          "asian-cuisine",
+          "chinese-cuisine",
+          "seafood-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "walkupWaitList",
+          "dak-area",
+          "theme-park-dining",
+          "table-service-type"
+        ],
+        "diningInterests": [
+          "table-service-rec"
+        ],
+        "diningPlan": [
+          "2026-table-service-meal"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$$"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "reservations-accepted",
+          "a-la-carte",
+          "casual-dining"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "10:30:00",
+            "endTime": "18:50:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "false",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/animal-kingdom/yak-and-yeti-restaurant/",
+          "title": "dining/animal-kingdom/yak-and-yeti-restaurant/"
+        }
+      },
+      "quickServiceAvailable": false,
+      "productUrls": [
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/246062?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/283567?locale=en-US"
+      ],
+      "locationName": "Disney's Animal Kingdom Theme Park",
+      "facilityId": "215686",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "remyCheckAvailCta": {
+        "icon": "dining-plan",
+        "href": "/dine-res/restaurant/yak-and-yeti-restaurant/",
+        "label": "Check Availability Calendar",
+        "target": "_self"
+      },
+      "facetsLabel": "$$ ($15 to $34.99 per adult), American, Asian, Chinese...",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "a la Carte, American"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "215686;entityType=restaurant",
+          "name": "Yak & Yeti™ Restaurant",
+          "urlFriendlyId": "yak-and-yeti-restaurant",
+          "url": "/dining/animal-kingdom/yak-and-yeti-restaurant/",
+          "land": "Disney's Animal Kingdom Theme Park",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/yak-and-yeti-restaurant/yak-and-yeti-restaurant-00-sq.jpg?1753784292284",
+            "alt": "Dining room with Southeast Asian décor of wooden tables and carved chairs guarded by fierce statues"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.35859,
+        "lng": -81.58958,
+        "name": "Yak & Yeti™ Restaurant",
+        "id": "215686;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "18058385;entityType=restaurant",
+      "urlFriendlyId": "creature-comforts",
+      "url": "/dining/animal-kingdom/creature-comforts/",
+      "name": "Creature Comforts",
+      "parkIds": [
+        "80007823;entityType=theme-park"
+      ],
+      "landId": "80007824;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Creature Comforts",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/creature-comforts/creature-comforts-fountain-view-ice-cream-1x1.jpg?1714526953437",
+          "alt": "A cappuccino on a plate sprinkled with coffee beans",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/creature-comforts/creature-comforts-fountain-view-ice-cream-1x1.jpg?1714526953437"
+        },
+        "finderStandardThumb": {
+          "title": "Creature Comforts",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/creature-comforts/creature-comforts-fountain-view-ice-cream-16x9.jpg?1714526953436",
+          "alt": "A cappuccino on a plate sprinkled with coffee beans",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/creature-comforts/creature-comforts-fountain-view-ice-cream-16x9.jpg?1714526953436"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Creature Comforts",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/creature-comforts/creature-comforts-fountain-view-ice-cream-1x1.jpg?1714526953436",
+          "alt": "A cappuccino on a plate sprinkled with coffee beans",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/creature-comforts/creature-comforts-fountain-view-ice-cream-1x1.jpg?1714526953436"
+        }
+      },
+      "facets": {
+        "cuisine": [
+          "american-cuisine",
+          "bakery-cuisine"
+        ],
+        "dining": [
+          "quick-service-type",
+          "theme-park-dining",
+          "dak-area"
+        ],
+        "diningPlan": [
+          "2026-quick-service-meal",
+          "2027-quick-service-meal"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "quick-service-coffee"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "07:30:00",
+            "endTime": "19:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/animal-kingdom/creature-comforts/",
+          "title": "/dining/animal-kingdom/creature-comforts/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Animal Kingdom Theme Park",
+      "facilityId": "18058385",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American, Bakery",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Bakery"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "18058385;entityType=restaurant",
+          "name": "Creature Comforts",
+          "urlFriendlyId": "creature-comforts",
+          "url": "/dining/animal-kingdom/creature-comforts/",
+          "land": "Disney's Animal Kingdom Theme Park",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/dam/wdpro-assets/things-to-do/dining/animal-kingdom/creature-comforts/creature-comforts-fountain-view-ice-cream-1x1.jpg?1714526953436",
+            "alt": "A cappuccino on a plate sprinkled with coffee beans"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.35781,
+        "lng": -81.591685,
+        "name": "Creature Comforts",
+        "id": "18058385;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "18665138;entityType=restaurant",
+      "urlFriendlyId": "satuli-canteen",
+      "url": "/dining/animal-kingdom/satuli-canteen/",
+      "name": "Satu'li Canteen",
+      "parkIds": [
+        "80007823;entityType=theme-park"
+      ],
+      "landId": "18665059;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/satuli-canteen/WDW_DAK_SatuliCanteen_BraisedBeefAdultBowl_Stylized_041323-6986_AW-6986-1x1.jpg?2023-07-21T19:40:37+00:00",
+          "alt": "Braised beef and vegetable slaw in a bowl",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/satuli-canteen/WDW_DAK_SatuliCanteen_BraisedBeefAdultBowl_Stylized_041323-6986_AW-6986-1x1.jpg?2023-07-21T19:40:37+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/satuli-canteen/WDW_DAK_SatuliCanteen_BraisedBeefAdultBowl_Stylized_041323-6986_AW-6986-16x9.jpg?2023-07-21T19:40:37+00:00",
+          "alt": "Braised beef and vegetable slaw in a bowl",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/satuli-canteen/WDW_DAK_SatuliCanteen_BraisedBeefAdultBowl_Stylized_041323-6986_AW-6986-16x9.jpg?2023-07-21T19:40:37+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/satuli-canteen/WDW_DAK_SatuliCanteen_BraisedBeefAdultBowl_Stylized_041323-6986_AW-6986-1x1.jpg?2023-07-21T19:40:37+00:00",
+          "alt": "Braised beef and vegetable slaw in a bowl",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/satuli-canteen/WDW_DAK_SatuliCanteen_BraisedBeefAdultBowl_Stylized_041323-6986_AW-6986-1x1.jpg?2023-07-21T19:40:37+00:00"
+        }
+      },
+      "facets": {
+        "age": [
+          "all-ages"
+        ],
+        "cuisine": [
+          "american-cuisine"
+        ],
+        "dining": [
+          "quick-service-type",
+          "theme-park-dining",
+          "dak-area"
+        ],
+        "diningInterests": [
+          "quick-service-rec"
+        ],
+        "diningPlan": [
+          "2027-quick-service-meal",
+          "2026-quick-service-meal"
+        ],
+        "features": [
+          "mobile-orders"
+        ],
+        "interests": [
+          "new"
+        ],
+        "priceRangeDining": [
+          "$"
+        ],
+        "quickService": [
+          "counter-service"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "08:00:00",
+            "endTime": "19:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/animal-kingdom/satuli-canteen/",
+          "title": "dining/animal-kingdom/satuli-canteen/"
+        }
+      },
+      "quickServiceAvailable": true,
+      "locationName": "Disney's Animal Kingdom Theme Park",
+      "facilityId": "18665138",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "facetsLabel": "$ ($14.99 and under per adult), American",
+      "facetGroupType": "Quick Service",
+      "type": {
+        "facets": "American, Quick Service Restaurant"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "18665138;entityType=restaurant",
+          "name": "Satu'li Canteen",
+          "urlFriendlyId": "satuli-canteen",
+          "url": "/dining/animal-kingdom/satuli-canteen/",
+          "land": "Disney's Animal Kingdom Theme Park",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/satuli-canteen/WDW_DAK_SatuliCanteen_BraisedBeefAdultBowl_Stylized_041323-6986_AW-6986-1x1.jpg?2023-07-21T19:40:37+00:00",
+            "alt": "Braised beef and vegetable slaw in a bowl"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.3560347386574,
+        "lng": -81.5924408283262,
+        "name": "Satu'li Canteen",
+        "id": "18665138;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    },
+    {
+      "id": "18069632;entityType=restaurant",
+      "urlFriendlyId": "tiffins",
+      "url": "/dining/animal-kingdom/tiffins/",
+      "name": "Tiffins Restaurant",
+      "parkIds": [
+        "80007823;entityType=theme-park"
+      ],
+      "landId": "80007824;entityType=land",
+      "media": {
+        "mapBubbleThumbSmall": {
+          "title": "Indulge in premium cuisine crafted with care at Tiffins Restaurant, featuring fresh ingredients and bold flavors.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/45/45/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/tiffins/WDW_DAK_Tiffins_PorkDuo_INLINE_021226_659_CJ-1x1.jpg?2026-02-24T18:49:55+00:00",
+          "alt": "A grilled pork chop with garlic crust on a plate served with cabbage and carrot slaw and corn cake at Tiffins Restaurant",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/tiffins/WDW_DAK_Tiffins_PorkDuo_INLINE_021226_659_CJ-1x1.jpg?2026-02-24T18:49:55+00:00"
+        },
+        "finderStandardThumb": {
+          "title": "Indulge in premium cuisine crafted with care at Tiffins Restaurant, featuring fresh ingredients and bold flavors.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/250/127/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/tiffins/WDW_DAK_Tiffins_PorkDuo_FULL_021226_659_CJ-16x9.jpg?2026-02-24T18:50:02+00:00",
+          "alt": "A grilled pork chop with garlic crust on a plate served with cabbage and carrot slaw and corn cake at Tiffins Restaurant",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/tiffins/WDW_DAK_Tiffins_PorkDuo_FULL_021226_659_CJ-16x9.jpg?2026-02-24T18:50:02+00:00"
+        },
+        "mapBubbleThumbLarge": {
+          "title": "Indulge in premium cuisine crafted with care at Tiffins Restaurant, featuring fresh ingredients and bold flavors.",
+          "url": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/tiffins/WDW_DAK_Tiffins_PorkDuo_INLINE_021226_659_CJ-1x1.jpg?2026-02-24T18:49:55+00:00",
+          "alt": "A grilled pork chop with garlic crust on a plate served with cabbage and carrot slaw and corn cake at Tiffins Restaurant",
+          "transcodeTemplate": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/{width}/{height}/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/tiffins/WDW_DAK_Tiffins_PorkDuo_INLINE_021226_659_CJ-1x1.jpg?2026-02-24T18:49:55+00:00"
+        }
+      },
+      "facets": {
+        "additionalInfo": [
+          "10-discount-non-discounted-price-food-nonalcoholic-during-available-meal-periods"
+        ],
+        "annualPass": [
+          "platinum-plus-annual-pass",
+          "platinum-annual-pass",
+          "wdw-water-parks-annual-pass",
+          "silver-annual-pass",
+          "gold-annual-pass",
+          "weekday-select-pass",
+          "epcot-after4-pass"
+        ],
+        "checkAvailability": [
+          "checkavailmodulewdw"
+        ],
+        "cuisine": [
+          "african-cuisine",
+          "asian-cuisine",
+          "latin-cuisine"
+        ],
+        "dining": [
+          "dinner",
+          "lunch",
+          "walkupWaitList",
+          "table-service-type",
+          "theme-park-dining",
+          "dak-area",
+          "menu-category-display"
+        ],
+        "diningInterests": [
+          "fine-signature-dining-rec",
+          "table-service-rec"
+        ],
+        "diningPlan": [
+          "2026-table-service-meal",
+          "2027-table-service-meal"
+        ],
+        "discounts": [
+          "disney-visa-cardholder"
+        ],
+        "guestRating": [
+          "RatingsReviewsDining"
+        ],
+        "interests": [
+          "new"
+        ],
+        "mobilityDisabilities": [
+          "wheelchair-access"
+        ],
+        "priceRangeDining": [
+          "$$$"
+        ],
+        "reservationOfferings": [
+          "add-ons-available"
+        ],
+        "restaurant": [
+          "is-restaurant"
+        ],
+        "tableService": [
+          "fine-signature-dining",
+          "reservations-accepted",
+          "a-la-carte"
+        ],
+        "wdw-finder-listing": [
+          "FinderPCDining"
+        ],
+        "wdw-mobile-listing": [
+          "FinderMobileDining"
+        ]
+      },
+      "descriptions": {},
+      "schedule": {
+        "timeZone": "America/New_York",
+        "schedules": [
+          {
+            "type": "Operating",
+            "startTime": "11:30:00",
+            "endTime": "19:00:00",
+            "date": "2026-08-02",
+            "timeZone": "EDT",
+            "isClosed": false
+          }
+        ]
+      },
+      "disneyOwned": "true",
+      "generalPurposeStrings": {},
+      "webLinks": {
+        "wdwDetail": {
+          "href": "http://disneyworld.disney.go.com/dining/animal-kingdom/tiffins/",
+          "title": "dining/animal-kingdom/tiffins/"
+        }
+      },
+      "quickServiceAvailable": false,
+      "productUrls": [
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18043133?locale=en-US",
+        "https://dineprdsvc.wdw.eks.wdprapps.disney.com/dine-product-svc/api/v1/product/18394777?locale=en-US"
+      ],
+      "locationName": "Disney's Animal Kingdom Theme Park",
+      "facilityId": "18069632",
+      "entityType": "restaurant",
+      "entityTypeName": "dining",
+      "openHours": [],
+      "parkTicketsCta": {},
+      "remyCheckAvailCta": {
+        "icon": "dining-plan",
+        "href": "/dine-res/restaurant/tiffins/",
+        "label": "Check Availability Calendar",
+        "target": "_self"
+      },
+      "facetsLabel": "$$$ ($35 to $59.99 per adult), African, Asian, Latin",
+      "facetGroupType": "Table Service",
+      "type": {
+        "facets": "a la Carte, African"
+      },
+      "siteId": "wdw",
+      "marker": {
+        "card": {
+          "id": "18069632;entityType=restaurant",
+          "name": "Tiffins Restaurant",
+          "urlFriendlyId": "tiffins",
+          "url": "/dining/animal-kingdom/tiffins/",
+          "land": "Disney's Animal Kingdom Theme Park",
+          "media": {
+            "desktop": "https://cdn1.parksmedia.wdprapps.disney.com/resize/mwImage/1/90/90/75/vision-dam/digital/parks-platform/parks-global-assets/disney-world/dining/tiffins/WDW_DAK_Tiffins_PorkDuo_INLINE_021226_659_CJ-1x1.jpg?2026-02-24T18:49:55+00:00",
+            "alt": "A grilled pork chop with garlic crust on a plate served with cabbage and carrot slaw and corn cake at Tiffins Restaurant"
+          },
+          "iconObj": {
+            "icon": "dining"
+          }
+        },
+        "lat": 28.356846,
+        "lng": -81.591487,
+        "name": "Tiffins Restaurant",
+        "id": "18069632;entityType=restaurant",
+        "closeButtonLabel": "Close Popup",
+        "pin": "dine"
+      }
+    }
+  ]
+}

@@ -1,0 +1,3515 @@
+{
+  "name": "50's Prime Time Café",
+  "location": "Disney's Hollywood Studios, Echo Lake",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cornbread Skillet",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Butter and Honey"
+            },
+            {
+              "title": "Shrimp Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Nappa Cabbage Slaw and Cocktail Sauce"
+            },
+            {
+              "title": "Beer-battered Onion Rings",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Horseradish Sauce"
+            },
+            {
+              "title": "Mixed Salad",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spring Mix tossed with Vinaigrette, Roasted Vegetables, and Pepitas"
+            },
+            {
+              "title": "Cousin Bob’s Chowder",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Corn Chowder with House-smoked Ham"
+            }
+          ]
+        },
+        {
+          "name": "Entrées",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Aunt Liz's Golden Fried Chicken",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Mashed Potatoes, Chicken Gravy, and Seasonal Vegetables"
+            },
+            {
+              "title": "A Sampling of Mom's Favorite Recipes",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden-fried Chicken, Fork-tender Pot Roast, and Traditional Meatloaf with Green Beans and Mashed Potatoes"
+            },
+            {
+              "title": "Caesar Salad with Chicken",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Romaine tossed with Caesar Dressing and Grated Parmesan\\"
+            },
+            {
+              "title": "Cousin Harold's Rigatoni Pasta",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed with Vegetables and Chickpeas (Plant-based)"
+            },
+            {
+              "title": "Grilled Salmon* ",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Fresh Salmon with Grain Mustard-Chardonnay Beurre Blanc, Crushed Fingerling Potatoes with Olive Oil, and Green Beans"
+            },
+            {
+              "title": "Grandpa Jean’s Chicken Pot Pie ",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Traditional Pastry Crust Filled with Chicken, Potatoes, Carrots, Celery, Onions, Corn, and Peas"
+            },
+            {
+              "title": "Mom's Old-fashioned Pot Roast",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Slow-cooked ‘til fork-tender served with Mashed Potatoes and Cabernet Sauvignon Brown Gravy garnished with Carrots, Celery, and Onions"
+            },
+            {
+              "title": "Cousin Megan's Traditional Meatloaf",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blend of Beef and Pork served with Mashed Potatoes, Green Beans, and Tomato Glaze"
+            },
+            {
+              "title": "50’s Prime Time Café Blue Plate Special",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Braised Pork Shank served with Mashed Potatoes and Broccolini"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Dad's Favorite Chocolate-Peanut Butter Layered Cake",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dad's Favorite Chocolate-Peanut Butter Layered Cake À la Mode",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Raspberry Key Lime Pie",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Key Lime Pie topped with Raspberry Panna Cotta, Vanilla Whipped Cream, and Fresh Raspberries served with Raspberry Sauce"
+            },
+            {
+              "title": "Traditional Warm Apple Crisp",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Plant-based)"
+            },
+            {
+              "title": "Traditional Warm Apple Crisp À la Mode",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vanilla Strawberry Shortcake",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Cake topped with Strawberry Compote, Whipped Cream, and a Ginger Streusel served with a Strawberry Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Appetizers (à la carte)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Garden Salad",
+              "prices": [
+                {
+                  "withoutTax": 3.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vegetable Platter",
+              "prices": [
+                {
+                  "withoutTax": 3.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corn Chowder",
+              "prices": [
+                {
+                  "withoutTax": 3.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Entrées (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Goofy's Salmon",
+              "prices": [
+                {
+                  "withoutTax": 14.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice"
+            },
+            {
+              "title": "Sloppy Joe Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice"
+            },
+            {
+              "title": "Grandpa's Grilled Chicken",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice"
+            },
+            {
+              "title": "Aunt Betty's Chicken Strips",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Green Beans & Carrots",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stained Glass Dessert",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Whipped Pineapple fluff studded with cubes of strawberry, lime, and orange gelatin"
+            },
+            {
+              "title": "Grandma's Macaroni & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corn",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fruit Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Cupcake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kid's Specialty Drink",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Specialty Character Drink",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Zero Sugar Lemonade with flavors of Cotton Candy served in a souvenir Character Cup"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Specialties",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey's Bee Bop Drink",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Delicious Cherry-flavored Sprite® with Dad’s Glowing Electric Ice Cubes served in a souvenir cup"
+            },
+            {
+              "title": "Flavored Sodas",
+              "prices": [
+                {
+                  "withoutTax": 5.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola® blended with Vanilla or Cherry Flavors. Unlimited Refills!"
+            },
+            {
+              "title": "Hand-scooped Floats",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Barq's® Root Beer, Fanta® Orange, or Coca-Cola®"
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee™",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut Butter & Jelly Milk Shake",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Handmade Milk Shakes",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate, Vanilla, or Strawberry"
+            },
+            {
+              "title": "Enchanting Ember Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Premium Lemonade, Strawberry, and Hot Honey"
+            },
+            {
+              "title": "Enchanted Grove Lime Splash",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint"
+            }
+          ]
+        },
+        {
+          "name": "From Dad's Liquor Cabinet",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grandma's Picnic Punch",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grandma concocted a wonderful drink for the family picnic - SVEDKA Vodka, Bols Peach Schnapps Liqueur, Bols Crème de Cassis Liqueur, Minute Maid® Premium Lemonade, and Pineapple Juice"
+            },
+            {
+              "title": "The Tune-In PBJ Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Skrewball Peanut Butter Whiskey, Bols Blackberry Brandy, and Baileys Irish Cream Liqueur topped with a Maraschino Cherry"
+            },
+            {
+              "title": "Island Fusion Punch",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mount Gay Eclipse Rum, Minute Maid® Passion Fruit Orange Guava, DOLE® Pineapple, and Lime Juices"
+            },
+            {
+              "title": "Toasted Marshmallow Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Woodford Reserve Kentucky Straight Bourbon, Toasted Marshmallow, Hella Cocktail Co. Smoked Chili Bitters"
+            },
+            {
+              "title": "Patrón Platinum Margarita",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Patrón Silver Tequila, Cointreau Liqueur, Lime Juice, and Sweet-and-Sour"
+            },
+            {
+              "title": "Dad's Electric Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dad whips up an electrifying blue drink with SVEDKA Vodka, Blue Curaçao Liqueur, Sweet-and-Sour, and Sprite®"
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grainger’s Deluxe Organic Vanilla Vodka, Tia Maria Cold Brew Coffee Liqueur, Bols White Crème de Cacao Liqueur, and Espresso"
+            },
+            {
+              "title": "Coconut Gimlet",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick’s Gin, Coconut, Lime, and Cardamom Bitters"
+            },
+            {
+              "title": "Ultimate Long Island Iced Tea",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardí Superior Rum, Tito’s Handmade Vodka, Corazón Blanco Tequila, Hendrick’s Gin, Cointreau Liqueur, and Sweet-and-Sour with a splash of Coca-Cola®"
+            }
+          ]
+        },
+        {
+          "name": "Sparkling, Whites, Blush, and Red Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Marsuret Prosecco, Valdobbiadene Superiore NV",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "delicate mousse, hints of apple and apricot and crème with toastiness on the finish."
+            },
+            {
+              "title": "Coppo Mocscato d'Asti Moncalvina",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh and aromatic on the palate with floral notes along with peach and pear overtones."
+            },
+            {
+              "title": "King Estate Pinot Gris, Willamette Valley ",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kim Crawford Sauvignon Blanc, Marlborough ",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fess Parker Chardonnay, Santa Barbara County",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "typical apple and pear aromas with notes of orange blossom and vanilla mingle well with hints of oak."
+            },
+            {
+              "title": "MacMurray Estate Vineyards Pinot Noir, Central Coast",
+              "prices": [
+                {
+                  "withoutTax": 74,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Decoy by Duckhorn Merlot, Sonoma County",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Louis M. Martini Cabernet Sauvignon, Sonoma County",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "layers of red cherry, blackberry, and fresh sage with notes of chocolate and vanilla."
+            }
+          ]
+        },
+        {
+          "name": "Craft and Draft Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bud Light Lager",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Miller Lite",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Yuengling Traditional Draft – Pottsville, PA",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Samuel Adams Seasonal Draft",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cigar City Ja Alai IPA Draft",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stella Artois",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corona Extra",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blue Moon Belgian White",
+              "prices": [
+                {
+                  "withoutTax": 9.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Schöfferhofer Grapefruit Hefeweizen",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "New Belgium Fat Tire",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Angry Orchard Crisp Apple Hard Cider",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Michelob Ultra Draft - St. Louis, MO",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "White Claw Black Cherry Hard Seltzer - Chicago, IL",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Shrimp Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Nappa Cabbage Slaw and Cocktail Sauce (For Gluten/Wheat, Egg, Fish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Beer-battered Onion Rings",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Horseradish Sauce (For Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Cornbread Skillet",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Butter and Honey (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Mixed Salad",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spring Mix tossed with Vinaigrette, Roasted Vegetables, and Pepitas (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Sesame, Soy, Tree Nut Allergies)"
+            },
+            {
+              "title": "Cousin Bob's Chowder",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Corn Chowder with House-smoked Ham (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Entrées",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Grandpa Jean’s Chicken Pot Pie ",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Traditional Pastry Crust Filled with Chicken, Potatoes, Carrots, Celery, Onions, Corn, and Peas (For Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Mom’s Old-fashioned Pot Roast",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Slow-cooked ‘til fork-tender served with Mashed Potatoes and Cabernet Sauvignon Brown Gravy garnished with Carrots, Celery, and Onions (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut Allergies)"
+            },
+            {
+              "title": "Caesar Salad",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Romaine Lettuce tossed with Caesar Dressing and Grated Parmesan. With Chicken $18 or with Salmon $20. (For Gluten/Wheat, Peanut/Tree Nut, Sesame, Shellfish Allergies)"
+            },
+            {
+              "title": "50’s Prime Time Café Blue Plate Special",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Braised Pork Shank served with Mashed Potatoes and Broccolini (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Cousin Harold's Rigatoni Pasta",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed with Vegetables and Chickpeas (For Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Cousin Megan's Traditional Meatloaf",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blend of Beef and Pork served with Mashed Potatoes, Green Beans, and Tomato Glaze (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut Allergies)"
+            },
+            {
+              "title": "Aunt Liz's Golden Fried Chicken",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Crushed Fingerling Potatoes with Olive Oil, Chicken Gravy, and Seasonal Vegetables (For Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Mom's Favorite Recipes",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden-fried Chicken, Fork-tender Pot Roast, and Traditional Meatloaf with Green Beans and Mashed Potatoes (For Fish/Shellfish, Peanut/Tree Nut Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Traditional Warm Apple Crisp",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Raspberry Key Lime Pie",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Key Lime Pie topped with Raspberry Panna Cotta, Vanilla Whipped Cream, and Fresh Raspberries served with Raspberry Sauce (For Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            },
+            {
+              "title": "Vanilla Strawberry Shortcake",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Cake topped with Strawberry Compote, Whipped Cream, and a Ginger Streusel served with a Strawberry Sauce (For Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Appetizers (à la carte)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Garden Salad",
+              "prices": [
+                {
+                  "withoutTax": 3.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Vegetable Platter",
+              "prices": [
+                {
+                  "withoutTax": 3.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Corn Chowder",
+              "prices": [
+                {
+                  "withoutTax": 3.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Create-Your-Own Entrées (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Goofy's Salmon",
+              "prices": [
+                {
+                  "withoutTax": 14.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Milk, Peanut/Tree Nut, Sesame, Shellfish, and Soy Allergies)"
+            },
+            {
+              "title": "Sloppy Joe Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Grandpa's Grilled Chicken",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Aunt Betty's Chicken Strips",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Green Beans & Carrots",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Stained Glass Dessert",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Whipped Pineapple fluff studded with cubes of strawberry, lime, and orange gelatin (For Gluten/Wheat, Egg, Fish/Shellfish, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Grandma's Macaroni & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Egg, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Corn",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Fruit Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Casual Dining",
+      "serviceStyle": "A la Carte",
+      "groups": [
+        {
+          "name": "Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cornbread Skillet",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Butter and Honey"
+            },
+            {
+              "title": "Shrimp Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Nappa Cabbage Slaw and Cocktail Sauce"
+            },
+            {
+              "title": "Beer-battered Onion Rings",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Horseradish Sauce"
+            },
+            {
+              "title": "Mixed Salad",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spring Mix tossed with Vinaigrette, Roasted Vegetables, and Pepitas"
+            },
+            {
+              "title": "Cousin Bob’s Chowder",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Corn Chowder with House-smoked Ham"
+            }
+          ]
+        },
+        {
+          "name": "Entrées",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Aunt Liz's Golden Fried Chicken",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Mashed Potatoes, Chicken Gravy, and Seasonal Vegetables"
+            },
+            {
+              "title": "A Sampling of Mom's Favorite Recipes",
+              "prices": [
+                {
+                  "withoutTax": 34,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden-fried Chicken, Fork-tender Pot Roast, and Traditional Meatloaf with Green Beans and Mashed Potatoes"
+            },
+            {
+              "title": "Caesar Salad with Chicken",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Romaine tossed with Caesar Dressing and Grated Parmesan\\"
+            },
+            {
+              "title": "Cousin Harold's Rigatoni Pasta",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed with Vegetables and Chickpeas (Plant-based)"
+            },
+            {
+              "title": "Grilled Salmon* ",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grilled Fresh Salmon with Grain Mustard-Chardonnay Beurre Blanc, Crushed Fingerling Potatoes with Olive Oil, and Green Beans"
+            },
+            {
+              "title": "Grandpa Jean’s Chicken Pot Pie ",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Traditional Pastry Crust Filled with Chicken, Potatoes, Carrots, Celery, Onions, Corn, and Peas"
+            },
+            {
+              "title": "Mom's Old-fashioned Pot Roast",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Slow-cooked ‘til fork-tender served with Mashed Potatoes and Cabernet Sauvignon Brown Gravy garnished with Carrots, Celery, and Onions"
+            },
+            {
+              "title": "Cousin Megan's Traditional Meatloaf",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blend of Beef and Pork served with Mashed Potatoes, Green Beans, and Tomato Glaze"
+            },
+            {
+              "title": "50’s Prime Time Café Blue Plate Special",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Braised Pork Shank served with Mashed Potatoes and Broccolini"
+            }
+          ]
+        },
+        {
+          "name": "Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Dad's Favorite Chocolate-Peanut Butter Layered Cake",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dad's Favorite Chocolate-Peanut Butter Layered Cake À la Mode",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Raspberry Key Lime Pie",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Key Lime Pie topped with Raspberry Panna Cotta, Vanilla Whipped Cream, and Fresh Raspberries served with Raspberry Sauce"
+            },
+            {
+              "title": "Traditional Warm Apple Crisp",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Plant-based)"
+            },
+            {
+              "title": "Traditional Warm Apple Crisp À la Mode",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vanilla Strawberry Shortcake",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Cake topped with Strawberry Compote, Whipped Cream, and a Ginger Streusel served with a Strawberry Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Appetizers (à la carte)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Garden Salad",
+              "prices": [
+                {
+                  "withoutTax": 3.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Vegetable Platter",
+              "prices": [
+                {
+                  "withoutTax": 3.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corn Chowder",
+              "prices": [
+                {
+                  "withoutTax": 3.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Entrées (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Goofy's Salmon",
+              "prices": [
+                {
+                  "withoutTax": 14.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice"
+            },
+            {
+              "title": "Sloppy Joe Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice"
+            },
+            {
+              "title": "Grandpa's Grilled Chicken",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice"
+            },
+            {
+              "title": "Aunt Betty's Chicken Strips",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Green Beans & Carrots",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stained Glass Dessert",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Whipped Pineapple fluff studded with cubes of strawberry, lime, and orange gelatin"
+            },
+            {
+              "title": "Grandma's Macaroni & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corn",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fruit Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Seasonal Cupcake",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kid's Specialty Drink",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Specialty Character Drink",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Zero Sugar Lemonade with flavors of Cotton Candy served in a souvenir Character Cup"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Specialties",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey's Bee Bop Drink",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Delicious Cherry-flavored Sprite® with Dad’s Glowing Electric Ice Cubes served in a souvenir cup"
+            },
+            {
+              "title": "Flavored Sodas",
+              "prices": [
+                {
+                  "withoutTax": 5.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola® blended with Vanilla or Cherry Flavors. Unlimited Refills!"
+            },
+            {
+              "title": "Hand-scooped Floats",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Barq's® Root Beer, Fanta® Orange, or Coca-Cola®"
+            },
+            {
+              "title": "Freshly Brewed Joffrey's Coffee™",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Peanut Butter & Jelly Milk Shake",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Handmade Milk Shakes",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chocolate, Vanilla, or Strawberry"
+            },
+            {
+              "title": "Enchanting Ember Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Premium Lemonade, Strawberry, and Hot Honey"
+            },
+            {
+              "title": "Enchanted Grove Lime Splash",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint"
+            }
+          ]
+        },
+        {
+          "name": "From Dad's Liquor Cabinet",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Grandma's Picnic Punch",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grandma concocted a wonderful drink for the family picnic - SVEDKA Vodka, Bols Peach Schnapps Liqueur, Bols Crème de Cassis Liqueur, Minute Maid® Premium Lemonade, and Pineapple Juice"
+            },
+            {
+              "title": "The Tune-In PBJ Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Skrewball Peanut Butter Whiskey, Bols Blackberry Brandy, and Baileys Irish Cream Liqueur topped with a Maraschino Cherry"
+            },
+            {
+              "title": "Island Fusion Punch",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mount Gay Eclipse Rum, Minute Maid® Passion Fruit Orange Guava, DOLE® Pineapple, and Lime Juices"
+            },
+            {
+              "title": "Toasted Marshmallow Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Woodford Reserve Kentucky Straight Bourbon, Toasted Marshmallow, Hella Cocktail Co. Smoked Chili Bitters"
+            },
+            {
+              "title": "Patrón Platinum Margarita",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Patrón Silver Tequila, Cointreau Liqueur, Lime Juice, and Sweet-and-Sour"
+            },
+            {
+              "title": "Dad's Electric Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Dad whips up an electrifying blue drink with SVEDKA Vodka, Blue Curaçao Liqueur, Sweet-and-Sour, and Sprite®"
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grainger’s Deluxe Organic Vanilla Vodka, Tia Maria Cold Brew Coffee Liqueur, Bols White Crème de Cacao Liqueur, and Espresso"
+            },
+            {
+              "title": "Coconut Gimlet",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick’s Gin, Coconut, Lime, and Cardamom Bitters"
+            },
+            {
+              "title": "Ultimate Long Island Iced Tea",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardí Superior Rum, Tito’s Handmade Vodka, Corazón Blanco Tequila, Hendrick’s Gin, Cointreau Liqueur, and Sweet-and-Sour with a splash of Coca-Cola®"
+            }
+          ]
+        },
+        {
+          "name": "Sparkling, Whites, Blush, and Red Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Marsuret Prosecco, Valdobbiadene Superiore NV",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "delicate mousse, hints of apple and apricot and crème with toastiness on the finish."
+            },
+            {
+              "title": "Coppo Mocscato d'Asti Moncalvina",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh and aromatic on the palate with floral notes along with peach and pear overtones."
+            },
+            {
+              "title": "King Estate Pinot Gris, Willamette Valley ",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kim Crawford Sauvignon Blanc, Marlborough ",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fess Parker Chardonnay, Santa Barbara County",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "typical apple and pear aromas with notes of orange blossom and vanilla mingle well with hints of oak."
+            },
+            {
+              "title": "MacMurray Estate Vineyards Pinot Noir, Central Coast",
+              "prices": [
+                {
+                  "withoutTax": 74,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Decoy by Duckhorn Merlot, Sonoma County",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Louis M. Martini Cabernet Sauvignon, Sonoma County",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "layers of red cherry, blackberry, and fresh sage with notes of chocolate and vanilla."
+            }
+          ]
+        },
+        {
+          "name": "Craft and Draft Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bud Light Lager",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Miller Lite",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Yuengling Traditional Draft – Pottsville, PA",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Samuel Adams Seasonal Draft",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cigar City Ja Alai IPA Draft",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stella Artois",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corona Extra",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blue Moon Belgian White",
+              "prices": [
+                {
+                  "withoutTax": 9.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Schöfferhofer Grapefruit Hefeweizen",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "New Belgium Fat Tire",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Angry Orchard Crisp Apple Hard Cider",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Michelob Ultra Draft - St. Louis, MO",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "White Claw Black Cherry Hard Seltzer - Chicago, IL",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Appetizers",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Shrimp Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Nappa Cabbage Slaw and Cocktail Sauce (For Gluten/Wheat, Egg, Fish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Beer-battered Onion Rings",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Horseradish Sauce (For Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Cornbread Skillet",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Butter and Honey (For Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Mixed Salad",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Spring Mix tossed with Vinaigrette, Roasted Vegetables, and Pepitas (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Sesame, Soy, Tree Nut Allergies)"
+            },
+            {
+              "title": "Cousin Bob's Chowder",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fresh Corn Chowder with House-smoked Ham (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Entrées",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Grandpa Jean’s Chicken Pot Pie ",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Traditional Pastry Crust Filled with Chicken, Potatoes, Carrots, Celery, Onions, Corn, and Peas (For Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Mom’s Old-fashioned Pot Roast",
+              "prices": [
+                {
+                  "withoutTax": 28,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Slow-cooked ‘til fork-tender served with Mashed Potatoes and Cabernet Sauvignon Brown Gravy garnished with Carrots, Celery, and Onions (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut Allergies)"
+            },
+            {
+              "title": "Caesar Salad",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Romaine Lettuce tossed with Caesar Dressing and Grated Parmesan. With Chicken $18 or with Salmon $20. (For Gluten/Wheat, Peanut/Tree Nut, Sesame, Shellfish Allergies)"
+            },
+            {
+              "title": "50’s Prime Time Café Blue Plate Special",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Braised Pork Shank served with Mashed Potatoes and Broccolini (For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Cousin Harold's Rigatoni Pasta",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed with Vegetables and Chickpeas (For Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Cousin Megan's Traditional Meatloaf",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blend of Beef and Pork served with Mashed Potatoes, Green Beans, and Tomato Glaze (For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut Allergies)"
+            },
+            {
+              "title": "Aunt Liz's Golden Fried Chicken",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with Crushed Fingerling Potatoes with Olive Oil, Chicken Gravy, and Seasonal Vegetables (For Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Mom's Favorite Recipes",
+              "prices": [
+                {
+                  "withoutTax": 32,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Golden-fried Chicken, Fork-tender Pot Roast, and Traditional Meatloaf with Green Beans and Mashed Potatoes (For Fish/Shellfish, Peanut/Tree Nut Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Desserts",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Traditional Warm Apple Crisp",
+              "prices": [
+                {
+                  "withoutTax": 8,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            },
+            {
+              "title": "Raspberry Key Lime Pie",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Key Lime Pie topped with Raspberry Panna Cotta, Vanilla Whipped Cream, and Fresh Raspberries served with Raspberry Sauce (For Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            },
+            {
+              "title": "Vanilla Strawberry Shortcake",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Cake topped with Strawberry Compote, Whipped Cream, and a Ginger Streusel served with a Strawberry Sauce (For Fish/Shellfish, Peanut/Tree Nut, Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Appetizers (à la carte)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Garden Salad",
+              "prices": [
+                {
+                  "withoutTax": 3.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Vegetable Platter",
+              "prices": [
+                {
+                  "withoutTax": 3.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Corn Chowder",
+              "prices": [
+                {
+                  "withoutTax": 3.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, Sesame, Soy Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Create-Your-Own Entrées (choose one)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Goofy's Salmon",
+              "prices": [
+                {
+                  "withoutTax": 14.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Milk, Peanut/Tree Nut, Sesame, Shellfish, and Soy Allergies)"
+            },
+            {
+              "title": "Sloppy Joe Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Grandpa's Grilled Chicken",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Aunt Betty's Chicken Strips",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with choice of two (2) Selections and choice of Small Lowfat Milk, Small DASANI® Water, or Small Minute Maid® Apple Juice (For Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            }
+          ]
+        },
+        {
+          "name": "Allergy-Friendly Kids' Create-Your-Own Selections (choose two)",
+          "type": "Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Guests must speak to a Cast Member about their allergy-friendly request",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Green Beans & Carrots",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Stained Glass Dessert",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Whipped Pineapple fluff studded with cubes of strawberry, lime, and orange gelatin (For Gluten/Wheat, Egg, Fish/Shellfish, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Grandma's Macaroni & Cheese",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Egg, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Corn",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            },
+            {
+              "title": "Mashed Potatoes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Peanut/Tree Nut, and Sesame Allergies)"
+            },
+            {
+              "title": "Fruit Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "(For Gluten/Wheat, Egg, Fish/Shellfish, Milk, Peanut/Tree Nut, Sesame, and Soy Allergies)"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Appetizers",
+        "desktop": "Appetizers"
+      },
+      {
+        "mobile": "Entrées",
+        "desktop": "Entrées"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Kids' Appetizers (à la carte)",
+        "desktop": "Kids' Appetizers (à la carte)"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Entrées (choose one)",
+        "desktop": "Kids' Create-Your-Own Entrées (choose one)"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Selections (choose two)",
+        "desktop": "Kids' Create-Your-Own Selections (choose two)"
+      },
+      {
+        "mobile": "Kid's Specialty Drink",
+        "desktop": "Kid's Specialty Drink"
+      },
+      {
+        "mobile": "Non-Alcoholic Specialties",
+        "desktop": "Non-Alcoholic Specialties"
+      },
+      {
+        "mobile": "From Dad's Liquor Cabinet",
+        "desktop": "From Dad's Liquor Cabinet"
+      },
+      {
+        "mobile": "Sparkling, Whites, Blush, and Red Wines",
+        "desktop": "Sparkling, Whites, Blush, and Red Wines"
+      },
+      {
+        "mobile": "Craft and Draft Beer",
+        "desktop": "Craft and Draft Beer"
+      },
+      {
+        "mobile": "Allergy-Friendly Appetizers",
+        "desktop": "Allergy-Friendly Appetizers"
+      },
+      {
+        "mobile": "Allergy-Friendly Entrées",
+        "desktop": "Allergy-Friendly Entrées"
+      },
+      {
+        "mobile": "Allergy-Friendly Desserts",
+        "desktop": "Allergy-Friendly Desserts"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Appetizers (à la carte)",
+        "desktop": "Allergy-Friendly Kids' Appetizers (à la carte)"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Create-Your-Own Entrées (choose one)",
+        "desktop": "Allergy-Friendly Kids' Create-Your-Own Entrées (choose one)"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Create-Your-Own Selections (choose two)",
+        "desktop": "Allergy-Friendly Kids' Create-Your-Own Selections (choose two)"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Appetizers",
+        "desktop": "Appetizers"
+      },
+      {
+        "mobile": "Entrées",
+        "desktop": "Entrées"
+      },
+      {
+        "mobile": "Desserts",
+        "desktop": "Desserts"
+      },
+      {
+        "mobile": "Kids' Appetizers (à la carte)",
+        "desktop": "Kids' Appetizers (à la carte)"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Entrées (choose one)",
+        "desktop": "Kids' Create-Your-Own Entrées (choose one)"
+      },
+      {
+        "mobile": "Kids' Create-Your-Own Selections (choose two)",
+        "desktop": "Kids' Create-Your-Own Selections (choose two)"
+      },
+      {
+        "mobile": "Kid's Specialty Drink",
+        "desktop": "Kid's Specialty Drink"
+      },
+      {
+        "mobile": "Non-Alcoholic Specialties",
+        "desktop": "Non-Alcoholic Specialties"
+      },
+      {
+        "mobile": "From Dad's Liquor Cabinet",
+        "desktop": "From Dad's Liquor Cabinet"
+      },
+      {
+        "mobile": "Sparkling, Whites, Blush, and Red Wines",
+        "desktop": "Sparkling, Whites, Blush, and Red Wines"
+      },
+      {
+        "mobile": "Craft and Draft Beer",
+        "desktop": "Craft and Draft Beer"
+      },
+      {
+        "mobile": "Allergy-Friendly Appetizers",
+        "desktop": "Allergy-Friendly Appetizers"
+      },
+      {
+        "mobile": "Allergy-Friendly Entrées",
+        "desktop": "Allergy-Friendly Entrées"
+      },
+      {
+        "mobile": "Allergy-Friendly Desserts",
+        "desktop": "Allergy-Friendly Desserts"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Appetizers (à la carte)",
+        "desktop": "Allergy-Friendly Kids' Appetizers (à la carte)"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Create-Your-Own Entrées (choose one)",
+        "desktop": "Allergy-Friendly Kids' Create-Your-Own Entrées (choose one)"
+      },
+      {
+        "mobile": "Allergy-Friendly Kids' Create-Your-Own Selections (choose two)",
+        "desktop": "Allergy-Friendly Kids' Create-Your-Own Selections (choose two)"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "50's Prime Time Café",
+      "id": "90001216"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "411565269"
+        },
+        {
+          "productId": "412371334"
+        },
+        {
+          "productId": "17015175"
+        },
+        {
+          "productId": "17015179"
+        },
+        {
+          "productId": "412387589"
+        },
+        {
+          "productId": "17015220"
+        },
+        {
+          "productId": "17015215"
+        },
+        {
+          "productId": "17015218"
+        },
+        {
+          "productId": "17015222"
+        },
+        {
+          "productId": "411723393"
+        },
+        {
+          "productId": "411723391"
+        },
+        {
+          "productId": "17015224"
+        },
+        {
+          "productId": "17015223"
+        },
+        {
+          "productId": "411723385"
+        },
+        {
+          "productId": "17015213"
+        },
+        {
+          "productId": "18529310"
+        },
+        {
+          "productId": "412371346"
+        },
+        {
+          "productId": "17015209"
+        },
+        {
+          "productId": "17549282"
+        },
+        {
+          "productId": "412618438"
+        },
+        {
+          "productId": "17015154"
+        },
+        {
+          "productId": "17015157"
+        },
+        {
+          "productId": "412371322"
+        },
+        {
+          "productId": "17015171"
+        },
+        {
+          "productId": "411723418"
+        },
+        {
+          "productId": "17015172"
+        },
+        {
+          "productId": "17015167"
+        },
+        {
+          "productId": "17015169"
+        },
+        {
+          "productId": "411723398"
+        },
+        {
+          "productId": "411723416"
+        },
+        {
+          "productId": "17015170"
+        },
+        {
+          "productId": "17015168"
+        },
+        {
+          "productId": "17437661"
+        },
+        {
+          "productId": "17015164"
+        },
+        {
+          "productId": "17015181"
+        },
+        {
+          "productId": "17015186"
+        },
+        {
+          "productId": "17015182"
+        },
+        {
+          "productId": "17015183"
+        },
+        {
+          "productId": "17427784"
+        },
+        {
+          "productId": "17427783"
+        },
+        {
+          "productId": "17015184"
+        },
+        {
+          "productId": "412583898"
+        },
+        {
+          "productId": "412584783"
+        },
+        {
+          "productId": "17015191"
+        },
+        {
+          "productId": "411791129"
+        },
+        {
+          "productId": "412467877"
+        },
+        {
+          "productId": "412241046"
+        },
+        {
+          "productId": "17015192"
+        },
+        {
+          "productId": "17015189"
+        },
+        {
+          "productId": "412467890"
+        },
+        {
+          "productId": "412467901"
+        },
+        {
+          "productId": "17427570"
+        },
+        {
+          "productId": "17744818"
+        },
+        {
+          "productId": "17015202"
+        },
+        {
+          "productId": "412467913"
+        },
+        {
+          "productId": "412467915"
+        },
+        {
+          "productId": "17015199"
+        },
+        {
+          "productId": "17015205"
+        },
+        {
+          "productId": "412467924"
+        },
+        {
+          "productId": "17015206"
+        },
+        {
+          "productId": "17427727"
+        },
+        {
+          "productId": "411942878"
+        },
+        {
+          "productId": "17427728"
+        },
+        {
+          "productId": "17427730"
+        },
+        {
+          "productId": "17427729"
+        },
+        {
+          "productId": "17940958"
+        },
+        {
+          "productId": "17940947"
+        },
+        {
+          "productId": "17427726"
+        },
+        {
+          "productId": "17427725"
+        },
+        {
+          "productId": "17015208"
+        },
+        {
+          "productId": "17015198"
+        },
+        {
+          "productId": "19612195"
+        },
+        {
+          "productId": "19612196"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "412371337"
+        },
+        {
+          "productId": "19611279"
+        },
+        {
+          "productId": "411724263"
+        },
+        {
+          "productId": "19611280"
+        },
+        {
+          "productId": "412387590"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "411723392"
+        },
+        {
+          "productId": "19611302"
+        },
+        {
+          "productId": "19611284"
+        },
+        {
+          "productId": "411723384"
+        },
+        {
+          "productId": "19611285"
+        },
+        {
+          "productId": "19611286"
+        },
+        {
+          "productId": "19611283"
+        },
+        {
+          "productId": "19611287"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "411903265"
+        },
+        {
+          "productId": "412371347"
+        },
+        {
+          "productId": "412618437"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611291"
+        },
+        {
+          "productId": "19611298"
+        },
+        {
+          "productId": "412371323"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611294"
+        },
+        {
+          "productId": "411723419"
+        },
+        {
+          "productId": "19611295"
+        },
+        {
+          "productId": "19611297"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611300"
+        },
+        {
+          "productId": "411723399"
+        },
+        {
+          "productId": "411723417"
+        },
+        {
+          "productId": "19611293"
+        },
+        {
+          "productId": "19611301"
+        },
+        {
+          "productId": "19611299"
+        }
+      ],
+      "1": [
+        {
+          "productId": "411565269"
+        },
+        {
+          "productId": "412371334"
+        },
+        {
+          "productId": "17015175"
+        },
+        {
+          "productId": "17015179"
+        },
+        {
+          "productId": "412387589"
+        },
+        {
+          "productId": "17015220"
+        },
+        {
+          "productId": "17015215"
+        },
+        {
+          "productId": "17015218"
+        },
+        {
+          "productId": "17015222"
+        },
+        {
+          "productId": "411723393"
+        },
+        {
+          "productId": "411723391"
+        },
+        {
+          "productId": "17015224"
+        },
+        {
+          "productId": "17015223"
+        },
+        {
+          "productId": "411723385"
+        },
+        {
+          "productId": "17015213"
+        },
+        {
+          "productId": "18529310"
+        },
+        {
+          "productId": "412371346"
+        },
+        {
+          "productId": "17015209"
+        },
+        {
+          "productId": "17549282"
+        },
+        {
+          "productId": "412618438"
+        },
+        {
+          "productId": "17015154"
+        },
+        {
+          "productId": "17015157"
+        },
+        {
+          "productId": "412371322"
+        },
+        {
+          "productId": "17015171"
+        },
+        {
+          "productId": "411723418"
+        },
+        {
+          "productId": "17015172"
+        },
+        {
+          "productId": "17015167"
+        },
+        {
+          "productId": "17015169"
+        },
+        {
+          "productId": "411723398"
+        },
+        {
+          "productId": "411723416"
+        },
+        {
+          "productId": "17015170"
+        },
+        {
+          "productId": "17015168"
+        },
+        {
+          "productId": "17437661"
+        },
+        {
+          "productId": "17015164"
+        },
+        {
+          "productId": "17015181"
+        },
+        {
+          "productId": "17015186"
+        },
+        {
+          "productId": "17015182"
+        },
+        {
+          "productId": "17015183"
+        },
+        {
+          "productId": "17427784"
+        },
+        {
+          "productId": "17427783"
+        },
+        {
+          "productId": "17015184"
+        },
+        {
+          "productId": "412583898"
+        },
+        {
+          "productId": "412584783"
+        },
+        {
+          "productId": "17015191"
+        },
+        {
+          "productId": "411791129"
+        },
+        {
+          "productId": "412467877"
+        },
+        {
+          "productId": "412241046"
+        },
+        {
+          "productId": "17015192"
+        },
+        {
+          "productId": "17015189"
+        },
+        {
+          "productId": "412467890"
+        },
+        {
+          "productId": "412467901"
+        },
+        {
+          "productId": "17427570"
+        },
+        {
+          "productId": "17744818"
+        },
+        {
+          "productId": "17015202"
+        },
+        {
+          "productId": "412467913"
+        },
+        {
+          "productId": "412467915"
+        },
+        {
+          "productId": "17015199"
+        },
+        {
+          "productId": "17015205"
+        },
+        {
+          "productId": "412467924"
+        },
+        {
+          "productId": "17015206"
+        },
+        {
+          "productId": "17427727"
+        },
+        {
+          "productId": "411942878"
+        },
+        {
+          "productId": "17427728"
+        },
+        {
+          "productId": "17427730"
+        },
+        {
+          "productId": "17427729"
+        },
+        {
+          "productId": "17940958"
+        },
+        {
+          "productId": "17940947"
+        },
+        {
+          "productId": "17427726"
+        },
+        {
+          "productId": "17427725"
+        },
+        {
+          "productId": "17015208"
+        },
+        {
+          "productId": "17015198"
+        },
+        {
+          "productId": "19612195"
+        },
+        {
+          "productId": "19612196"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "412371337"
+        },
+        {
+          "productId": "19611279"
+        },
+        {
+          "productId": "411724263"
+        },
+        {
+          "productId": "19611280"
+        },
+        {
+          "productId": "412387590"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "411723392"
+        },
+        {
+          "productId": "19611302"
+        },
+        {
+          "productId": "19611284"
+        },
+        {
+          "productId": "411723384"
+        },
+        {
+          "productId": "19611285"
+        },
+        {
+          "productId": "19611286"
+        },
+        {
+          "productId": "19611283"
+        },
+        {
+          "productId": "19611287"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "411903265"
+        },
+        {
+          "productId": "412371347"
+        },
+        {
+          "productId": "412618437"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611291"
+        },
+        {
+          "productId": "19611298"
+        },
+        {
+          "productId": "412371323"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611294"
+        },
+        {
+          "productId": "411723419"
+        },
+        {
+          "productId": "19611295"
+        },
+        {
+          "productId": "19611297"
+        },
+        {
+          "productId": "411885657"
+        },
+        {
+          "productId": "19611300"
+        },
+        {
+          "productId": "411723399"
+        },
+        {
+          "productId": "411723417"
+        },
+        {
+          "productId": "19611293"
+        },
+        {
+          "productId": "19611301"
+        },
+        {
+          "productId": "19611299"
+        }
+      ]
+    }
+  }
+}

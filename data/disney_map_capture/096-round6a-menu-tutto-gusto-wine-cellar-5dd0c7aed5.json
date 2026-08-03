@@ -1,0 +1,926 @@
+{
+  "name": "Tutto Gusto Wine Cellar",
+  "location": "EPCOT, World Showcase",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "experience": "Bar/Lounge",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Assaggi D'Italia",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Calamari Fritti",
+              "prices": [
+                {
+                  "withoutTax": 23,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served with Marinara Piccante"
+            },
+            {
+              "title": "Tortino di Melanzane",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Baked eggplant parmigiana, pomodoro, mozzarella, parmesan"
+            },
+            {
+              "title": "Polpette Parmigiana",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "baked meatballs, pomodoro, mozzarella, parmesan"
+            },
+            {
+              "title": "Penne Arrabbiata",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "penne pasta, spicy pomodoro"
+            },
+            {
+              "title": "Carciofi",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "olive oil marinated artichokes"
+            },
+            {
+              "title": "Olive di Cerignola",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "marinated cerignola olives, citrus zest, herbs"
+            }
+          ]
+        },
+        {
+          "name": "Taglieri",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Coppa",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Salame",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soppressata",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Prosciutto di Parma, Parma Ham",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "L'Alpine: Asiago, Gorgonzola, Tartufo Cheese",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Italian Sangria",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Cabernet Terre di Bacco, rum, fruit juice"
+            },
+            {
+              "title": "White Wine Spritzer",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A splash of sparkling mineral water with a lemon twist"
+            },
+            {
+              "title": "Italicus Spritz",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Italicus Rosolio di Bergamotto, prosecco, Cerignola Olive"
+            },
+            {
+              "title": "Bellini",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Peach purée, prosecco"
+            },
+            {
+              "title": "Italian Margarita",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tequila, Limoncello, fresh lime juice"
+            },
+            {
+              "title": "Italian Martini",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Citrus vodka, limoncello, triple sec, lemon juice, sour mix"
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla vodka, coffee liqueur, Italian espresso"
+            },
+            {
+              "title": "Martini Your Way",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Up or on the rocks"
+            },
+            {
+              "title": "Aperol Spritz",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Aperol, prosecco, splash of sparkling mineral water"
+            },
+            {
+              "title": "Negroni",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gin, campari, sweet vermouth, orange twist"
+            },
+            {
+              "title": "Italian Mule",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wild Sardinia vodka, ginger beer, lime twist"
+            }
+          ]
+        },
+        {
+          "name": "Limoncello",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Fabrizia Sicilian",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemony flavor, very fragrant"
+            },
+            {
+              "title": "Fabrizia Crema Di",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sicilian limoncello, touch of cream"
+            },
+            {
+              "title": "Fabrizia Crema di Pistacchio",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "creamy liqueur made with toasted pistachio"
+            },
+            {
+              "title": "Limoncello Flight",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tasting of the three Fabrizia liqueurs"
+            }
+          ]
+        },
+        {
+          "name": "Birra",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sorsi d'Oro",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Italian pilsner specially brewed for Tutto Gusto"
+            },
+            {
+              "title": "Affogato Ale",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Italian pilsner specially brewed for Tutto Gusto"
+            },
+            {
+              "title": "Peroni Draft",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Michelob Ultra Draft",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blue Moon Draft",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Vini Bianchi",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Gavi, Batasiolo 2020",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Grigio, Terre di Bacco",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pecorino, Il Feuduccio, 2019",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chardonnay, Batasiolo, 2017",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sauvignon Blanc, Terre di Bacco, 2019",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Soave Classico Superiore, Pieropan, 2019",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Verdicchio Dei Castelli Di Jesi, Marchetti, 2019",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Vini Rossi",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Chianti, Terre Di Bacco, 2020",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Dolcetto D'Alba, Batasiolo, 2018",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Nero, La Vis, 2019",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Valpolicella, Allegrini, 2019",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet, Terre Di Bacco, 2019",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chianti Classico Riserva, Vescine, 2015",
+              "prices": [
+                {
+                  "withoutTax": 25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Amarone Sartori, Corte Bra, 2013",
+              "prices": [
+                {
+                  "withoutTax": 39,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Nero D'Avola, Stemmari, 2019",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chianti Classico, Vescine Capotondo, 2016",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Langhe Nebbiolo, Terre Di Bacco, 2018",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Le Difese, Tenuta San Guido",
+              "prices": [
+                {
+                  "withoutTax": 41,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Guidalberto, Tenuta San Guido",
+              "prices": [
+                {
+                  "withoutTax": 62,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Wine Flights",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Under a Tuscan Sun",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chianti Terre di Bacco | Tageto Donna Olimpia | Tre Brancaia"
+            },
+            {
+              "title": "Crisp Italian Whites",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sauvignon Terre di Bacco | Pecorino Il Feuduccio | Gavi Batasiolo"
+            },
+            {
+              "title": "From the Hills of Piemonte",
+              "prices": [
+                {
+                  "withoutTax": 26,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Gavi Batasiolo | Dolcetto d’Alba Batasiolo | Langhe Nebbiolo Terre di Bacco"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Assaggi D'Italia",
+        "desktop": "Assaggi D'Italia"
+      },
+      {
+        "mobile": "Taglieri",
+        "desktop": "Taglieri"
+      },
+      {
+        "mobile": "Cocktails",
+        "desktop": "Cocktails"
+      },
+      {
+        "mobile": "Limoncello",
+        "desktop": "Limoncello"
+      },
+      {
+        "mobile": "Birra",
+        "desktop": "Birra"
+      },
+      {
+        "mobile": "Vini Bianchi",
+        "desktop": "Vini Bianchi"
+      },
+      {
+        "mobile": "Vini Rossi",
+        "desktop": "Vini Rossi"
+      },
+      {
+        "mobile": "Wine Flights",
+        "desktop": "Wine Flights"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Tutto Gusto Wine Cellar",
+      "id": "16526362"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "17016382"
+        },
+        {
+          "productId": "411935678"
+        },
+        {
+          "productId": "412145663"
+        },
+        {
+          "productId": "412145668"
+        },
+        {
+          "productId": "412145676"
+        },
+        {
+          "productId": "412145680"
+        },
+        {
+          "productId": "412145643"
+        },
+        {
+          "productId": "412145645"
+        },
+        {
+          "productId": "412145647"
+        },
+        {
+          "productId": "412145649"
+        },
+        {
+          "productId": "412145656"
+        },
+        {
+          "productId": "411935816"
+        },
+        {
+          "productId": "411935777"
+        },
+        {
+          "productId": "411935776"
+        },
+        {
+          "productId": "411935780"
+        },
+        {
+          "productId": "411935812"
+        },
+        {
+          "productId": "411935813"
+        },
+        {
+          "productId": "411935946"
+        },
+        {
+          "productId": "411935855"
+        },
+        {
+          "productId": "412145617"
+        },
+        {
+          "productId": "412145621"
+        },
+        {
+          "productId": "412145622"
+        },
+        {
+          "productId": "412145582"
+        },
+        {
+          "productId": "412145583"
+        },
+        {
+          "productId": "412145587"
+        },
+        {
+          "productId": "412145590"
+        },
+        {
+          "productId": "412767387"
+        },
+        {
+          "productId": "412767388"
+        },
+        {
+          "productId": "412145602"
+        },
+        {
+          "productId": "412145603"
+        },
+        {
+          "productId": "412145600"
+        },
+        {
+          "productId": "412145710"
+        },
+        {
+          "productId": "412145711"
+        },
+        {
+          "productId": "412145713"
+        },
+        {
+          "productId": "412145714"
+        },
+        {
+          "productId": "412145715"
+        },
+        {
+          "productId": "412145721"
+        },
+        {
+          "productId": "412145722"
+        },
+        {
+          "productId": "412145724"
+        },
+        {
+          "productId": "412145725"
+        },
+        {
+          "productId": "412145726"
+        },
+        {
+          "productId": "412145734"
+        },
+        {
+          "productId": "412145735"
+        },
+        {
+          "productId": "412145740"
+        },
+        {
+          "productId": "412145743"
+        },
+        {
+          "productId": "412145752"
+        },
+        {
+          "productId": "412145755"
+        },
+        {
+          "productId": "412145759"
+        },
+        {
+          "productId": "412767384"
+        },
+        {
+          "productId": "412767385"
+        },
+        {
+          "productId": "19581379"
+        },
+        {
+          "productId": "19581380"
+        },
+        {
+          "productId": "19581381"
+        }
+      ]
+    }
+  }
+}

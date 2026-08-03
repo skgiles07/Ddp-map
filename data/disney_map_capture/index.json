@@ -14,15 +14,1095 @@
       "url": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining",
       "status": 200,
       "mime_type": "application/json"
+    },
+    {
+      "file": "003-round6a-mk-full-74555e5e73.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "004-round6a-mk-ddp-accepted-a29c36f0fc.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/#/2026-table-service-meal,2026-quick-service-meal/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "005-round6a-ep-full-d47fb84efc.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "006-round6a-ep-ddp-accepted-a910fa1c22.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/#/2026-table-service-meal,2026-quick-service-meal/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "007-round6a-hs-full-d0f3ecd69b.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "008-round6a-hs-ddp-accepted-85aabe978a.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/#/2026-table-service-meal,2026-quick-service-meal/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "009-round6a-ak-full-28d16f3575.json",
+      "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "010-round6a-ak-ddp-accepted-d1a081334c.json",
+      "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/#/2026-table-service-meal,2026-quick-service-meal/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "011-round6a-detail-broadway-concert-series-dining-package-88068e18be.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/broadway-concert-series-dining-package/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "012-round6a-detail-rose-and-crown-fireworks-dinner-package-4aeec2e25e.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/rose-and-crown-fireworks-dinner-package/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "013-round6a-detail-brown-derby-jazzy-holidays-f8755650e3.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/brown-derby-jazzy-holidays/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "014-round6a-detail-fireworks-dessert-party-seats-5f7f94b065.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/fireworks-dessert-party-seats/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "015-round6a-detail-shiki-sai-fireworks-dinner-package-d31c007617.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/shiki-sai-fireworks-dinner-package/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "016-round6a-detail-geo-82-fireworks-experience-a50188bb21.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-fireworks-experience/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "017-round6a-detail-mickeys-very-merry-christmas-party-plaza-view-8d4cca6aae.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/mickeys-very-merry-christmas-party-plaza-view/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "018-round6a-detail-fireworks-holiday-dessert-party-d47c8a6cbd.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/fireworks-holiday-dessert-party/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "019-round6a-detail-fireworks-dessert-pre-party-7fe79fdaff.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/fireworks-dessert-pre-party/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "020-round6a-detail-food-wine-concert-series-dining-package-9e1158589e.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/food-wine-concert-series-dining-package/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "021-round6a-detail-chefs-de-france-parisian-breakfast-75a1cbd810.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/chefs-de-france-parisian-breakfast/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "022-round6a-detail-cava-experience-a30f8c563f.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/cava-experience/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "023-round6a-detail-candlelight-dinner-packages-1a315b7b69.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/candlelight-dinner-packages/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "024-round6a-detail-spice-road-table-fireworks-dinner-package-9561b19e04.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/spice-road-table-fireworks-dinner-package/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "025-round6a-detail-disneys-not-so-spooky-spectacular-fireworks-dessert-party-tomorrowland-terr-5cbcc2c394.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/disneys-not-so-spooky-spectacular-fireworks-dessert-party-tomorrowland-terrace/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "026-round6a-detail-fireworks-dessert-after-party-59d7696581.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/fireworks-dessert-after-party/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "027-round6a-detail-disneys-not-so-spooky-spectacular-dessert-party-plaza-garden-0e7bf91d89.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/disneys-not-so-spooky-spectacular-dessert-party-plaza-garden/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "028-round6a-detail-smiling-crocodile-d2265012fa.json",
+      "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/smiling-crocodile/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "029-round6a-detail-beak-barrel-eb8e6a9af7.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "030-round6a-detail-cava-del-tequila-4c277d048f.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/cava-del-tequila/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "031-round6a-detail-gelateria-toscana-94a094d289.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/gelateria-toscana/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "032-round6a-detail-thirsty-river-bar-2d53e44f1e.json",
+      "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/thirsty-river-bar/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "033-round6a-detail-ogas-cantina-0b280e80c3.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "034-round6a-detail-festival-favorites-8feea3102a.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/festival-favorites/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "035-round6a-detail-sunshine-day-bar-022c8d780f.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sunshine-day-bar/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "036-round6a-detail-block-hans-6e04149e0b.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/block-hans/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "037-round6a-detail-dawa-bar-a48f4b7666.json",
+      "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/dawa-bar/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "038-round6a-detail-isle-of-java-2040d756a5.json",
+      "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "039-round6a-detail-astrofizz-78d48903c4.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "040-round6a-detail-trek-snacks-9e1db4ea4b.json",
+      "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/trek-snacks/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "041-round6a-detail-takumi-tei-restaurant-9ccd055a6a.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/takumi-tei-restaurant/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "042-round6a-detail-tune-in-lounge-ee396e4af8.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/tune-in-lounge/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "043-round6a-detail-test-track-cool-wash-3045863739.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/test-track-cool-wash/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "044-round6a-detail-terra-treats-5bb22e0c0a.json",
+      "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/terra-treats/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "045-round6a-detail-space-220-lounge-61e0cec4bb.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/space-220-lounge/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "046-round6a-detail-spice-road-table-bar-e3341a0e3f.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/spice-road-table-bar/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "047-round6a-detail-les-vins-des-chefs-de-france-1093637112.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/les-vins-des-chefs-de-france/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "048-round6a-detail-tutto-gusto-wine-cellar-343502e0ca.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/tutto-gusto-wine-cellar/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "049-round6a-detail-space-220-44a10df23d.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/space-220/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "050-round6a-detail-ice-cold-hydraulics-daafb0d0b8.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/ice-cold-hydraulics/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "051-round6a-detail-warung-outpost-02406311ea.json",
+      "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/warung-outpost/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "052-round6a-detail-popcorn-at-canada-pavilion-43d604e580.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/popcorn-at-canada-pavilion/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "053-round6a-detail-caravan-road-91fcbf6780.json",
+      "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/caravan-road/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "054-round6a-detail-neighborhood-bakery-682f0a2165.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/neighborhood-bakery/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "055-round6a-detail-drinkwallah-f85273ca50.json",
+      "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/drinkwallah/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "056-round6a-detail-baseline-tap-house-81b247b071.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/baseline-tap-house/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "057-round6a-detail-geo-82-lounge-c635a77f9b.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "058-round6a-detail-choza-de-margarita-b26f899ef2.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/choza-de-margarita/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "059-round6a-detail-food-by-swedish-chef-ce74e5b447.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/food-by-swedish-chef/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "060-round6a-detail-rose-and-crown-pub-ad0cb670b2.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/rose-and-crown-pub/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "061-round6a-detail-mahindi-d79cc36c3b.json",
+      "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/mahindi/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "062-round6a-detail-market-0479b29ead.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/market/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "063-round6a-detail-epic-eats-0920c0c9f1.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/epic-eats/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "064-round6a-detail-quality-beverages-85f37acd9d.json",
+      "url": "https://disneyworld.disney.go.com/dining/animal-kingdom/quality-beverages/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "065-round6a-detail-uk-beer-cart-94d723bc80.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/uk-beer-cart/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "066-round6a-detail-monsieur-paul-a863b6707f.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/monsieur-paul/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "067-round6a-detail-prince-eric-village-market-9c5a937c77.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/prince-eric-village-market/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "068-round6a-detail-tomorrowland-terrace-restaurant-46ef1906ca.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/tomorrowland-terrace-restaurant/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "069-round6a-detail-auntie-gravitys-galactic-goodies-45f88db435.json",
+      "url": "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "070-round6a-detail-oasis-sweets-sips-9e97aac92d.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/oasis-sweets-sips/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "071-round6a-detail-odyssey-2b9fbbcb59.json",
+      "url": "https://disneyworld.disney.go.com/dining/epcot/odyssey/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "072-round6a-detail-hollywood-brown-derby-dd1b982df7.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "073-round6a-detail-50s-prime-time-cafe-fc5cbbbb85.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "074-round6a-detail-sci-fi-dine-in-theater-11873b16fd.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "075-round6a-detail-mama-melroses-ristorante-italiano-bb4075ce3b.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/mama-melroses-ristorante-italiano/",
+      "status": 404,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "076-round6a-detail-hollywood-and-vine-7c5e9d5803.json",
+      "url": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "077-round6a-menu-smiling-crocodile-f20121cd32.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=smiling-crocodile&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "078-round6a-menu-beak-barrel-7a045f5560.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=beak-barrel&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "079-round6a-menu-cava-del-tequila-38e3207a38.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=cava-del-tequila&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "080-round6a-menu-gelateria-toscana-5c1c5b3718.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=gelateria-toscana&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "081-round6a-menu-thirsty-river-bar-a62839d934.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=thirsty-river-bar&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "082-round6a-menu-ogas-cantina-297835498b.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=ogas-cantina&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "083-round6a-menu-sunshine-day-bar-0e89728f18.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=sunshine-day-bar&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "084-round6a-menu-block-hans-de88d9b391.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=block-hans&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "085-round6a-menu-dawa-bar-e45311c234.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=dawa-bar&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "086-round6a-menu-isle-of-java-e6ebab035c.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=isle-of-java&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "087-round6a-menu-astrofizz-afae3aa6e4.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=astrofizz&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "088-round6a-menu-trek-snacks-e28cd7a74f.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=trek-snacks&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "089-round6a-menu-takumi-tei-restaurant-12ce3d5bc9.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=takumi-tei-restaurant&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "090-round6a-menu-tune-in-lounge-d393969f0b.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=tune-in-lounge&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "091-round6a-menu-test-track-cool-wash-7d294e9ab6.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=test-track-cool-wash&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "092-round6a-menu-terra-treats-089bf143c5.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=terra-treats&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "093-round6a-menu-space-220-lounge-4ab90fd882.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=space-220-lounge&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "094-round6a-menu-spice-road-table-bar-f50768db11.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=spice-road-table-bar&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "095-round6a-menu-les-vins-des-chefs-de-france-87ea649688.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=les-vins-des-chefs-de-france&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "096-round6a-menu-tutto-gusto-wine-cellar-5dd0c7aed5.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=tutto-gusto-wine-cellar&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "097-round6a-menu-space-220-2cd4e823d5.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=space-220&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "098-round6a-menu-ice-cold-hydraulics-43ed08f163.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=ice-cold-hydraulics&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "099-round6a-menu-warung-outpost-22ec82cbf1.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=warung-outpost&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "100-round6a-menu-popcorn-at-canada-pavilion-155c9867b3.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=popcorn-at-canada-pavilion&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "101-round6a-menu-caravan-road-ba86b77a1a.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=caravan-road&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "102-round6a-menu-neighborhood-bakery-6862669c9c.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=neighborhood-bakery&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "103-round6a-menu-drinkwallah-38c6be20d7.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=drinkwallah&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "104-round6a-menu-baseline-tap-house-449332687f.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=baseline-tap-house&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "105-round6a-menu-geo-82-lounge-d0a413afcb.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=geo-82-lounge&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "106-round6a-menu-choza-de-margarita-ee7daa9c0b.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=choza-de-margarita&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "107-round6a-menu-food-by-swedish-chef-8613b5d6e3.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=food-by-swedish-chef&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "108-round6a-menu-rose-and-crown-pub-c144b5f147.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=rose-and-crown-pub&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "109-round6a-menu-mahindi-dd7cd71806.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=mahindi&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "110-round6a-menu-market-9a6c0ebf92.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=market&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "111-round6a-menu-epic-eats-58e497052a.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=epic-eats&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "112-round6a-menu-quality-beverages-5dc005546e.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=quality-beverages&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "113-round6a-menu-uk-beer-cart-9d4d01e987.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=uk-beer-cart&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "114-round6a-menu-monsieur-paul-57527839ae.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=monsieur-paul&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "115-round6a-menu-prince-eric-village-market-9d11f736e5.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=prince-eric-village-market&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "116-round6a-menu-auntie-gravitys-galactic-goodies-770ba4e10d.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=auntie-gravitys-galactic-goodies&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "117-round6a-menu-oasis-sweets-sips-12a6ad4caf.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=oasis-sweets-sips&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "118-round6a-menu-odyssey-c1fcb17714.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=odyssey&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "119-round6a-menu-hollywood-brown-derby-b73562fe43.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hollywood-brown-derby&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "120-round6a-menu-50s-prime-time-cafe-ef52eb8044.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=50s-prime-time-cafe&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "121-round6a-menu-sci-fi-dine-in-theater-f6a420d07b.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=sci-fi-dine-in-theater&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
+    },
+    {
+      "file": "122-round6a-menu-hollywood-and-vine-7f91b9b369.json",
+      "url": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hollywood-and-vine&language=en-us",
+      "status": 200,
+      "mime_type": "application/json",
+      "round": "6A"
     }
   ],
   "by_url": {
     "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/destinations": "001-disneyworld-disney-go-com-finder-api-v1-explorer-service-list-ancestor-entities-wdw-800077-2e0ddd6da7.json",
-    "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining": "002-disneyworld-disney-go-com-finder-api-v1-explorer-service-list-ancestor-entities-wdw-800077-6019ba8a04.json"
+    "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining": "002-disneyworld-disney-go-com-finder-api-v1-explorer-service-list-ancestor-entities-wdw-800077-6019ba8a04.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/": "003-round6a-mk-full-74555e5e73.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/#/2026-table-service-meal,2026-quick-service-meal/": "004-round6a-mk-ddp-accepted-a29c36f0fc.json",
+    "https://disneyworld.disney.go.com/dining/epcot/": "005-round6a-ep-full-d47fb84efc.json",
+    "https://disneyworld.disney.go.com/dining/epcot/#/2026-table-service-meal,2026-quick-service-meal/": "006-round6a-ep-ddp-accepted-a910fa1c22.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/": "007-round6a-hs-full-d0f3ecd69b.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/#/2026-table-service-meal,2026-quick-service-meal/": "008-round6a-hs-ddp-accepted-85aabe978a.json",
+    "https://disneyworld.disney.go.com/dining/animal-kingdom/": "009-round6a-ak-full-28d16f3575.json",
+    "https://disneyworld.disney.go.com/dining/animal-kingdom/#/2026-table-service-meal,2026-quick-service-meal/": "010-round6a-ak-ddp-accepted-d1a081334c.json",
+    "https://disneyworld.disney.go.com/dining/epcot/broadway-concert-series-dining-package/": "011-round6a-detail-broadway-concert-series-dining-package-88068e18be.json",
+    "https://disneyworld.disney.go.com/dining/epcot/rose-and-crown-fireworks-dinner-package/": "012-round6a-detail-rose-and-crown-fireworks-dinner-package-4aeec2e25e.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/brown-derby-jazzy-holidays/": "013-round6a-detail-brown-derby-jazzy-holidays-f8755650e3.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/fireworks-dessert-party-seats/": "014-round6a-detail-fireworks-dessert-party-seats-5f7f94b065.json",
+    "https://disneyworld.disney.go.com/dining/epcot/shiki-sai-fireworks-dinner-package/": "015-round6a-detail-shiki-sai-fireworks-dinner-package-d31c007617.json",
+    "https://disneyworld.disney.go.com/dining/epcot/geo-82-fireworks-experience/": "016-round6a-detail-geo-82-fireworks-experience-a50188bb21.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/mickeys-very-merry-christmas-party-plaza-view/": "017-round6a-detail-mickeys-very-merry-christmas-party-plaza-view-8d4cca6aae.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/fireworks-holiday-dessert-party/": "018-round6a-detail-fireworks-holiday-dessert-party-d47c8a6cbd.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/fireworks-dessert-pre-party/": "019-round6a-detail-fireworks-dessert-pre-party-7fe79fdaff.json",
+    "https://disneyworld.disney.go.com/dining/epcot/food-wine-concert-series-dining-package/": "020-round6a-detail-food-wine-concert-series-dining-package-9e1158589e.json",
+    "https://disneyworld.disney.go.com/dining/epcot/chefs-de-france-parisian-breakfast/": "021-round6a-detail-chefs-de-france-parisian-breakfast-75a1cbd810.json",
+    "https://disneyworld.disney.go.com/dining/epcot/cava-experience/": "022-round6a-detail-cava-experience-a30f8c563f.json",
+    "https://disneyworld.disney.go.com/dining/epcot/candlelight-dinner-packages/": "023-round6a-detail-candlelight-dinner-packages-1a315b7b69.json",
+    "https://disneyworld.disney.go.com/dining/epcot/spice-road-table-fireworks-dinner-package/": "024-round6a-detail-spice-road-table-fireworks-dinner-package-9561b19e04.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/disneys-not-so-spooky-spectacular-fireworks-dessert-party-tomorrowland-terrace/": "025-round6a-detail-disneys-not-so-spooky-spectacular-fireworks-dessert-party-tomorrowland-terr-5cbcc2c394.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/fireworks-dessert-after-party/": "026-round6a-detail-fireworks-dessert-after-party-59d7696581.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/disneys-not-so-spooky-spectacular-dessert-party-plaza-garden/": "027-round6a-detail-disneys-not-so-spooky-spectacular-dessert-party-plaza-garden-0e7bf91d89.json",
+    "https://disneyworld.disney.go.com/dining/animal-kingdom/smiling-crocodile/": "028-round6a-detail-smiling-crocodile-d2265012fa.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/": "029-round6a-detail-beak-barrel-eb8e6a9af7.json",
+    "https://disneyworld.disney.go.com/dining/epcot/cava-del-tequila/": "030-round6a-detail-cava-del-tequila-4c277d048f.json",
+    "https://disneyworld.disney.go.com/dining/epcot/gelateria-toscana/": "031-round6a-detail-gelateria-toscana-94a094d289.json",
+    "https://disneyworld.disney.go.com/dining/animal-kingdom/thirsty-river-bar/": "032-round6a-detail-thirsty-river-bar-2d53e44f1e.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/": "033-round6a-detail-ogas-cantina-0b280e80c3.json",
+    "https://disneyworld.disney.go.com/dining/epcot/festival-favorites/": "034-round6a-detail-festival-favorites-8feea3102a.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/sunshine-day-bar/": "035-round6a-detail-sunshine-day-bar-022c8d780f.json",
+    "https://disneyworld.disney.go.com/dining/epcot/block-hans/": "036-round6a-detail-block-hans-6e04149e0b.json",
+    "https://disneyworld.disney.go.com/dining/animal-kingdom/dawa-bar/": "037-round6a-detail-dawa-bar-a48f4b7666.json",
+    "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/": "038-round6a-detail-isle-of-java-2040d756a5.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/": "039-round6a-detail-astrofizz-78d48903c4.json",
+    "https://disneyworld.disney.go.com/dining/animal-kingdom/trek-snacks/": "040-round6a-detail-trek-snacks-9e1db4ea4b.json",
+    "https://disneyworld.disney.go.com/dining/epcot/takumi-tei-restaurant/": "041-round6a-detail-takumi-tei-restaurant-9ccd055a6a.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/tune-in-lounge/": "042-round6a-detail-tune-in-lounge-ee396e4af8.json",
+    "https://disneyworld.disney.go.com/dining/epcot/test-track-cool-wash/": "043-round6a-detail-test-track-cool-wash-3045863739.json",
+    "https://disneyworld.disney.go.com/dining/animal-kingdom/terra-treats/": "044-round6a-detail-terra-treats-5bb22e0c0a.json",
+    "https://disneyworld.disney.go.com/dining/epcot/space-220-lounge/": "045-round6a-detail-space-220-lounge-61e0cec4bb.json",
+    "https://disneyworld.disney.go.com/dining/epcot/spice-road-table-bar/": "046-round6a-detail-spice-road-table-bar-e3341a0e3f.json",
+    "https://disneyworld.disney.go.com/dining/epcot/les-vins-des-chefs-de-france/": "047-round6a-detail-les-vins-des-chefs-de-france-1093637112.json",
+    "https://disneyworld.disney.go.com/dining/epcot/tutto-gusto-wine-cellar/": "048-round6a-detail-tutto-gusto-wine-cellar-343502e0ca.json",
+    "https://disneyworld.disney.go.com/dining/epcot/space-220/": "049-round6a-detail-space-220-44a10df23d.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/ice-cold-hydraulics/": "050-round6a-detail-ice-cold-hydraulics-daafb0d0b8.json",
+    "https://disneyworld.disney.go.com/dining/animal-kingdom/warung-outpost/": "051-round6a-detail-warung-outpost-02406311ea.json",
+    "https://disneyworld.disney.go.com/dining/epcot/popcorn-at-canada-pavilion/": "052-round6a-detail-popcorn-at-canada-pavilion-43d604e580.json",
+    "https://disneyworld.disney.go.com/dining/animal-kingdom/caravan-road/": "053-round6a-detail-caravan-road-91fcbf6780.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/neighborhood-bakery/": "054-round6a-detail-neighborhood-bakery-682f0a2165.json",
+    "https://disneyworld.disney.go.com/dining/animal-kingdom/drinkwallah/": "055-round6a-detail-drinkwallah-f85273ca50.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/baseline-tap-house/": "056-round6a-detail-baseline-tap-house-81b247b071.json",
+    "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/": "057-round6a-detail-geo-82-lounge-c635a77f9b.json",
+    "https://disneyworld.disney.go.com/dining/epcot/choza-de-margarita/": "058-round6a-detail-choza-de-margarita-b26f899ef2.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/food-by-swedish-chef/": "059-round6a-detail-food-by-swedish-chef-ce74e5b447.json",
+    "https://disneyworld.disney.go.com/dining/epcot/rose-and-crown-pub/": "060-round6a-detail-rose-and-crown-pub-ad0cb670b2.json",
+    "https://disneyworld.disney.go.com/dining/animal-kingdom/mahindi/": "061-round6a-detail-mahindi-d79cc36c3b.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/market/": "062-round6a-detail-market-0479b29ead.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/epic-eats/": "063-round6a-detail-epic-eats-0920c0c9f1.json",
+    "https://disneyworld.disney.go.com/dining/animal-kingdom/quality-beverages/": "064-round6a-detail-quality-beverages-85f37acd9d.json",
+    "https://disneyworld.disney.go.com/dining/epcot/uk-beer-cart/": "065-round6a-detail-uk-beer-cart-94d723bc80.json",
+    "https://disneyworld.disney.go.com/dining/epcot/monsieur-paul/": "066-round6a-detail-monsieur-paul-a863b6707f.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/prince-eric-village-market/": "067-round6a-detail-prince-eric-village-market-9c5a937c77.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/tomorrowland-terrace-restaurant/": "068-round6a-detail-tomorrowland-terrace-restaurant-46ef1906ca.json",
+    "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/": "069-round6a-detail-auntie-gravitys-galactic-goodies-45f88db435.json",
+    "https://disneyworld.disney.go.com/dining/epcot/oasis-sweets-sips/": "070-round6a-detail-oasis-sweets-sips-9e97aac92d.json",
+    "https://disneyworld.disney.go.com/dining/epcot/odyssey/": "071-round6a-detail-odyssey-2b9fbbcb59.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/": "072-round6a-detail-hollywood-brown-derby-dd1b982df7.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/": "073-round6a-detail-50s-prime-time-cafe-fc5cbbbb85.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/": "074-round6a-detail-sci-fi-dine-in-theater-11873b16fd.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/mama-melroses-ristorante-italiano/": "075-round6a-detail-mama-melroses-ristorante-italiano-bb4075ce3b.json",
+    "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/": "076-round6a-detail-hollywood-and-vine-7c5e9d5803.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=smiling-crocodile&language=en-us": "077-round6a-menu-smiling-crocodile-f20121cd32.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=beak-barrel&language=en-us": "078-round6a-menu-beak-barrel-7a045f5560.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=cava-del-tequila&language=en-us": "079-round6a-menu-cava-del-tequila-38e3207a38.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=gelateria-toscana&language=en-us": "080-round6a-menu-gelateria-toscana-5c1c5b3718.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=thirsty-river-bar&language=en-us": "081-round6a-menu-thirsty-river-bar-a62839d934.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=ogas-cantina&language=en-us": "082-round6a-menu-ogas-cantina-297835498b.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=sunshine-day-bar&language=en-us": "083-round6a-menu-sunshine-day-bar-0e89728f18.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=block-hans&language=en-us": "084-round6a-menu-block-hans-de88d9b391.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=dawa-bar&language=en-us": "085-round6a-menu-dawa-bar-e45311c234.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=isle-of-java&language=en-us": "086-round6a-menu-isle-of-java-e6ebab035c.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=astrofizz&language=en-us": "087-round6a-menu-astrofizz-afae3aa6e4.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=trek-snacks&language=en-us": "088-round6a-menu-trek-snacks-e28cd7a74f.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=takumi-tei-restaurant&language=en-us": "089-round6a-menu-takumi-tei-restaurant-12ce3d5bc9.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=tune-in-lounge&language=en-us": "090-round6a-menu-tune-in-lounge-d393969f0b.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=test-track-cool-wash&language=en-us": "091-round6a-menu-test-track-cool-wash-7d294e9ab6.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=terra-treats&language=en-us": "092-round6a-menu-terra-treats-089bf143c5.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=space-220-lounge&language=en-us": "093-round6a-menu-space-220-lounge-4ab90fd882.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=spice-road-table-bar&language=en-us": "094-round6a-menu-spice-road-table-bar-f50768db11.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=les-vins-des-chefs-de-france&language=en-us": "095-round6a-menu-les-vins-des-chefs-de-france-87ea649688.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=tutto-gusto-wine-cellar&language=en-us": "096-round6a-menu-tutto-gusto-wine-cellar-5dd0c7aed5.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=space-220&language=en-us": "097-round6a-menu-space-220-2cd4e823d5.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=ice-cold-hydraulics&language=en-us": "098-round6a-menu-ice-cold-hydraulics-43ed08f163.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=warung-outpost&language=en-us": "099-round6a-menu-warung-outpost-22ec82cbf1.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=popcorn-at-canada-pavilion&language=en-us": "100-round6a-menu-popcorn-at-canada-pavilion-155c9867b3.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=caravan-road&language=en-us": "101-round6a-menu-caravan-road-ba86b77a1a.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=neighborhood-bakery&language=en-us": "102-round6a-menu-neighborhood-bakery-6862669c9c.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=drinkwallah&language=en-us": "103-round6a-menu-drinkwallah-38c6be20d7.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=baseline-tap-house&language=en-us": "104-round6a-menu-baseline-tap-house-449332687f.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=geo-82-lounge&language=en-us": "105-round6a-menu-geo-82-lounge-d0a413afcb.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=choza-de-margarita&language=en-us": "106-round6a-menu-choza-de-margarita-ee7daa9c0b.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=food-by-swedish-chef&language=en-us": "107-round6a-menu-food-by-swedish-chef-8613b5d6e3.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=rose-and-crown-pub&language=en-us": "108-round6a-menu-rose-and-crown-pub-c144b5f147.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=mahindi&language=en-us": "109-round6a-menu-mahindi-dd7cd71806.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=market&language=en-us": "110-round6a-menu-market-9a6c0ebf92.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=epic-eats&language=en-us": "111-round6a-menu-epic-eats-58e497052a.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=quality-beverages&language=en-us": "112-round6a-menu-quality-beverages-5dc005546e.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=uk-beer-cart&language=en-us": "113-round6a-menu-uk-beer-cart-9d4d01e987.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=monsieur-paul&language=en-us": "114-round6a-menu-monsieur-paul-57527839ae.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=prince-eric-village-market&language=en-us": "115-round6a-menu-prince-eric-village-market-9d11f736e5.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=auntie-gravitys-galactic-goodies&language=en-us": "116-round6a-menu-auntie-gravitys-galactic-goodies-770ba4e10d.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=oasis-sweets-sips&language=en-us": "117-round6a-menu-oasis-sweets-sips-12a6ad4caf.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=odyssey&language=en-us": "118-round6a-menu-odyssey-c1fcb17714.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hollywood-brown-derby&language=en-us": "119-round6a-menu-hollywood-brown-derby-b73562fe43.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=50s-prime-time-cafe&language=en-us": "120-round6a-menu-50s-prime-time-cafe-ef52eb8044.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=sci-fi-dine-in-theater&language=en-us": "121-round6a-menu-sci-fi-dine-in-theater-f6a420d07b.json",
+    "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hollywood-and-vine&language=en-us": "122-round6a-menu-hollywood-and-vine-7f91b9b369.json"
   },
   "by_file": {
     "001-disneyworld-disney-go-com-finder-api-v1-explorer-service-list-ancestor-entities-wdw-800077-2e0ddd6da7.json": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/destinations",
-    "002-disneyworld-disney-go-com-finder-api-v1-explorer-service-list-ancestor-entities-wdw-800077-6019ba8a04.json": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining"
+    "002-disneyworld-disney-go-com-finder-api-v1-explorer-service-list-ancestor-entities-wdw-800077-6019ba8a04.json": "https://disneyworld.disney.go.com/finder/api/v1/explorer-service/list-ancestor-entities/wdw/80007798;entityType=destination/2026-08-02/dining",
+    "003-round6a-mk-full-74555e5e73.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/",
+    "004-round6a-mk-ddp-accepted-a29c36f0fc.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/#/2026-table-service-meal,2026-quick-service-meal/",
+    "005-round6a-ep-full-d47fb84efc.json": "https://disneyworld.disney.go.com/dining/epcot/",
+    "006-round6a-ep-ddp-accepted-a910fa1c22.json": "https://disneyworld.disney.go.com/dining/epcot/#/2026-table-service-meal,2026-quick-service-meal/",
+    "007-round6a-hs-full-d0f3ecd69b.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/",
+    "008-round6a-hs-ddp-accepted-85aabe978a.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/#/2026-table-service-meal,2026-quick-service-meal/",
+    "009-round6a-ak-full-28d16f3575.json": "https://disneyworld.disney.go.com/dining/animal-kingdom/",
+    "010-round6a-ak-ddp-accepted-d1a081334c.json": "https://disneyworld.disney.go.com/dining/animal-kingdom/#/2026-table-service-meal,2026-quick-service-meal/",
+    "011-round6a-detail-broadway-concert-series-dining-package-88068e18be.json": "https://disneyworld.disney.go.com/dining/epcot/broadway-concert-series-dining-package/",
+    "012-round6a-detail-rose-and-crown-fireworks-dinner-package-4aeec2e25e.json": "https://disneyworld.disney.go.com/dining/epcot/rose-and-crown-fireworks-dinner-package/",
+    "013-round6a-detail-brown-derby-jazzy-holidays-f8755650e3.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/brown-derby-jazzy-holidays/",
+    "014-round6a-detail-fireworks-dessert-party-seats-5f7f94b065.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/fireworks-dessert-party-seats/",
+    "015-round6a-detail-shiki-sai-fireworks-dinner-package-d31c007617.json": "https://disneyworld.disney.go.com/dining/epcot/shiki-sai-fireworks-dinner-package/",
+    "016-round6a-detail-geo-82-fireworks-experience-a50188bb21.json": "https://disneyworld.disney.go.com/dining/epcot/geo-82-fireworks-experience/",
+    "017-round6a-detail-mickeys-very-merry-christmas-party-plaza-view-8d4cca6aae.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/mickeys-very-merry-christmas-party-plaza-view/",
+    "018-round6a-detail-fireworks-holiday-dessert-party-d47c8a6cbd.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/fireworks-holiday-dessert-party/",
+    "019-round6a-detail-fireworks-dessert-pre-party-7fe79fdaff.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/fireworks-dessert-pre-party/",
+    "020-round6a-detail-food-wine-concert-series-dining-package-9e1158589e.json": "https://disneyworld.disney.go.com/dining/epcot/food-wine-concert-series-dining-package/",
+    "021-round6a-detail-chefs-de-france-parisian-breakfast-75a1cbd810.json": "https://disneyworld.disney.go.com/dining/epcot/chefs-de-france-parisian-breakfast/",
+    "022-round6a-detail-cava-experience-a30f8c563f.json": "https://disneyworld.disney.go.com/dining/epcot/cava-experience/",
+    "023-round6a-detail-candlelight-dinner-packages-1a315b7b69.json": "https://disneyworld.disney.go.com/dining/epcot/candlelight-dinner-packages/",
+    "024-round6a-detail-spice-road-table-fireworks-dinner-package-9561b19e04.json": "https://disneyworld.disney.go.com/dining/epcot/spice-road-table-fireworks-dinner-package/",
+    "025-round6a-detail-disneys-not-so-spooky-spectacular-fireworks-dessert-party-tomorrowland-terr-5cbcc2c394.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/disneys-not-so-spooky-spectacular-fireworks-dessert-party-tomorrowland-terrace/",
+    "026-round6a-detail-fireworks-dessert-after-party-59d7696581.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/fireworks-dessert-after-party/",
+    "027-round6a-detail-disneys-not-so-spooky-spectacular-dessert-party-plaza-garden-0e7bf91d89.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/disneys-not-so-spooky-spectacular-dessert-party-plaza-garden/",
+    "028-round6a-detail-smiling-crocodile-d2265012fa.json": "https://disneyworld.disney.go.com/dining/animal-kingdom/smiling-crocodile/",
+    "029-round6a-detail-beak-barrel-eb8e6a9af7.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/beak-barrel/",
+    "030-round6a-detail-cava-del-tequila-4c277d048f.json": "https://disneyworld.disney.go.com/dining/epcot/cava-del-tequila/",
+    "031-round6a-detail-gelateria-toscana-94a094d289.json": "https://disneyworld.disney.go.com/dining/epcot/gelateria-toscana/",
+    "032-round6a-detail-thirsty-river-bar-2d53e44f1e.json": "https://disneyworld.disney.go.com/dining/animal-kingdom/thirsty-river-bar/",
+    "033-round6a-detail-ogas-cantina-0b280e80c3.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/",
+    "034-round6a-detail-festival-favorites-8feea3102a.json": "https://disneyworld.disney.go.com/dining/epcot/festival-favorites/",
+    "035-round6a-detail-sunshine-day-bar-022c8d780f.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/sunshine-day-bar/",
+    "036-round6a-detail-block-hans-6e04149e0b.json": "https://disneyworld.disney.go.com/dining/epcot/block-hans/",
+    "037-round6a-detail-dawa-bar-a48f4b7666.json": "https://disneyworld.disney.go.com/dining/animal-kingdom/dawa-bar/",
+    "038-round6a-detail-isle-of-java-2040d756a5.json": "https://disneyworld.disney.go.com/dining/animal-kingdom/isle-of-java/",
+    "039-round6a-detail-astrofizz-78d48903c4.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/astrofizz/",
+    "040-round6a-detail-trek-snacks-9e1db4ea4b.json": "https://disneyworld.disney.go.com/dining/animal-kingdom/trek-snacks/",
+    "041-round6a-detail-takumi-tei-restaurant-9ccd055a6a.json": "https://disneyworld.disney.go.com/dining/epcot/takumi-tei-restaurant/",
+    "042-round6a-detail-tune-in-lounge-ee396e4af8.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/tune-in-lounge/",
+    "043-round6a-detail-test-track-cool-wash-3045863739.json": "https://disneyworld.disney.go.com/dining/epcot/test-track-cool-wash/",
+    "044-round6a-detail-terra-treats-5bb22e0c0a.json": "https://disneyworld.disney.go.com/dining/animal-kingdom/terra-treats/",
+    "045-round6a-detail-space-220-lounge-61e0cec4bb.json": "https://disneyworld.disney.go.com/dining/epcot/space-220-lounge/",
+    "046-round6a-detail-spice-road-table-bar-e3341a0e3f.json": "https://disneyworld.disney.go.com/dining/epcot/spice-road-table-bar/",
+    "047-round6a-detail-les-vins-des-chefs-de-france-1093637112.json": "https://disneyworld.disney.go.com/dining/epcot/les-vins-des-chefs-de-france/",
+    "048-round6a-detail-tutto-gusto-wine-cellar-343502e0ca.json": "https://disneyworld.disney.go.com/dining/epcot/tutto-gusto-wine-cellar/",
+    "049-round6a-detail-space-220-44a10df23d.json": "https://disneyworld.disney.go.com/dining/epcot/space-220/",
+    "050-round6a-detail-ice-cold-hydraulics-daafb0d0b8.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/ice-cold-hydraulics/",
+    "051-round6a-detail-warung-outpost-02406311ea.json": "https://disneyworld.disney.go.com/dining/animal-kingdom/warung-outpost/",
+    "052-round6a-detail-popcorn-at-canada-pavilion-43d604e580.json": "https://disneyworld.disney.go.com/dining/epcot/popcorn-at-canada-pavilion/",
+    "053-round6a-detail-caravan-road-91fcbf6780.json": "https://disneyworld.disney.go.com/dining/animal-kingdom/caravan-road/",
+    "054-round6a-detail-neighborhood-bakery-682f0a2165.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/neighborhood-bakery/",
+    "055-round6a-detail-drinkwallah-f85273ca50.json": "https://disneyworld.disney.go.com/dining/animal-kingdom/drinkwallah/",
+    "056-round6a-detail-baseline-tap-house-81b247b071.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/baseline-tap-house/",
+    "057-round6a-detail-geo-82-lounge-c635a77f9b.json": "https://disneyworld.disney.go.com/dining/epcot/geo-82-lounge/",
+    "058-round6a-detail-choza-de-margarita-b26f899ef2.json": "https://disneyworld.disney.go.com/dining/epcot/choza-de-margarita/",
+    "059-round6a-detail-food-by-swedish-chef-ce74e5b447.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/food-by-swedish-chef/",
+    "060-round6a-detail-rose-and-crown-pub-ad0cb670b2.json": "https://disneyworld.disney.go.com/dining/epcot/rose-and-crown-pub/",
+    "061-round6a-detail-mahindi-d79cc36c3b.json": "https://disneyworld.disney.go.com/dining/animal-kingdom/mahindi/",
+    "062-round6a-detail-market-0479b29ead.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/market/",
+    "063-round6a-detail-epic-eats-0920c0c9f1.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/epic-eats/",
+    "064-round6a-detail-quality-beverages-85f37acd9d.json": "https://disneyworld.disney.go.com/dining/animal-kingdom/quality-beverages/",
+    "065-round6a-detail-uk-beer-cart-94d723bc80.json": "https://disneyworld.disney.go.com/dining/epcot/uk-beer-cart/",
+    "066-round6a-detail-monsieur-paul-a863b6707f.json": "https://disneyworld.disney.go.com/dining/epcot/monsieur-paul/",
+    "067-round6a-detail-prince-eric-village-market-9c5a937c77.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/prince-eric-village-market/",
+    "068-round6a-detail-tomorrowland-terrace-restaurant-46ef1906ca.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/tomorrowland-terrace-restaurant/",
+    "069-round6a-detail-auntie-gravitys-galactic-goodies-45f88db435.json": "https://disneyworld.disney.go.com/dining/magic-kingdom/auntie-gravitys-galactic-goodies/",
+    "070-round6a-detail-oasis-sweets-sips-9e97aac92d.json": "https://disneyworld.disney.go.com/dining/epcot/oasis-sweets-sips/",
+    "071-round6a-detail-odyssey-2b9fbbcb59.json": "https://disneyworld.disney.go.com/dining/epcot/odyssey/",
+    "072-round6a-detail-hollywood-brown-derby-dd1b982df7.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-brown-derby/",
+    "073-round6a-detail-50s-prime-time-cafe-fc5cbbbb85.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/50s-prime-time-cafe/",
+    "074-round6a-detail-sci-fi-dine-in-theater-11873b16fd.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/sci-fi-dine-in-theater/",
+    "075-round6a-detail-mama-melroses-ristorante-italiano-bb4075ce3b.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/mama-melroses-ristorante-italiano/",
+    "076-round6a-detail-hollywood-and-vine-7c5e9d5803.json": "https://disneyworld.disney.go.com/dining/hollywood-studios/hollywood-and-vine/",
+    "077-round6a-menu-smiling-crocodile-f20121cd32.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=smiling-crocodile&language=en-us",
+    "078-round6a-menu-beak-barrel-7a045f5560.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=beak-barrel&language=en-us",
+    "079-round6a-menu-cava-del-tequila-38e3207a38.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=cava-del-tequila&language=en-us",
+    "080-round6a-menu-gelateria-toscana-5c1c5b3718.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=gelateria-toscana&language=en-us",
+    "081-round6a-menu-thirsty-river-bar-a62839d934.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=thirsty-river-bar&language=en-us",
+    "082-round6a-menu-ogas-cantina-297835498b.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=ogas-cantina&language=en-us",
+    "083-round6a-menu-sunshine-day-bar-0e89728f18.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=sunshine-day-bar&language=en-us",
+    "084-round6a-menu-block-hans-de88d9b391.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=block-hans&language=en-us",
+    "085-round6a-menu-dawa-bar-e45311c234.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=dawa-bar&language=en-us",
+    "086-round6a-menu-isle-of-java-e6ebab035c.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=isle-of-java&language=en-us",
+    "087-round6a-menu-astrofizz-afae3aa6e4.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=astrofizz&language=en-us",
+    "088-round6a-menu-trek-snacks-e28cd7a74f.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=trek-snacks&language=en-us",
+    "089-round6a-menu-takumi-tei-restaurant-12ce3d5bc9.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=takumi-tei-restaurant&language=en-us",
+    "090-round6a-menu-tune-in-lounge-d393969f0b.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=tune-in-lounge&language=en-us",
+    "091-round6a-menu-test-track-cool-wash-7d294e9ab6.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=test-track-cool-wash&language=en-us",
+    "092-round6a-menu-terra-treats-089bf143c5.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=terra-treats&language=en-us",
+    "093-round6a-menu-space-220-lounge-4ab90fd882.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=space-220-lounge&language=en-us",
+    "094-round6a-menu-spice-road-table-bar-f50768db11.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=spice-road-table-bar&language=en-us",
+    "095-round6a-menu-les-vins-des-chefs-de-france-87ea649688.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=les-vins-des-chefs-de-france&language=en-us",
+    "096-round6a-menu-tutto-gusto-wine-cellar-5dd0c7aed5.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=tutto-gusto-wine-cellar&language=en-us",
+    "097-round6a-menu-space-220-2cd4e823d5.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=space-220&language=en-us",
+    "098-round6a-menu-ice-cold-hydraulics-43ed08f163.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=ice-cold-hydraulics&language=en-us",
+    "099-round6a-menu-warung-outpost-22ec82cbf1.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=warung-outpost&language=en-us",
+    "100-round6a-menu-popcorn-at-canada-pavilion-155c9867b3.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=popcorn-at-canada-pavilion&language=en-us",
+    "101-round6a-menu-caravan-road-ba86b77a1a.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=caravan-road&language=en-us",
+    "102-round6a-menu-neighborhood-bakery-6862669c9c.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=neighborhood-bakery&language=en-us",
+    "103-round6a-menu-drinkwallah-38c6be20d7.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=drinkwallah&language=en-us",
+    "104-round6a-menu-baseline-tap-house-449332687f.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=baseline-tap-house&language=en-us",
+    "105-round6a-menu-geo-82-lounge-d0a413afcb.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=geo-82-lounge&language=en-us",
+    "106-round6a-menu-choza-de-margarita-ee7daa9c0b.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=choza-de-margarita&language=en-us",
+    "107-round6a-menu-food-by-swedish-chef-8613b5d6e3.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=food-by-swedish-chef&language=en-us",
+    "108-round6a-menu-rose-and-crown-pub-c144b5f147.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=rose-and-crown-pub&language=en-us",
+    "109-round6a-menu-mahindi-dd7cd71806.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=mahindi&language=en-us",
+    "110-round6a-menu-market-9a6c0ebf92.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=market&language=en-us",
+    "111-round6a-menu-epic-eats-58e497052a.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=epic-eats&language=en-us",
+    "112-round6a-menu-quality-beverages-5dc005546e.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=quality-beverages&language=en-us",
+    "113-round6a-menu-uk-beer-cart-9d4d01e987.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=uk-beer-cart&language=en-us",
+    "114-round6a-menu-monsieur-paul-57527839ae.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=monsieur-paul&language=en-us",
+    "115-round6a-menu-prince-eric-village-market-9d11f736e5.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=prince-eric-village-market&language=en-us",
+    "116-round6a-menu-auntie-gravitys-galactic-goodies-770ba4e10d.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=auntie-gravitys-galactic-goodies&language=en-us",
+    "117-round6a-menu-oasis-sweets-sips-12a6ad4caf.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=oasis-sweets-sips&language=en-us",
+    "118-round6a-menu-odyssey-c1fcb17714.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=odyssey&language=en-us",
+    "119-round6a-menu-hollywood-brown-derby-b73562fe43.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hollywood-brown-derby&language=en-us",
+    "120-round6a-menu-50s-prime-time-cafe-ef52eb8044.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=50s-prime-time-cafe&language=en-us",
+    "121-round6a-menu-sci-fi-dine-in-theater-f6a420d07b.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=sci-fi-dine-in-theater&language=en-us",
+    "122-round6a-menu-hollywood-and-vine-7f91b9b369.json": "https://disneyworld.disney.go.com/dining/dinemenu/api/menu?searchTerm=hollywood-and-vine&language=en-us"
   },
   "network_responses": [
     {
@@ -2654,5 +3734,129 @@
       "bytes": 58492,
       "fetchable": true
     }
-  ]
+  ],
+  "round6a_captured_at": "2026-08-03T00:00:00-05:00",
+  "round6a_files": [
+    "003-round6a-mk-full-74555e5e73.json",
+    "004-round6a-mk-ddp-accepted-a29c36f0fc.json",
+    "005-round6a-ep-full-d47fb84efc.json",
+    "006-round6a-ep-ddp-accepted-a910fa1c22.json",
+    "007-round6a-hs-full-d0f3ecd69b.json",
+    "008-round6a-hs-ddp-accepted-85aabe978a.json",
+    "009-round6a-ak-full-28d16f3575.json",
+    "010-round6a-ak-ddp-accepted-d1a081334c.json",
+    "011-round6a-detail-broadway-concert-series-dining-package-88068e18be.json",
+    "012-round6a-detail-rose-and-crown-fireworks-dinner-package-4aeec2e25e.json",
+    "013-round6a-detail-brown-derby-jazzy-holidays-f8755650e3.json",
+    "014-round6a-detail-fireworks-dessert-party-seats-5f7f94b065.json",
+    "015-round6a-detail-shiki-sai-fireworks-dinner-package-d31c007617.json",
+    "016-round6a-detail-geo-82-fireworks-experience-a50188bb21.json",
+    "017-round6a-detail-mickeys-very-merry-christmas-party-plaza-view-8d4cca6aae.json",
+    "018-round6a-detail-fireworks-holiday-dessert-party-d47c8a6cbd.json",
+    "019-round6a-detail-fireworks-dessert-pre-party-7fe79fdaff.json",
+    "020-round6a-detail-food-wine-concert-series-dining-package-9e1158589e.json",
+    "021-round6a-detail-chefs-de-france-parisian-breakfast-75a1cbd810.json",
+    "022-round6a-detail-cava-experience-a30f8c563f.json",
+    "023-round6a-detail-candlelight-dinner-packages-1a315b7b69.json",
+    "024-round6a-detail-spice-road-table-fireworks-dinner-package-9561b19e04.json",
+    "025-round6a-detail-disneys-not-so-spooky-spectacular-fireworks-dessert-party-tomorrowland-terr-5cbcc2c394.json",
+    "026-round6a-detail-fireworks-dessert-after-party-59d7696581.json",
+    "027-round6a-detail-disneys-not-so-spooky-spectacular-dessert-party-plaza-garden-0e7bf91d89.json",
+    "028-round6a-detail-smiling-crocodile-d2265012fa.json",
+    "029-round6a-detail-beak-barrel-eb8e6a9af7.json",
+    "030-round6a-detail-cava-del-tequila-4c277d048f.json",
+    "031-round6a-detail-gelateria-toscana-94a094d289.json",
+    "032-round6a-detail-thirsty-river-bar-2d53e44f1e.json",
+    "033-round6a-detail-ogas-cantina-0b280e80c3.json",
+    "034-round6a-detail-festival-favorites-8feea3102a.json",
+    "035-round6a-detail-sunshine-day-bar-022c8d780f.json",
+    "036-round6a-detail-block-hans-6e04149e0b.json",
+    "037-round6a-detail-dawa-bar-a48f4b7666.json",
+    "038-round6a-detail-isle-of-java-2040d756a5.json",
+    "039-round6a-detail-astrofizz-78d48903c4.json",
+    "040-round6a-detail-trek-snacks-9e1db4ea4b.json",
+    "041-round6a-detail-takumi-tei-restaurant-9ccd055a6a.json",
+    "042-round6a-detail-tune-in-lounge-ee396e4af8.json",
+    "043-round6a-detail-test-track-cool-wash-3045863739.json",
+    "044-round6a-detail-terra-treats-5bb22e0c0a.json",
+    "045-round6a-detail-space-220-lounge-61e0cec4bb.json",
+    "046-round6a-detail-spice-road-table-bar-e3341a0e3f.json",
+    "047-round6a-detail-les-vins-des-chefs-de-france-1093637112.json",
+    "048-round6a-detail-tutto-gusto-wine-cellar-343502e0ca.json",
+    "049-round6a-detail-space-220-44a10df23d.json",
+    "050-round6a-detail-ice-cold-hydraulics-daafb0d0b8.json",
+    "051-round6a-detail-warung-outpost-02406311ea.json",
+    "052-round6a-detail-popcorn-at-canada-pavilion-43d604e580.json",
+    "053-round6a-detail-caravan-road-91fcbf6780.json",
+    "054-round6a-detail-neighborhood-bakery-682f0a2165.json",
+    "055-round6a-detail-drinkwallah-f85273ca50.json",
+    "056-round6a-detail-baseline-tap-house-81b247b071.json",
+    "057-round6a-detail-geo-82-lounge-c635a77f9b.json",
+    "058-round6a-detail-choza-de-margarita-b26f899ef2.json",
+    "059-round6a-detail-food-by-swedish-chef-ce74e5b447.json",
+    "060-round6a-detail-rose-and-crown-pub-ad0cb670b2.json",
+    "061-round6a-detail-mahindi-d79cc36c3b.json",
+    "062-round6a-detail-market-0479b29ead.json",
+    "063-round6a-detail-epic-eats-0920c0c9f1.json",
+    "064-round6a-detail-quality-beverages-85f37acd9d.json",
+    "065-round6a-detail-uk-beer-cart-94d723bc80.json",
+    "066-round6a-detail-monsieur-paul-a863b6707f.json",
+    "067-round6a-detail-prince-eric-village-market-9c5a937c77.json",
+    "068-round6a-detail-tomorrowland-terrace-restaurant-46ef1906ca.json",
+    "069-round6a-detail-auntie-gravitys-galactic-goodies-45f88db435.json",
+    "070-round6a-detail-oasis-sweets-sips-9e97aac92d.json",
+    "071-round6a-detail-odyssey-2b9fbbcb59.json",
+    "072-round6a-detail-hollywood-brown-derby-dd1b982df7.json",
+    "073-round6a-detail-50s-prime-time-cafe-fc5cbbbb85.json",
+    "074-round6a-detail-sci-fi-dine-in-theater-11873b16fd.json",
+    "075-round6a-detail-mama-melroses-ristorante-italiano-bb4075ce3b.json",
+    "076-round6a-detail-hollywood-and-vine-7c5e9d5803.json",
+    "077-round6a-menu-smiling-crocodile-f20121cd32.json",
+    "078-round6a-menu-beak-barrel-7a045f5560.json",
+    "079-round6a-menu-cava-del-tequila-38e3207a38.json",
+    "080-round6a-menu-gelateria-toscana-5c1c5b3718.json",
+    "081-round6a-menu-thirsty-river-bar-a62839d934.json",
+    "082-round6a-menu-ogas-cantina-297835498b.json",
+    "083-round6a-menu-sunshine-day-bar-0e89728f18.json",
+    "084-round6a-menu-block-hans-de88d9b391.json",
+    "085-round6a-menu-dawa-bar-e45311c234.json",
+    "086-round6a-menu-isle-of-java-e6ebab035c.json",
+    "087-round6a-menu-astrofizz-afae3aa6e4.json",
+    "088-round6a-menu-trek-snacks-e28cd7a74f.json",
+    "089-round6a-menu-takumi-tei-restaurant-12ce3d5bc9.json",
+    "090-round6a-menu-tune-in-lounge-d393969f0b.json",
+    "091-round6a-menu-test-track-cool-wash-7d294e9ab6.json",
+    "092-round6a-menu-terra-treats-089bf143c5.json",
+    "093-round6a-menu-space-220-lounge-4ab90fd882.json",
+    "094-round6a-menu-spice-road-table-bar-f50768db11.json",
+    "095-round6a-menu-les-vins-des-chefs-de-france-87ea649688.json",
+    "096-round6a-menu-tutto-gusto-wine-cellar-5dd0c7aed5.json",
+    "097-round6a-menu-space-220-2cd4e823d5.json",
+    "098-round6a-menu-ice-cold-hydraulics-43ed08f163.json",
+    "099-round6a-menu-warung-outpost-22ec82cbf1.json",
+    "100-round6a-menu-popcorn-at-canada-pavilion-155c9867b3.json",
+    "101-round6a-menu-caravan-road-ba86b77a1a.json",
+    "102-round6a-menu-neighborhood-bakery-6862669c9c.json",
+    "103-round6a-menu-drinkwallah-38c6be20d7.json",
+    "104-round6a-menu-baseline-tap-house-449332687f.json",
+    "105-round6a-menu-geo-82-lounge-d0a413afcb.json",
+    "106-round6a-menu-choza-de-margarita-ee7daa9c0b.json",
+    "107-round6a-menu-food-by-swedish-chef-8613b5d6e3.json",
+    "108-round6a-menu-rose-and-crown-pub-c144b5f147.json",
+    "109-round6a-menu-mahindi-dd7cd71806.json",
+    "110-round6a-menu-market-9a6c0ebf92.json",
+    "111-round6a-menu-epic-eats-58e497052a.json",
+    "112-round6a-menu-quality-beverages-5dc005546e.json",
+    "113-round6a-menu-uk-beer-cart-9d4d01e987.json",
+    "114-round6a-menu-monsieur-paul-57527839ae.json",
+    "115-round6a-menu-prince-eric-village-market-9d11f736e5.json",
+    "116-round6a-menu-auntie-gravitys-galactic-goodies-770ba4e10d.json",
+    "117-round6a-menu-oasis-sweets-sips-12a6ad4caf.json",
+    "118-round6a-menu-odyssey-c1fcb17714.json",
+    "119-round6a-menu-hollywood-brown-derby-b73562fe43.json",
+    "120-round6a-menu-50s-prime-time-cafe-ef52eb8044.json",
+    "121-round6a-menu-sci-fi-dine-in-theater-f6a420d07b.json",
+    "122-round6a-menu-hollywood-and-vine-7f91b9b369.json"
+  ],
+  "round6a_raw_bytes": 2553127
 }

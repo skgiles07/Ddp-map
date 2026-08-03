@@ -1,0 +1,323 @@
+{
+  "name": "Les Vins des Chefs de France",
+  "location": "EPCOT, World Showcase",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "experience": "Bar/Lounge",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Regular Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Merlot",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Red"
+            },
+            {
+              "title": "Cabernet",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Red"
+            },
+            {
+              "title": "Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 8.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White"
+            }
+          ]
+        },
+        {
+          "name": "Regional Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Beaujolais Duboeuf",
+              "prices": [
+                {
+                  "withoutTax": 11.55,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Red"
+            },
+            {
+              "title": "Vouvray Sauvion",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White, Sweet"
+            },
+            {
+              "title": "Rosé Côtes de Provence",
+              "prices": [
+                {
+                  "withoutTax": 15.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Rosé"
+            }
+          ]
+        },
+        {
+          "name": "Premium Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Côtes du Rhône J.L. Colombo",
+              "prices": [
+                {
+                  "withoutTax": 12.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Red"
+            },
+            {
+              "title": "Bordeaux Chateau La Graviere ",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Red"
+            },
+            {
+              "title": "Pouilly-Fuissé",
+              "prices": [
+                {
+                  "withoutTax": 21.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "White, Medium Dry"
+            }
+          ]
+        },
+        {
+          "name": "Slushes",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Orange",
+              "prices": [
+                {
+                  "withoutTax": 14.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grand Marnier, Rum, Grey Goose Orange and Orange Juice"
+            },
+            {
+              "title": "Citron",
+              "prices": [
+                {
+                  "withoutTax": 14.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grey Goose Citron, Vodka and Lemonade"
+            },
+            {
+              "title": "Le Geant Slush",
+              "prices": [
+                {
+                  "withoutTax": 21.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with a Grand Marnier or Grey Goose Citron Shot"
+            }
+          ]
+        },
+        {
+          "name": "Champagne and Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Champagne Malard",
+              "prices": [
+                {
+                  "withoutTax": 21.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Excellence, Brut"
+            },
+            {
+              "title": "Kir Royal",
+              "prices": [
+                {
+                  "withoutTax": 22.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Champagne and Blackcurrant Liquor"
+            },
+            {
+              "title": "Kronenbourg 1664",
+              "prices": [
+                {
+                  "withoutTax": 9.95,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "French Beer"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Regular Wine",
+        "desktop": "Regular Wine"
+      },
+      {
+        "mobile": "Regional Wine",
+        "desktop": "Regional Wine"
+      },
+      {
+        "mobile": "Premium Wine",
+        "desktop": "Premium Wine"
+      },
+      {
+        "mobile": "Slushes",
+        "desktop": "Slushes"
+      },
+      {
+        "mobile": "Champagne and Beer",
+        "desktop": "Champagne and Beer"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Les Vins des Chefs de France",
+      "id": "90002394"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "17354748"
+        },
+        {
+          "productId": "17355530"
+        },
+        {
+          "productId": "17355532"
+        },
+        {
+          "productId": "17355543"
+        },
+        {
+          "productId": "17355544"
+        },
+        {
+          "productId": "17355547"
+        },
+        {
+          "productId": "17355548"
+        },
+        {
+          "productId": "17355550"
+        },
+        {
+          "productId": "17355551"
+        },
+        {
+          "productId": "17355560"
+        },
+        {
+          "productId": "17355562"
+        },
+        {
+          "productId": "18145898"
+        },
+        {
+          "productId": "17355552"
+        },
+        {
+          "productId": "17355553"
+        },
+        {
+          "productId": "17355554"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "name": "Astrofizz",
+  "location": "Magic Kingdom Park, Tomorrowland",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Snack",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Featured Offering",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cherry Cola Churro",
+              "prices": [
+                {
+                  "withoutTax": 7.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Churro rolled in Cherry Sugar, drizzled with Coca-Cola® Cherry Icing, and topped with Cherry Popping Candies"
+            }
+          ]
+        },
+        {
+          "name": "Snacks",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Popcorn in a refillable Souvenir Bucket   ",
+              "prices": [
+                {
+                  "withoutTax": 14.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Additional refills are available for purchase at the Register"
+            },
+            {
+              "title": "Popcorn            ",
+              "prices": [
+                {
+                  "withoutTax": 5.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cotton Candy                      ",
+              "prices": [
+                {
+                  "withoutTax": 5.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverages",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola®, Diet Coke®, Sprite®, Coca-Cola® Zero Sugar, Fanta® Orange, POWERADE® Blue Mountain Blast, Minute Maid® Zero Sugar Lemonade"
+            },
+            {
+              "title": "DASANI® Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater®                                 ",
+              "prices": [
+                {
+                  "withoutTax": 6.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Frozen Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Frozen Coca-Cola® Slushy",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frozen Fanta® Blue Raspberry Slushy",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frozen Fanta® Orange Slushy",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frozen Fanta® Wild Cherry Slushy",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Ice Cream Novelties",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mickey’s Premium Ice Cream Bar                                    ",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mickey’s Premium Ice Cream Sandwich      ",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Frozen Lemonade Cup",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Outshine® Strawberry Fruit Bar",
+              "prices": [
+                {
+                  "withoutTax": 5.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Featured Offering",
+        "desktop": "Featured Offering"
+      },
+      {
+        "mobile": "Snacks",
+        "desktop": "Snacks"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Frozen Beverages",
+        "desktop": "Frozen Beverages"
+      },
+      {
+        "mobile": "Ice Cream Novelties",
+        "desktop": "Ice Cream Novelties"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Astrofizz",
+      "id": "90002468"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "412493478"
+        },
+        {
+          "productId": "412493479"
+        },
+        {
+          "productId": "411858785"
+        },
+        {
+          "productId": "411858787"
+        },
+        {
+          "productId": "16992572"
+        },
+        {
+          "productId": "411456819"
+        },
+        {
+          "productId": "411858788"
+        },
+        {
+          "productId": "412493480"
+        },
+        {
+          "productId": "412647542"
+        },
+        {
+          "productId": "412647552"
+        },
+        {
+          "productId": "412647562"
+        },
+        {
+          "productId": "411784940"
+        },
+        {
+          "productId": "411784941"
+        },
+        {
+          "productId": "412493481"
+        },
+        {
+          "productId": "411784943"
+        }
+      ]
+    }
+  }
+}

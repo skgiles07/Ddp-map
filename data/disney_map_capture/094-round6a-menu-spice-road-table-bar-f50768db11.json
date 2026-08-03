@@ -1,0 +1,452 @@
+{
+  "name": "Spice Road Table Bar",
+  "location": "EPCOT, World Showcase",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "experience": "Bar/Lounge",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Beer & Cider",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mediterranean Beer",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Range Min",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12.5,
+                  "type": "Range Max",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": true,
+              "description": ""
+            },
+            {
+              "title": "Moroccan Blonde Ale",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Wine and Sangria",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Paul Cheneau 'Lady of Spain' Cava Brut, Spain",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mas Fi Cava Brut, Spain",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Domaine Sigalas Assyrtiko, Santorini",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Burgáns Albariño, Spain",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bodegas Juan Gil 'Silver Label' Monastrell",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bodegas Nekeas 'Vega Sindoa' Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bodegas Marqués de Cáceres Excellens Rosé, Spain",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "CVNE ‘Cune’ Rioja Crianza, Spain",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "House-made Sangria",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Red, White, Rosé, or Sparkling"
+            }
+          ]
+        },
+        {
+          "name": "Specialty Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pomegranate Mimosa",
+              "prices": [
+                {
+                  "withoutTax": 15.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hibiscus Mimosa",
+              "prices": [
+                {
+                  "withoutTax": 15.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blood Orange Mimosa",
+              "prices": [
+                {
+                  "withoutTax": 15.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Moroccan Mule",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Figenza Fig Vodka, Ginger Beer, Agave, and Lime"
+            },
+            {
+              "title": "Medina Mixer",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "STARR African Rum, Orange Liqueur, and Cranberry Juice"
+            },
+            {
+              "title": "Sahara Spritz",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ketel One Botanical Cucumber & Mint Vodka, Soda Water, and Lime"
+            },
+            {
+              "title": "Pomegranate Açaí",
+              "prices": [
+                {
+                  "withoutTax": 15.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "vitaminwater® açai blueberry pomegranate, Bacardí Dragonberry Rum, Lime Juice, Agave, and Soda Water"
+            },
+            {
+              "title": "Iced Mint Tea",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Bombay Sapphire Gin"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Moroccan Hot Tea Service",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Iced Mint Tea",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Premium Sparkling Water",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "smartwater®",
+              "prices": [
+                {
+                  "withoutTax": 6.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Fountain Beverages",
+              "prices": [
+                {
+                  "withoutTax": 4.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coca-Cola®, Diet Coke®, Sprite®, Minute Maid® Zero Sugar Lemonade"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Beer & Cider",
+        "desktop": "Beer & Cider"
+      },
+      {
+        "mobile": "Wine and Sangria",
+        "desktop": "Wine and Sangria"
+      },
+      {
+        "mobile": "Specialty Beverages",
+        "desktop": "Specialty Beverages"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Spice Road Table Bar",
+      "id": "412012969"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "411621612"
+        },
+        {
+          "productId": "17721173"
+        },
+        {
+          "productId": "412616817"
+        },
+        {
+          "productId": "412616820"
+        },
+        {
+          "productId": "412616818"
+        },
+        {
+          "productId": "412616821"
+        },
+        {
+          "productId": "412610759"
+        },
+        {
+          "productId": "412610760"
+        },
+        {
+          "productId": "412616822"
+        },
+        {
+          "productId": "412616819"
+        },
+        {
+          "productId": "412616823"
+        },
+        {
+          "productId": "19610359"
+        },
+        {
+          "productId": "19610388"
+        },
+        {
+          "productId": "19610389"
+        },
+        {
+          "productId": "19610391"
+        },
+        {
+          "productId": "19610392"
+        },
+        {
+          "productId": "19610393"
+        },
+        {
+          "productId": "411507835"
+        },
+        {
+          "productId": "19610394"
+        },
+        {
+          "productId": "19610395"
+        },
+        {
+          "productId": "19610401"
+        },
+        {
+          "productId": "19610414"
+        },
+        {
+          "productId": "19610411"
+        },
+        {
+          "productId": "19610404"
+        }
+      ]
+    }
+  }
+}

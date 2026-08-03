@@ -1,0 +1,196 @@
+{
+  "name": "Block & Hans",
+  "location": "EPCOT, World Showcase",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "experience": "Bar/Lounge",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Snacks",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pretzel Nuggets",
+              "prices": [
+                {
+                  "withoutTax": 8.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with House-made Beer-Cheese Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "DASANI® Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kentucky Bourbon Barrel Ale - Lexington, KY",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sierra Nevada Hazy Little Thing IPA - Chico, CA",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Orange Blossom Brewing Orange Blossom Pilsner - Orlando, FL",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Golden Road Brewing Mango Cart Wheat Ale- - Los Angeles, CA",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Ciderboys Strawberry Magic Hard Cider - Steven's Point, WI",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Owl's Brew Black Tea & Pineapple Hard Tea - New York, NY",
+              "prices": [
+                {
+                  "withoutTax": 13.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Snacks",
+        "desktop": "Snacks"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Alcoholic Beverages",
+        "desktop": "Alcoholic Beverages"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Block & Hans",
+      "id": "17561004"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "412387005"
+        },
+        {
+          "productId": "17561022"
+        },
+        {
+          "productId": "18502343"
+        },
+        {
+          "productId": "412610748"
+        },
+        {
+          "productId": "19510137"
+        },
+        {
+          "productId": "19510153"
+        },
+        {
+          "productId": "19510154"
+        },
+        {
+          "productId": "412610730"
+        }
+      ]
+    }
+  }
+}

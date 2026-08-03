@@ -1,0 +1,260 @@
+{
+  "name": "Terra Treats",
+  "location": "Disney's Animal Kingdom Theme Park, Discovery Island",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Snack",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Snacks",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Hand-scooped Strawberry Ice Cream Cup",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hand-scooped Vanilla Ice Cream Cup",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hand-scooped Chocolate Ice Cream Cup",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hand-scooped Cookies 'n Cream Ice Cream Cup",
+              "prices": [
+                {
+                  "withoutTax": 7.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hand-scooped Vanilla Ice Cream Waffle Cone",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hand-scooped Strawberry Ice Cream Waffle Cone",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hand-scooped Chocolate Ice Cream Waffle Cone",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hand-scooped Cookies 'n Cream Ice Cream Waffle Cone",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cookie Dough Brownie Ice Cream Sandwich",
+              "prices": [
+                {
+                  "withoutTax": 8.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Brownie layered with Vanilla Ice Cream topped with Chocolate Chips and Edible Cookie Dough"
+            },
+            {
+              "title": "Carrot Cake Sundae",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Vanilla Ice Cream, Caramel Sauce, Roasted Pecans, and Carrot Cake Crumbs in a Waffle Bowl topped with a Birthday Cake-flavored Shell and Chocolate Carrot Top"
+            },
+            {
+              "title": "Float",
+              "prices": [
+                {
+                  "withoutTax": 6.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Served with your choice of Coca-Cola® Fountain Beverage"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Coca-Cola® Fountain Beverages",
+              "prices": [
+                {
+                  "withoutTax": 4.79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI® Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Snacks",
+        "desktop": "Snacks"
+      },
+      {
+        "mobile": "Non-Alcoholic Beverages",
+        "desktop": "Non-Alcoholic Beverages"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Terra Treats",
+      "id": "90002642"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "412565192"
+        },
+        {
+          "productId": "412565193"
+        },
+        {
+          "productId": "412565196"
+        },
+        {
+          "productId": "412565198"
+        },
+        {
+          "productId": "412565211"
+        },
+        {
+          "productId": "412565200"
+        },
+        {
+          "productId": "412565214"
+        },
+        {
+          "productId": "412565215"
+        },
+        {
+          "productId": "412565222"
+        },
+        {
+          "productId": "412565223"
+        },
+        {
+          "productId": "412565224"
+        },
+        {
+          "productId": "16992668"
+        },
+        {
+          "productId": "16992670"
+        }
+      ]
+    }
+  }
+}

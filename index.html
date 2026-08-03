@@ -8,7 +8,7 @@
 <title>DDP Credit Map</title>
 <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
 <style>
-  :root { --blue:#1d70b8; --green:#2e8540; --purple:#7b3fa0; --amber:#a15c00; --red:#b3261e; --ink:#1b1b1b; --muted:#666; }
+  :root { --blue:#1d70b8; --green:#2e8540; --purple:#7b3fa0; --yellow:#e6b400; --amber:#a15c00; --grey:#68737d; --red:#b3261e; --ink:#1b1b1b; --muted:#666; }
   * { box-sizing: border-box; margin: 0; }
   body { font: 15px/1.4 -apple-system, system-ui, sans-serif; color: var(--ink); height: 100dvh; display: flex; flex-direction: column; overscroll-behavior: none; }
   header { padding: 8px 10px 0; }
@@ -18,6 +18,8 @@
   #controls { display: flex; gap: 6px; align-items: center; padding: 0 0 6px; overflow-x: auto; }
   .chip { flex: 0 0 auto; border: 1px solid #ccc; background: #fff; border-radius: 14px; padding: 4px 10px; font-size: 13px; color: var(--muted); }
   .chip.active { background: #eef4fb; border-color: var(--blue); color: var(--blue); }
+  .chip[data-key="ts"].active { background: #fff9d8; border-color: var(--yellow); color: #705800; }
+  .chip[data-key="noDdp"].active { background: #f1f3f4; border-color: var(--grey); color: #46515b; }
   #view-toggle, #locate { margin-left: auto; flex: 0 0 auto; border: 1px solid #ccc; background: #fff; border-radius: 8px; padding: 4px 10px; font-size: 13px; }
   #locate { margin-left: 0; }
   #snack-banner { background: #fff8e1; border-top: 1px solid #eee0a0; border-bottom: 1px solid #eee0a0; padding: 6px 10px; font-size: 13px; display: flex; gap: 8px; align-items: center; }
@@ -37,6 +39,10 @@
   .pin-snack { --pin-color:var(--green); }
   .pin-kids { --pin-color:var(--purple); }
   .pin-table { --pin-color:var(--amber); }
+  .pin-ts { --pin-color:var(--yellow); color:#705800; }
+  .pin-noddp { --pin-color:var(--grey); opacity:.7; }
+  .pin-snack-unconfirmed { --pin-color:var(--green); border-style:dashed; box-shadow:0 2px 5px rgba(28,38,45,.2); }
+  .pin-snack-unconfirmed .pin-glyph { font-size:11px; }
   .pin-glyph { position: relative; z-index: 2; font-size: 13px; font-weight: 800; line-height: 1; }
   .pin-tail { position: absolute; z-index: 1; left: 50%; bottom: -6px; width: 11px; height: 11px; background: #fff; border-right: 3px solid var(--pin-color); border-bottom: 3px solid var(--pin-color); transform: translateX(-50%) rotate(45deg); }
   .disney-pin.is-selected { transform: scale(1.22); }
@@ -82,10 +88,26 @@
   .menu-scroll { overflow-y: auto; margin: 6px 0; }
   .menu-scroll h4 { font-size: 13px; margin: 8px 0 2px; color: var(--muted); text-transform: uppercase; letter-spacing: .03em; }
   .menu-row { border-left: 4px solid var(--credit-color); padding: 4px 0 4px 8px; margin: 3px 0; }
+  .menu-row.eligibility-not-ddp { opacity:.58; filter:grayscale(.35); }
   .credit-qs { --credit-color: var(--blue); }
   .credit-snack { --credit-color: var(--green); }
   .credit-kids { --credit-color: var(--purple); }
-  .menu-item { margin: 0; font-size: 14px; }
+  .venue-credit-ts { --credit-color: var(--yellow); }
+  .venue-credit-no-ddp { --credit-color: var(--grey); }
+  .venue-credit-snack-unconfirmed { --credit-color: var(--green); }
+  .menu-item { margin: 0; font-size: 14px; display:flex; align-items:baseline; gap:5px; }
+  .eligibility-tag { margin-left:auto; flex:0 0 auto; border:1px solid currentColor; border-radius:9px; padding:1px 6px; font-size:10px; font-weight:700; line-height:1.35; white-space:nowrap; }
+  .eligibility-noddp { color:var(--grey); background:#f1f3f4; }
+  .eligibility-2-credit { color:var(--amber); background:#fff8e1; }
+  .eligibility-unconfirmed { color:var(--green); background:#fff; border-style:dashed; }
+  .venue-class-note { margin:3px 0 4px; color:var(--muted); font-size:12px; }
+  .venue-class-note.class-ts { color:#705800; }
+  .venue-class-note.class-no-ddp { color:var(--grey); }
+  .venue-class-note.class-snack-unconfirmed { color:var(--green); }
+  .venue-tag { display:block; width:max-content; max-width:100%; margin-top:3px; border:1px solid #bbb; border-radius:9px; padding:1px 6px; color:var(--muted); font-size:10px; font-weight:650; line-height:1.35; }
+  .tag-ts { border-color:var(--yellow); color:#705800; background:#fff9d8; }
+  .tag-no-ddp { border-color:var(--grey); color:var(--grey); background:#f1f3f4; }
+  .tag-snack-unconfirmed { border-color:var(--green); border-style:dashed; color:var(--green); background:#fff; }
   .value-arrow { margin-left: 5px; font-weight: 800; }
   .arrow-up { color: var(--green); }
   .arrow-flat { color: var(--amber); }

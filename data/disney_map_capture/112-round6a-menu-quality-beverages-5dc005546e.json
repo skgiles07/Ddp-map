@@ -1,0 +1,454 @@
+{
+  "name": "Yak & Yeti™ Quality Beverages",
+  "location": "Disney's Animal Kingdom Theme Park, Asia",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "experience": "Bar/Lounge",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Specialty Drinks",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Yak Attack",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mango Daiquiri, Don Q Cristal Rum and Wildberry flavors"
+            },
+            {
+              "title": "Frozen Emperor Margarita",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "made with Sauza Gold Tequila and also available in Strawberry, Mango or Wildberry"
+            },
+            {
+              "title": "J Pop Tokyo Sparkling Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Choice of White Peach or Lychee"
+            }
+          ]
+        },
+        {
+          "name": "Draft Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Safari Amber",
+              "prices": [
+                {
+                  "withoutTax": 12.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sailfish Sunrise City IPA",
+              "prices": [
+                {
+                  "withoutTax": 12.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kirin Ichiban",
+              "prices": [
+                {
+                  "withoutTax": 12.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bud Light Lager",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Specialty Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Local Seasonal",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Range Min",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12.25,
+                  "type": "Range Max",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": true,
+              "description": ""
+            },
+            {
+              "title": "Singha, The Original Thai Beer",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sangria",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Opici Family Sangria",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Grab & Go",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Teriyaki Chicken Salad",
+              "prices": [
+                {
+                  "withoutTax": 14.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mixed Greens, Grilled Teriyaki Chicken, Wonton Crisps, and Asian Dressing"
+            },
+            {
+              "title": "Chicken Fried Rice",
+              "prices": [
+                {
+                  "withoutTax": 7.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Side Pork Egg Roll (2 Rolls)",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Assorted Chips",
+              "prices": [
+                {
+                  "withoutTax": 2.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Mini Mango Pie",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cookies & Cream Parfait",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Banana Pudding Parfait",
+              "prices": [
+                {
+                  "withoutTax": 8.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Frozen Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Minute Maid® Lemonade Frozen Beverage",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served in a Souvenir Panda Cup"
+            },
+            {
+              "title": "Strawberry Frozen Beverage",
+              "prices": [
+                {
+                  "withoutTax": 13.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "served in a Souvenir Panda Cup"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Fountain Beverages",
+              "prices": [
+                {
+                  "withoutTax": 5.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI® Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid® Apple Juice",
+              "prices": [
+                {
+                  "withoutTax": 4.59,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Specialty Drinks",
+        "desktop": "Specialty Drinks"
+      },
+      {
+        "mobile": "Draft Beer",
+        "desktop": "Draft Beer"
+      },
+      {
+        "mobile": "Specialty Beer",
+        "desktop": "Specialty Beer"
+      },
+      {
+        "mobile": "Sangria",
+        "desktop": "Sangria"
+      },
+      {
+        "mobile": "Grab & Go",
+        "desktop": "Grab & Go"
+      },
+      {
+        "mobile": "Frozen Beverages",
+        "desktop": "Frozen Beverages"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Yak & Yeti™ Quality Beverages",
+      "id": "247503"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "16992821"
+        },
+        {
+          "productId": "16992811"
+        },
+        {
+          "productId": "412168837"
+        },
+        {
+          "productId": "16992823"
+        },
+        {
+          "productId": "411752647"
+        },
+        {
+          "productId": "16992819"
+        },
+        {
+          "productId": "16992815"
+        },
+        {
+          "productId": "411752648"
+        },
+        {
+          "productId": "412506870"
+        },
+        {
+          "productId": "411752655"
+        },
+        {
+          "productId": "411752658"
+        },
+        {
+          "productId": "411752659"
+        },
+        {
+          "productId": "18452151"
+        },
+        {
+          "productId": "16992786"
+        },
+        {
+          "productId": "19163273"
+        },
+        {
+          "productId": "19163274"
+        },
+        {
+          "productId": "412168838"
+        },
+        {
+          "productId": "18032249"
+        },
+        {
+          "productId": "18032250"
+        },
+        {
+          "productId": "16992791"
+        },
+        {
+          "productId": "16992793"
+        },
+        {
+          "productId": "16992795"
+        }
+      ]
+    }
+  }
+}

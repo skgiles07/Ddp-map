@@ -1,0 +1,2696 @@
+{
+  "name": "Space 220 Restaurant",
+  "location": "EPCOT, World Discovery",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "isActive": true
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Lunch",
+      "label": "Lunch",
+      "experience": "Casual Dining",
+      "serviceStyle": "Prix Fixe Menu",
+      "groups": [
+        {
+          "name": "Space 220 Adult Pricing",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Adult Lunch Pricing",
+              "prices": [
+                {
+                  "withoutTax": 55,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Select one of each: Star Course (Entrée) + Supernova Sweets (Desserts)"
+            }
+          ]
+        },
+        {
+          "name": "Lift-Offs",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Starry Calamari",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Fried Calamari, Italian Cherry Peppers, Spicy Marinara, Roasted Pepper Citrus Aioli"
+            },
+            {
+              "title": "Blue Moon Cauliflower",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Tempura Fried Cauliflower, Housemade Hot Sauce, Blue Cheese Dust"
+            },
+            {
+              "title": "Centauri Caesar Salad",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Romaine Lettuce, Classic Caesar dressing, Parmigiano-Reggiano, Toasted Garlic Crouton"
+            },
+            {
+              "title": "Phantom Galaxy Beets",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Petite Rosette Lettuce, Herb Pesto, Hazelnuts, Caramelized Goat Cheese"
+            },
+            {
+              "title": "Big Bang Bocconcini ",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mozzarella, Watermelon, Heirloom Tomatoes, Avocado, Basil Cream"
+            },
+            {
+              "title": "Apollo 16 Shrimp Tacos*",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Marinated Shrimp, Tomato, Shallots, Crispy Wonton Shell"
+            }
+          ]
+        },
+        {
+          "name": "Star Course",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pole Star Tuna Poke*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Ahi Tuna, Rice, Pineapple, Pickled Cucumber, Radish, Edamame, Wasabi Crunch"
+            },
+            {
+              "title": "Century Steak Caesar",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Centauri Caesar Salad with Blackened Sliced Beef Tenderloin"
+            },
+            {
+              "title": "Galactic Miso Salmon*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Miso-Glazed Salmon, Sautéed Bok Choy, Salmon Caviar, Crispy Lotus Roots, Yuzu Beurre Blanc"
+            },
+            {
+              "title": "Mangala Roasted Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Indian-inspired 24-hour Marinated Chicken, Red Pepper, Carrot, Tomato, Coconut Basmati Rice"
+            },
+            {
+              "title": "Interstellar Steak & Frites*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "New York Strip Steak, Thin-cut Fries, choice of chimichurri or peppercorn sauce | Substitute Filet Mignon +9 | Add Jumbo Shrimp +15"
+            },
+            {
+              "title": "Space Pad Thai",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Rice Noodles, Stir-Fried Vegetables, Edamame, Bean Sprouts, Sesame Seeds, Cilantro, Chili-Garlic Crunch, Sweet Soy Chili Sauce. Choice of Crispy Tofu, Chicken, or Shrimp"
+            },
+            {
+              "title": "Gemini Burger*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Signature Beef Blend, White Cheddar Cheese, Bacon, Shredded Lettuce, Tomatoes, Roasted Pepper Citrus Aioli, French Fries"
+            }
+          ]
+        },
+        {
+          "name": "Satellite Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Roasted Fingerling Potatoes",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Truffled Herb Parmesan Thin-Cut Fries",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Roasted Carrots",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chili-Garlic Broccolini",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caramelized Brussels Sprouts with Balsamic and Parmesan",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Super Nova Sweets",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Lunar Carrot Cake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Carrot Cake, Cream Cheese, Candied Pistachios"
+            },
+            {
+              "title": "Stellar S’mores",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Graham Cracker Cookie, Toasted Meringue, Chocolate Cremieux, Fudge Sauce"
+            },
+            {
+              "title": "Cosmic Cheesecake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate Cheesecake, Chocolate Crumbs, Raspberry Gel, Chocolate Dome"
+            },
+            {
+              "title": "Apple Cosmo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Apple Cake, Vanilla Sauce, Warm Caramel, Vanilla Gelato, Apple Crisp"
+            },
+            {
+              "title": "Strawberry Saturn",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Mousse, Strawberry Compote, Strawberry Crumbs"
+            },
+            {
+              "title": "Gelato",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate or Birthday Cake"
+            },
+            {
+              "title": "Sorbet",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mango or Strawberry"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Space 220 Pricing",
+          "type": "Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Children's Lunch Pricing",
+              "prices": [
+                {
+                  "withoutTax": 29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Select one of each: Star Course (Entrée) + Supernova Sweets (Dessert) + Celestial Beverages (Drink)"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Star Course",
+          "type": "Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spaceghetti",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Meatball and Tomato Sauce"
+            },
+            {
+              "title": "Galactic Salmon*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mashed Potatoes and Broccolini"
+            },
+            {
+              "title": "Cosmic Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fried Chicken Tenders, Space Fries, Ketchup"
+            },
+            {
+              "title": "Smashed Burger*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Burger, American Cheese, Space Fries"
+            },
+            {
+              "title": "Mission Macaroni",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Elbow Macaroni, American-Cheddar Cream Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Super Nova Sweets",
+          "type": "Dessert|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Space Junk Cookie ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Confetti Cookie Bar, Cereal Milk Ganache, Chocolate Stars"
+            },
+            {
+              "title": "The Milky Meltaway",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Caramel, Hot Chocolate, Vanilla Gelato, Chocolate Dome"
+            },
+            {
+              "title": "Gelato Scoop",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate or Vanilla"
+            },
+            {
+              "title": "Sorbet Scoop",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Strawberry or Mango"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Celestial Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Soda",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a special Space 220 collectible cup for $5. Add a Callisto glow cube for $5. Add both a collectible cup and glow cube for $8."
+            },
+            {
+              "title": "Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a special Space 220 collectible cup for $5. Add a Callisto glow cube for $5. Add both a collectible cup and glow cube for $8."
+            },
+            {
+              "title": "Apple Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a special Space 220 collectible cup for $5. Add a Callisto glow cube for $5. Add both a collectible cup and glow cube for $8."
+            },
+            {
+              "title": "Bottled Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a special Space 220 collectible cup for $5. Add a Callisto glow cube for $5. Add both a collectible cup and glow cube for $8."
+            }
+          ]
+        },
+        {
+          "name": "Kids' Zero-Proof Sippers",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Moon Rocks",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemonade, Blue Cotton Candy Syrup, Coconut, served in a special Space 220 collectible cup with collectible cards"
+            },
+            {
+              "title": "Starship Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry, Watermelon, Lemonade, Glow Cube, served in a special Space 220 collectible cup with collectible cards"
+            }
+          ]
+        },
+        {
+          "name": "Dessert Drinks",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Up All Night",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Absolute Vanilla, Chilled Espresso, Kahlúa, Crème de Cacao"
+            },
+            {
+              "title": "Coffee",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Espresso",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Latte",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Atmospheric Spirits",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Galaxy Spritz",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lagoon Bay Aperitif, Lychee Liqueur, Lemon Juice, Prosecco"
+            },
+            {
+              "title": "Black Hole Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Buffalo Trace bourbon, Demerara, Whiskey-Barrel-Aged Bitters"
+            },
+            {
+              "title": "Illumination",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi rum, Malibu rum, Passion Fruit, Blood Orange, Pineapple, Lime Sour, Passion Fruit Boba"
+            },
+            {
+              "title": "M4RG4R1TA",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blanco Tequila, Watermelon Lime, Organic Agave, Salted Lime Foam"
+            },
+            {
+              "title": "Ligo-rita",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chrome Horse Blanco Tequila, Grand Marnier, Lime, Agave (clarified)"
+            },
+            {
+              "title": "Command Center",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Conniption Kinship Gin, St-Germain Elderflower Liqueur, Lemon Juice, Freeze-dried Raspberries"
+            },
+            {
+              "title": "Space Age Mule",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wheatley Vodka, key lime pie liqueur, Lime Juice, Ginger Beer"
+            },
+            {
+              "title": "Shuttle Crew",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kettle One Peach and Orange Blossom Vodka, Vanilla, Tangerine, Red Bull and Tang Foam"
+            },
+            {
+              "title": "Gamma Burst",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grey Goose Strawberry and Lemongrass vodka, Midori Melon Liqueur, Strawberry Popping Pearls"
+            },
+            {
+              "title": "Moon Shot",
+              "prices": [
+                {
+                  "withoutTax": 36,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "WhistlePig 10-Year Rye, Angostura Amaro, Demerara, mole bitters"
+            },
+            {
+              "title": "Up All Night",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Absolute Vanilla, Chilled Espresso, Kahlúa, Crème de Cacao"
+            }
+          ]
+        },
+        {
+          "name": "Crew Brews",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Michelob Ultra Draft",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stevens Point Centauri Amber Lager Draft",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blue Moon Draft",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sierra Nevada Hazy Little IPA Draft",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stella Artois",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bud Light",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corona",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Modelo Especial",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Heineken 0.0 ",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rotating Space Beer",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Sparkling Worldly Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Prosecco Terre Di Bacco, Treviso, Italy",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sparkling Scharffenberger, Mendocino County, CA",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White/Rosé Worldly Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Moscato Batasiolo Moscato d’Asti, Italy",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Grigio Santa Margherita, Alto Adige, Italy",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sauvignon Blanc Kim Crawford, Marlborough, NZ",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chardonnay Talbott Kali Hart, Monterey, CA",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rosé BY.OTT, Cotes de Provence, French Riviera, France",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Worldly Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pinot Noir Böen, Russian River, CA",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Merlot Decoy, Sonoma, CA",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Red Blend The Prisoner, Napa Valley, CA",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Malbec Uno, Mendoza, Argentina",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet Sauvignon Zero Gravity, Lodi, CA",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Zero-Proof Cocktails",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Moon Rocks",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemonade, Blue Cotton Candy syrup, Coconut, Pineapple Juice, and includes Collectible Cards"
+            },
+            {
+              "title": "Starship Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry, Watermelon, Lemonade, Glow Cube, and includes Collectible Cards"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Casual Dining",
+      "serviceStyle": "Prix Fixe Menu",
+      "groups": [
+        {
+          "name": "Space 220 Adult Pricing",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Adult Dinner Pricing",
+              "prices": [
+                {
+                  "withoutTax": 79,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Select one of each: Lift-Offs (Appetizer) + Star Course (Entrée) + Supernova Sweets (Dessert)"
+            }
+          ]
+        },
+        {
+          "name": "Lift-Offs",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Starry Calamari",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fried Calamari, Italian Cherry Peppers, Spicy Marinara, Roasted Pepper Citrus Aioli"
+            },
+            {
+              "title": "Blue Moon Cauliflower",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Tempura Fried Cauliflower, Housemade Hot Sauce, Blue Cheese Dust"
+            },
+            {
+              "title": "Neptuna Tartare*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Bluefin Tuna, Wasabi Avocado, Pineapple, Mango, Panipuri"
+            },
+            {
+              "title": "Phantom Galaxy Beets",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Petite Rosette Lettuce, Herb Pesto, Hazelnuts, Caramelized Goat Cheese"
+            },
+            {
+              "title": "Apollo 16 Shrimp Tacos*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chilled Marinated Shrimp, Tomato, Shallots, Crispy Wonton"
+            },
+            {
+              "title": "Centauri Caesar Salad",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Romaine Lettuce, Classic Caesar dressing, Parmigiano-Reggiano, Toasted Garlic Crouton"
+            },
+            {
+              "title": "Andromeda Wagyu Beef Carpaccio*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Wagyu Beef, Pomegranate Seeds, Potato Chips, Truffle Cipriani sauce, Shaved Parmesan"
+            },
+            {
+              "title": "Big Bang Bocconcini",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mozzarella, Watermelon, Heirloom Tomatoes, Avocado, Basil Cream"
+            }
+          ]
+        },
+        {
+          "name": "Star Course",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Slow Rotation Zero-G Short Rib",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Slowly Braised Beef Short Rib, Provencal Stuffed Peppers, Basil Mashed Potatoes, Chianti Pearl Onions, Crispy Shallots"
+            },
+            {
+              "title": "Nebula Sea Bass*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Pan-Seared Spiced Grouper, Glazed Asparagus, Heirloom Cherry Tomatoes, Tahini Mousseline"
+            },
+            {
+              "title": "Galactic Miso Salmon*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Miso-Glazed Salmon, Sautéed Bok Choy, Salmon Caviar, Crispy Lotus Roots, Yuzu Beurre Blanc"
+            },
+            {
+              "title": "Mangala Roasted Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Indian-inspired 24-hour Marinated Chicken, Red Pepper, Carrot, Tomato, Coconut Basmati Rice"
+            },
+            {
+              "title": "Space Pad Thai",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Rice Noodles, Stir-Fried Vegetables, Edamame, Bean Sprouts, Sesame Seeds, Cilantro, Chili-Garlic Crunch, Sweet Soy Chili Sauce. Choice of Crispy Tofu, Chicken, or Shrimp"
+            },
+            {
+              "title": "Double Cut Pork Chop*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Double Cut Pork Chop, Creamy Chorizo Corn, Peach Chutney"
+            },
+            {
+              "title": "Orbit Filet Mignon*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Beef Tenderloin, Silky Mashed Potatoes, Glazed Asparagus, Red Wine Reduction | Add Jumbo Shrimp* $15 | Add Shelled Half Lobster* $18."
+            }
+          ]
+        },
+        {
+          "name": "Space Station Supplementals",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "1.5 lbs Stuffed Baked Whole Lobster*",
+              "prices": [
+                {
+                  "withoutTax": 22,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Roasted Corn, Crab, Mornay Sauce, Broccolini. Supplemental to the Prix fixe menu."
+            },
+            {
+              "title": "24 oz. Bone-in Rib Eye*",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Coffee Spice Rub, Fingerling Potatoes, Asparagus, Cippolini Onion. Supplemental to the Prix fixe menu."
+            }
+          ]
+        },
+        {
+          "name": "Super Nova Sweets",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Lunar Carrot Cake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Carrot Cake, Cream Cheese, Candied Pistachios"
+            },
+            {
+              "title": "Stellar S’mores",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Graham Cracker Cookie, Toasted Meringue, Chocolate Cremieux, Fudge Sauce"
+            },
+            {
+              "title": "Cosmic Cheesecake",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate Cheesecake, Chocolate Crumbs, Raspberry Gel, Chocolate Dome"
+            },
+            {
+              "title": "Apple Cosmo",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Apple Cake, Vanilla Sauce, Warm Caramel, Vanilla Gelato, Apple Crisp"
+            },
+            {
+              "title": "Strawberry Saturn",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla Mousse, Strawberry Compote, Strawberry Crumbs"
+            },
+            {
+              "title": "Gelato",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Vanilla, Chocolate or Birthday Cake"
+            },
+            {
+              "title": "Sorbet",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mango or Strawberry"
+            }
+          ]
+        },
+        {
+          "name": "Satellite Sides",
+          "type": "Side",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Roasted Fingerling Potatoes",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Truffled Herb Parmesan Thin-Cut Fries",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Roasted Carrots",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chili-Garlic Broccolini",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Caramelized Brussels Sprouts with Balsamic and Parmesan",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Kids' Space 220 Pricing",
+          "type": "Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Children's Dinner Pricing",
+              "prices": [
+                {
+                  "withoutTax": 35,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Select one of each: Lift-offs (Appetizer) + Star Course (Entrée) + Supernova Sweets (Dessert) + Celestial Beverages (Drink)"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Lift-Offs",
+          "type": "Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mozzarella Moons",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fried Mozzarella, Marinara"
+            },
+            {
+              "title": "Grow Zone Crudités",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seasonal Vegetables, Ranch"
+            },
+            {
+              "title": "Fruit Cup",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Assorted Seasonal Fruits"
+            },
+            {
+              "title": "Baby Greens",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Assorted Greens, Cucumber, Cherry Tomatoes, Honey Mustard"
+            },
+            {
+              "title": "Satellite Caesar",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chopped Romaine, Parmesan, Croutons"
+            },
+            {
+              "title": "Mini Mission Mac",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Elbow Macaroni, American-Cheddar Cream Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Star Course",
+          "type": "Entree|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Spaceghetti",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken Meatball and Tomato Sauce"
+            },
+            {
+              "title": "Galactic Salmon*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Mashed Potatoes and Broccolini"
+            },
+            {
+              "title": "Cosmic Chicken",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Fried Chicken Tenders, Space Fries, Ketchup"
+            },
+            {
+              "title": "Smashed Burger*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Burger, American Cheese, Space Fries"
+            },
+            {
+              "title": "Beef Tenderloin*",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Grilled Steak, Buttered Carrots, Space Fries"
+            },
+            {
+              "title": "Mission Macaroni",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Elbow Macaroni, American-Cheddar Cream Sauce"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Super Nova Sweets",
+          "type": "Dessert|Kids",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Space Junk Cookie ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Confetti Cookie Bar, Cereal Milk Ganache, Chocolate Stars"
+            },
+            {
+              "title": "The Milky Meltaway",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Caramel, Hot Chocolate, Vanilla Gelato, Chocolate Dome"
+            },
+            {
+              "title": "Gelato Scoop",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate or Vanilla"
+            },
+            {
+              "title": "Sorbet Scoop",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Strawberry or Mango"
+            }
+          ]
+        },
+        {
+          "name": "Kids' Celestial Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Soda",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a special Space 220 collectible cup for $5. Add a Callisto glow cube for $5. Add both a collectible cup and glow cube for $8."
+            },
+            {
+              "title": "Milk",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a special Space 220 collectible cup for $5. Add a Callisto glow cube for $5. Add both a collectible cup and glow cube for $8."
+            },
+            {
+              "title": "Apple Juice",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a special Space 220 collectible cup for $5. Add a Callisto glow cube for $5. Add both a collectible cup and glow cube for $8."
+            },
+            {
+              "title": "Bottled Water",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Add a special Space 220 collectible cup for $5. Add a Callisto glow cube for $5. Add both a collectible cup and glow cube for $8."
+            }
+          ]
+        },
+        {
+          "name": "Kids' Zero-Proof Sippers",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Moon Rocks",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemonade, Blue Cotton Candy Syrup, Coconut, served in a special Space 220 collectible cup with collectible cards"
+            },
+            {
+              "title": "Starship Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry, Watermelon, Lemonade, Glow Cube, served in a special Space 220 collectible cup with collectible cards"
+            }
+          ]
+        },
+        {
+          "name": "Atmospheric Spirits",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Galaxy Spritz",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lagoon Bay Aperitif, Lychee Liqueur, Lemon Juice, Prosecco"
+            },
+            {
+              "title": "Black Hole Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 20,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Buffalo Trace bourbon, Demerara, Whiskey-Barrel-Aged Bitters"
+            },
+            {
+              "title": "Illumination",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardi rum, Malibu rum, Passion Fruit, Blood Orange, Pineapple, Lime Sour, Passion Fruit Boba"
+            },
+            {
+              "title": "M4RG4R1TA",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Blanco Tequila, Watermelon Lime, Organic Agave, Salted Lime Foam"
+            },
+            {
+              "title": "Ligo-rita",
+              "prices": [
+                {
+                  "withoutTax": 24,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Chrome Horse Blanco Tequila, Grand Marnier, Lime, Agave (clarified)"
+            },
+            {
+              "title": "Command Center",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Conniption Kinship Gin, St-Germain Elderflower Liqueur, Lemon Juice, Freeze-dried Raspberries"
+            },
+            {
+              "title": "Space Age Mule",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Wheatley Vodka, key lime pie liqueur, Lime Juice, Ginger Beer"
+            },
+            {
+              "title": "Shuttle Crew",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Kettle One Peach and Orange Blossom Vodka, Vanilla, Tangerine, Red Bull and Tang Foam"
+            },
+            {
+              "title": "Gamma Burst",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grey Goose Strawberry and Lemongrass vodka, Midori Melon Liqueur, Strawberry Popping Pearls"
+            },
+            {
+              "title": "Moon Shot",
+              "prices": [
+                {
+                  "withoutTax": 36,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "WhistlePig 10-Year Rye, Angostura Amaro, Demerara, mole bitters"
+            },
+            {
+              "title": "Up All Night",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Absolute Vanilla, Chilled Espresso, Kahlúa, Crème de Cacao"
+            }
+          ]
+        },
+        {
+          "name": "Crew Brews",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Michelob Ultra Draft",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stevens Point Centauri Amber Lager Draft",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blue Moon Draft",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sierra Nevada Hazy Little IPA Draft",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stella Artois",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bud Light",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corona",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Modelo Especial",
+              "prices": [
+                {
+                  "withoutTax": 9,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Heineken 0.0 ",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rotating Space Beer",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Dessert Drinks",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Up All Night",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Absolute Vanilla, Chilled Espresso, Kahlúa, Crème de Cacao"
+            },
+            {
+              "title": "Coffee",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Espresso",
+              "prices": [
+                {
+                  "withoutTax": 4,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Double Espresso",
+              "prices": [
+                {
+                  "withoutTax": 6,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cappuccino",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Latte",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Zero-Proof Cocktails",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Moon Rocks",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lemonade, Blue Cotton Candy syrup, Coconut, Pineapple Juice, and includes Collectible Cards"
+            },
+            {
+              "title": "Starship Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Strawberry, Watermelon, Lemonade, Glow Cube, and includes Collectible Cards"
+            }
+          ]
+        },
+        {
+          "name": "Sparkling Worldly Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Prosecco Terre Di Bacco, Treviso, Italy",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sparkling Scharffenberger, Mendocino County, CA",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White/Rosé Worldly Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Moscato Batasiolo Moscato d’Asti, Italy",
+              "prices": [
+                {
+                  "withoutTax": 15,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Pinot Grigio Santa Margherita, Alto Adige, Italy",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Sauvignon Blanc Kim Crawford, Marlborough, NZ",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Chardonnay Talbott Kali Hart, Monterey, CA",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Rosé BY.OTT, Cotes de Provence, French Riviera, France",
+              "prices": [
+                {
+                  "withoutTax": 18,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Worldly Wines",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pinot Noir Böen, Russian River, CA",
+              "prices": [
+                {
+                  "withoutTax": 19,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Merlot Decoy, Sonoma, CA",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Red Blend The Prisoner, Napa Valley, CA",
+              "prices": [
+                {
+                  "withoutTax": 27,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Malbec Uno, Mendoza, Argentina",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cabernet Sauvignon Zero Gravity, Lodi, CA",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Space 220 Adult Pricing",
+        "desktop": "Space 220 Adult Pricing"
+      },
+      {
+        "mobile": "Lift-Offs",
+        "desktop": "Lift-Offs"
+      },
+      {
+        "mobile": "Star Course",
+        "desktop": "Star Course"
+      },
+      {
+        "mobile": "Satellite Sides",
+        "desktop": "Satellite Sides"
+      },
+      {
+        "mobile": "Super Nova Sweets",
+        "desktop": "Super Nova Sweets"
+      },
+      {
+        "mobile": "Kids' Space 220 Pricing",
+        "desktop": "Kids' Space 220 Pricing"
+      },
+      {
+        "mobile": "Kids' Star Course",
+        "desktop": "Kids' Star Course"
+      },
+      {
+        "mobile": "Kids' Super Nova Sweets",
+        "desktop": "Kids' Super Nova Sweets"
+      },
+      {
+        "mobile": "Kids' Celestial Beverages",
+        "desktop": "Kids' Celestial Beverages"
+      },
+      {
+        "mobile": "Kids' Zero-Proof Sippers",
+        "desktop": "Kids' Zero-Proof Sippers"
+      },
+      {
+        "mobile": "Dessert Drinks",
+        "desktop": "Dessert Drinks"
+      },
+      {
+        "mobile": "Atmospheric Spirits",
+        "desktop": "Atmospheric Spirits"
+      },
+      {
+        "mobile": "Crew Brews",
+        "desktop": "Crew Brews"
+      },
+      {
+        "mobile": "Sparkling Worldly Wines",
+        "desktop": "Sparkling Worldly Wines"
+      },
+      {
+        "mobile": "White/Rosé Worldly Wines",
+        "desktop": "White/Rosé Worldly Wines"
+      },
+      {
+        "mobile": "Red Worldly Wines",
+        "desktop": "Red Worldly Wines"
+      },
+      {
+        "mobile": "Zero-Proof Cocktails",
+        "desktop": "Zero-Proof Cocktails"
+      }
+    ],
+    "1": [
+      {
+        "mobile": "Space 220 Adult Pricing",
+        "desktop": "Space 220 Adult Pricing"
+      },
+      {
+        "mobile": "Lift-Offs",
+        "desktop": "Lift-Offs"
+      },
+      {
+        "mobile": "Star Course",
+        "desktop": "Star Course"
+      },
+      {
+        "mobile": "Space Station Supplementals",
+        "desktop": "Space Station Supplementals"
+      },
+      {
+        "mobile": "Super Nova Sweets",
+        "desktop": "Super Nova Sweets"
+      },
+      {
+        "mobile": "Satellite Sides",
+        "desktop": "Satellite Sides"
+      },
+      {
+        "mobile": "Kids' Space 220 Pricing",
+        "desktop": "Kids' Space 220 Pricing"
+      },
+      {
+        "mobile": "Kids' Lift-Offs",
+        "desktop": "Kids' Lift-Offs"
+      },
+      {
+        "mobile": "Kids' Star Course",
+        "desktop": "Kids' Star Course"
+      },
+      {
+        "mobile": "Kids' Super Nova Sweets",
+        "desktop": "Kids' Super Nova Sweets"
+      },
+      {
+        "mobile": "Kids' Celestial Beverages",
+        "desktop": "Kids' Celestial Beverages"
+      },
+      {
+        "mobile": "Kids' Zero-Proof Sippers",
+        "desktop": "Kids' Zero-Proof Sippers"
+      },
+      {
+        "mobile": "Atmospheric Spirits",
+        "desktop": "Atmospheric Spirits"
+      },
+      {
+        "mobile": "Crew Brews",
+        "desktop": "Crew Brews"
+      },
+      {
+        "mobile": "Dessert Drinks",
+        "desktop": "Dessert Drinks"
+      },
+      {
+        "mobile": "Zero-Proof Cocktails",
+        "desktop": "Zero-Proof Cocktails"
+      },
+      {
+        "mobile": "Sparkling Worldly Wines",
+        "desktop": "Sparkling Worldly Wines"
+      },
+      {
+        "mobile": "White/Rosé Worldly Wines",
+        "desktop": "White/Rosé Worldly Wines"
+      },
+      {
+        "mobile": "Red Worldly Wines",
+        "desktop": "Red Worldly Wines"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Space 220 Restaurant",
+      "id": "19433706"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "411489931"
+        },
+        {
+          "productId": "411489823"
+        },
+        {
+          "productId": "411489824"
+        },
+        {
+          "productId": "411489725"
+        },
+        {
+          "productId": "411489728"
+        },
+        {
+          "productId": "412650523"
+        },
+        {
+          "productId": "412022126"
+        },
+        {
+          "productId": "412650545"
+        },
+        {
+          "productId": "412650547"
+        },
+        {
+          "productId": "411646784"
+        },
+        {
+          "productId": "411489732"
+        },
+        {
+          "productId": "411646858"
+        },
+        {
+          "productId": "411489735"
+        },
+        {
+          "productId": "411489784"
+        },
+        {
+          "productId": "411489751"
+        },
+        {
+          "productId": "411489752"
+        },
+        {
+          "productId": "411646840"
+        },
+        {
+          "productId": "411489755"
+        },
+        {
+          "productId": "411489754"
+        },
+        {
+          "productId": "411489740"
+        },
+        {
+          "productId": "412562798"
+        },
+        {
+          "productId": "412562799"
+        },
+        {
+          "productId": "412562802"
+        },
+        {
+          "productId": "412562800"
+        },
+        {
+          "productId": "411489747"
+        },
+        {
+          "productId": "412024852"
+        },
+        {
+          "productId": "411489920"
+        },
+        {
+          "productId": "411489801"
+        },
+        {
+          "productId": "411489802"
+        },
+        {
+          "productId": "411489803"
+        },
+        {
+          "productId": "411489804"
+        },
+        {
+          "productId": "411489805"
+        },
+        {
+          "productId": "412561512"
+        },
+        {
+          "productId": "412109239"
+        },
+        {
+          "productId": "411489807"
+        },
+        {
+          "productId": "411489808"
+        },
+        {
+          "productId": "411489809"
+        },
+        {
+          "productId": "411489810"
+        },
+        {
+          "productId": "411489811"
+        },
+        {
+          "productId": "411489812"
+        },
+        {
+          "productId": "411489813"
+        },
+        {
+          "productId": "411489814"
+        },
+        {
+          "productId": "411489831"
+        },
+        {
+          "productId": "411489790"
+        },
+        {
+          "productId": "411489792"
+        },
+        {
+          "productId": "411489794"
+        },
+        {
+          "productId": "411489795"
+        },
+        {
+          "productId": "411489796"
+        },
+        {
+          "productId": "411925593"
+        },
+        {
+          "productId": "411925592"
+        },
+        {
+          "productId": "411925594"
+        },
+        {
+          "productId": "411925599"
+        },
+        {
+          "productId": "412650599"
+        },
+        {
+          "productId": "411925598"
+        },
+        {
+          "productId": "411925596"
+        },
+        {
+          "productId": "411925595"
+        },
+        {
+          "productId": "411948917"
+        },
+        {
+          "productId": "412650600"
+        },
+        {
+          "productId": "411489831"
+        },
+        {
+          "productId": "411489847"
+        },
+        {
+          "productId": "411489855"
+        },
+        {
+          "productId": "411489849"
+        },
+        {
+          "productId": "411489850"
+        },
+        {
+          "productId": "411489851"
+        },
+        {
+          "productId": "411489852"
+        },
+        {
+          "productId": "411489853"
+        },
+        {
+          "productId": "411489848"
+        },
+        {
+          "productId": "411489856"
+        },
+        {
+          "productId": "411489854"
+        },
+        {
+          "productId": "411489871"
+        },
+        {
+          "productId": "411489872"
+        },
+        {
+          "productId": "411489885"
+        },
+        {
+          "productId": "411925590"
+        },
+        {
+          "productId": "411489880"
+        },
+        {
+          "productId": "411489878"
+        },
+        {
+          "productId": "411489886"
+        },
+        {
+          "productId": "411489899"
+        },
+        {
+          "productId": "411489900"
+        },
+        {
+          "productId": "411489916"
+        },
+        {
+          "productId": "411489902"
+        },
+        {
+          "productId": "411489897"
+        },
+        {
+          "productId": "411498806"
+        },
+        {
+          "productId": "411925591"
+        }
+      ],
+      "1": [
+        {
+          "productId": "411489933"
+        },
+        {
+          "productId": "411489720"
+        },
+        {
+          "productId": "411489723"
+        },
+        {
+          "productId": "411489724"
+        },
+        {
+          "productId": "412650515"
+        },
+        {
+          "productId": "412024849"
+        },
+        {
+          "productId": "412650522"
+        },
+        {
+          "productId": "411646790"
+        },
+        {
+          "productId": "412650524"
+        },
+        {
+          "productId": "411489730"
+        },
+        {
+          "productId": "412258074"
+        },
+        {
+          "productId": "411646784"
+        },
+        {
+          "productId": "411489732"
+        },
+        {
+          "productId": "411489735"
+        },
+        {
+          "productId": "411646780"
+        },
+        {
+          "productId": "411489737"
+        },
+        {
+          "productId": "411489738"
+        },
+        {
+          "productId": "411489739"
+        },
+        {
+          "productId": "411489740"
+        },
+        {
+          "productId": "412562798"
+        },
+        {
+          "productId": "412562799"
+        },
+        {
+          "productId": "412562802"
+        },
+        {
+          "productId": "412562800"
+        },
+        {
+          "productId": "411489747"
+        },
+        {
+          "productId": "412024852"
+        },
+        {
+          "productId": "411489751"
+        },
+        {
+          "productId": "411489752"
+        },
+        {
+          "productId": "411646840"
+        },
+        {
+          "productId": "411489755"
+        },
+        {
+          "productId": "411489754"
+        },
+        {
+          "productId": "412109271"
+        },
+        {
+          "productId": "412109264"
+        },
+        {
+          "productId": "412109263"
+        },
+        {
+          "productId": "412109261"
+        },
+        {
+          "productId": "412109262"
+        },
+        {
+          "productId": "412109266"
+        },
+        {
+          "productId": "412109265"
+        },
+        {
+          "productId": "411489801"
+        },
+        {
+          "productId": "411489802"
+        },
+        {
+          "productId": "411489803"
+        },
+        {
+          "productId": "411489804"
+        },
+        {
+          "productId": "411489817"
+        },
+        {
+          "productId": "411489805"
+        },
+        {
+          "productId": "412561512"
+        },
+        {
+          "productId": "412109239"
+        },
+        {
+          "productId": "411489807"
+        },
+        {
+          "productId": "411489808"
+        },
+        {
+          "productId": "411489809"
+        },
+        {
+          "productId": "411489810"
+        },
+        {
+          "productId": "411489811"
+        },
+        {
+          "productId": "411489812"
+        },
+        {
+          "productId": "411489813"
+        },
+        {
+          "productId": "411489814"
+        },
+        {
+          "productId": "411925593"
+        },
+        {
+          "productId": "411925592"
+        },
+        {
+          "productId": "411925594"
+        },
+        {
+          "productId": "411925599"
+        },
+        {
+          "productId": "412650599"
+        },
+        {
+          "productId": "411925598"
+        },
+        {
+          "productId": "411925596"
+        },
+        {
+          "productId": "411925595"
+        },
+        {
+          "productId": "411948917"
+        },
+        {
+          "productId": "412650600"
+        },
+        {
+          "productId": "411489831"
+        },
+        {
+          "productId": "411489847"
+        },
+        {
+          "productId": "411489855"
+        },
+        {
+          "productId": "411489849"
+        },
+        {
+          "productId": "411489850"
+        },
+        {
+          "productId": "411489851"
+        },
+        {
+          "productId": "411489852"
+        },
+        {
+          "productId": "411489853"
+        },
+        {
+          "productId": "411489848"
+        },
+        {
+          "productId": "411489856"
+        },
+        {
+          "productId": "411489854"
+        },
+        {
+          "productId": "411489831"
+        },
+        {
+          "productId": "411489790"
+        },
+        {
+          "productId": "411489792"
+        },
+        {
+          "productId": "411489794"
+        },
+        {
+          "productId": "411489795"
+        },
+        {
+          "productId": "411489796"
+        },
+        {
+          "productId": "411498806"
+        },
+        {
+          "productId": "411925591"
+        },
+        {
+          "productId": "411489871"
+        },
+        {
+          "productId": "411489872"
+        },
+        {
+          "productId": "411489885"
+        },
+        {
+          "productId": "411925590"
+        },
+        {
+          "productId": "411489880"
+        },
+        {
+          "productId": "411489878"
+        },
+        {
+          "productId": "411489886"
+        },
+        {
+          "productId": "411489899"
+        },
+        {
+          "productId": "411489900"
+        },
+        {
+          "productId": "411489916"
+        },
+        {
+          "productId": "411489902"
+        },
+        {
+          "productId": "411489897"
+        }
+      ]
+    }
+  }
+}

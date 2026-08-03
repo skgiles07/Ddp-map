@@ -11,6 +11,59 @@ const GUESTS = ['S', 'M', 'L'];
 const CREDIT_TYPES = ['quick', 'snack'];
 const LEDGER_KEY = 'ddp-ledger-v3';
 const LEGACY_LEDGER_KEYS = ['ddp-ledger-v2', 'ddp-ledger-v1'];
+export const DEFAULT_FILTERS = Object.freeze({ quick: true, snack: true, ts: true, noDdp: false, bestOnly: false });
+
+export function venueClass(venue) {
+  return venue?.ddp_class || 'ddp';
+}
+
+export function venueMatchesFilters(venue, filters = DEFAULT_FILTERS) {
+  const kind = venueClass(venue);
+  if (filters.bestOnly) return kind === 'ddp' && venue.tier === 1;
+  if (kind === 'ts') return !!filters.ts;
+  if (kind === 'no-ddp') return !!filters.noDdp;
+  if (kind === 'snack-unconfirmed') return !!filters.snack;
+  return (venue.accepted_credits || []).some(credit => CREDIT_TYPES.includes(credit) && filters[credit]);
+}
+
+const ELIGIBILITY_TAGS = {
+  'not-ddp': { text: 'No DDP', className: 'eligibility-tag eligibility-noddp' },
+  'ddp-2-credits': { text: '2 TS credits', className: 'eligibility-tag eligibility-2-credit' },
+  unconfirmed: { text: 'DDP?', className: 'eligibility-tag eligibility-unconfirmed' },
+};
+
+export function menuRowModel(item) {
+  return {
+    priceText: Number.isFinite(item?.price) ? `$${item.price.toFixed(2)}` : '',
+    tag: ELIGIBILITY_TAGS[item?.eligibility] || null,
+  };
+}
+
+export function menuItemText(item, prefix = '') {
+  const { priceText } = menuRowModel(item);
+  return `${prefix}${item?.item || ''}${priceText ? ` — ${priceText}` : ''}`;
+}
+
+export function isSignatureVenue(venue) {
+  if (venueClass(venue) !== 'ts') return false;
+  const priced = (venue.menu_items || []).filter(item => Number.isFinite(item.price) && item.eligibility !== 'not-ddp');
+  return priced.length > 0 && priced.every(item => item.eligibility === 'ddp-2-credits');
+}
+
+export function venueHeaderText(venue) {
+  const kind = venueClass(venue);
+  if (kind === 'ts') return isSignatureVenue(venue) ? 'Signature · 2 TS credits per meal' : 'Table service · uses TS credits';
+  if (kind === 'no-ddp') return 'No DDP credits accepted here';
+  if (kind === 'snack-unconfirmed') return 'Kiosk — snack credits likely, unconfirmed';
+  return (venue.accepted_credits || []).filter(credit => CREDIT_TYPES.includes(credit))
+    .map(credit => ({ quick: 'Quick service', snack: 'Snack' })[credit]).join(' · ');
+}
+
+export function redeemableCredits(venue) {
+  if (venueClass(venue) === 'snack-unconfirmed') return ['snack'];
+  if (venueClass(venue) !== 'ddp') return [];
+  return (venue.accepted_credits || []).filter(credit => CREDIT_TYPES.includes(credit));
+}
 
 // ---- tiers / ranking / filters ------------------------------------------------
 export function tierFor(rv) {
@@ -19,7 +72,7 @@ export function tierFor(rv) {
 }
 
 export function bestValueFilter(venues) {
-  return venues.filter(v => v.tier === 1);
+  return venues.filter(v => venueClass(v) === 'ddp' && v.tier === 1);
 }
 
 export function rankVenues(venues) {
@@ -33,7 +86,7 @@ export function rankVenues(venues) {
 }
 
 function bestDrink(menuItems) {
-  const drinks = menuItems.filter(m => m.category === 'drink');
+  const drinks = menuItems.filter(m => m.category === 'drink' && Number.isFinite(m.price));
   const specialty = drinks.filter(m => m.specialty);
   return (specialty.length ? specialty : drinks)
     .reduce((current, drink) => !current || drink.price > current.price ? drink : current, null);
@@ -47,6 +100,7 @@ export function drinkPairing(menuItems) {
 }
 
 export function arrowFor(item, venue) {
+  if (venueClass(venue) !== 'ddp' || !Number.isFinite(item?.price)) return null;
   if (['entree', 'combo'].includes(item.category)) {
     const drink = bestDrink(venue.menu_items || []);
     const total = Math.round((item.price + (drink?.price || 0)) * 100) / 100;
@@ -77,7 +131,11 @@ export function freshPosition(pos, now) {
 
 export function bestNearby(venues, here) {
   return venues
-    .filter(v => v.accepted_credits.some(c => CREDIT_TYPES.includes(c)) && typeof v.lat === 'number')
+    .filter(v => {
+      const kind = venueClass(v);
+      const creditVenue = kind === 'ddp' && (v.accepted_credits || []).some(c => CREDIT_TYPES.includes(c));
+      return (creditVenue || kind === 'snack-unconfirmed') && typeof v.lat === 'number';
+    })
     .map(v => ({ v, d: distanceMeters(here.lat, here.lng, v.lat, v.lng) }))
     .sort((a, b) => {
       const ta = a.v.tier ?? 9, tb = b.v.tier ?? 9;
@@ -235,7 +293,7 @@ async function initApp() {
   const state = {
     data,
     area: localStorage.getItem('ddp-tab') || 'mk',
-    filters: { quick: true, snack: true, bestOnly: false },
+    filters: { ...DEFAULT_FILTERS },
     view: 'map',
     events: seededLedger.events,
     seedIds: seededLedger.seed_ids,
@@ -278,7 +336,7 @@ async function initApp() {
 
   // --- filter chips
   const chips = document.getElementById('chips');
-  const chipDefs = [['quick', 'QS'], ['snack', 'Snack'], ['bestOnly', '🔥 best value only']];
+  const chipDefs = [['quick', 'QS'], ['snack', 'Snack'], ['ts', 'TS'], ['noDdp', 'No DDP'], ['bestOnly', '🔥 best value only']];
   for (const [key, label] of chipDefs) {
     const c = el('button', 'chip', label);
     c.dataset.key = key;
@@ -326,10 +384,7 @@ async function initApp() {
 
   function visibleVenues() {
     let vs = state.data.locations.filter(l => l.area === state.area);
-    vs = vs.filter(l => l.accepted_credits.some(c => CREDIT_TYPES.includes(c)));
-    vs = vs.filter(l => l.accepted_credits.some(c => state.filters[c]));
-    if (state.filters.bestOnly) vs = vs.filter(l => l.tier === 1);
-    return vs;
+    return vs.filter(l => venueMatchesFilters(l, state.filters));
   }
 
   function fmt(n) { return '$' + n.toFixed(2); }
@@ -337,9 +392,8 @@ async function initApp() {
   function popupFor(l) {
     const box = el('div', 'popup');
     box.appendChild(el('h3', null, l.name));
-    const kinds = l.accepted_credits.filter(c => CREDIT_TYPES.includes(c))
-      .map(c => ({ quick: 'Quick service', snack: 'Snack' })[c]).join(' · ');
-    box.appendChild(el('p', 'muted', kinds + (l.mobile_order ? ' · Mobile Order' : '')));
+    const header = venueHeaderText(l);
+    box.appendChild(el('p', 'muted', header + (l.mobile_order ? ' · Mobile Order' : '')));
 
     for (const p of l.meal_periods) {
       if (p.value_avg === null) continue;
@@ -357,7 +411,7 @@ async function initApp() {
       box.appendChild(el('p', null, `${mark} ${s.item} ${fmt(s.price)}` + (s.eligibility === 'verified' ? '' : ' — verify at register')));
     }
     if (l.menu_items.length) {
-      const mb = el('button', 'btn', `DDP menu (${l.menu_items.length} items)`);
+      const mb = el('button', 'btn', `Full menu (${l.menu_items.length} items)`);
       mb.addEventListener('click', () => menuSheet(l));
       box.appendChild(mb);
     } else {
@@ -365,9 +419,11 @@ async function initApp() {
     }
     if (l.notes) box.appendChild(el('p', 'muted', l.notes));
 
-    const btn = el('button', 'btn', 'Use credit here');
-    btn.addEventListener('click', () => redeemFlow(l));
-    box.appendChild(btn);
+    if (redeemableCredits(l).length) {
+      const btn = el('button', 'btn', 'Use credit here');
+      btn.addEventListener('click', () => redeemFlow(l));
+      box.appendChild(btn);
+    }
     return box;
   }
 
@@ -390,17 +446,21 @@ async function initApp() {
   function menuSheet(l) {
     const sheet = el('div', 'sheet');
     modal.replaceChildren(sheet); modal.hidden = false;
-    sheet.appendChild(el('h3', null, l.name + ' — DDP-eligible menu'));
-    const legend = el('div', 'menu-legend');
-    for (const [credit, label] of [['qs', 'QS credit'], ['snack', 'Snack credit'], ['kids', 'Kids']]) {
-      const key = el('span', 'legend-item');
-      key.append(el('i', `legend-swatch credit-${credit}`), el('span', null, label));
-      legend.appendChild(key);
+    sheet.appendChild(el('h3', null, l.name + ' — full menu'));
+    sheet.appendChild(el('p', `venue-class-note class-${venueClass(l)}`, venueHeaderText(l)));
+    const showValues = venueClass(l) === 'ddp';
+    if (showValues) {
+      const legend = el('div', 'menu-legend');
+      for (const [credit, label] of [['qs', 'QS credit'], ['snack', 'Snack credit'], ['kids', 'Kids']]) {
+        const key = el('span', 'legend-item');
+        key.append(el('i', `legend-swatch credit-${credit}`), el('span', null, label));
+        legend.appendChild(key);
+      }
+      legend.appendChild(el('span', 'legend-breaks', 'arrows: value vs $24 QS / $7 snack break-even'));
+      sheet.appendChild(legend);
     }
-    legend.appendChild(el('span', 'legend-breaks', 'arrows: value vs $24 QS / $7 snack break-even'));
-    sheet.appendChild(legend);
 
-    const pairing = drinkPairing(l.menu_items);
+    const pairing = showValues ? drinkPairing(l.menu_items) : null;
 
     const wrap = el('div', 'menu-scroll');
     for (const cat of CAT_ORDER) {
@@ -408,10 +468,12 @@ async function initApp() {
       if (!items.length) continue;
       wrap.appendChild(el('h4', null, CAT_LABEL[cat]));
       for (const m of items) {
-        const mark = m.eligibility === 'verified' ? '✓' : m.eligibility === 'listed' ? '◐' : '?';
-        const row = el('div', `menu-row credit-${CREDIT_CLASS[m.category]}`);
-        const itemLine = el('p', 'menu-item', `${mark} ${m.item} — $${m.price.toFixed(2)}`);
-        const value = arrowFor(m, l);
+        const mark = m.eligibility === 'verified' ? '✓ ' : m.eligibility === 'listed' ? '◐ ' : '';
+        const model = menuRowModel(m);
+        const colorClass = showValues ? `credit-${CREDIT_CLASS[m.category]}` : `venue-credit-${venueClass(l)}`;
+        const row = el('div', `menu-row ${colorClass}${m.eligibility === 'not-ddp' ? ' eligibility-not-ddp' : ''}`);
+        const itemLine = el('p', 'menu-item', menuItemText(m, mark));
+        const value = showValues ? arrowFor(m, l) : null;
         if (value) {
           const symbol = { up: '▲', flat: '▶', down: '▼' }[value.dir];
           const basis = CREDIT_CLASS[m.category] === 'qs' ? ' including drink' : ' item value';
@@ -421,14 +483,17 @@ async function initApp() {
           arrow.setAttribute('aria-label', label);
           itemLine.appendChild(arrow);
         }
+        if (model.tag) itemLine.appendChild(el('span', model.tag.className, model.tag.text));
         row.appendChild(itemLine);
-        if (CREDIT_CLASS[m.category] === 'qs') {
+        if (showValues && CREDIT_CLASS[m.category] === 'qs' && value) {
           row.appendChild(el('p', 'menu-pairing', `${pairing} · total $${value.total.toFixed(2)}`));
         }
         wrap.appendChild(row);
       }
     }
-    wrap.appendChild(el('p', 'muted', '✓ verified on Disney menu · ◐/? verify symbol at register'));
+    wrap.appendChild(el('p', 'muted', showValues
+      ? '✓ verified on Disney menu · ◐ listed; confirm symbol at register'
+      : 'Eligibility tags reflect captured Disney menu annotations.'));
     sheet.appendChild(wrap);
     const close = el('button', 'btn', 'Close');
     close.addEventListener('click', closeModal);
@@ -436,6 +501,7 @@ async function initApp() {
   }
 
   function redeemFlow(l) {
+    if (!redeemableCredits(l).length) return;
     const sheet = el('div', 'sheet');
     modal.replaceChildren(sheet); modal.hidden = false;
     sheet.appendChild(el('h3', null, l.name));
@@ -450,7 +516,7 @@ async function initApp() {
   }
 
   function pickCredit(l, guest) {
-    const kinds = l.accepted_credits.filter(c => CREDIT_TYPES.includes(c));
+    const kinds = redeemableCredits(l);
     if (kinds.length === 1) return pickDetail(l, guest, kinds[0]);
     const sheet = modal.firstChild;
     sheet.replaceChildren(el('h3', null, l.name), el('p', 'muted', `${guest} — which credit?`));
@@ -541,12 +607,13 @@ async function initApp() {
     const list = document.getElementById('list');
     list.replaceChildren();
     for (const l of rankVenues(visibleVenues())) {
-      const row = el('div', 'row tier-' + (l.tier ?? 'none'));
+      const kind = venueClass(l);
+      const row = el('div', 'row tier-' + (kind === 'ddp' ? l.tier ?? 'none' : 'none'));
       const left = el('div');
-      left.appendChild(el('strong', null, (l.tier === 1 ? '🔥 ' : '') + l.name));
-      left.appendChild(el('div', 'muted', l.accepted_credits.filter(c => CREDIT_TYPES.includes(c)).join(' · ')));
+      left.appendChild(el('strong', null, (kind === 'ddp' && l.tier === 1 ? '🔥 ' : '') + l.name));
+      left.appendChild(el('span', `venue-tag tag-${kind}`, venueHeaderText(l) || 'DDP venue'));
       row.appendChild(left);
-      row.appendChild(el('div', 'val', l.ranking_value !== null ? '$' + l.ranking_value.toFixed(2) : '—'));
+      row.appendChild(el('div', 'val', kind === 'ddp' && Number.isFinite(l.ranking_value) ? '$' + l.ranking_value.toFixed(2) : '—'));
       row.addEventListener('click', () => {
         state.view = 'map'; renderAll();
         const m = state.markers[visibleVenues().filter(x => typeof x.lat === 'number').findIndex(x => x.id === l.id)];
@@ -562,9 +629,11 @@ async function initApp() {
     wrap.replaceChildren();
     for (const v of bestNearby(visibleVenues(), state.here)) {
       const c = el('div', 'card');
-      c.appendChild(el('strong', null, (v.tier === 1 ? '🔥 ' : '') + v.name));
+      const kind = venueClass(v);
+      c.appendChild(el('strong', null, (kind === 'ddp' && v.tier === 1 ? '🔥 ' : '') + v.name));
+      c.appendChild(el('span', `venue-tag tag-${kind}`, venueHeaderText(v) || 'DDP venue'));
       const bits = [];
-      if (v.ranking_value !== null) bits.push('$' + v.ranking_value.toFixed(2));
+      if (kind === 'ddp' && Number.isFinite(v.ranking_value)) bits.push('$' + v.ranking_value.toFixed(2));
       bits.push('~' + walkMinutes(v._distance) + ' min walk (est.)');
       c.appendChild(el('div', 'muted', bits.join(' · ')));
       wrap.appendChild(c);
@@ -654,7 +723,11 @@ async function initApp() {
 
   function renderAll() {
     for (const b of tabbar.children) b.classList.toggle('active', b.dataset.area === state.area);
-    for (const c of chips.children) c.classList.toggle('active', !!state.filters[c.dataset.key]);
+    for (const c of chips.children) {
+      const active = !!state.filters[c.dataset.key];
+      c.classList.toggle('active', active);
+      c.setAttribute('aria-pressed', String(active));
+    }
     const isMap = state.view === 'map';
     document.getElementById('map').style.display = isMap ? '' : 'none';
     document.getElementById('list').style.display = isMap ? 'none' : '';

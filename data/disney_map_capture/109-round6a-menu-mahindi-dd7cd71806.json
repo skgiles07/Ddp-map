@@ -1,0 +1,256 @@
+{
+  "name": "Mahindi",
+  "location": "Disney's Animal Kingdom Theme Park, Africa",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Snack",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Snacks",
+          "type": "Snack",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Popcorn in a Souvenir Bucket",
+              "prices": [
+                {
+                  "withoutTax": 14.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Plant-based)"
+            },
+            {
+              "title": "Popcorn Bucket Refill",
+              "prices": [
+                {
+                  "withoutTax": 2.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Plant-based)"
+            },
+            {
+              "title": "Popcorn",
+              "prices": [
+                {
+                  "withoutTax": 5.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Plant-based)"
+            },
+            {
+              "title": "Assorted Chips",
+              "prices": [
+                {
+                  "withoutTax": 3.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cinnamon-glazed Pecans",
+              "prices": [
+                {
+                  "withoutTax": 5.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Plant-based)"
+            },
+            {
+              "title": "Cinnamon-glazed Almonds",
+              "prices": [
+                {
+                  "withoutTax": 5.99,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Plant-based)"
+            }
+          ]
+        },
+        {
+          "name": "Beverages",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assorted Coca-Cola® Bottled Beverages",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Minute Maid® Premium Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "POWERADE®",
+              "prices": [
+                {
+                  "withoutTax": 5.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "DASANI® Bottled Water",
+              "prices": [
+                {
+                  "withoutTax": 4.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bud Light Lager",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tiger Eye Gold Ale",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Snacks",
+        "desktop": "Snacks"
+      },
+      {
+        "mobile": "Beverages",
+        "desktop": "Beverages"
+      },
+      {
+        "mobile": "Alcoholic Beverages",
+        "desktop": "Alcoholic Beverages"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Mahindi",
+      "id": "90002538"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "16992534"
+        },
+        {
+          "productId": "18552060"
+        },
+        {
+          "productId": "16992551"
+        },
+        {
+          "productId": "18129620"
+        },
+        {
+          "productId": "16992538"
+        },
+        {
+          "productId": "16992536"
+        },
+        {
+          "productId": "16992544"
+        },
+        {
+          "productId": "411417789"
+        },
+        {
+          "productId": "19495046"
+        },
+        {
+          "productId": "16992546"
+        },
+        {
+          "productId": "16992548"
+        },
+        {
+          "productId": "412467727"
+        }
+      ]
+    }
+  }
+}

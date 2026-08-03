@@ -1,0 +1,618 @@
+{
+  "name": "Tune-In Lounge",
+  "location": "Disney's Hollywood Studios, Echo Lake",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "experience": "Bar/Lounge",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Specialty Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Ultimate Long Island Iced Tea ",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardí Superior Rum, Tito’s Handmade Vodka, Corazón Blanco Tequila, Hendrick’s Gin, Cointreau Liqueur, and Sweet-and-Sour with a splash of Coca-Cola®"
+            },
+            {
+              "title": "Dad's Electric Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "SVEDKA Vodka, Bols Blue Curaçao Liqueur, Sweet-and-Sour, and Sprite® served with a Souvenir Glow Cube"
+            },
+            {
+              "title": "Island Fusion Punch",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mount Gay Eclipse Rum, Minute Maid® Passion Fruit Orange Guava, DOLE® Pineapple, and Lime Juices"
+            },
+            {
+              "title": "Coconut Gimlet",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick’s Gin, Coconut, Lime, and Cardamom Bitters"
+            },
+            {
+              "title": "Patrón Platinum Margarita",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Patrón Silver Tequila, Cointreau Liqueur, Lime Juice, and Sweet-and-Sour"
+            },
+            {
+              "title": "Espresso Martini",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grainger’s Organic Vanilla Vodka, Tia Maria Cold Brew Coffee Liqueur, Bols White Crème de Cacao Liqueur, and Espresso"
+            },
+            {
+              "title": "Toasted Marshmallow Old Fashioned",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Woodford Reserve Kentucky Straight Bourbon, Toasted Marshmallow, and Hella Cocktail Co. Smoked Chili Bitters"
+            },
+            {
+              "title": "The Tune-In PBJ Cocktail",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Skrewball Peanut Butter Whiskey, Bols Blackberry Brandy, and Baileys Original Irish Cream Liqueur topped with a Maraschino Cherry"
+            },
+            {
+              "title": "Grandma’s Picnic Punch",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Grandma concocted a wonderful drink for the family picnic with SVEDKA Vodka, Bols Peach Schnapps Liqueur, Bols Crème de Cassis Liqueur, Minute Maid® Premium Lemonade, and Pineapple Juice"
+            }
+          ]
+        },
+        {
+          "name": "Non-Alcoholic Specialty Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Enchanted Grove Lime Splash",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Limeade paired with the revitalizing flavors of Cucumber and Mint"
+            },
+            {
+              "title": "Enchanting Ember Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 6.49,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Minute Maid® Premium Lemonade, Strawberry, and Hot Honey"
+            }
+          ]
+        },
+        {
+          "name": "Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Marsuret Prosecco, Valdobbiadene Superiore NV",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fess Parker Chardonnay, Santa Barbara County",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Coppo Moscato d’Asti Moncalvina, Piedmont",
+              "prices": [
+                {
+                  "withoutTax": 56,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 14,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "King Estate Pinot Gris, Willamette Valley",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kim Crawford Sauvignon Blanc, Marlborough",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Louis M. Martini Cabernet Sauvignon, Sonoma County",
+              "prices": [
+                {
+                  "withoutTax": 98,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 25,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Decoy by Duckhorn Merlot, Sonoma County",
+              "prices": [
+                {
+                  "withoutTax": 67,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 17,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "MacMurray Estate Vineyards Pinot Noir, Central Coast",
+              "prices": [
+                {
+                  "withoutTax": 74,
+                  "type": "Per Bottle",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 19,
+                  "type": "Per Glass",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Draft",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Yuengling Traditional Lager",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Michelob Ultra Lager",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Samuel Adams Seasonal ",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cigar City Jai Alai IPA ",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Bottles and Cans",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bud Light Lager ",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Miller Lite Lager",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Stella Artois Lager",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Corona Extra Lager",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Blue Moon Belgian White Ale",
+              "prices": [
+                {
+                  "withoutTax": 9.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Schöfferhofer Grapefruit Hefeweizen",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "New Belgium Fat Tire Amber Ale",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Angry Orchard Crisp Apple Hard Cider",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "White Claw Black Cherry Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Specialty Cocktails",
+        "desktop": "Specialty Cocktails"
+      },
+      {
+        "mobile": "Non-Alcoholic Specialty Beverages",
+        "desktop": "Non-Alcoholic Specialty Beverages"
+      },
+      {
+        "mobile": "Wine",
+        "desktop": "Wine"
+      },
+      {
+        "mobile": "Draft",
+        "desktop": "Draft"
+      },
+      {
+        "mobile": "Bottles and Cans",
+        "desktop": "Bottles and Cans"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Tune-In Lounge",
+      "id": "90002300"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "412466698"
+        },
+        {
+          "productId": "17008614"
+        },
+        {
+          "productId": "412466702"
+        },
+        {
+          "productId": "412466700"
+        },
+        {
+          "productId": "17008613"
+        },
+        {
+          "productId": "412466704"
+        },
+        {
+          "productId": "412241052"
+        },
+        {
+          "productId": "412052910"
+        },
+        {
+          "productId": "411664907"
+        },
+        {
+          "productId": "412615562"
+        },
+        {
+          "productId": "412615564"
+        },
+        {
+          "productId": "412241050"
+        },
+        {
+          "productId": "19461198"
+        },
+        {
+          "productId": "19461200"
+        },
+        {
+          "productId": "412466727"
+        },
+        {
+          "productId": "412466737"
+        },
+        {
+          "productId": "19461201"
+        },
+        {
+          "productId": "412466738"
+        },
+        {
+          "productId": "19461199"
+        },
+        {
+          "productId": "412466861"
+        },
+        {
+          "productId": "19462183"
+        },
+        {
+          "productId": "412466862"
+        },
+        {
+          "productId": "412466863"
+        },
+        {
+          "productId": "412466853"
+        },
+        {
+          "productId": "19462184"
+        },
+        {
+          "productId": "19462185"
+        },
+        {
+          "productId": "19462182"
+        },
+        {
+          "productId": "19462194"
+        },
+        {
+          "productId": "19462229"
+        },
+        {
+          "productId": "19462231"
+        },
+        {
+          "productId": "19462232"
+        },
+        {
+          "productId": "412466854"
+        }
+      ]
+    }
+  }
+}

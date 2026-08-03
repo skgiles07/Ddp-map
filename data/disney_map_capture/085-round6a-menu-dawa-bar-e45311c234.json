@@ -1,0 +1,353 @@
+{
+  "name": "Dawa Bar",
+  "location": "Disney's Animal Kingdom Theme Park, Africa",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "experience": "Bar/Lounge",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Specialty Cocktails",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Prickly Pear Margarita",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Teremana Blanco Tequila, Bols Triple Sec Liqueur, Desert Pear, and Lime"
+            },
+            {
+              "title": "Ngumu Jungle Juice",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "SVEDKA Vodka, Bols Peach Schnapps Liqueur and Tusker's famous Jungle Juice"
+            },
+            {
+              "title": "Lost on Safari",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "STARR African Rum and Captain Morgan Original Spiced Rum with our refreshing Pangani Punch"
+            },
+            {
+              "title": "Honey Bee",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Elijah Craig Small Batch Kentucky Straight Bourbon, Lemon Juice, and Honey garnished with Candied Ginger"
+            },
+            {
+              "title": "Malawi Mango Margarita",
+              "prices": [
+                {
+                  "withoutTax": 18.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Sango African Agave Spirit and Cointreau Liqueur blended with Mango and Lime"
+            }
+          ]
+        },
+        {
+          "name": "Draft Beer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Safari Amber",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tampa Bay Old Elephant Foot IPA",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Bottled & Canned Beer, Hard Cider & Hard Seltzer",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Casa Lager",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bud Light Lager",
+              "prices": [
+                {
+                  "withoutTax": 9.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Schöfferhofer Grapefruit Hefeweizen",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Victory Brewing Co. Golden Monkey Ale ",
+              "prices": [
+                {
+                  "withoutTax": 11.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Angry Orchard Crisp Apple Hard Cider",
+              "prices": [
+                {
+                  "withoutTax": 10.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "(Gluten-friendly)"
+            },
+            {
+              "title": "White Claw Mango Hard Seltzer",
+              "prices": [
+                {
+                  "withoutTax": 11,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "White Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Beyond Sauvignon Blanc",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Kara Tara Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Red Wine",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Kara Tara Pinot Noir",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Black Pearl 'Oro' Shiraz/Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 16,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Specialty Cocktails",
+        "desktop": "Specialty Cocktails"
+      },
+      {
+        "mobile": "Draft Beer",
+        "desktop": "Draft Beer"
+      },
+      {
+        "mobile": "Bottled & Canned Beer, Hard Cider & Hard Seltzer",
+        "desktop": "Bottled & Canned Beer, Hard Cider & Hard Seltzer"
+      },
+      {
+        "mobile": "White Wine",
+        "desktop": "White Wine"
+      },
+      {
+        "mobile": "Red Wine",
+        "desktop": "Red Wine"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Dawa Bar",
+      "id": "90001443"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "412466962"
+        },
+        {
+          "productId": "16992306"
+        },
+        {
+          "productId": "16992313"
+        },
+        {
+          "productId": "412466967"
+        },
+        {
+          "productId": "412466970"
+        },
+        {
+          "productId": "16992318"
+        },
+        {
+          "productId": "18735934"
+        },
+        {
+          "productId": "412467018"
+        },
+        {
+          "productId": "16992321"
+        },
+        {
+          "productId": "412467029"
+        },
+        {
+          "productId": "17940895"
+        },
+        {
+          "productId": "17940899"
+        },
+        {
+          "productId": "412467017"
+        },
+        {
+          "productId": "16992335"
+        },
+        {
+          "productId": "412467033"
+        },
+        {
+          "productId": "412467034"
+        },
+        {
+          "productId": "412467035"
+        }
+      ]
+    }
+  }
+}

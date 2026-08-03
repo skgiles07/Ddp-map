@@ -1,0 +1,253 @@
+{
+  "name": "Monsieur Paul",
+  "location": "EPCOT, World Showcase",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Dinner",
+      "label": "Dinner"
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Dinner",
+      "label": "Dinner",
+      "experience": "Signature Dining",
+      "serviceStyle": "Prix Fixe Menu",
+      "groups": [
+        {
+          "name": "Prix Fixe Menu Dégustation ",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "$195 per adult, plus tax and gratuity",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Starter Cocktail",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Cocktail Maison et Amuse-bouche ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Amuse-bouche served with Monsieur Paul’s Cocktail"
+            }
+          ]
+        },
+        {
+          "name": "Hors d'oeuvres (Appetizers-Choose One)",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Betterave en textures, nage végétale parfumée",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Beetroot declinaison, aromatice vegetal broth"
+            },
+            {
+              "title": "Soupe de moules aux pistils de safran ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Saffron mussels soup"
+            }
+          ]
+        },
+        {
+          "name": "Seafood Courses (Choose One)",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Bar en croute feuilletée, sauce Choron, grand mets de Monsieur Paul",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Sea bass in puff pastry, sauce Choron, Monsieur Paul style"
+            },
+            {
+              "title": "Coquilles Saint Jacques au potimarron et sirop d’érable",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Seared scallops served with maple pumpkin velouté"
+            }
+          ]
+        },
+        {
+          "name": "Trou Normand",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Refreshing Palate Cleanser",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "Meat Courses (Choose One)",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Volaille Fermière en fricassée aux morilles, riz pilaf à la Matignon de légumes et truffes",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chicken fricassee with morels, rice pilaf with vegetables and black truffles"
+            },
+            {
+              "title": "Carré d’agneau rôtie en cocotte, choux vert frisé farci aux champignons des bois et châtaignes, jus court au thym frais",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Rack of lamb roasted in a cocotte, curly green cabbage stuffed with mushrooms and chestnuts, fresh thyme juices"
+            }
+          ]
+        },
+        {
+          "name": "Cheese ",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Assiette de fromages ",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Imported cheeses plate"
+            }
+          ]
+        },
+        {
+          "name": "Desserts (Choose One)",
+          "type": "Dessert",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Sphère de chocolat au lait, glace au chocolat, sauce tiède au chocolat et cognac",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Chocolate sphere, chocolate cream, hazelnut biscuit, chocolate ice cream, warm chocolate Cognac sauce"
+            },
+            {
+              "title": "Tarte aux pommes fine, crème d’amandes, glace vanille",
+              "prices": [],
+              "pricesRange": false,
+              "description": "Thin apple tart, almond cream, vanilla ice cream"
+            }
+          ]
+        },
+        {
+          "name": "Mignardises",
+          "type": "Entree",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Mini Desserts",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Prix Fixe Menu Dégustation ",
+        "desktop": "Prix Fixe Menu Dégustation "
+      },
+      {
+        "mobile": "Starter Cocktail",
+        "desktop": "Starter Cocktail"
+      },
+      {
+        "mobile": "Hors d'oeuvres (Appetizers-Choose One)",
+        "desktop": "Hors d'oeuvres (Appetizers-Choose One)"
+      },
+      {
+        "desktop": "Seafood Courses (Choose One)"
+      },
+      {
+        "desktop": "Trou Normand"
+      },
+      {
+        "desktop": "Meat Courses (Choose One)"
+      },
+      {
+        "desktop": "Cheese "
+      },
+      {
+        "mobile": "Desserts (Choose One)",
+        "desktop": "Desserts (Choose One)"
+      },
+      {
+        "desktop": "Mignardises"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Monsieur Paul",
+      "id": "90001296"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "411817349"
+        },
+        {
+          "productId": "17336419"
+        },
+        {
+          "productId": "411809709"
+        },
+        {
+          "productId": "411809725"
+        },
+        {
+          "productId": "411809706"
+        },
+        {
+          "productId": "411809708"
+        },
+        {
+          "productId": "411832800"
+        },
+        {
+          "productId": "411809728"
+        },
+        {
+          "productId": "411809729"
+        },
+        {
+          "productId": "411809731"
+        },
+        {
+          "productId": "411809733"
+        },
+        {
+          "productId": "411809734"
+        },
+        {
+          "productId": "411832801"
+        }
+      ]
+    }
+  }
+}

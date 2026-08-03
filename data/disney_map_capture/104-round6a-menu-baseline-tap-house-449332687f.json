@@ -1,0 +1,724 @@
+{
+  "name": "BaseLine Tap House",
+  "location": "Disney's Hollywood Studios, Grand Avenue",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Bar – Lounge",
+      "label": "Bar – Lounge",
+      "experience": "Bar/Lounge",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Small Plates",
+          "type": "Appetizer",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Pepperoni Flatbread",
+              "prices": [
+                {
+                  "withoutTax": 17,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Mozzarella and Pepperoni topped with Ricotta and Hot Honey"
+            },
+            {
+              "title": "Bavarian Pretzel",
+              "prices": [
+                {
+                  "withoutTax": 12,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "with Beer-Cheese Fondue and Spicy Mustard"
+            },
+            {
+              "title": "California Cheese and Charcuterie Plate",
+              "prices": [
+                {
+                  "withoutTax": 14,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "A Selection of California‑inspired Soft, Aged, and Blue Cheeses, Cured Meats, House-made Spreads, Pickled Items, and Crisp Lavash"
+            },
+            {
+              "title": "Avenue Chips",
+              "prices": [
+                {
+                  "withoutTax": 7,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "House-made Ranch Kettle Chips served with Beer Cheese Fondue"
+            }
+          ]
+        },
+        {
+          "name": "Specialty Non-Alcoholic",
+          "type": "Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Minute Maid® Aguas Frescas - Strawberry Hibiscus",
+              "prices": [
+                {
+                  "withoutTax": 5.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Wild Strawberry Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 6.29,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Featuring Minute Maid® Lemonade"
+            }
+          ]
+        },
+        {
+          "name": "Craft Beer on Tap",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Golden Road Mango Cart",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "16 oz. Draft Beer | Los Angeles (4.0% ABV, 10 IBU)"
+            },
+            {
+              "title": "Golden Road Mango Cart",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "20 oz. Draft Beer | Los Angeles (4.0% ABV, 10 IBU)"
+            },
+            {
+              "title": "North Coast Scrimshaw Pilsner",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "16 oz. Draft Beer | Fort Bragg (4.7% ABV, 22 IBU)"
+            },
+            {
+              "title": "North Coast Scrimshaw Pilsner",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "20 oz. Draft Beer | Fort Bragg (4.7% ABV, 22 IBU)"
+            },
+            {
+              "title": "Golden Road Belgian White Ale",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "16 oz. Draft Beer | Los Angeles (5% ABV)"
+            },
+            {
+              "title": "Golden Road Belgian White Ale",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "20 oz. Draft Beer | Los Angeles (5.0% ABV)"
+            },
+            {
+              "title": "North Coast Red Seal Ale",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "16 oz. Draft Beer | Fort Bragg (5.5% ABV, 42 IBU)"
+            },
+            {
+              "title": "North Coast Red Seal Ale",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "20 oz. Draft Beer | Fort Bragg (5.5% ABV, 42 IBU)"
+            },
+            {
+              "title": "Lost Coast Brewery Vanilla Latte Stout",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "16 oz. Draft Beer | Eureka (5.6% ABV)"
+            },
+            {
+              "title": "Lost Coast Brewery Vanilla Latte Stout",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "20 oz. Draft Beer | Eureka (5.6% ABV)"
+            },
+            {
+              "title": "Sierra Nevada Hazy Little Thing IPA",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "16 oz. Draft Beer | Chico (6.7% ABV, 35 IBU)"
+            },
+            {
+              "title": "Sierra Nevada Hazy Little Thing IPA",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "20 oz. Draft Beer | Chico (6.7% ABV, 35 IBU)"
+            },
+            {
+              "title": "Stone Delicious IPA",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "16 oz. Draft Beer | San Diego (7.7% ABV, 75 IBU)"
+            },
+            {
+              "title": "Stone Delicious IPA",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "20 oz. Draft Beer | San Diego (7.7% ABV, 75 IBU)"
+            },
+            {
+              "title": "Sierra Nevada Seasonal",
+              "prices": [
+                {
+                  "withoutTax": 11.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "16oz Draft Beer | Chico"
+            },
+            {
+              "title": "Sierra Nevada Seasonal",
+              "prices": [
+                {
+                  "withoutTax": 12.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "20 oz Draft Beer | Chico"
+            },
+            {
+              "title": "Create-Your-Own Beer Flight",
+              "prices": [
+                {
+                  "withoutTax": 14.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Select 4 Beers | 5 oz. each"
+            },
+            {
+              "title": "Coronado Brewing Co. Superfruit Hard Cider",
+              "prices": [
+                {
+                  "withoutTax": 12.75,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "16 oz. Cider | San Diego (5.5% ABV)"
+            },
+            {
+              "title": "Coronado Brewing Co. Superfruit Hard Cider",
+              "prices": [
+                {
+                  "withoutTax": 13.25,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "20 oz. Cider | San Diego (5.5% ABV)"
+            }
+          ]
+        },
+        {
+          "name": "Wine on Tap",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Line 39 Cabernet Sauvignon",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Rich fruit flavors of currant, blackberry and ripe plum with hints of black tea on the palate balanced with subtle, smooth tannins"
+            },
+            {
+              "title": "St. Francis Chardonnay",
+              "prices": [
+                {
+                  "withoutTax": 13,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bright and crisp with aromas of pear, green apple and grilled pineapple, finishing with toasty notes and a smooth finish"
+            }
+          ]
+        },
+        {
+          "name": "Cocktails on Tap",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Baseline Select Margarita",
+              "prices": [
+                {
+                  "withoutTax": 19.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Lunazul Añejo Tequila, Cointreau Liqueur, Sweet-and-Sour, and Lime Juice"
+            },
+            {
+              "title": "California Sunset",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Absolut Vodka, Southern Comfort, Orange Juice, Sweet-and-Sour with a float of Pomegranate Juice"
+            }
+          ]
+        },
+        {
+          "name": "Spirits",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Absolut",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Absolut Citron",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hangar One Vodka",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Tito’s Handmade Vodka",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Parrot Bay Coconut Rum",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bacardí Silver Rum",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Captain Morgan Private Stock",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Hendrick’s",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Cointreau",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Southern Comfort",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Maker’s Mark",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Gentleman Jack Tennessee Whiskey",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Bulleit 95 Rye Whiskey",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Crown Royal Blended Whisky",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Fireball Cinnamon Whisky",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Jameson Irish Whiskey",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Johnnie Walker Black Label",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Jose Cuervo Tradicional Reposado",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Patrón Silver",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            },
+            {
+              "title": "Lunazul Añejo Tequila",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Small Plates",
+        "desktop": "Small Plates"
+      },
+      {
+        "mobile": "Specialty Non-Alcoholic",
+        "desktop": "Specialty Non-Alcoholic"
+      },
+      {
+        "mobile": "Craft Beer on Tap",
+        "desktop": "Craft Beer on Tap"
+      },
+      {
+        "mobile": "Wine on Tap",
+        "desktop": "Wine on Tap"
+      },
+      {
+        "mobile": "Cocktails on Tap",
+        "desktop": "Cocktails on Tap"
+      },
+      {
+        "mobile": "Spirits",
+        "desktop": "Spirits"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "BaseLine Tap House",
+      "id": "18744584"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "412606772"
+        },
+        {
+          "productId": "18817079"
+        },
+        {
+          "productId": "18817080"
+        },
+        {
+          "productId": "412360121"
+        },
+        {
+          "productId": "18817086"
+        },
+        {
+          "productId": "18817087"
+        },
+        {
+          "productId": "19583539"
+        },
+        {
+          "productId": "19583538"
+        },
+        {
+          "productId": "18817095"
+        },
+        {
+          "productId": "18817113"
+        },
+        {
+          "productId": "412377954"
+        },
+        {
+          "productId": "412377955"
+        },
+        {
+          "productId": "18817102"
+        },
+        {
+          "productId": "18817115"
+        },
+        {
+          "productId": "412606774"
+        },
+        {
+          "productId": "412606776"
+        },
+        {
+          "productId": "18817105"
+        },
+        {
+          "productId": "18817119"
+        },
+        {
+          "productId": "19587381"
+        },
+        {
+          "productId": "19587380"
+        },
+        {
+          "productId": "18817103"
+        },
+        {
+          "productId": "18817116"
+        },
+        {
+          "productId": "18817121"
+        },
+        {
+          "productId": "412290361"
+        },
+        {
+          "productId": "412290362"
+        },
+        {
+          "productId": "18817138"
+        },
+        {
+          "productId": "18817131"
+        },
+        {
+          "productId": "411392274"
+        },
+        {
+          "productId": "18817144"
+        },
+        {
+          "productId": "19580408"
+        },
+        {
+          "productId": "19580409"
+        },
+        {
+          "productId": "412011188"
+        },
+        {
+          "productId": "412011187"
+        },
+        {
+          "productId": "412011189"
+        },
+        {
+          "productId": "412011190"
+        },
+        {
+          "productId": "19580411"
+        },
+        {
+          "productId": "19580412"
+        },
+        {
+          "productId": "19580413"
+        },
+        {
+          "productId": "19580414"
+        },
+        {
+          "productId": "19580416"
+        },
+        {
+          "productId": "19580417"
+        },
+        {
+          "productId": "19580418"
+        },
+        {
+          "productId": "19580419"
+        },
+        {
+          "productId": "19580420"
+        },
+        {
+          "productId": "19580421"
+        },
+        {
+          "productId": "19580423"
+        },
+        {
+          "productId": "19580424"
+        },
+        {
+          "productId": "19580425"
+        },
+        {
+          "productId": "412011186"
+        }
+      ]
+    }
+  }
+}

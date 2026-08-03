@@ -1,0 +1,143 @@
+{
+  "name": "Sunshine Day Bar",
+  "location": "Disney's Hollywood Studios, Sunset Boulevard",
+  "destinationId": "WDW",
+  "mealPeriodsList": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "isActive": true
+    }
+  ],
+  "mealPeriods": [
+    {
+      "name": "Snack",
+      "label": "Snack",
+      "experience": "Lounges",
+      "serviceStyle": "Quick Service",
+      "groups": [
+        {
+          "name": "Alcoholic Beverages",
+          "type": "Alcoholic Beverage",
+          "mickeyCheckItems": false,
+          "items": [
+            {
+              "title": "Frozen Strawberry Daiquiri",
+              "prices": [
+                {
+                  "withoutTax": 15.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Don Q Cristal Rum blended with Strawberry Purée"
+            },
+            {
+              "title": "Blackberry Moonshine Lemonade",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Ole Smoky Blackberry Moonshine, Lemonade, Lemon Juice, and Blackberry Syrup"
+            },
+            {
+              "title": "Southside Fizz",
+              "prices": [
+                {
+                  "withoutTax": 17.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Hendrick's Gin, Pure Cane Sugar, and Lemon Juice topped with Soda Water"
+            },
+            {
+              "title": "Cherry Blossom",
+              "prices": [
+                {
+                  "withoutTax": 16.5,
+                  "type": "Per Serving",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": false,
+              "description": "Bacardí Superior Rum, Luxardo Maraschino Liqueur, Pineapple Juice, and Grenadine"
+            },
+            {
+              "title": "Assorted Beers",
+              "prices": [
+                {
+                  "withoutTax": 10,
+                  "type": "Range Min",
+                  "currency": "USD"
+                },
+                {
+                  "withoutTax": 12.5,
+                  "type": "Range Max",
+                  "currency": "USD"
+                }
+              ],
+              "pricesRange": true,
+              "description": "Draft Beer"
+            },
+            {
+              "title": "Full Bar Also Available",
+              "prices": [],
+              "pricesRange": false,
+              "description": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "labels": {
+    "page_title": "%s %s Menu",
+    "meal_period_menu": "%s Menu",
+    "meal_period_label": "Meal Period"
+  },
+  "displayMenuCategories": false,
+  "categories": {
+    "0": [
+      {
+        "mobile": "Alcoholic Beverages",
+        "desktop": "Alcoholic Beverages"
+      }
+    ]
+  },
+  "analytics": {
+    "destinationId": "WDW",
+    "facility": {
+      "name": "Sunshine Day Bar",
+      "id": "18454337"
+    },
+    "products": {
+      "0": [
+        {
+          "productId": "412565383"
+        },
+        {
+          "productId": "19261884"
+        },
+        {
+          "productId": "19261882"
+        },
+        {
+          "productId": "19261883"
+        },
+        {
+          "productId": "19261885"
+        },
+        {
+          "productId": "19261886"
+        }
+      ]
+    }
+  }
+}
